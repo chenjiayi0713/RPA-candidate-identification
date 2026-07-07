@@ -1,0 +1,153 @@
+approve amounts approve amounts low 0
+archive the case archive case low 0
+archive the case anyway archive case low 0
+attach prerequisite documents attach documents low 0
+back up morning back morning low 0
+check a claim check claim low 0
+check data check data low 0
+check morning to see whether the account defaulters table has new records check morning low 0
+check notes check notes low 0
+check the crm system to see whether new returns have been filed check system low 0
+check the dates check dates low 0
+check the invoice items check items low 0
+choose a different vendor choose vendor low 0
+close the instance in acme financial accounting close instance low 0
+communicate the termination communicate termination low 0
+compare data compare data low 0
+comparison to prevent individual customer data being stored multiple times  comparison low 0
+complete account report complete report low 0
+compute the final billing based on the meter data compute billing low 0
+confirm a vendor confirm vendor low 0
+correct data correct data low 0
+create a new account create account low 0
+create a new customer object create object low 0
+create available plan system create system low 0
+create to meet folders create  low 0
+debit account  account low 0
+deny the loan deny loan low 0
+ensure ensure  low 0
+enter a problem Then enter problem low 0
+enter data enter data low 0
+enter into planning production system enter  low 0
+enter the order details into the erp system enter details low 0
+forward invoices to an accounting employee forward invoices low 0
+give a detailed online presentation give presentation low 1
+give a detailed online presentation give presentation low 1
+identify the charging suppliers in acme financial accounting identify suppliers low 0
+import the meter data to systems import data low 0
+inform claimant inform claimant low 0
+inform involved suppliers inform suppliers low 0
+inform the claimant inform claimant low 0
+inform the claimant to update the forms inform claimant low 0
+inform the engineering department inform department low 0
+inform the engineering department in the latter case inform department low 0
+inform the second intaker inform intaker low 0
+inform the storehouse inform storehouse low 0
+inform the storehouse in the latter case inform storehouse low 0
+invoke risk assessment to assess the request invoke assessment low 0
+move back in the appropriate signature file move  low 0
+move the case to administration move case low 0
+pass on to the next cost center manager based on the docket pass  low 0
+post the job post job low 0
+print the information print information low 0
+print the physical court file print file low 0
+produce table produce table low 0
+receive receive  low 0
+receive a claim receive claim low 0
+receive a customer request receive request low 0
+receive a notice receive notice low 0
+receive a rejection notice receive notice low 0
+receive an approval receive approval low 0
+receive an email cancellation notice receive notice low 0
+receive an order receive order low 1
+receive an order receive order low 1
+receive copy receive copy low 0
+receive customer data receive data low 0
+receive feedback receive feedback low 0
+receive invoices receive invoices low 0
+receive invoices in the central inbox receive invoices low 0
+receive the actual service performance receive performance low 0
+receive the completed questionnaire receive questionnaire low 0
+receive the copy receive copy low 0
+receive the detailed problem report receive report low 1
+receive the detailed problem report receive report low 1
+receive the expense report receive report low 0
+receive the invoice receive invoice low 0
+receive the meter data receive data low 0
+receive the problem resolution report receive report low 0
+receive the report receive report low 1
+receive the report receive report low 1
+receive the request receive request low 0
+receive the request to request the office supplies receive request low 0
+receive the request to request the vacation receive request low 0
+receive the restoration request receive request low 0
+rechecks dates rechecks dates low 0
+record assignments record assignments low 0
+record information record information low 0
+register a claim register claim low 0
+register a telephone device sent by a customer register device low 0
+register customers register customers low 0
+register defaulting accounts register accounts low 0
+register the claim in the claims management system register claim low 0
+register the requirement register requirement low 1
+register the requirement register requirement low 1
+report a vacancy to me report vacancy low 0
+report an sla violation rebate to billing report rebate low 0
+report the vacancy report vacancy low 0
+request a correction request correction low 0
+resubmit the expense report resubmit report low 0
+return the application to the applicant\/employee return application low 0
+schedule production to schedule production low 0
+select a vendor select vendor low 1
+select a vendor select vendor low 1
+send a message send message low 0
+send a mortgage offer to the customer send offer low 0
+send a note to the manager send note low 0
+send a notification send notification low 0
+send a notification to let what the result was in case send notification low 0
+send a purchase order send order low 0
+send a reminder to the claimant send reminder low 0
+send an alert to the supervisor send alert low 0
+send an invoice to assembler ag send invoice low 0
+send detailed problem report to service management send report low 0
+send docket to the first cost center manager to the list send docket low 0
+send final schedule to the independent committee members send schedule low 0
+send list to the customer service department send list low 0
+send message to resource provisioning send message low 0
+send out a confirmation document to the customer stating that the switch-over to the new supplier can be executed send document low 0
+send out report to service management send report low 0
+send out report to the customer send report low 0
+send out request send request low 0
+send out the detailed problem report to resource provisioning send report low 0
+send out the problem resolution report to customer service send report low 0
+send out the status report send report low 0
+send possession request asking a warrant to be released send request low 0
+send relevant forms to the claimant send forms low 0
+send so send so low 0
+send the actual service performance back to the customer service send performance low 0
+send the claim back to the claims send claim low 0
+send the copy again to the cost send cost low 0
+send the copy to the first cost center manager to the list send copy low 0
+send the final billing based on the meter data to the old supplier send billing low 0
+send the final billing to the customer send billing low 0
+send the normal execution notification back to service management send notification low 0
+send the order to the supplier send order low 0
+send the request to the approver web service send request low 0
+send to account management send  low 0
+send trouble report back to service management send report low 0
+store the assignment store assignment low 0
+store the information in the information system store information low 0
+submit a vacation request submit request low 0
+submit an office supply request submit request low 0
+submit the description again submit description low 0
+submit the job description submit description low 0
+transfer the data manually transfer data low 0
+transmit a response comment transmit comment low 0
+transmit data to the customer service department transmit data low 0
+type out tapes type tapes low 0
+update departmental records update records low 0
+update the case details update details low 1
+update the case details update details low 1
+upload appropriate documents to system upload documents low 0
+use generated customer object to prepare the contract documents in combination use object low 0
+write back to decline the mortgage write  low 0

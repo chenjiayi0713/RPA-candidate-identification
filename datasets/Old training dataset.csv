@@ -1,0 +1,569 @@
+textid,sentenceID,activityID,activity,verb,object,IT system,process volume,repetitive,human intervention,GS
+model2-2,22,35,accept ,accept,,0,low,0,1,0
+bicyclemanufacturing,2,4,accept the order,accept,order,0,low,1,1,0
+runningexample,2,4,accept the order,accept,order,0,low,1,1,0
+model9-3,0,1,add draft dates to calendars,add,dates,0,low,0,1,0
+model4-1,22,34,add information to the assignment list,add,information,0,low,0,1,0
+model4-1,13,14,add new patient,add,patient,0,low,0,1,0
+model4-1,32,49,add standard checklist to the patient s,add,checklist,0,low,0,1,0
+model4-1,27,43,add the copy to the patient file,add,copy,0,low,0,1,0
+model4-1,35,53,add the information to the patient file,add,information,0,low,0,1,0
+model8-1,1,1,advertise post,advertise,post,0,low,0,1,0
+model9-4,1,4,advise committee members,advise,members,0,low,0,1,0
+model2-2,11,17,analyze the causing issues,analyze,issues,0,low,0,1,0
+model2-1,15,28,analyze this,analyze,this,0,low,0,1,0
+model8-1,1,2,apply ,apply,,0,low,0,1,0
+model8-3,2,4,approve the job description,approve,description,0,low,0,1,0
+model5-1,2,4,approve the loan,approve,loan,0,low,0,1,0
+model5-2,2,4,approve the request,approve,request,0,low,1,1,0
+model5-3,2,4,approve the request,approve,request,0,low,1,1,0
+model9-2,2,5,archive the work,archive,work,0,low,0,1,0
+model1-4,8,16,arrange a road show to talk to potential investors,arrange,road,0,low,0,1,0
+model8-3,2,3,ask again for corrections,ask,corrections,0,low,0,1,0
+model6-4,6,10,ask the customer,ask,customer,0,low,0,1,0
+bicyclemanufacturing,10,16,assemble the bicycle,assemble,bicycle,0,low,1,1,0
+runningexample,10,15,assemble the bicycle,assemble,bicycle,0,low,1,1,0
+model4-1,16,17,assign new patients to members,assign,patients,0,low,0,1,0
+model4-1,17,18,assign patient to a social-medical worker,assign,patient,0,low,0,1,0
+hotelservice,5,8,assign the order to the waiter,assign,order,0,low,0,1,0
+model3-1,5,9,attach the new sct document,attach,document,0,low,0,1,0
+model1-4,7,15,begin to firm up the issue price,begin,price,0,low,0,1,0
+model1-2,0,0,bring in a defective computer,bring,computer,0,low,0,1,0
+model6-4,2,1,buy details,buy,details,0,low,0,1,0
+model1-4,2,6,buy the issue,buy,issue,0,low,0,1,0
+model7-1,3,3,call customer,call,customer,0,low,0,1,0
+hotelservice,1,1,call room service,call,service,0,low,0,1,0
+model6-4,3,5,call the customer,call,customer,0,low,1,1,0
+model6-4,12,16,call the customer,call,customer,0,low,1,1,0
+model7-1,6,6,call the next customer,call,customer,0,low,0,1,0
+model3-5,6,8,capture the matter details,capture,details,0,low,0,1,0
+model3-5,8,13,capture the party details,capture,details,0,low,0,1,0
+model2-2,18,28,carry out the termination,carry,termination,0,low,0,1,0
+repairexample,4,6,categorize defect,categorize,defect,0,low,0,1,0
+repairexample,5,7,categorize defects,categorize,defects,0,low,0,1,0
+model3-3,2,3,check recommendation,check,recommendation,0,low,0,1,0
+model2-2,16,23,check switch-over request,check,request,0,low,0,1,0
+model2-1,13,26,check that,check,that,0,low,0,1,0
+model8-1,1,3,check the applications,check,applications,0,low,0,1,0
+model3-6,7,10,check the claimant again,check,claimant,0,low,0,1,0
+model1-2,0,1,check the defect back,check,defect,0,low,0,1,0
+model1-2,3,5,check the hardware,check,hardware,0,low,0,1,0
+model7-1,0,0,check the open leads,check,leads,0,low,0,1,0
+model6-3,8,18,check the order again,check,order,0,low,0,1,0
+bicyclemanufacturing,5,9,check the required quantity,check,quantity,0,low,0,1,0
+model3-6,4,7,check the severity,check,severity,0,low,0,1,0
+model3-5,1,1,clerk sorts into the various business areas,clerk,sorts,0,low,0,1,0
+model3-5,0,0,collect mail,collect,mail,0,low,0,1,0
+model9-6,10,17,combine both,combine,both,0,low,0,1,0
+model6-1,17,35,complete the commercial audit,complete,audit,0,low,0,1,0
+model9-4,3,7,conduct a qa check,conduct,check,0,low,0,1,0
+model3-2,3,6,conduct the directions hearings,conduct,hearings,0,low,0,1,0
+model6-1,10,25,consult the cost center managers again,consult,managers,0,low,0,1,0
+model8-2,4,7,correct the description,correct,description,0,low,0,1,0
+model2-2,19,29,create a cis contract,create,contract,0,low,0,1,0
+model2-1,7,12,create a detailed problem report,create,report,0,low,0,1,0
+model8-2,0,1,create a job description,create,description,0,low,0,1,0
+model2-1,14,27,create a notification,create,notification,0,low,0,1,0
+model4-1,8,9,create a patient file,create,file,0,low,0,1,0
+model6-4,13,17,create a quotation,create,quotation,0,low,0,1,0
+model2-1,24,44,create a request,create,request,0,low,0,1,0
+model9-6,6,10,create a revised design,create,design,0,low,0,1,0
+model2-1,12,21,create a trouble report,create,report,0,low,1,1,0
+model2-1,12,22,create a trouble report,create,report,0,low,1,1,0
+model2-1,15,29,create a trouble report,create,report,0,low,1,1,0
+model2-1,29,54,create a trouble-shooting report,create,report,0,low,0,1,0
+model2-2,26,44,create the final billing,create,billing,0,low,0,1,0
+model2-1,22,41,create the problem resolution report,create,report,0,low,0,1,0
+model2-1,9,14,deal on a first level with violations,deal,violations,0,low,0,1,0
+model2-2,20,31,decide to confirm the switch contract,confirm,contract,0,low,0,1,0
+model2-2,20,30,decide to withdraw from the switch contract the switch contract,withdraw,contract,0,low,0,1,0
+model9-6,12,20,deem the designs complete,deem,designs,0,low,0,1,0
+hotelservice,8,17,deliver cart to the guests room,deliver,cart,0,low,0,1,0
+model2-2,17,26,demand the resolution,demand,resolution,0,low,0,1,0
+model9-6,1,2,design the electrical and physical systems,design,systems,0,low,0,1,0
+model2-1,20,38,detect no problem,detect,problem,0,low,0,1,0
+model4-1,21,33,determine assignments,determine,assignments,0,low,0,1,0
+model6-4,0,0,determine contact details,determine,details,0,low,0,1,0
+model6-3,0,2,determine quantities well,determine,quantities,0,low,0,1,0
+model6-4,5,7,determine the budget,determine,budget,0,low,0,1,0
+model6-4,5,6,determine the contact person,determine,person,0,low,0,1,0
+model2-1,3,5,determine the necessary counter measures to include respective priorities,determine,meansures,0,low,0,1,0
+model6-3,0,1,determine the necessary parts well,determine,part,0,low,0,1,0
+model2-1,18,35,determine what counter measures should be taken depending on the information in the final status report,determine,what,0,low,0,1,0
+model3-5,2,2,distribute mail,distribute,mail,0,low,0,1,0
+model3-2,2,5,distribute the judges lawlist to the relevant people,distribute,lawlist,0,low,0,1,0
+model9-3,0,0,draft a schedule in november,draft,schedule,0,low,0,1,0
+model1-4,10,19,enter into a firm commitment to buy,enter,commitment,0,low,0,1,0
+model3-6,2,3,evaluate the severity,evaluate,severity,0,low,0,1,0
+model3-3,0,1,examine a claim,examine,claim,0,low,0,1,0
+model4-1,29,45,examine the patient to use a standard checklist,examine,patient,0,low,0,1,0
+model1-2,5,8,execute arbitrary repair activity,execute,activity,0,low,0,1,0
+model3-5,5,7,explain the reason,explain,reason,0,low,0,1,0
+model8-1,1,4,fill the post,fill,post,0,low,1,1,0
+model8-1,2,5,fill the post,fill,post,0,low,1,1,0
+model9-4,0,0,finalize the dates,finalize,dates,0,low,0,1,0
+model1-2,5,9,finish the repair,finish,repair,0,low,0,1,0
+repairexample,10,15,finish to work on a phone,finish,,0,low,0,1,0
+repairexample,1,1,fix different 3 types,fix,types,0,low,0,1,0
+repairexample,8,12,fix simple defects,fix,defects,0,low,0,1,0
+model1-4,9,18,fix the issue price,fix,price,0,low,0,1,0
+model4-1,38,57,formulate a treatment plan together with the team-leader,formulate,plan,0,low,0,1,0
+model3-1,2,4,forward the sct warrant possession to queensland police,forward,possession,0,low,0,1,0
+hotelservice,3,4,give an order to fetch wine to the sommelier,give,order,0,low,0,1,0
+hotelservice,3,5,give an order to prepare other alcoholic beverages to the sommelier,give,order,0,low,0,1,0
+model6-1,17,36,give payment instructions,give,instructions,0,low,0,1,0
+model1-4,4,11,give seal,give,seal,0,low,0,1,0
+model4-1,6,6,hand in form,hand in,form,0,low,0,1,0
+model3-2,2,4,hand the files to the associate,hand,files,0,low,0,1,0
+model9-4,2,5,hold meeting,hold,meeting,0,low,0,1,0
+repairexample,6,8,identify the problem,identify,problem,0,low,0,1,0
+model2-1,16,31,include the normal execution notification in a status report,include,notification,0,low,0,1,0
+model2-1,16,30,include trouble report in a status report,include,report,0,low,0,1,0
+model2-1,12,23,indicate the type,indicate,type,0,low,1,1,0
+model2-1,12,24,indicate the type,indicate,type,0,low,1,1,0
+model3-2,1,1,initiate a search,initiate,search,0,low,0,1,0
+model4-1,2,2,inquire after the name,inquire,name,0,low,0,1,0
+model9-6,3,5,interrupt development,interrupt,development,0,low,0,1,0
+model2-1,10,16,investigate ,investigate,,0,low,0,1,0
+model4-1,25,37,keep registration,keep,registration,0,low,0,1,0
+model6-4,7,11,leave the customer alone,leave,customer,0,low,0,1,0
+model4-1,4,4,make a full inquiry,make,inquiry,0,low,0,1,0
+model1-4,0,0,make the decision to go,make,decision,0,low,0,1,0
+model6-1,13,30,make to approval for payment,make,,0,low,0,1,0
+bicyclemanufacturing,0,0,manufacture customized bicycles,manufacture,bicycles,0,low,1,1,0
+runningexample,0,0,manufacture customized bicycles,manufacture,bicycles,0,low,1,1,0
+model6-1,8,18,mark positions,mark,positions,0,low,0,1,0
+model3-2,0,0,need to be check to make sure they are in order for the court hearing,need,,0,low,0,1,0
+model3-5,3,4,open the mail,open,mail,0,low,0,1,0
+bicyclemanufacturing,7,11,part is back-ordered,,part,0,low,0,1,0
+model6-4,2,2,participate in exhibitions,participate in,exhibitions,0,low,0,1,0
+model4-1,24,36,pass the produced registration cards to the first and second intaker,pass,cards,0,low,0,1,0
+model3-5,4,6,perform a quality check,perform,check,0,low,0,1,0
+model9-6,0,1,perform a task to distribute relevant existing designs,perform,task,0,low,0,1,0
+model9-6,0,0,perform a task to locate ,perform,task,0,low,0,1,0
+model2-1,12,19,perform the analysis,perform,analysis,0,low,0,1,0
+model4-1,28,44,plan a meeting soon,plan,meeting,0,low,0,1,0
+model4-1,33,50,plan the first meeting has been receive ,plan,meeting,0,low,0,1,0
+model3-5,7,12,post an envelope to the party,post,envelop,0,low,0,1,0
+model4-1,26,39,prepare a letter requesting for a copy of the medical file,prepare,letter,0,low,0,1,0
+model1-4,5,12,prepare a registration statement,prepare,statement,0,low,0,1,0
+bicyclemanufacturing,9,13,prepare everything in the meantime,prepare,everything,0,low,1,1,0
+runningexample,9,12,prepare everything in the meantime,prepare,everything,0,low,1,1,0
+model2-1,17,34,prepare the final status report based on the received information,prepare,report,0,low,0,1,0
+model1-4,3,10,present the facts fairly,present,facts,0,low,0,1,0
+model6-1,10,24,proceed with the clarification,proceed,clarification,0,low,0,1,0
+model5-3,0,0,process an office supply request,process,request,0,low,0,1,0
+model7-1,5,5,process the lead,process,lead,0,low,0,1,0
+model6-2,2,2,process the order,process,order,0,low,0,1,0
+bicyclemanufacturing,5,8,process the part list,process,list,0,low,1,1,0
+runningexample,5,8,process the part list,process,list,0,low,1,1,0
+model5-2,0,0,process vacations request,process,request,0,low,0,1,0
+model9-4,2,6,produce minutes including any action points for each committee member,produce,minutes,0,low,0,1,0
+model4-1,11,12,produce two registration cards,produce,cards,0,low,0,1,0
+model3-5,6,9,provide the matter details to the cashier,provide,details,0,low,0,1,0
+model4-1,37,56,provide the team-leader,provide,team-leader,0,low,0,1,0
+model4-1,31,48,put a copy in the file,put,copy,0,low,0,1,0
+model3-5,7,11,put copied documents into an envelope,put,documents,0,low,0,1,0
+claimscreation,0,1,put police report related to the car accident in a file together with the claim documentation,put,report,0,low,0,1,0
+model3-5,7,10,put the receipt into an envelope,put,receipt,0,low,0,1,0
+model4-1,3,3,put through the doctor to the responsible nursing officer,put through,doctor,0,low,0,1,0
+hotelservice,6,11,ready a cart,ready,cart,0,low,0,1,0
+model1-4,9,17,receive clearance,receive,clearance,0,low,0,1,0
+model3-5,3,3,receive the mail,receive,mail,0,low,0,1,0
+model3-1,6,11,receive the physical sct file,receive,file,0,low,0,1,0
+model4-1,30,47,register additional observations in a personal notebook,register,observations,0,low,0,1,0
+model6-1,9,21,reject the ap,reject,ap,0,low,0,1,0
+bicyclemanufacturing,2,3,reject the order,reject,order,0,low,1,1,0
+runningexample,2,3,reject the order,reject,order,0,low,1,1,0
+model5-2,2,5,reject the request,reject,request,0,low,0,1,0
+repairexample,8,13,repair complex defects,repair,defects,0,low,0,1,0
+repairexample,9,14,repair some,repair,some,0,low,0,1,0
+model1-2,3,6,repair the hardware whereas the second activity checks,repair,hardware,0,low,0,1,0
+bicyclemanufacturing,8,12,repeat procedure,repeat,procedure,0,low,1,1,0
+runningexample,8,11,repeat procedure,repeat,procedure,0,low,1,1,0
+model3-3,3,6,repeat the recommendation,repeat,recommendation,0,low,0,1,0
+model1-4,2,7,resell procedural and financial advice to the public,resell,advice,0,low,0,1,0
+bicyclemanufacturing,6,10,reserve part,reserve,part,0,low,0,1,0
+runningexample,6,9,reserve the part list,reserve,list,0,low,0,1,0
+model6-1,16,34,resolve copy,resolve,copy,0,low,0,1,0
+model6-1,11,26,resolve inconsistencies,resolve,inconsistencies,0,low,0,1,0
+model2-2,11,18,resolve the causing issues,resolve,issues,0,low,0,1,0
+model3-1,4,8,retrieve the respective sct file,retrieve,file,0,low,0,1,0
+model3-1,1,3,retrieve the sctt file,retrieve,file,0,low,0,1,0
+hotelservice,9,18,return ,return,,0,low,0,1,0
+model6-1,6,15,return the copy to the internal mail,return,copy,0,low,0,1,0
+model3-6,4,6,return the forms,return,forms,0,low,0,1,0
+model5-3,4,6,return the request to the petitioner\/employee,return,request,0,low,0,1,0
+model9-6,5,7,review existing designs in department,review,designs,0,low,0,1,0
+model9-5,1,2,review report,review,report,0,low,0,1,0
+model6-1,5,11,review the content,review,content,0,low,0,1,0
+model9-6,10,16,revise both,revise,both,0,low,0,1,0
+claimscreation,0,0,search police report related to the car accident,search,report,0,low,0,1,0
+model7-1,1,1,select the top five ones,select,ones,0,low,0,1,0
+model1-4,0,2,select the underwriters,select,underwriters,0,low,0,1,0
+model4-1,26,40,send a letter requesting for a copy of the medical file,send,letter,0,low,0,1,0
+repairexample,6,10,send a letter to inform him\/her about the problem to the customer,send,letter,0,low,0,1,0
+repairexample,15,25,send a new brand device to the customer,send,device,0,low,0,1,0
+model6-1,9,22,send back the copy directly to accounting,send,copy,0,low,0,1,0
+repairexample,10,16,send device to the quality assurance department,send,device,0,low,0,1,0
+model9-6,11,19,send the combined design back to initiate design cycle to the beginning,send,design,0,low,0,1,0
+model9-6,8,14,send the design back to create a new update plan,send,design,0,low,0,1,0
+model9-6,8,13,send the design back to review ,send,design,0,low,0,1,0
+model9-6,12,21,send the designs to the manufacturing process,send,designs,0,low,0,1,0
+repairexample,13,21,send the telephone to the customer,send,telephone,0,low,0,1,0
+repairexample,6,9,send the telephone to the repair department,send,telephone,0,low,1,1,0
+repairexample,12,19,send the telephone to the repair department,send,telephone,0,low,1,1,0
+model3-5,3,5,sort the mail into groups,sort,mail,0,low,0,1,0
+model4-1,9,10,store registration form in the patient file,store,form,0,low,0,1,0
+model3-1,3,5,store sctt physical file to await a report to sent,store,file,0,low,0,1,0
+hotelservice,2,3,submit an order ticket to begin to prepare to the kitchen,submit,order,0,low,0,1,0
+model9-3,1,3,suggest modifications,suggest,modifications,0,low,0,1,0
+model6-3,7,17,take care,take care,,0,low,0,1,0
+model4-1,19,23,take case load in assigning intakers into account,take,load,0,low,0,1,0
+model1-2,1,3,take computer home unrepaired,take,computer,0,low,0,1,0
+hotelservice,1,2,take down the order,take,order,0,low,0,1,0
+model4-1,19,22,take earlier contacts in assigning intakers into account,take,contacts,0,low,0,1,0
+model4-1,19,20,take expertise in assigning intakers into account,take,expertise,0,low,0,1,0
+model4-1,14,15,take place,take place,,0,low,1,1,0
+model4-1,36,54,take place,take place,,0,low,1,1,0
+model4-1,19,21,take the region in assigning intakers into account,take,region,0,low,0,1,0
+model2-1,7,11,take together the information,take,information,0,low,0,1,0
+model7-1,2,2,tell sales to call the contact person,tell,sales,0,low,0,1,0
+model9-6,9,15,tell the other department,tell,department,0,low,0,1,0
+model9-6,10,18,test both,test,both,0,low,0,1,0
+model1-2,4,7,test the proper system functionality,test,functionality,0,low,0,1,0
+model9-6,7,12,test the revised design,test,design,0,low,0,1,0
+model4-1,1,1,the family doctor does notice,notice,,0,low,0,1,0
+hotelservice,6,9,the kitchen are doing tasks,doing,tasks,0,low,0,1,0
+runningexample,7,10,the part list is back-ordered,,list,0,low,0,1,0
+hotelservice,6,10,the sommelier are doing tasks,doing,tasks,0,low,0,1,0
+model2-1,27,51,track possible errors,track,errors,0,low,0,1,0
+model3-2,1,2,track the files to the intended location,track,files,0,low,0,1,0
+model6-4,8,12,try to acquire the customer,acquire,customer,0,low,0,1,0
+claimscreation,3,5,try to negotiate a settlement,negotiate,settlement,0,low,0,1,0
+model2-1,21,40,undertake corrective actions,undertake,actions,0,low,0,1,0
+model2-1,28,53,undertake necessary corrective actions,undertake,actions,0,low,0,1,0
+model4-1,34,51,use dictaphones to record observations made during meetings with patients,use,dictaphones,0,low,0,1,0
+model9-6,6,9,use the existing draft,use,draft,0,low,0,1,0
+model9-6,6,8,use the update plan,use,plan,0,low,0,1,0
+model6-4,11,15,wait for the customer to come back to the customer,wait,customer,0,low,0,1,0
+hotelservice,10,20,wait to does the billing,wait,,0,low,0,1,0
+model3-3,1,2,write a settlement recommendation,write,recommendation,0,low,0,1,0
+model9-5,2,3,approve amounts,approve,amounts,1,low,0,1,2
+repairexample,13,20,archive the case,archive,case,1,low,0,1,2
+repairexample,15,24,archive the case anyway,archive,case,1,low,0,1,2
+model9-2,3,6,attach prerequisite documents,attach,documents,1,low,0,1,2
+model9-1,0,1,back up morning,back,morning,1,low,0,1,2
+model3-6,0,1,check a claim,check,claim,1,low,0,1,2
+model2-2,4,8,check data,check,data,1,low,0,1,2
+model9-1,0,0,check morning to see whether the account defaulters table has new records,check,morning,1,low,0,1,2
+model6-1,3,6,check notes,check,notes,1,low,0,1,2
+model9-1,1,2,check the crm system to see whether new returns have been filed,check,system,1,low,0,1,2
+model9-3,1,2,check the dates,check,dates,1,low,0,1,2
+model6-1,3,5,check the invoice items,check,items,1,low,0,1,2
+model5-3,6,9,choose a different vendor,choose,vendor,1,low,0,1,2
+model6-1,17,37,close the instance in acme financial accounting,close,instance,1,low,0,1,2
+model2-2,18,27,communicate the termination,communicate,termination,1,low,0,1,2
+model2-2,4,7,compare data,compare,data,1,low,0,1,2
+model2-2,6,10,comparison to prevent individual customer data being stored multiple times,,comparison,1,low,0,1,2
+model9-1,5,11,complete account report,complete,report,1,low,0,1,2
+model2-2,25,42,compute the final billing based on the meter data,compute,billing,1,low,0,1,2
+model5-3,7,11,confirm a vendor,confirm,vendor,1,low,0,1,2
+model2-2,5,9,correct data,correct,data,1,low,0,1,2
+model9-5,0,1,create a new account,create,account,1,low,0,1,2
+model2-2,7,11,create a new customer object,create,object,1,low,0,1,2
+claimscreation,2,3,create available plan system,create,system,1,low,0,1,2
+model9-4,0,1,create to meet folders,create,,1,low,0,1,2
+hotelservice,9,19,debit account,,account,1,low,0,1,2
+model5-1,3,5,deny the loan,deny,loan,1,low,0,1,2
+model9-4,0,2,ensure ,ensure,,1,low,0,1,2
+model2-1,2,2,enter a problem Then,enter,problem,1,low,0,1,2
+model2-2,4,6,enter data,enter,data,1,low,0,1,2
+model6-3,1,4,enter into planning production system,enter,,1,low,0,1,2
+runningexample,3,5,enter the order details into the erp system,enter,details,1,low,0,1,2
+model6-1,1,2,forward invoices to an accounting employee,forward,invoices,1,low,0,1,2
+model6-4,10,13,give a detailed online presentation,give,presentation,1,low,1,1,2
+model6-4,10,14,give a detailed online presentation,give,presentation,1,low,1,1,2
+model6-1,2,3,identify the charging suppliers in acme financial accounting,identify,suppliers,1,low,0,1,2
+model2-2,28,47,import the meter data to systems,import,data,1,low,0,1,2
+claimscreation,4,6,inform claimant,inform,claimant,1,low,0,1,2
+model2-2,17,25,inform involved suppliers,inform,suppliers,1,low,0,1,2
+model3-6,1,2,inform the claimant,inform,claimant,1,low,0,1,2
+model3-6,6,9,inform the claimant to update the forms,inform,claimant,1,low,0,1,2
+runningexample,4,7,inform the engineering department,inform,department,1,low,0,1,2
+bicyclemanufacturing,4,7,inform the engineering department in the latter case,inform,department,1,low,0,1,2
+model4-1,27,42,inform the second intaker,inform,intaker,1,low,0,1,2
+runningexample,4,6,inform the storehouse,inform,storehouse,1,low,0,1,2
+bicyclemanufacturing,4,6,inform the storehouse in the latter case,inform,storehouse,1,low,0,1,2
+model5-1,1,2,invoke risk assessment to assess the request,invoke,assessment,1,low,0,1,2
+model6-1,15,32,move back in the appropriate signature file,move,,1,low,0,1,2
+model9-2,3,7,move the case to administration,move,case,1,low,0,1,2
+model6-1,7,16,pass on to the next cost center manager based on the docket,pass,,1,low,0,1,2
+model8-2,5,9,post the job,post,job,1,low,0,1,2
+model4-1,7,8,print the information,print,information,1,low,0,1,2
+model3-5,8,14,print the physical court file,print,file,1,low,0,1,2
+model9-1,3,5,produce table,produce,table,1,low,0,1,2
+model5-3,7,15,receive ,receive,,1,low,0,1,2
+model3-6,0,0,receive a claim,receive,claim,1,low,0,1,2
+model5-1,0,1,receive a customer request,receive,request,1,low,0,1,2
+model6-3,7,16,receive a notice,receive,notice,1,low,0,1,2
+model9-5,3,5,receive a rejection notice,receive,notice,1,low,0,1,2
+model9-5,5,7,receive an approval,receive,approval,1,low,0,1,2
+model9-5,6,9,receive an email cancellation notice,receive,notice,1,low,0,1,2
+bicyclemanufacturing,1,1,receive an order,receive,order,1,low,1,1,2
+runningexample,1,1,receive an order,receive,order,1,low,1,1,2
+model4-1,27,41,receive copy,receive,copy,1,low,0,1,2
+model2-2,3,4,receive customer data,receive,data,1,low,0,1,2
+model5-1,5,8,receive feedback,receive,feedback,1,low,0,1,2
+model6-1,0,0,receive invoices,receive,invoices,1,low,0,1,2
+model6-1,1,1,receive invoices in the central inbox,receive,invoices,1,low,0,1,2
+model2-1,32,56,receive the actual service performance,receive,performance,1,low,0,1,2
+model3-4,3,4,receive the completed questionnaire,receive,questionnaire,1,low,0,1,2
+model6-1,5,12,receive the copy,receive,copy,1,low,0,1,2
+model2-1,10,15,receive the detailed problem report,receive,report,1,low,1,1,2
+model2-1,13,25,receive the detailed problem report,receive,report,1,low,1,1,2
+model9-5,0,0,receive the expense report,receive,report,1,low,0,1,2
+model6-2,4,4,receive the invoice,receive,invoice,1,low,0,1,2
+model2-2,28,46,receive the meter data,receive,data,1,low,0,1,2
+model2-1,32,57,receive the problem resolution report,receive,report,1,low,0,1,2
+model2-1,36,63,receive the report,receive,report,1,low,1,1,2
+model3-1,4,7,receive the report,receive,report,1,low,1,1,2
+model3-1,1,2,receive the request,receive,request,1,low,0,1,2
+model5-3,1,3,receive the request to request the office supplies,receive,request,1,low,0,1,2
+model5-2,1,3,receive the request to request the vacation,receive,request,1,low,0,1,2
+model2-1,27,50,receive the restoration request,receive,request,1,low,0,1,2
+model9-3,2,4,rechecks dates,rechecks,dates,1,low,0,1,2
+model4-1,20,32,record assignments,record,assignments,1,low,0,1,2
+model4-1,5,5,record information,record,information,1,low,0,1,2
+model3-3,0,0,register a claim,register,claim,1,low,0,1,2
+repairexample,2,3,register a telephone device sent by a customer,register,device,1,low,0,1,2
+model9-1,2,4,register customers,register,customers,1,low,0,1,2
+model9-1,2,3,register defaulting accounts,register,accounts,1,low,0,1,2
+model3-6,5,8,register the claim in the claims management system,register,claim,1,low,0,1,2
+model5-2,1,2,register the requirement,register,requirement,1,low,1,1,2
+model5-3,1,2,register the requirement,register,requirement,1,low,1,1,2
+model8-2,0,0,report a vacancy to me,report,vacancy,1,low,0,1,2
+model2-1,33,60,report an sla violation rebate to billing,report,rebate,1,low,0,1,2
+model8-3,0,1,report the vacancy,report,vacancy,1,low,0,1,2
+model8-2,3,6,request a correction,request,correction,1,low,0,1,2
+model9-5,6,10,resubmit the expense report,resubmit,report,1,low,0,1,2
+model5-2,3,6,return the application to the applicant\/employee,return,application,1,low,0,1,2
+model6-3,7,15,schedule production to ,schedule,production,1,low,0,1,2
+model5-3,5,8,select a vendor,select,vendor,1,low,1,1,2
+model5-3,7,10,select a vendor,select,vendor,1,low,1,1,2
+model9-1,7,13,send a message,send,message,1,low,0,1,2
+model9-2,0,0,send a mortgage offer to the customer,send,offer,1,low,0,1,2
+model7-1,4,4,send a note to the manager,send,note,1,low,0,1,2
+model5-3,9,20,send a notification,send,notification,1,low,0,1,2
+model5-3,8,16,send a notification to let what the result was in case,send,notification,1,low,0,1,2
+model5-3,7,13,send a purchase order,send,order,1,low,0,1,2
+model3-4,2,2,send a reminder to the claimant,send,reminder,1,low,0,1,2
+model9-1,4,10,send an alert to the supervisor,send,alert,1,low,0,1,2
+model6-2,3,3,send an invoice to assembler ag,send,invoice,1,low,0,1,2
+model2-1,8,13,send detailed problem report to service management,send,report,1,low,0,1,2
+model6-1,4,9,send docket to the first cost center manager to the list,send,docket,1,low,0,1,2
+model9-3,3,6,send final schedule to the independent committee members,send,schedule,1,low,0,1,2
+model2-1,1,1,send list to the customer service department,send,list,1,low,0,1,2
+model2-1,25,46,send message to resource provisioning,send,message,1,low,0,1,2
+model2-2,13,20,send out a confirmation document to the customer stating that the switch-over to the new supplier can be executed,send,document,1,low,0,1,2
+model2-1,30,55,send out report to service management,send,report,1,low,0,1,2
+model2-1,34,61,send out report to the customer,send,report,1,low,0,1,2
+model2-2,14,21,send out request,send,request,1,low,0,1,2
+model2-1,11,18,send out the detailed problem report to resource provisioning,send,report,1,low,0,1,2
+model2-1,22,42,send out the problem resolution report to customer service,send,report,1,low,0,1,2
+model2-1,26,48,send out the status report,send,report,1,low,0,1,2
+model3-1,0,0,send possession request asking a warrant to be released,send,request,1,low,0,1,2
+model3-6,3,5,send relevant forms to the claimant,send,forms,1,low,0,1,2
+model3-4,3,3,send so,send,so,1,low,0,1,2
+model2-1,20,37,send the actual service performance back to the customer service,send,performance,1,low,0,1,2
+model3-3,3,4,send the claim back to the claims,send,claim,1,low,0,1,2
+model6-1,11,27,send the copy again to the cost,send,cost,1,low,0,1,2
+model6-1,4,10,send the copy to the first cost center manager to the list,send,copy,1,low,0,1,2
+model2-2,25,43,send the final billing based on the meter data to the old supplier,send,billing,1,low,0,1,2
+model2-2,26,45,send the final billing to the customer,send,billing,1,low,0,1,2
+model2-1,16,33,send the normal execution notification back to service management,send,notification,1,low,0,1,2
+model6-2,1,1,send the order to the supplier,send,order,1,low,0,1,2
+model5-1,4,7,send the request to the approver web service,send,request,1,low,0,1,2
+model9-1,3,7,send to account management,send,,1,low,0,1,2
+model2-1,16,32,send trouble report back to service management,send,report,1,low,0,1,2
+model4-1,23,35,store the assignment,store,assignment,1,low,0,1,2
+model4-1,7,7,store the information in the information system,store,information,1,low,0,1,2
+model5-2,0,1,submit a vacation request,submit,request,1,low,0,1,2
+model5-3,0,1,submit an office supply request,submit,request,1,low,0,1,2
+model8-2,4,8,submit the description again,submit,description,1,low,0,1,2
+model8-2,2,3,submit the job description,submit,description,1,low,0,1,2
+model6-3,4,11,transfer the data manually,transfer,data,1,low,0,1,2
+model2-2,16,24,transmit a response comment,transmit,comment,1,low,0,1,2
+model2-2,1,2,transmit data to the customer service department,transmit,data,1,low,0,1,2
+model4-1,35,52,type out tapes,type,tapes,1,low,0,1,2
+model9-4,4,8,update departmental records,update,records,1,low,0,1,2
+model9-2,2,4,update the case details,update,details,1,low,1,1,2
+model9-2,5,9,update the case details,update,details,1,low,1,1,2
+model9-4,0,3,upload appropriate documents to system,upload,documents,1,low,0,1,2
+model2-2,9,14,use generated customer object to prepare the contract documents in combination,use,object,1,low,0,1,2
+model9-2,2,3,write back to decline the mortgage,write,,1,low,0,1,2
+model2-2,11,16,are not generate the contract documents,generate,documents,1,low,0,0,3
+model2-2,10,15,carry out an automated check in the following,carry,check,1,low,0,0,3
+model6-3,3,8,create a list,create,list,1,low,0,0,3
+model6-1,2,4,create a new instance,create,instance,1,low,0,0,3
+bicyclemanufacturing,1,2,create a new process instance,create,instance,1,low,1,0,3
+runningexample,1,2,create a new process instance,create,instance,1,low,1,0,3
+model6-3,2,6,create uniform work packages are minimize ,create,packages,1,low,0,0,3
+model2-1,4,6,determine the significance,determine,significance,1,low,0,0,3
+model9-2,4,8,generate a message to request outstanding documents to the customer,generate,message,1,low,0,0,3
+model5-2,4,7,generate a notification to the human resources representative,generate,notification,1,low,0,0,3
+model5-3,7,12,generate a purchase order,generate,order,1,low,0,0,3
+model2-2,12,19,generate the contract documents again,generate,documents,1,low,0,0,3
+model2-2,0,0,initiate process,initiate,process,1,low,0,0,3
+model2-1,5,8,link to an extra problem,link,problem,1,low,0,0,3
+model6-3,2,7,minimize the setup times,minimize,times,1,low,0,0,3
+model2-2,23,39,speed up the switch process,speed,process,1,low,0,0,3
+model2-1,26,49,terminate the process,terminate,process,1,low,0,0,3
+model2-2,24,41,transmit meter data to the customer service,transmit,data,1,low,0,0,3
+model2-1,33,58,trigger i.e.,trigger,i.e.,1,low,1,0,3
+model2-1,33,59,trigger i.e.,trigger,i.e.,1,low,1,0,3
+model8-1,0,0,trigger process to fill a post,trigger,process,1,low,0,0,3
+model8-2,1,2, stillask the department again,,,,,,,?
+model3-4,0,0,a claim handling process is necessary,,,,,,,?
+model9-1,3,8,account management,,,,,,,?
+model4-1,18,19,act ,,,,,,,?
+model1-4,1,3,act to a new issue,,,,,,,?
+model2-2,22,33,additional constraint is that the customer can only withdraw from the offered contract within 7 days after the 7th day,,,,,,,?
+model5-3,2,5,ask the request,,,,,,,?
+model3-1,5,10,attach stores,,,,,,,?
+model1-4,7,14,await approval,,,,,,,?
+bicyclemanufacturing,10,14,back ,,,,,,,?
+runningexample,10,13,back ,,,,,,,?
+claimscreation,3,4,bases on the action plan,,,,,,,?
+model3-6,3,4,bases on the outcome (simple or complex claims),,,,,,,?
+model2-1,2,3,bases on the received data,,,,,,,?
+model6-1,10,23,bases on the statements of the cost center managers,,,,,,,?
+model2-1,28,52,bases on the tracked errors,,,,,,,?
+model2-1,3,4,bases on this,,,,,,,?
+model2-2,24,40,begin ,,,,,,,?
+model1-4,3,9,believe ,,,,,,,?
+hotelservice,8,16,cart is ready,,,,,,,?
+model1-2,0,2,check hands back,,,,,,,?
+model3-3,4,7,claim to handle process proceeds,,,,,,,?
+model2-1,4,7,collect that,,,,,,,?
+model9-6,7,11,complete ,,,,,,,?
+model9-1,4,9,complete all,,,,,,,?
+model9-1,7,12,complete this,,,,,,,?
+model2-1,35,62,complete three activities,,,,,,,?
+model2-2,8,13,consist of data elements,,,,,,,?
+model4-1,15,16,consist of social-medical workers,,,,,,,?
+model1-2,2,4,consist of two activities,,,,,,,?
+model4-1,12,13,contain a set,,,,,,,?
+model2-1,6,10,continue ,,,,,,,?
+model2-2,21,32,continue ,,,,,,,?
+model2-2,22,36,continue ,,,,,,,?
+model6-1,11,28,continue ,,,,,,,?
+model8-3,4,6,corrections is available,,,,,,,?
+model2-2,23,38,count to accept after 7 days in way,,,,,,,?
+model2-2,3,5,customer service bases customer data,,,,,,,?
+model2-2,2,3,customer service is a shared service center,,,,,,,?
+model9-1,3,6,default accounts,,,,,,,?
+repairexample,3,4,depart ment,,,,,,,?
+model8-3,0,0,detect a number,,,,,,,?
+repairexample,11,17,device to analyze by an employee to check if the defect was indeed fixed or not,,,,,,,?
+model6-1,9,19,e.g. ,,,,,,,?
+model2-1,23,43,end ,,,,,,,?
+model4-1,39,58,end the intake procedure,,,,,,,?
+model1-4,3,8,established underwriters be careful,,,,,,,?
+hotelservice,0,0,evanstonian is an upscale independent hotel,,,,,,,?
+model6-1,6,13,everything Should be in order,,,,,,,?
+model9-6,2,3,existing any is inputs,,,,,,,?
+model3-4,1,1,expect claimant to return the questionnaire,,,,,,,?
+model4-1,29,46,fill out which,,,,,,,?
+bicyclemanufacturing,10,15,finish ,,,,,,,?
+runningexample,10,14,finish ,,,,,,,?
+bicyclemanufacturing,11,17,finish the process instance,,,,,,,?
+bicyclemanufacturing,3,5,finish the process instance in the former case,,,,,,,?
+model2-1,5,9,fix process,,,,,,,?
+model6-3,0,0,get ,,,,,,,?
+model6-1,4,7,go docket to the internal mail,,,,,,,?
+model5-3,5,7,go quotations to the purchase department,,,,,,,?
+model6-1,4,8,go the copy to the internal mail,,,,,,,?
+model9-5,4,6,go to the employees,,,,,,,?
+model2-1,26,47,happen on-hold and waiting request,,,,,,,?
+model8-3,3,5,happen that the colleague from the hr department still has questions about the tasks and requirements before he can describe the job,,,,,,,?
+model8-2,3,5,happen the approval,,,,,,,?
+model6-4,2,3,happen to know somebody,,,,,,,?
+hotelservice,4,7,include other alcoholic beverage,,,,,,,?
+hotelservice,4,6,include wine,,,,,,,?
+model6-3,1,3,information is present,,,,,,,?
+model4-1,0,0,intake workflow starts with a notice,,,,,,,?
+model6-4,2,4,interest somebody in the product,,,,,,,?
+model6-1,12,29,invoice items be AP,,,,,,,?
+repairexample,4,5,is analyze ,,,,,,,?
+model6-3,4,10,is not couple the setup times correctly to enterprise resource planning system,,,,,,,?
+model5-1,0,0,loan approval process ,,,,,,,?
+model9-3,2,5,look ,,,,,,,?
+model4-1,10,11,may not leave the building,,,,,,,?
+model6-1,8,17,move through the hands,,,,,,,?
+model1-4,6,13,need to check that the issue complies with the so-called blue-sky laws of each state that regulate sales of securities within the state,,,,,,,?
+model6-3,6,13,need to decide are miss ,,,,,,,?
+model2-2,23,37,not confirmation message is not necessary,,,,,,,?
+model6-1,9,20,not the ordered product is not of the expected quantity or quality,,,,,,,?
+model6-1,6,14,note code one,,,,,,,?
+model6-3,2,5,optimize production processes,,,,,,,?
+model2-1,0,0,perceive that her subscribed service has degraded,,,,,,,?
+model2-1,12,20,perform based,,,,,,,?
+model1-4,2,4,play a triple role,,,,,,,?
+model9-6,2,4,previous electrical and physical designs be inputs,,,,,,,?
+repairexample,2,2,process ,,,,,,,?
+model6-2,0,0,process start when assembler ag places an order with the supplier in order to request more product parts,,,,,,,?
+model1-4,2,5,provide the company,,,,,,,?
+model4-1,36,55,put the patient,,,,,,,?
+model2-2,15,22,put the question,,,,,,,?
+hotelservice,6,12,ready gathers silverware,,,,,,,?
+model2-2,7,12,remain the data object,,,,,,,?
+repairexample,7,11,repair department has two teams,,,,,,,?
+model3-3,3,5,repeat officer,,,,,,,?
+model5-3,9,17,require ,,,,,,,?
+model5-3,9,18,require ,,,,,,,?
+model5-3,9,19,require ,,,,,,,?
+model9-5,2,4,require approval,,,,,,,?
+model2-1,24,45,require automatic resource restoration,,,,,,,?
+model2-1,21,39,require that,,,,,,,?
+model4-1,26,38,require the medical file,,,,,,,?
+repairexample,0,0,running example is about a process to repair telephones in a company,,,,,,,?
+claimscreation,1,2,serve who calculates an initial claim as input estimate,,,,,,,?
+model6-1,16,33,Should there be a complaint,,,,,,,?
+model9-6,4,6,stop ,,,,,,,?
+model9-5,6,8,stop the process,,,,,,,?
+model2-1,19,36,take alternative three process paths,,,,,,,?
+model6-3,5,12,that is the second step,,,,,,,?
+model5-1,2,3,the customer is low risk,,,,,,,?
+model6-3,6,14,the data is present,,,,,,,?
+model3-2,2,3,the files be ready,,,,,,,?
+hotelservice,8,14,the food is ready,,,,,,,?
+model4-1,19,24,the region is responsible,,,,,,,?
+model4-1,19,25,the region is responsible,,,,,,,?
+model4-1,19,26,the region is responsible,,,,,,,?
+model4-1,19,27,the region is responsible,,,,,,,?
+model4-1,19,28,the teamleader might have had with the patient,,,,,,,?
+model4-1,19,29,the teamleader might have had with the patient,,,,,,,?
+model4-1,19,30,the teamleader might have had with the patient,,,,,,,?
+model4-1,19,31,the teamleader might have had with the patient,,,,,,,?
+model2-1,11,17,to be ,,,,,,,?
+model5-3,7,14,to be deliver ,,,,,,,?
+model6-3,3,9,to be procure ,,,,,,,?
+model3-1,0,1,to be release ,,,,,,,?
+model3-1,3,6,to be send ,,,,,,,?
+repairexample,11,18,to check ,,,,,,,?
+model1-4,0,1,to go ,,,,,,,?
+repairexample,14,22,To save throughput time,,,,,,,?
+repairexample,14,23,try to fix a limited number,,,,,,,?
+model9-2,1,2,use a series,,,,,,,?
+model8-2,2,4,wait for the approval,,,,,,,?
+model9-2,0,1,wait previous defaulters,,,,,,,?
+model8-3,1,2,wait to get the job description,,,,,,,?
+hotelservice,7,13,waiter is responsible,,,,,,,?
+model6-4,5,8,which is available,,,,,,,?
+model6-4,5,9,which is available,,,,,,,?
+model2-2,22,34,will be regard ,,,,,,,?
+hotelservice,8,15,wine is ready,,,,,,,?
+model2-2,1,1,,,,,,,,?
+model5-1,4,6,the loan amount is for $10,,,,,,,
+model6-1,14,31,want to check 20,,,,,,,

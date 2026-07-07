@@ -1,0 +1,1240 @@
+accept accept  low 0
+add draft dates to calendars add dates low 0
+add information to the assignment list add information low 0
+add new patient add patient low 0
+add standard checklist to the patient s add checklist low 0
+add the copy to the patient file add copy low 0
+add the information to the patient file add information low 0
+advertise post advertise post low 0
+advise committee members advise members low 0
+analyze the causing issues analyze issues low 0
+analyze this analyze this low 0
+apply apply  low 0
+approve the job description approve description low 0
+archive the work archive work low 0
+arrange a road show to talk to potential investors arrange road low 0
+ask again for corrections ask corrections low 0
+ask the customer ask customer low 0
+assign new patients to members assign patients low 0
+assign patient to a social-medical worker assign patient low 0
+assign the order to the waiter assign order low 0
+attach the new sct document attach document low 0
+begin to firm up the issue price begin price low 0
+bring in a defective computer bring computer low 0
+buy details buy details low 0
+buy the issue buy issue low 0
+call customer call customer low 0
+call room service call service low 0
+call the next customer call customer low 0
+capture the matter details capture details low 0
+capture the party details capture details low 0
+carry out the termination carry termination low 0
+categorize defect categorize defect low 0
+categorize defects categorize defects low 0
+check recommendation check recommendation low 0
+check switch-over request check request low 0
+check that check that low 0
+check the applications check applications low 0
+check the claimant again check claimant low 0
+check the defect back check defect low 0
+check the hardware check hardware low 0
+check the open leads check leads low 0
+check the order again check order low 0
+check the required quantity check quantity low 0
+check the severity check severity low 0
+clerk sorts into the various business areas clerk sorts low 0
+collect mail collect mail low 0
+combine both combine both low 0
+complete the commercial audit complete audit low 0
+conduct a qa check conduct check low 0
+conduct the directions hearings conduct hearings low 0
+consult the cost center managers again consult managers low 0
+correct the description correct description low 0
+create a cis contract create contract low 0
+create a detailed problem report create report low 0
+create a job description create description low 0
+create a notification create notification low 0
+create a patient file create file low 0
+create a quotation create quotation low 0
+create a request create request low 0
+create a revised design create design low 0
+create a trouble-shooting report create report low 0
+create the final billing create billing low 0
+create the problem resolution report create report low 0
+deal on a first level with violations deal violations low 0
+decide to confirm the switch contract confirm contract low 0
+decide to withdraw from the switch contract the switch contract withdraw contract low 0
+deem the designs complete deem designs low 0
+deliver cart to the guests room deliver cart low 0
+demand the resolution demand resolution low 0
+design the electrical and physical systems design systems low 0
+detect no problem detect problem low 0
+determine assignments determine assignments low 0
+determine contact details determine details low 0
+determine quantities well determine quantities low 0
+determine the budget determine budget low 0
+determine the contact person determine person low 0
+determine the necessary counter measures to include respective priorities determine meansures low 0
+determine the necessary parts well determine part low 0
+determine what counter measures should be taken depending on the information in the final status report determine what low 0
+distribute mail distribute mail low 0
+distribute the judges lawlist to the relevant people distribute lawlist low 0
+draft a schedule in november draft schedule low 0
+enter into a firm commitment to buy enter commitment low 0
+evaluate the severity evaluate severity low 0
+examine a claim examine claim low 0
+examine the patient to use a standard checklist examine patient low 0
+execute arbitrary repair activity execute activity low 0
+explain the reason explain reason low 0
+finalize the dates finalize dates low 0
+finish the repair finish repair low 0
+finish to work on a phone finish  low 0
+fix different 3 types fix types low 0
+fix simple defects fix defects low 0
+fix the issue price fix price low 0
+formulate a treatment plan together with the team-leader formulate plan low 0
+forward the sct warrant possession to queensland police forward possession low 0
+give an order to fetch wine to the sommelier give order low 0
+give an order to prepare other alcoholic beverages to the sommelier give order low 0
+give payment instructions give instructions low 0
+give seal give seal low 0
+hand in form hand in form low 0
+hand the files to the associate hand files low 0
+hold meeting hold meeting low 0
+identify the problem identify problem low 0
+include the normal execution notification in a status report include notification low 0
+include trouble report in a status report include report low 0
+initiate a search initiate search low 0
+inquire after the name inquire name low 0
+interrupt development interrupt development low 0
+investigate investigate  low 0
+keep registration keep registration low 0
+leave the customer alone leave customer low 0
+make a full inquiry make inquiry low 0
+make the decision to go make decision low 0
+make to approval for payment make  low 0
+mark positions mark positions low 0
+need to be check to make sure they are in order for the court hearing need  low 0
+open the mail open mail low 0
+part is back-ordered  part low 0
+participate in exhibitions participate in exhibitions low 0
+pass the produced registration cards to the first and second intaker pass cards low 0
+perform a quality check perform check low 0
+perform a task to distribute relevant existing designs perform task low 0
+perform a task to locate perform task low 0
+perform the analysis perform analysis low 0
+plan a meeting soon plan meeting low 0
+plan the first meeting has been receive plan meeting low 0
+post an envelope to the party post envelop low 0
+prepare a letter requesting for a copy of the medical file prepare letter low 0
+prepare a registration statement prepare statement low 0
+prepare the final status report based on the received information prepare report low 0
+present the facts fairly present facts low 0
+proceed with the clarification proceed clarification low 0
+process an office supply request process request low 0
+process the lead process lead low 0
+process vacations request process request low 0
+produce minutes including any action points for each committee member produce minutes low 0
+produce two registration cards produce cards low 0
+provide the matter details to the cashier provide details low 0
+provide the team-leader provide team-leader low 0
+put a copy in the file put copy low 0
+put copied documents into an envelope put documents low 0
+put police report related to the car accident in a file together with the claim documentation put report low 0
+put the receipt into an envelope put receipt low 0
+put through the doctor to the responsible nursing officer put through doctor low 0
+ready a cart ready cart low 0
+receive clearance receive clearance low 0
+receive the mail receive mail low 0
+receive the physical sct file receive file low 0
+register additional observations in a personal notebook register observations low 0
+reject the ap reject ap low 0
+repair complex defects repair defects low 0
+repair some repair some low 0
+repair the hardware whereas the second activity checks repair hardware low 0
+repeat the recommendation repeat recommendation low 0
+resell procedural and financial advice to the public resell advice low 0
+reserve part reserve part low 0
+reserve the part list reserve list low 0
+resolve copy resolve copy low 0
+resolve inconsistencies resolve inconsistencies low 0
+resolve the causing issues resolve issues low 0
+retrieve the respective sct file retrieve file low 0
+retrieve the sctt file retrieve file low 0
+return return  low 0
+return the copy to the internal mail return copy low 0
+return the forms return forms low 0
+return the request to the petitioner\/employee return request low 0
+review existing designs in department review designs low 0
+review report review report low 0
+review the content review content low 0
+revise both revise both low 0
+search police report related to the car accident search report low 0
+select the top five ones select ones low 0
+select the underwriters select underwriters low 0
+send a letter requesting for a copy of the medical file send letter low 0
+send a letter to inform him\/her about the problem to the customer send letter low 0
+send a new brand device to the customer send device low 0
+send back the copy directly to accounting send copy low 0
+send device to the quality assurance department send device low 0
+send the combined design back to initiate design cycle to the beginning send design low 0
+send the design back to create a new update plan send design low 0
+send the design back to review send design low 0
+send the designs to the manufacturing process send designs low 0
+send the telephone to the customer send telephone low 0
+sort the mail into groups sort mail low 0
+store registration form in the patient file store form low 0
+store sctt physical file to await a report to sent store file low 0
+submit an order ticket to begin to prepare to the kitchen submit order low 0
+suggest modifications suggest modifications low 0
+take care take care  low 0
+take case load in assigning intakers into account take load low 0
+take computer home unrepaired take computer low 0
+take down the order take order low 0
+take earlier contacts in assigning intakers into account take contacts low 0
+take expertise in assigning intakers into account take expertise low 0
+take the region in assigning intakers into account take region low 0
+take together the information take information low 0
+tell sales to call the contact person tell sales low 0
+tell the other department tell department low 0
+test both test both low 0
+test the proper system functionality test functionality low 0
+test the revised design test design low 0
+the family doctor does notice notice  low 0
+the kitchen are doing tasks doing tasks low 0
+the part list is back-ordered  list low 0
+the sommelier are doing tasks doing tasks low 0
+track possible errors track errors low 0
+track the files to the intended location track files low 0
+try to acquire the customer acquire customer low 0
+try to negotiate a settlement negotiate settlement low 0
+undertake corrective actions undertake actions low 0
+undertake necessary corrective actions undertake actions low 0
+use dictaphones to record observations made during meetings with patients use dictaphones low 0
+use the existing draft use draft low 0
+use the update plan use plan low 0
+wait for the customer to come back to the customer wait customer low 0
+wait to does the billing wait  low 0
+write a settlement recommendation write recommendation low 0
+discuss the problem discuss problem low 0
+explain the solution explain solution low 0
+conduct the problem conduct problem low 0
+call the service provider call provider low 0
+process the seat availabilty process availabilty low 0
+check the rejection notification check notification low 0
+check the goods check goods low 0
+identify the issue identify issue low 0
+prepare the inspection list prepare list low 0
+decide the normal order decide order low 0
+decide special shipment decide shipment low 0
+find the special carrier find carrier low 0
+prepare the paperwork prepare paperwork low 0
+finalize the shipment finalize shipment low 0
+find the normal post find post low 0
+check extra insurrance check insurrance low 0
+find the extra insurance to require find insurance low 0
+fill out form fill form low 0
+add the paper work add paperwork low 0
+decide a menu decide menu low 0
+decide budgets decide budgets low 0
+prepare the order list prepare list low 0
+find the available order find order low 0
+collect the items collect items low 0
+starts the cooking starts cooking low 0
+dispatch the order dispatch order low 0
+check the status check status low 0
+reserve the inventory reserve inventory low 0
+find the available address find address low 0
+validate the address validate address low 0
+check the other requirments check requirments low 0
+create the code create code low 0
+plan the shipment plan shipment low 0
+get the model requirments get requirments low 0
+list the requirments list requirments low 0
+verify the requirments verify requirments low 0
+reject the requirments reject requirments low 0
+accept the requirements accept requirements low 0
+verify the specifications verify specifications low 0
+check the design check design low 0
+accept the design accept design low 0
+implement the design implement design low 0
+integrate the design integrate design low 0
+finalize the integration finalize integration low 0
+launch the model launch model low 0
+check the credit card check credit card low 0
+validate the credit card validate credit card low 0
+verify the email address verify address low 0
+validate the email address validate address low 0
+verify the credit card system verify system low 0
+check the default payment check payment low 0
+send the book send book low 0
+conduct the complete order conduct order low 0
+decides to buy a book decides book low 0
+open the online website open website low 0
+find the book title find book title low 0
+process the request process request low 0
+add the book to the shopping cart add book low 0
+find the available amount find amount low 0
+reject the shipment reject shipment low 0
+prepare a requisition prepare requisition low 0
+prepare the request prepare request low 0
+check the request check request low 0
+evaluate the rfq evaluate rfq low 0
+review the rfq review rfq low 0
+prepare the quote prepare quote low 0
+prepare the quote response prepare response low 0
+review the quote response review response low 0
+receive the ordered items receive items low 0
+conduct the resend order conduct order low 0
+prepare a new request prepare request low 0
+check the info check info low 0
+check the emergency check emergency low 0
+check the stl housing concern check concern low 0
+correct the problem correct problem low 0
+assign the routine or priority order assign order low 0
+check the assigned order check order low 0
+advise the options advise options low 0
+inspect the work inspect work low 0
+check the cleared escort check escort low 0
+arrange the clear escort arrange escort low 0
+assign the work to work order clerk assign work low 0
+perform the work perform work low 0
+complete the work order complete order low 0
+close the work order close order low 0
+complete the satisfaction survey complete survey low 0
+identify a payment method identify method low 0
+accept the cash accept cash low 0
+prepare the package prepare package low 0
+accept credit card accept card low 0
+buy a product buy product low 0
+fill the credit form fill form low 0
+get the credit criteria get criteria low 0
+review the receivable accounts review accounts low 0
+calculate the credit terms calculate terms low 0
+conduct the risk assessment conduct assessment low 0
+analyze the requirements analyze requirements low 0
+conduct the positive risk assessment conduct assessment low 0
+setups the loan contract setups contract low 0
+fulfill the loan request fulfill request low 0
+give the department feed back give feedback low 0
+give the client feedback give feedback low 0
+collect the feedback collect feedback low 0
+assess the feedback assess feedback low 0
+investigate the demographics investigate demographics low 0
+describe the illness describe illness low 0
+receive the symptoms receive symptoms low 0
+examine the symptoms examine symptoms low 0
+consider the suitable drugs consider drugs low 0
+ask for cost ask cost low 0
+check the specification check specification low 0
+check requirmentses check requirments low 0
+check the booking request details check details low 0
+check the flights details check flights low 0
+check the availablity check availablity low 0
+find the available flight find flight low 0
+conduct the alternative flight offered conduct flight low 0
+review the ticket review ticket low 0
+review the issue review issue low 0
+verify the request verify request low 0
+reserve the fuel type reserve fuel type low 0
+provide the info provide info low 0
+look up at the subscription look subscription low 0
+deliver the fuel deliver fuel low 0
+conduct the complete fuel process conduct process low 0
+search the customer data search data low 0
+verify the creditcard verify creditcard low 0
+find the insufficient balance find balance low 0
+process the logging process logging low 0
+process the activity order process order low 0
+process the airline order process order low 0
+check the claim details check details low 0
+express claim express claim low 0
+conduct the high touch claim conduct claim low 0
+conduct the handled claim conduct claim low 0
+check the vacation rights check rights low 0
+reject the vacations reject vacations low 0
+accept the vacations accept vacations low 0
+calculate the documentation calculate documentation low 0
+provide the documentation provide documentation low 0
+deliver the vacations doumentation deliver doumentation low 0
+access the documents access documents low 0
+investigate the claim investigate claim low 0
+review to complete review complete low 0
+fulfill the requirements fulfill requirements low 0
+conduct the complaint created conduct complaint low 0
+assign the incoming email assign email low 0
+read the email read email low 0
+assign the category mannually assign category low 0
+conduct the customer claim conduct claim low 0
+create the inspection report create report low 0
+prepare the goods acquisition prepare acquisition low 0
+get the goods to deliver get goods low 0
+get the ordered goods get goods low 0
+develop the project budget develop budget low 0
+build up the project bid build up bid low 0
+review the list review list low 0
+monitor the project monitor project low 0
+review the short listed candidates review candidates low 0
+offer package offer package low 0
+receive the offer package receive package low 0
+review the package review package low 0
+reject the package reject package low 0
+accept the package accept package low 0
+manager forwards the package manager package low 0
+review the non acceptance review acceptance low 0
+check the request completion check completion low 0
+determine the customer status determine status low 0
+prepare the response prepare response low 0
+determine the premium determine premium low 0
+assess the policy assess policy low 0
+admit a patient admit patient low 0
+perform the checkup perform checkup low 0
+examine the patient examine patient low 0
+discuss the risks discuss risks low 0
+examine the anesthesia examine anesthesia low 0
+schedule the surgery schedule surgery low 0
+check the patient record check record low 0
+send the patient to the surgical suite send patient low 0
+perform the surgery perform surgery low 0
+transport the patient transport patient low 0
+receive the patient receive patient low 0
+provide the prostsurgical care provide care low 0
+create the surgical report create report low 0
+write the discharge letter write letter low 0
+discharge the patient discharge patient low 0
+order a cheque book order book low 0
+deliver the cheque book deliver book low 0
+program the strategy theme program theme low 0
+open the program specification open specification low 0
+decide the program objectives decide objectives low 0
+complete the program specification complete specification low 0
+design the verification design verification low 0
+validate the methods validate methods low 0
+plan the quality plan quality low 0
+review the requirments review requirments low 0
+check the available or not services check services low 0
+find the services availble find services low 0
+check the amount check amount low 0
+go to the office go office low 0
+work from the home work  low 0
+reach the office reach office low 0
+assign the required task assign task low 0
+demand the lunch break demand break low 0
+stop the work stop work low 0
+open a website open website low 0
+starts the registration start registration low 0
+review the quality review quality low 0
+store the goods store goods low 0
+create the report create report low 0
+prepare the replacement order prepare order low 0
+check the nationality check nationality low 0
+check the other required conditions check conditions low 0
+find the fulfilled conditions find conditions low 0
+give the prename give prename low 0
+check the prename check prename low 0
+clarify the name clarify name low 0
+give the married name give name low 0
+create the certification create certification low 0
+check a data check data low 0
+check the parents nationality check nationality low 0
+conduct the trial conduct trial low 0
+find russian find russian low 0
+get the citizenship stamp get stamp low 0
+review the parents citizenship review citizenship low 0
+find the atleast find atleast low 0
+find citizen find citizen low 0
+find the child born in the wedlock find child low 0
+consult the father consult father low 0
+give the father surname give surname low 0
+find the child not born in the wedlock find child low 0
+consult the mother consult mother low 0
+decide on the surname decide surname low 0
+give first name give name low 0
+process the birth certificate process certificate low 0
+deliver the birth certificate deliver certificate low 0
+fill in birth registration form fill form low 0
+sign the birth certificate sign certificate low 0
+finalize the registration finalize registration low 0
+collect the documents collect documents low 0
+fill in the birth certificate fill certificate low 0
+determine the gba municiplility determine municiplility low 0
+correct the errors correct errors low 0
+finalize the message exchange finalize exchange low 0
+announce the issues announce issues low 0
+check the calender check calender low 0
+evaluate the discussion process evaluate process low 0
+determine the desendent determine desendent low 0
+determine the gba municipility determine municipility low 0
+check the accuracy check accuracy low 0
+finalize the message finalize message low 0
+check the term check term low 0
+run through the data run data low 0
+investigate the gba data investigate data low 0
+determine the child nationality determine nationality low 0
+finalize the certificate finalize certificate low 0
+add the letter add letter low 0
+provide the additional information provide information low 0
+add the recomendations add recomendations low 0
+conduct the check application conduct application low 0
+conduct the review application conduct application low 0
+find the time find time low 0
+reject the application reject application low 0
+check the continual match check match low 0
+check the entrance qualification check qualification low 0
+evaluate the requirements evaluate requirements low 0
+reject the match reject match low 0
+reject qualifications reject qualifications low 0
+accept qualifications accept qualifications low 0
+evaluate the criteria evaluate criteria low 0
+go to the interview go interview low 0
+evaluate the time evaluate time low 0
+find one thing missing find thing low 0
+check the citizenship check citizenship low 0
+find the international applicant find applicant low 0
+find the german applicant find applicant low 0
+assess the application assess application low 0
+mark the application mark application low 0
+conduct the final confirmation conduct confirmation low 0
+publish the letter publish letter low 0
+create a letter create letter low 0
+create the cv create cv low 0
+add the cv add cv low 0
+find the requirements to miss find requirements low 0
+hand over the application to the examining board hand application low 0
+sum the score sum score low 0
+invite the applicants invite applicants low 0
+appoint the applicant appoint applicant low 0
+take the interviews take interviews low 0
+make the decision make decision low 0
+conduct the required marks conduct marks low 0
+conduct the sufficient marks conduct marks low 0
+evaluate the documents evaluate documents low 0
+receive the certificate receive certificate low 0
+find the good average grade find grade low 0
+evaluate the applicant eligibility evaluate eligibility low 0
+invite to the aptitude test invite test low 0
+produce the goods produce goods low 0
+conduct the quality report received conduct report low 0
+check the quality report check report low 0
+complete the online interview complete interview low 0
+print signs print signs low 0
+correct the additional required documents correct documents low 0
+get the required certificates get certificates low 0
+create the transcript create transcript low 0
+create the ranking create ranking low 0
+invite the applicant invite applicant low 0
+accept the applicant accept applicant low 0
+wait for the delivery wait delivery low 0
+complain about about order complain order low 0
+dispatch the products dispatch products low 0
+create a job requisition create job requisition low 0
+prepare the candidate list prepare candidate list low 0
+evaluate the list evaluate list low 0
+conduct the interviews conduct interviews low 0
+give to the selected candidate give candidate low 0
+select the book select book low 0
+order the book order book low 0
+receive the book receive book low 0
+note the request note request low 0
+complete form complete form low 0
+determine the consistency determine consistency low 0
+check the financial record check record low 0
+find the student to fulfill financial requirments find student low 0
+prepare the tuition bill prepare bill low 0
+handle the order handle order low 0
+handle the shipping handle shipping low 0
+check the booking criteria check criteria low 0
+check the availability status check status low 0
+complete the assignment complete assignment low 0
+reject the booking reject booking low 0
+check invoicing check invoice low 0
+find the deficit balance find balance low 0
+address the credit problem address problem low 0
+find the credit ok find credit low 0
+evaluate the order evaluate order low 0
+control orders in the stock control orders low 0
+bring from the warehouse bring  low 0
+control orders control orders low 0
+check the credit requirments check requirments low 0
+receive a spare part receive part low 0
+reintegrate the spare part reintegrate part low 0
+conduct the retrun part to supplier conduct part low 0
+discard the return part discard part low 0
+verify the bug verify bug low 0
+fix the bug fix bug low 0
+prepare an expense voucher prepare voucher low 0
+transfer the funds transfer funds low 0
+accept the quotation accept quotation low 0
+settle price settle price low 0
+validate the syntax validate syntax low 0
+find the syntax error find error low 0
+fix the bugs fix bugs low 0
+check the content check content low 0
+evaluate the student project evaluate project low 0
+take the driving interview take interview low 0
+reject the license issue reject license low 0
+demand a menue demand menue low 0
+select the pizza select pizza low 0
+conduct the available material conduct material low 0
+conduct an evalute order conduct order low 0
+create the sale order create order low 0
+prepare the quality assurance prepare assurance low 0
+identify the business partner identify partner low 0
+prepare the quotation prepare quotation low 0
+analyze the offer analyze offer low 0
+verify the customer identity verify identity low 0
+arrange the delivery arrange delivery low 0
+deliver the water deliver water low 0
+support a repair support repair low 0
+visit the customer place visit place low 0
+perform the inspection perform inspection low 0
+arrange the product pickup arrange pickup low 0
+inspect the repairing impossible inspect repairing low 0
+arrange the refund arrange refund low 0
+check the order availability check availability low 0
+find the stock runout find stock low 0
+assemble the package assemble package low 0
+find the job advertisment find advertisment low 0
+conduct the retrive position description conduct description low 0
+check the job description check description low 0
+close the vacancy close vacancy low 0
+find the book find book low 0
+check out the book check book low 0
+give the appointment give appointment low 0
+evaluate the cause evaluate cause low 0
+give the medicine give medicine low 0
+receive the medicine receive medicine low 0
+fill the order fill order low 0
+process the lodging order process order low 0
+process the airline invoice process invoice low 0
+starts a browsing starts browsing low 0
+conduct the checkout products conduct products low 0
+determine the approval rules determine rules low 0
+review personal information review information low 0
+check the information check information low 0
+review the assignable request review request low 0
+complete the registration complete registration low 0
+provide the required information provide information low 0
+perform the prelimenary investigation perform investigation low 0
+grant the loan grant loan low 0
+give the sat papper give papper low 0
+take the sat test take test low 0
+attend the university attend university low 0
+read the sat preparation book read book low 0
+charge the credit card charge credit card low 0
+find the insufficent balance find balance low 0
+conduct the enquiry training conduct training low 0
+find the available trainer find trainer low 0
+look for the trainer look trainer low 0
+starts the training starts training low 0
+launch an auction launch auction low 0
+find the item find item low 0
+read the item description read description low 0
+contact the seller contact seller low 0
+read the seller feedback read feedback low 0
+buy the item now buy item low 0
+verify the bidder credentials verify credentials low 0
+close the auction close auction low 0
+analyze the sample analyze sample low 0
+check the result check result low 0
+purchase the product purchase product low 0
+evaluate the reasons evaluate reasons low 0
+find the issue find issue low 0
+demand an article demand article low 0
+find the available article find article low 0
+check the order catagory check catagory low 0
+find the standard order find order low 0
+determine the order pricing determine pricing low 0
+process the order request process request low 0
+collect the parts collect parts low 0
+dispatch the product dispatch product low 0
+allocate the initial priority allocate priority low 0
+determine the scope determine scope low 0
+evaluate the normal order evaluate order low 0
+evaluate special shipment evaluate shipment low 0
+find the normal order find normal low 0
+fill the order lable fill lable low 0
+find the special order find order low 0
+add the paperwork add paperwork low 0
+assign the room assign room low 0
+establish the terms establish terms low 0
+establish methods establish methods low 0
+issue the room key issue key low 0
+find the available room find room low 0
+reject the guest request reject request low 0
+issue the key issue key low 0
+find the retailer find retailer low 0
+analyze the demand availability analyze availability low 0
+reject the vacancy reject vacancy low 0
+find the available product find product low 0
+bring the product bring product low 0
+package the order package order low 0
+verify the credit verify credit low 0
+find the credit sufficent find credit low 0
+prepare ships prepare ships low 0
+close the order close order low 0
+evaluate the payment mode evaluate mode low 0
+verify the total amount verify amount low 0
+create the product specification create specification low 0
+release the product class release class low 0
+release attributeses release attributes low 0
+assist the customer assist customer low 0
+evaluate the request evaluate request low 0
+determine the registration authority determine authority low 0
+verify the business identity verify identity low 0
+send the training letter send letter low 0
+process the shippping process shippping low 0
+handle the shipping price handle price low 0
+evaluate the support request evaluate request low 0
+find the information validate find information low 0
+validate the support validate support low 0
+display the status display status low 0
+find the validate information find information low 0
+validate the information validate information low 0
+validate resubmits validate resubmits low 0
+evaluate the candidate eligibility evaluate eligibility low 0
+find the eligible candidate find candidate low 0
+find the candidate find candidate low 0
+review the candidates list review list low 0
+conduct the announse issue conduct issue low 0
+prepare the result prepare result low 0
+transfer the fund transfer fund low 0
+order the product order product low 0
+get the product get product low 0
+offer a quote offer quote low 0
+prepare the appointment prepare appointment low 0
+conduct the appointment conduct appointment low 0
+collect the missing info collect info low 0
+calculate the insurance package calculate package low 0
+reevaluate the opportunity reevaluate opportunity low 0
+evaluate the person credit score evaluate credit score low 0
+evaluate the misc person evaluate person low 0
+advise the medicine advise medicine low 0
+get the medicine get medicine low 0
+make the referral make referral low 0
+take the patient blood sample take sample low 0
+make the further referral make referral low 0
+perform the genetic testing perform testing low 0
+view a need based scholorship notification view notification low 0
+verify the documents verify documents low 0
+list eligible candidates list candidates low 0
+initiate the interviews initiate interviews low 0
+find the student find student low 0
+grant the scholorship grant scholorship low 0
+reject the student request reject request low 0
+process the claim process claim low 0
+identify the responsibilities identify responsibilities low 0
+change the responsibilities change responsibilities low 0
+develop the bid develop bid low 0
+fill a request form fill form low 0
+evaluate form evaluate form low 0
+reject form reject form low 0
+approve form approve form low 0
+require the ingredient require ingredient low 0
+deliver the food deliver food low 0
+analyze the problem analyze problem low 0
+address the problem address problem low 0
+solve the problem solve problem low 0
+find the problem find problem low 0
+evaluate the problem nature evaluate nature low 0
+advise the customer advise customer low 0
+evaluate the overtime registration evaluate registration low 0
+decline the request decline request low 0
+check the product type check product type low 0
+deliver the goods to the warehouse deliver goods low 0
+evaluate the minimum standard to not meet evaluate standard low 0
+write the rejection letter write letter low 0
+view the products view products low 0
+greet the customer greet customer low 0
+ask the special order ask order low 0
+review the special list review list low 0
+provide the specials provide specials low 0
+order the food order food low 0
+take the item take item low 0
+conduct the available item conduct item low 0
+check the purchase requisition check requisition low 0
+identify the training groups identify groups low 0
+identify the extended workshops identify workshops low 0
+attend the training attend training low 0
+evaluate the performance evaluate performance low 0
+analyze the order analyze order low 0
+check the stock check stock low 0
+make the products make products low 0
+create the consignment pipeline liability create liability low 0
+settle the consignment pipeline liability settle liability low 0
+transmit the consignment pipeline settlement document transmit document low 0
+plan the invoice settlement plan settlement low 0
+create the purchase order create order low 0
+evaluate the receipt settlement evaluate settlement low 0
+release the invoice release invoice low 0
+release the material release material low 0
+release the invoice manually release invoice low 0
+start the production start production low 0
+stop the billing stop billing low 0
+check the account status check status low 0
+pick a gun pick gun low 0
+load the gun load gun low 0
+pull the trigger pull trigger low 0
+strike the firing pin strike firing pin low 0
+fire the gun fire gun low 0
+Assassin the victim Assassin victim low 0
+get the dead get dead low 0
+misfire the gun misfire gun low 0
+understand the requirement specification understand specification low 0
+prepare the item prepare item low 0
+provide the personal information provide information low 0
+check the service requirments check requirments low 0
+check the service availability check availability low 0
+open the customer inquiry open inquiry low 0
+determine the tax determine tax low 0
+determine the vehicle price determine price low 0
+determine the markup discounts determine discounts low 0
+perform the export check perform check low 0
+forbid the export forbid export low 0
+perform the export control perform control low 0
+process the required documents process documents low 0
+supervise the customer order supervise order low 0
+ship the vehicle ship vehicle low 0
+create the product demand list create list low 0
+plan the production order plan order low 0
+create the production order list create list low 0
+review the production list review list low 0
+reject the production schedule list reject list low 0
+accept the production schedule list accept list low 0
+apologize to the customer apologize customer low 0
+receive the pizza delivery receive pizza low 0
+eat the pizza eat pizza low 0
+receive the spare parts receive parts low 0
+prepare the receipt prepare receipt low 0
+receive spare parts receive parts low 0
+demand spare parts demand parts low 0
+review the detail review detail low 0
+find the user transaction find transaction low 0
+conduct the transaction conduct transaction low 0
+consult the website specification consult specification low 0
+prepare the proposal prepare proposal low 0
+document the specifications document specifications low 0
+conduct the kickoff meeting conduct meeting low 0
+design the website template design template low 0
+design the wireframe design wireframe low 0
+design the information architecture design architecture low 0
+assemble the contents assemble contents low 0
+design the graphics design graphics low 0
+design the animations design animations low 0
+take the client approval take approval low 0
+decide the channel optimizations decide optimizations low 0
+launch the website launch website low 0
+evaluate the entered correctness evaluate correctness low 0
+evaluate completnesses evaluate completnesses low 0
+enter in the hotel for dinner enter hotel low 0
+handovers the order to the customer handovers order low 0
+allocate the seat allocate seat low 0
+provide the menu provide menu low 0
+forwards the order forwards order low 0
+cook the meal cook meal low 0
+eat the meat eat meat low 0
+complete the dine complete dine low 0
+issue the bill issue bill low 0
+make the production make production low 0
+prepare a product requisition prepare requisition low 0
+create the testing plan create plan low 0
+make the correction make correction low 0
+find the possible request find request low 0
+make the statments make statments low 0
+give fact give fact low 0
+check the bill information check information low 0
+find the need find need low 0
+conduct the production start conduct production low 0
+finish the production finish production low 0
+process the credit card process credit card low 0
+issue the credit report issue report low 0
+import the product import product low 0
+display the list display list low 0
+verify the payment verify payment low 0
+verify the payments verify payments low 0
+close the ticket close ticket low 0
+assign the ticket assign ticket low 0
+open a project workspace open workspace low 0
+fill the application form fill form low 0
+accept the request accept request low 0
+check the ticket check ticket low 0
+check the customer credit check credit low 0
+visit a website visit website low 0
+check the assessment detail check detail low 0
+check the legal grounds check grounds low 0
+identify the application legislation identify legislation low 0
+generate an order generate order low 0
+accomplish the support accomplish support low 0
+complete the ticket complete ticket low 0
+accomplish the order accomplish order low 0
+complete the billing complete billing low 0
+prepare the developmental needs prepare needs low 0
+find the qualiy ok find qualiy low 0
+find the order cannot be fulfilled find order low 0
+assign the emergency contact to the duty officer\/contractor \/ assign contact low 0
+take the decision take decision low 0
+arrive at the clinic arrive clinic low 0
+arrive a hospital arrive hospital low 0
+write the acceptance letter write letter low 0
+ship the warehouse ships ship ships low 0
+wait for to unload item wait item low 0
+show the login page to the user show page low 0
+arrive at the inquiry desk arrive desk low 0
+serve as the meal serve meal low 0
+complete the detailed assessment complete assessment low 0
+take the further decision take decision low 0
+approve the loan approve loan low 1
+assemble the bicycle assemble bicycle low 1
+assemble the bicycle assemble bicycle low 1
+call the customer call customer low 1
+call the customer call customer low 1
+fill the post fill post low 1
+fill the post fill post low 1
+indicate the type indicate type low 1
+indicate the type indicate type low 1
+manufacture customized bicycles manufacture bicycles low 1
+manufacture customized bicycles manufacture bicycles low 1
+prepare everything in the meantime prepare everything low 1
+prepare everything in the meantime prepare everything low 1
+process the part list process list low 1
+process the part list process list low 1
+repeat procedure repeat procedure low 1
+repeat procedure repeat procedure low 1
+send the telephone to the repair department send telephone low 1
+send the telephone to the repair department send telephone low 1
+take place take place  low 1
+take place take place  low 1
+assign the carrier assign carrier low 1
+move the package move package low 1
+fulfil the order fulfil order low 1
+prepare the shipment prepare shipment low 1
+check the quote check quote low 1
+review the quote review quote low 1
+check the quote check quote low 1
+fulfill the order fulfill order low 1
+check the credit check credit low 1
+reject the loan request reject request low 1
+review the insurance policy review policy low 1
+review the offer review offer low 1
+check the balance check balance low 1
+find the sufficent balance find balance low 1
+review the insurance policy review policy low 1
+open the registration screen open screen low 1
+assign the category assign category low 1
+assign the category assign category low 1
+store the goods receipt store receipt low 1
+give an order give order low 1
+find the available funds find funds low 1
+add the funds add funds low 1
+process the customer order process order low 1
+check the inventory check inventory low 1
+prepare the purchase requisition prepare requisition low 1
+pack the product pack product low 1
+deliver the product deliver product low 1
+deliver the goods deliver goods low 1
+invite the candidates invite candidates low 1
+sign the contract sign contract low 1
+review the updates review updates low 1
+review the offer review offer low 1
+reject the offer reject offer low 1
+accept the offer accept offer low 1
+receive the cheque book receive book low 1
+receive the cheque book receive book low 1
+prepare the customer communication material prepare material low 1
+prepare the customer communication material prepare material low 1
+gather the customer information gather information low 1
+perform the customer information inquiry perform inquiry low 1
+perform the pre-order validation results perform results low 1
+perform the pre-order validation results perform results low 1
+find the available service find service low 1
+open the registration screen open screen low 1
+store the goods receipt store receipt low 1
+accept baby accept baby low 1
+accept baby accept baby low 1
+decide on the first name decide name low 1
+decide on the first name decide name low 1
+check the identity check identity low 1
+refuse the continution refuse continution low 1
+check the gba data check data low 1
+check the validity check validity low 1
+check the gba check gba low 1
+search the gba data search data low 1
+check the certificate check certificate low 1
+check the validity check validity low 1
+check the identity check identity low 1
+check the gba data check data low 1
+search the gba data search data low 1
+sign the certificate sign certificate low 1
+refuse the continution refuse continution low 1
+check the gba check gba low 1
+sign the certificate sign certificate low 1
+complete an application complete application low 1
+create the letter create letter low 1
+find the equivalent bachelor find bachelor low 1
+accept the application accept application low 1
+find the equivalent bachelor find bachelor low 1
+fill in printed form fill form low 1
+examine board examine board low 1
+examine board examine board low 1
+fill in printed form fill form low 1
+conduct the interview conduct interview low 1
+receive the acceptance letter receive letter low 1
+check the completeness check completeness low 1
+mark complete mark  low 1
+complete the application complete application low 1
+mark complete mark  low 1
+receive the acceptance letter receive letter low 1
+complete an application complete application low 1
+evaluate the application evaluate application low 1
+take the oral exam take exam low 1
+receive the letter receive letter low 1
+check the certificate check certificate low 1
+take the oral exam take exam low 1
+evaluate the application evaluate application low 1
+mark the suitable applicant mark applicant low 1
+mark the suitable applicant mark applicant low 1
+deliver the goods deliver goods low 1
+reject the candidate reject candidate low 1
+deliver the book deliver book low 1
+check the credit check credit low 1
+execute the order execute order low 1
+execute the order execute order low 1
+find the bug find bug low 1
+find the bug find bug low 1
+conduct the optimal quotation conduct quotation low 1
+conduct the optimal quotation conduct quotation low 1
+bake the pizza bake pizza low 1
+deliver the pizza deliver pizza low 1
+accept the offer accept offer low 1
+review the application review application low 1
+conduct the interview conduct interview low 1
+reject the candidate reject candidate low 1
+identify a vacancy identify vacancy low 1
+review the vacancy review vacancy low 1
+write the job description write description low 1
+determine the channels determine channels low 1
+deliver the book deliver book low 1
+verify the credit card verify credit card low 1
+check the balance check balance low 1
+find the balance insufficent find balance low 1
+find the balance sufficent find balance low 1
+review the quote review quote low 1
+find the sufficent balance find balance low 1
+reject the offer reject offer low 1
+find the defective sample find sample low 1
+find the defective sample find sample low 1
+fulfil the order fulfil order low 1
+take the extra insurance take insurance low 1
+take the extra insurance take insurance low 1
+assign the carrier assign carrier low 1
+move the package move package low 1
+identify a vacancy identify vacancy low 1
+access the vacancy access vacancy low 1
+review the vacancy review vacancy low 1
+write the job description write description low 1
+determine the channels determine channels low 1
+verify the credit card verify credit card low 1
+find the balance sufficent find balance low 1
+find the balance insufficent find balance low 1
+find the authority find authority low 1
+find the authority find authority low 1
+process the invoice process invoice low 1
+find the eligible person find person low 1
+find the eligible person find person low 1
+reject the loan request reject request low 1
+check the patient check patient low 1
+check the patient check patient low 1
+give an order give order low 1
+check the available or not funds check funds low 1
+check the available or not funds check funds low 1
+find the available funds find funds low 1
+add the funds add funds low 1
+process the customer order process order low 1
+check the inventory check inventory low 1
+prepare the purchase requisition prepare requisition low 1
+pack the product pack product low 1
+deliver the product deliver product low 1
+create the letter create letter low 1
+invite the candidates invite candidates low 1
+sign the contract sign contract low 1
+review the updates review updates low 1
+review the application review application low 1
+accept the application accept application low 1
+receive the letter receive letter low 1
+process the invoice process invoice low 1
+produce the articles produce articles low 1
+starts the billing starts billing low 1
+produce the articles produce articles low 1
+gather the customer information gather information low 1
+perform the customer information inquiry perform inquiry low 1
+find the available service find service low 1
+manufacture the products manufacture products low 1
+bake the pizza bake pizza low 1
+deliver the pizza deliver pizza low 1
+manufacture the products manufacture products low 1
+prepare the shipment prepare shipment low 1
+identify the reasons identify reasons low 1
+identify the reasons identify reasons low 1
+promote the product promote product low 1
+promote the product promote product low 1
+launch the product launch product low 1
+launch the product launch product low 1
+starts the billing starts billing low 1
+open the ticket open ticket low 1
+open the ticket open ticket low 1
+fulfill the order fulfill order low 1
+check the completeness check completeness low 1
+complete the application complete application low 1
+take the extra insurance take insurance low 1
+create a trouble report create report low 1
+create a trouble report create report low 1
+create a trouble report create report low 1
+process the order process order low 1
+return the goods return goods low 1
+package the goods package goods low 1
+complete the order complete order low 1
+prepare the order prepare order low 1
+prepare the order prepare order low 1
+prepare the invoice prepare invoice low 1
+prepare the invoice prepare invoice low 1
+resolve the issue resolve issue low 1
+return the goods return goods low 1
+purchase the order purchase order low 1
+package the goods package goods low 1
+process the order process order low 1
+return the goods return goods low 1
+return the documents return documents low 1
+determine the next action determine action low 1
+determine the next action determine action low 1
+return the documents return documents low 1
+determine the next action determine action low 1
+return the documents return documents low 1
+fill out the application form fill form low 1
+reject the applicant reject applicant low 1
+send the rejection letter send letter low 1
+receive the rejection letter receive letter low 1
+send the acceptance letter send letter low 1
+fill out the application form fill form low 1
+fill out the application form fill form low 1
+send the rejection letter send letter low 1
+reject the applicant reject applicant low 1
+send the acceptance letter send letter low 1
+receive the rejection letter receive letter low 1
+send the acceptance letter send letter low 1
+prepare the material prepare material low 1
+reject the applicant reject applicant low 1
+process the order process order low 1
+complete the order complete order low 1
+prepare the invoice prepare invoice low 1
+prepare the material prepare material low 1
+resolve the issue resolve issue low 1
+resolve the issue resolve issue low 1
+package the goods package goods low 1
+purchase the order purchase order low 1
+prepare the food prepare food low 1
+prepare the food prepare food low 1
+prepare the material prepare material low 1
+prepare the food prepare food low 1
+send the rejection letter send letter low 1
+receive the rejection letter receive letter low 1
+ship the products ship products low 1
+prepare the order prepare order low 1
+ship the products ship products low 1
+ship the products ship products low 1
+complete the order complete order low 1
+approve the request approve request low 1
+approve the request approve request low 1
+create the birth certificate create certificate low 1
+create the birth certificate create certificate low 1
+create the birth certificate create certificate low 1
+create the birth certificate create certificate low 1
+purchase the raw material purchase material low 1
+purchase the raw material purchase material low 1
+purchase the raw material purchase material low 1
+purchase the raw material purchase material low 1
+send the letter send letter low 1
+check the quality check quality low 1
+check the quality check quality low 1
+check the documents check documents low 1
+check the documents check documents low 1
+check the documents check documents low 1
+check the documents check documents low 1
+send the letter send letter low 1
+send the letter send letter low 1
+check the documents check documents low 1
+send the letter send letter low 1
+send the letter send letter low 1
+check the quality check quality low 1
+ship the order ship order low 1
+ship the order ship order low 1
+ship the order ship order low 1
+check the quality check quality low 1
+ship the order ship order low 1
+ship the order ship order low 1
+plan the production plan production low 1
+plan the production plan production low 1
+plan the production plan production low 1
+check the quality check quality low 1
+plan the production plan production low 1
+plan the production plan production low 1
+accept the order accept order medium 1
+accept the order accept order medium 1
+reject the request reject request medium 1
+check the availability check availability medium 1
+review the order review order medium 1
+review the order review order medium 1
+accept the order accept order medium 1
+reject the request reject request medium 1
+check the application check application medium 1
+check the application check application medium 1
+check the application check application medium 1
+check the application check application medium 1
+check the application check application medium 1
+check the application check application medium 1
+check the availability check availability medium 1
+review the order review order medium 1
+check the availability check availability medium 1
+check the availability check availability medium 1
+check the availability check availability medium 1
+review the order review order medium 1
+reject the request reject request medium 1
+accept the order accept order medium 1
+reject the request reject request medium 1
+reject the request reject request medium 1
+review the order review order medium 1
+accept the order accept order medium 1
+review the order review order medium 1
+accept the order accept order medium 1
+reject the request reject request medium 1
+check the availability check availability medium 1
+review the request review request medium 1
+add the certificate add certificate medium 1
+add the certificate add certificate medium 1
+add the certificate add certificate medium 1
+add the certificate add certificate medium 1
+add the certificate add certificate medium 1
+add the certificate add certificate medium 1
+add the certificate add certificate medium 1
+review the request review request medium 1
+review the request review request medium 1
+review the request review request medium 1
+review the request review request medium 1
+review the request review request medium 1
+review the request review request medium 1
+receive the goods receive goods medium 1
+receive the goods receive goods medium 1
+receive the goods receive goods medium 1
+receive the goods receive goods medium 1
+receive the goods receive goods medium 1
+receive the goods receive goods medium 1
+receive the goods receive goods medium 1
+receive the goods receive goods medium 1
+reject the order reject order medium 1
+reject the order reject order medium 1
+reject the order reject order medium 1
+reject the order reject order medium 1
+reject the order reject order medium 1
+reject the order reject order medium 1
+reject the order reject order medium 1
+reject the order reject order medium 1
+reject the order reject order medium 1

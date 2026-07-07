@@ -1,0 +1,2915 @@
+textid,sentenceID,activityID,Activity,resource,object,gsClass
+p1,2,4,discuss the problem,customer,Resource - [the] problem,0
+p1,4,6,explain the solution,customer,Resource - [the] solution,0
+p1,5,7,conduct the problem,customer,Resource - [the] problem,0
+p1,10,12,call the service provider,customer,Actor - [the] [service] provider,0
+p10,2,3,process the seat availabilty,customer,Resource - [the] seat,0
+p10,6,7,check the rejection notification,customer,Resource - the,0
+p100,0,1,receive the goods,,Resource - [the] goods,0
+p100,1,2,check the goods,,Resource - [the] goods,0
+p100,10,11,identify the issue,,Meta-Actor - [the] issue,0
+p100,11,12,return the goods,,Resource - [the] goods,0
+p100,12,13,prepare the inspection list,,Resource - [the] [inspection] list,0
+p101,2,2,package the goods,worker,Resource - [the] goods,0
+p101,3,3,decide the normal order,worker,Meta-Actor - [the] [normal] order,0
+p101,3,4,decide special shipment,worker,Resource - [special] shipment,0
+p101,5,5,find the special carrier,worker,Meta-Actor - [the] [special] carrier,0
+p101,6,6,assign the carrier,worker,Meta-Actor - [the] carrier,0
+p101,7,7,prepare the paperwork,worker,Resource - [the] paperwork,0
+p101,8,8,finalize the shipment,worker,Resource - [the] shipment,0
+p101,9,9,find the normal post,worker,Resource - [the] [normal] post,0
+p101,10,11,check extra insurrance,worker,Resource - [extra] insurrance,0
+p101,11,12,find the extra insurance to require ,worker,Resource - [the] [extra] insurance,0
+p101,12,13,fill out form,worker,Meta-Actor - form,0
+p101,14,16,add the paper work,worker,Resource - [the] [paper] work,0
+p101,15,17,move the package,worker,Resource - [the] package,0
+p102,0,1,decide a menu,food supplier,Resource - [a] menu,0
+p102,0,2,decide budgets,food supplier,Resource - budgets,0
+p102,1,3,prepare the order list,food supplier,Resource - [the] [order] list,0
+p102,4,6,check the availability,food supplier,Resource - [the] availability,0
+p102,8,9,find the available order,food supplier,Meta-Actor - [the] [available] order,0
+p102,9,10,collect the items,food supplier,Resource - [the] items,0
+p102,18,15,starts the cooking,food supplier,Resource - [the] cooking,0
+p102,20,16,dispatch the order,food supplier,Meta-Actor - [the] order,0
+p103,1,2,check the status,manufacturer,Resource - [the] status,0
+p103,4,3,reserve the inventory,manufacturer,Resource - [the] inventory,0
+p103,5,4,find the available address,manufacturer,Resource - [the] [available] address,0
+p103,6,5,validate the address,manufacturer,Resource - [the] address,0
+p103,7,7,review the order,manufacturer,Meta-Actor - [the] order,0
+p103,10,10,check the other requirments,manufacturer,Resource - [the] [other] requirments,0
+p103,11,11,reject the order,manufacturer,Meta-Actor - [the] order,0
+p103,13,14,fulfil the order,manufacturer,Meta-Actor - [the] order,0
+p103,18,19,create the code,manufacturer,Resource - [the] code,0
+p103,19,21,plan the shipment,manufacturer,Resource - [the] shipment,0
+p103,21,24,complete the order,manufacturer,Meta-Actor - [the] order,0
+p104,1,1,get the model requirments,analyst,Resource - [the] [model] requirments,0
+p104,5,4,list the requirments,analyst,Resource - [the] requirments,0
+p104,6,5,verify the requirments,analyst,Resource - [the] requirments,0
+p104,9,7,reject the requirments,analyst,Resource - [the] requirments,0
+p104,13,11,accept the requirements,analyst,Resource - [the] requirements,0
+p104,15,12,verify the specifications,analyst,Resource - [the] specifications,0
+p104,16,13,check the design,analyst,Resource - [the] design,0
+p104,18,14,accept the design,analyst,Resource - [the] design,0
+p104,23,19,implement the design,analyst,Resource - [the] design,0
+p104,25,21,integrate the design,analyst,Resource - [the] design,0
+p104,27,23,finalize the integration,analyst,Resource - [the] integration,0
+p104,29,25,launch the model,analyst,Actor - [the] model,0
+p105,3,4,prepare the order,customer,Meta-Actor - [the] order,0
+p105,7,8,check the credit card,customer,Resource - [the] [credit] card,0
+p105,8,9,validate the credit card,customer,Resource - [the] [credit] card,0
+p105,9,10,verify the email address,customer,Resource - [the] [email] address,0
+p105,10,11,validate the email address,customer,Resource - [the] [email] address,0
+p106,1,2,verify the credit card system,customer,Resource - [the] [credit card] system,0
+p106,2,3,check the default payment,customer,Resource - [the] [default] payment,0
+p106,10,12,send the book,customer,Resource - [the] book,0
+p106,11,14,conduct the complete order,customer,Meta-Actor - [the] [complete] order,0
+p107,0,1,decides to buy a book,customer,,0
+p107,1,2,open the online website,customer,Resource - [the] [online] website,0
+p107,2,3,find the book title,customer,Resource - [the] [book] title,0
+p107,8,9,process the request,customer,Resource - [the] request,0
+p107,11,12,add the book to the shopping cart,customer,Resource - [the] book,0
+p107,17,17,find the available amount,customer,Resource - [the] [available] amount,0
+p107,18,18,reject the shipment,customer,Resource - [the] shipment,0
+p107,22,22,prepare the shipment,customer,Resource - [the] shipment,0
+p108,0,1,prepare a requisition,ship officer,Resource - [a] requisition,0
+p108,1,2,prepare the request,ship officer,Resource - [the] request,0
+p108,2,3,check the request,ship officer,Resource - [the] request,0
+p108,3,4,check the quote,ship officer,Resource - the,0
+p108,4,5,evaluate the rfq,ship officer,Resource - [the] rfq,0
+p108,9,9,review the rfq,ship officer,Resource - [the] rfq,0
+p108,10,10,prepare the quote,ship officer,Resource - [the] quote,0
+p108,11,11,review the quote,ship officer,Resource - [the] quote,0
+p108,12,12,check the quote,ship officer,Resource - the,0
+p108,15,14,prepare the quote response,ship officer,Resource - [the] [quote] response,0
+p108,18,17,review the quote response,ship officer,Resource - [the] [quote] response,0
+p108,20,19,prepare the order,ship officer,Meta-Actor - [the] order,0
+p108,22,21,review the order,ship officer,Meta-Actor - [the] order,0
+p108,25,23,accept the order,ship officer,Meta-Actor - [the] order,0
+p108,26,24,fulfill the order,ship officer,Meta-Actor - [the] order,0
+p108,27,25,receive the ordered items,ship officer,Resource - [the] [ordered] items,0
+p108,28,26,prepare the invoice,ship officer,Resource - [the] invoice,0
+p108,32,30,conduct the resend order,ship officer,Meta-Actor - [the] [resend] order,0
+p109,0,1,prepare a new request,customer,Resource - [a] [new] request,0
+p109,3,4,check the info,customer,Resource - [the] info,0
+p109,9,9,check the emergency,customer,Resource - [the] emergency,0
+p109,11,11,check the stl housing concern,customer,Meta-Actor - [the] [stl housing] concern,0
+p109,20,19,correct the problem,customer,Resource - [the] problem,0
+p109,22,22,assign the routine or priority order,customer,Meta-Actor - [the] [routine or priority] order,0
+p109,23,23,check the assigned order,customer,Meta-Actor - [the] [assigned] order,0
+p109,26,26,advise the options,customer,Resource - [the] options,0
+p109,32,31,inspect the work,customer,Resource - [the] work,0
+p109,34,32,check the cleared escort,customer,Actor - [the] [cleared] escort,0
+p109,38,36,arrange the clear escort,customer,Actor - [the] [clear] escort,0
+p109,39,38,assign the work to work order clerk,customer,Resource - [the] work,0
+p109,40,39,perform the work,customer,Resource - [the] work,0
+p109,41,41,complete the work order,customer,Meta-Actor - [the] [work] order,0
+p109,44,44,close the work order,customer,Meta-Actor - [the] [work] order,0
+p109,45,45,complete the satisfaction survey,customer,Resource - [the] [satisfaction] survey,0
+p11,0,1,identify a payment method,retailer,Resource - [a] [payment] method,0
+p11,3,3,accept the cash,retailer,Resource - [the] cash,0
+p11,4,4,prepare the package,retailer,Resource - [the] package,0
+p11,6,7,accept credit card,retailer,Resource - [credit] card,0
+p11,10,11,prepare the invoice,retailer,Resource - [the] invoice,0
+p110,0,1,buy a product,customer,Resource - [a] product,0
+p110,1,2,fill the credit form,customer,Meta-Actor - [the] [credit] form,0
+p110,4,5,check the credit,customer,Resource - [the] credit,0
+p110,5,6,get the credit criteria,customer,Resource - [the] [credit] criteria,0
+p110,6,7,review the receivable accounts,customer,Resource - [the] [receivable] accounts,0
+p110,7,8,calculate the credit terms,customer,Resource - [the] [credit] terms,0
+p111,2,3,review the request,employee,Resource - [the] request,0
+p111,4,5,conduct the risk assessment,employee,Resource - [the] [risk] assessment,0
+p111,6,8,analyze the requirements,employee,Resource - [the] requirements,0
+p111,8,9,conduct the positive risk assessment,employee,Resource - [the] [positive] [risk] assessment,0
+p111,9,10,setups the loan contract,employee,Resource - [the] [loan] contract,0
+p111,11,11,fulfill the loan request,employee,Resource - [the] [loan] request,0
+p111,14,13,reject the loan request,employee,Resource - [the] [loan] request,0
+p112,3,2,give the department feed back,manager,Resource - [the] [department] feed,0
+p112,5,3,give the client feedback,manager,Resource - [the] [client] feedback,0
+p112,6,5,collect the feedback,manager,Resource - [the] feed,0
+p112,7,6,assess the feedback,manager,Resource - [the] feed,0
+p112,10,7,send the letter,manager,Actor - [the] letter,0
+p113,4,4,investigate the demographics,customer,Resource - [the] demographics,0
+p113,5,5,review the insurance policy,customer,Resource - [the] [insurance] policy,0
+p114,1,2,describe the illness,doctor,Resource - [the] illness,0
+p114,2,3,receive the symptoms,doctor,Resource - [the] symptoms,0
+p114,3,4,examine the symptoms,doctor,Resource - [the] symptoms,0
+p114,4,5,consider the suitable drugs,doctor,Resource - [the] [suitable] drugs,0
+p114,5,6,ask for cost,doctor,,0
+p114,9,10,check the specification,doctor,Resource - [the] specification,0
+p114,9,11,check requirmentses,doctor,Resource - requirmentses,0
+p115,3,3,check the booking request details,travel agent,Resource - [the] [booking] [request] detailes,0
+p115,4,4,check the flights details,travel agent,Resource - [the] [flights] details,0
+p115,5,5,check the availablity,travel agent,Resource - [the] availablity,0
+p115,11,11,find the available flight,travel agent,Meta-Actor - [the] [available] flight,0
+p115,12,12,conduct the alternative flight offered,travel agent,Meta-Actor - [the] [alternative] flight,0
+p115,14,14,review the offer,travel agent,Resource - [the] offer,0
+p116,2,4,review the ticket,customer,Resource - [the] ticket,0
+p116,7,9,resolve the issue,customer,Meta-Actor - [the] issue,0
+p116,13,15,review the issue,customer,Meta-Actor - [the] issue,0
+p117,3,4,verify the request,customer,Resource - [the] request,0
+p117,4,5,reserve the fuel type,customer,Meta-Actor - [the] [fuel] type,0
+p117,7,8,provide the info,customer,Resource - [the] info,0
+p117,10,11,look up at the subscription,customer,,0
+p117,11,12,deliver the fuel,customer,Resource - [the] fuel,0
+p117,12,13,conduct the complete fuel process,customer,Resource - [the] [complete] [fuel] process,0
+p117,13,14,search the customer data,customer,Resource - [the] [customer] data,0
+p118,1,2,verify the creditcard,bank,Resource - [the] creditcard,0
+p118,2,3,check the balance,bank,Meta-Actor - [the] balance,0
+p118,4,5,find the insufficient balance,bank,Meta-Actor - [the] [insufficient] balance,0
+p118,5,6,reject the order,bank,Meta-Actor - [the] order,0
+p118,7,8,find the sufficent balance,bank,Meta-Actor - [the] [sufficent] balance,0
+p118,9,10,process the logging,bank,Resource - [the] lodging,0
+p118,12,13,process the activity order,bank,Meta-Actor - [the] [activity] order,0
+p118,15,16,process the airline order,bank,Meta-Actor - [the] [airline] order,0
+p119,1,2,check the claim details,clerk,Resource - [the] [claim] detailes,0
+p119,2,3,express claim,clerk,Resource - claim,0
+p119,8,9,conduct the high touch claim,clerk,Resource - [the] [high] [touch] cliam,0
+p119,10,12,conduct the handled claim,clerk,Resource - [the] [handled] claim,0
+p12,1,2,check the vacation rights,employer,Actor - [the] [vacation] rights,0
+p12,3,3,reject the vacations,employer,Resource - [the] vacations,0
+p12,5,5,accept the vacations,employer,Resource - [the] vacations,0
+p12,7,7,calculate the documentation,employer,Resource - [the] documentation,0
+p12,7,8,provide the documentation,employer,Resource - [the] documentation,0
+p12,9,10,deliver the vacations doumentation,employer,Resource - [the] [vacations] doumentation,0
+p120,2,4,access the documents,customer,Resource - [the] documents,0
+p120,3,5,investigate the claim,customer,Resource - [the] claim,0
+p120,4,6,review to complete ,customer,,0
+p120,5,7,review the insurance policy,customer,Resource - [the] [insurance] policy,0
+p120,11,13,fulfill the requirements,customer,Resource - [the] requirements,0
+p121,2,3,open the registration screen,user,Actor - [the] [registration] screen,0
+p122,6,6,conduct the complaint created,complaint receiver,Resource - [the] complaint,0
+p122,9,10,assign the incoming email,complaint receiver,Resource - [the] [incoming] email,0
+p122,10,11,read the email,complaint receiver,Resource - [the] email,0
+p122,12,14,assign the category mannually,complaint receiver,Resource - [the] category,0
+p122,13,15,conduct the customer claim,complaint receiver,Resource - [the] [customer] claim,0
+p122,14,16,assign the category,complaint receiver,Resource - [the] category,0
+p122,15,19,assign the category,complaint receiver,Resource - [the] category,0
+p123,0,1,receive the goods,incoming goods department,Resource - [the] goods,0
+p123,2,3,receive the goods,incoming goods department,Resource - [the] goods,0
+p123,3,4,check the quality,incoming goods department,Resource - [the] quality,0
+p123,6,6,store the goods receipt,incoming goods department,Resource - [the] [goods] receipt,0
+p123,10,9,create the inspection report,incoming goods department,Resource - [the] [inspection] report,0
+p123,12,11,return the goods,incoming goods department,Resource - [the] goods,0
+p124,0,1,give an order,customer,Meta-Actor - [an] order,0
+p124,5,5,find the available funds,customer,Resource - [the] [available] funds,0
+p124,6,6,add the funds,customer,Resource - [the] funds,0
+p124,8,9,process the customer order,customer,Meta-Actor - [the] [customer] order,0
+p124,9,10,check the inventory,customer,Resource - [the] inventory,0
+p124,12,13,prepare the purchase requisition,customer,Resource - [the] [purchase] requisition,0
+p124,13,14,purchase the order,customer,Meta-Actor - [the] order,0
+p124,17,16,pack the product,customer,Resource - [the] product,0
+p124,18,17,deliver the product,customer,Resource - [the] product,0
+p125,2,3,prepare the goods acquisition,customer,Resource - [the] [goods] acquisition,0
+p125,3,4,check the quality,customer,Resource - [the] quality,0
+p125,10,9,package the goods,customer,Resource - [the] goods,0
+p125,13,13,get the goods to deliver ,customer,Resource - [the] goods,0
+p125,14,14,deliver the goods,customer,Resource - [the] goods,0
+p125,15,15,get the ordered goods,customer,Resource - [the] [ordered] goods,0
+p126,1,2,develop the project budget,company,Resource - [the] [project] budget,0
+p126,3,4,invite the candidates,company,Actor - [the] candidates,0
+p126,4,5,build up the project bid,company,Resource - [the] [project] bid,0
+p126,5,6,review the list,company,Resource - [the] list,0
+p126,7,8,sign the contract,company,Resource - [the] contract,0
+p126,10,10,monitor the project,company,Resource - [the] project,0
+p126,11,12,review the updates,company,Resource - [the] updates,0
+p127,0,1,review the short listed candidates,hr manager,Actor - [the] [short listed] candidates,0
+p127,2,3,offer package,hr manager,Resource - package,0
+p127,3,4,receive the offer package,hr manager,Resource - [the] [offer] package,0
+p127,4,5,review the package,hr manager,Resource - [the] package,0
+p127,6,6,reject the package,hr manager,Resource - [the] package,0
+p127,10,10,accept the package,hr manager,Resource - [the] package,0
+p127,11,12,manager forwards the package,hr manager,Resource - [the] package,0
+p127,13,14,review the offer,hr manager,Resource - [the] offer,0
+p127,15,16,reject the offer,hr manager,Resource - [the] offer,0
+p127,16,17,review the non acceptance,hr manager,Resource - [the] [non] acceptance,0
+p127,18,19,accept the offer,hr manager,Resource - [the] offer,0
+p128,2,3,check the request completion,customer,Resource - [the] [request] completion,0
+p128,3,4,determine the customer status,customer,Resource - [the] [customer] status,0
+p128,5,6,prepare the response,customer,Resource - [the] response,0
+p128,8,9,determine the premium,customer,Resource - [the] premium,0
+p128,9,10,assess the policy,customer,Resource - [the] policy,0
+p129,0,1,admit a patient,hospital,Meta-Actor - [a] patient,0
+p129,1,2,perform the checkup,hospital,Resource - [the] checkup,0
+p129,2,3,examine the patient,hospital,Meta-Actor - [the] patient,0
+p129,4,5,discuss the risks,hospital,Resource - [the] risks,0
+p129,5,6,examine the anesthesia,hospital,Resource - [the] anesthesia,0
+p129,7,8,schedule the surgery,hospital,Resource - [the] surgery,0
+p129,8,9,check the patient record,hospital,Resource - [the] [patient] record,0
+p129,9,10,send the patient to the surgical suite,hospital,Meta-Actor - [the] patient,0
+p129,10,11,perform the surgery,hospital,Resource - [the] surgery,0
+p129,11,12,transport the patient,hospital,Meta-Actor - [the] patient,0
+p129,12,13,receive the patient,hospital,Meta-Actor - [the] patient,0
+p129,15,15,provide the prostsurgical care,hospital,Resource - [the] [prostsurgical] care,0
+p129,16,16,create the surgical report,hospital,Resource - [the] [surgical] report,0
+p129,17,18,write the discharge letter,hospital,Actor - [the] [discharge] letter,0
+p129,18,19,discharge the patient,hospital,Meta-Actor - [the] patient,0
+p13,0,1,order a cheque book,customer,Resource - [a] [cheque] book,0
+p13,5,5,process the order,customer,Meta-Actor - [the] order,0
+p13,6,6,deliver the cheque book,customer,Resource - [the] [cheque] book,0
+p13,7,7,receive the cheque book,customer,Resource - [the] [cheque] book,0
+p13,9,9,receive the cheque book,customer,Resource - [the] [cheque] book,0
+p130,2,5,program the strategy theme,expert,Resource - [the] [strategy] theme,0
+p130,3,6,open the program specification,expert,Resource - [the] [program] specification,0
+p130,4,7,decide the program objectives,expert,Resource - [the] [program] objectives,0
+p130,5,8,complete the program specification,expert,Resource - [the] [program] specification,0
+p130,9,12,prepare the customer communication material,expert,Resource - [the] [customer] communication [material],0
+p130,9,13,prepare the customer communication material,expert,Resource - [the] [customer] communication [material],0
+p130,10,14,design the verification,expert,Resource - [the] verification,0
+p130,11,15,validate the methods,expert,Resource - [the] methods,0
+p130,12,16,plan the quality,expert,Resource - [the] quality,0
+p131,4,5,gather the customer information,customer,Resource - [the] [customer] information,0
+p131,5,6,perform the customer information inquiry,customer,Resource - [the] [customer information] inquiry,0
+p131,7,9,review the requirments,customer,Resource - [the] requirments,0
+p131,8,10,check the available or not services,customer,Resource - [the] [available or not] services,0
+p131,11,12,find the services availble,customer,Resource - [the] [services] availble,0
+p131,12,13,check the amount,customer,Resource - [the] amount,0
+p131,13,14,perform the pre-order validation results,customer,Resource - [the] [pre-order] [validation] results,0
+p131,15,16,find the available service,customer,Meta-Actor - [the] [available] service,0
+p131,16,17,reject the request,customer,Resource - [the] request,0
+p132,2,2,go to the office,worker,,0
+p132,3,3,work from the home,worker,,0
+p132,4,5,reach the office,worker,Actor - [the] office,0
+p132,5,6,assign the required task,worker,Resource - [the] [required] task,0
+p132,8,9,demand the lunch break,worker,Resource - [the] [lunch] break,0
+p132,12,13,stop the work,worker,Resource - [the] work,0
+p133,0,1,open a website,user,Resource - [a] website,0
+p133,2,4,starts the registration,user,Actor - [the] registration,0
+p133,3,5,open the registration screen,user,Actor - [the] [registration] screen,0
+p134,0,1,receive the goods,receiving department,Resource - [the] goods,0
+p134,2,3,receive the goods,receiving department,Resource - [the] goods,0
+p134,3,4,review the quality,receiving department,Resource - [the] quality,0
+p134,6,6,store the goods receipt,receiving department,Resource - [the] [goods] receipt,0
+p134,9,9,store the goods,receiving department,Resource - [the] goods,0
+p134,12,12,create the report,receiving department,Resource - [the] report,0
+p134,13,13,return the goods,receiving department,Resource - [the] goods,0
+p134,15,15,prepare the replacement order,receiving department,Meta-Actor - [the] [replacement] order,0
+p135,2,3,check the documents,hospital administration,Resource - [the] documents,0
+p135,3,4,check the nationality,hospital administration,Resource - [the] nationality,0
+p135,10,12,check the other required conditions,hospital administration,Resource - [the] [other required] conditions,0
+p135,14,16,find the fulfilled conditions,hospital administration,Resource - [the] [fulfilled] conditions,0
+p135,16,19,give the prename,hospital administration,Resource - [the] prename,0
+p135,17,20,check the prename,hospital administration,Resource - [the] prename,0
+p135,19,21,clarify the name,hospital administration,Meta-Actor - [the] name,0
+p135,20,22,give the married name,hospital administration,Meta-Actor - [the] [married] name,0
+p135,21,24,create the certification,hospital administration,Resource - [the] certification,0
+p136,0,1,check a data,administration,Resource - [a] data,0
+p136,7,10,accept baby,administration,Actor - baby,0
+p136,12,15,accept baby,administration,Actor - baby,0
+p136,13,16,check the parents nationality,administration,Resource - [the] [parents] nationality,0
+p136,17,20,conduct the trial,administration,Resource - [the] trial,0
+p136,20,23,find russian,administration,Actor - russian,0
+p136,23,28,create the birth certificate,administration,Resource - [the] [birth] certificate,0
+p136,28,34,get the citizenship stamp,administration,Resource - [the] [citizenship] stamp,0
+p137,1,2,check the documents,hospital administration,Resource - [the] documents,0
+p137,3,4,review the parents citizenship,hospital administration,Resource - [the] [parents] citizenship,0
+p137,5,5,find the atleast,hospital administration,Resource - [the] atleast,0
+p137,7,8,find citizen,hospital administration,Actor - citizen,0
+p137,12,13,find the child born in the wedlock,hospital administration,Actor - [the] child,0
+p137,13,14,consult the father,hospital administration,Meta-Actor - [the] father,0
+p137,14,15,give the father surname,hospital administration,Resource - [the] [father] surname,0
+p137,15,16,decide on the first name,hospital administration,,0
+p137,16,17,find the child not born in the wedlock,hospital administration,Actor - [the] child,0
+p137,17,18,consult the mother,hospital administration,Actor - [the] mother,0
+p137,21,22,decide on the surname,hospital administration,,0
+p137,23,25,give first name,hospital administration,Meta-Actor - [mother] [first] name,0
+p137,24,26,decide on the first name,hospital administration,,0
+p137,26,29,process the birth certificate,hospital administration,Resource - [the] [birth] certificate,0
+p137,27,30,deliver the birth certificate,hospital administration,Resource - [the] [birth] certificate,0
+p138,1,2,check the identity,hospital administration,Resource - [the] identity,0
+p138,8,8,refuse the continution,hospital administration,Resource - [the] continution,0
+p138,10,10,fill in birth registration form,hospital administration,,0
+p138,11,11,check the gba data,hospital administration,Resource - [the] [gba] data,0
+p138,12,12,create the birth certificate,hospital administration,Resource - [the] [birth] certificate,0
+p138,13,13,sign the birth certificate,hospital administration,Resource - [the] [birth] certificate,0
+p138,14,14,return the documents,hospital administration,Resource - [the] documents,0
+p138,17,16,check the validity,hospital administration,Resource - [the] validity,0
+p138,19,18,finalize the registration,hospital administration,Actor - [the] registration,0
+p138,20,19,determine the next action,hospital administration,Resource - [the] [next] action,0
+p139,6,7,collect the documents,inquiry section,Resource - [the] documents,0
+p139,8,9,check the gba,inquiry section,Resource - [the] gba,0
+p139,10,10,determine the next action,inquiry section,Resource - [the] [next] action,0
+p139,11,11,search the gba data,inquiry section,Resource - [the] [gba] data,0
+p139,12,13,fill in the birth certificate,inquiry section,,0
+p139,13,14,create the birth certificate,inquiry section,Resource - [the] [birth] certificate,0
+p139,14,15,check the certificate,inquiry section,Resource - [the] certificate,0
+p139,15,16,return the documents,inquiry section,Resource - [the] documents,0
+p139,16,17,determine the gba municiplility,inquiry section,Resource - [the] [gba] municiplility,0
+p139,18,19,check the validity,inquiry section,Resource - [the] validity,0
+p139,19,20,correct the errors,inquiry section,Resource - [the] errors,0
+p139,21,22,finalize the message exchange,inquiry section,Resource - [the] [message] exchange,0
+p14,0,1,announce the issues,,Meta-Actor - [the] issues,0
+p14,7,5,check the calender,,Resource - [the] calender,0
+p14,11,8,evaluate the discussion process,,Resource - [the] [discussion] process,0
+p140,1,2,check the identity,hospital administration,Resource - [the] identity,0
+p140,4,4,check the gba data,hospital administration,Resource - [the] [gba] data,0
+p140,6,6,determine the next action,hospital administration,Resource - [the] [next] action,0
+p140,7,7,search the gba data,hospital administration,Resource - [the] [gba] data,0
+p140,8,9,determine the desendent,hospital administration,Resource - [the] desendent,0
+p140,10,11,sign the certificate,hospital administration,Resource - [the] certificate,0
+p140,11,12,return the documents,hospital administration,Resource - [the] documents,0
+p140,12,13,determine the gba municipility,hospital administration,Resource - [the] [gba] municipility,0
+p140,16,17,check the accuracy,hospital administration,Resource - [the] accuracy,0
+p140,17,18,finalize the message,hospital administration,Resource - [the] message,0
+p141,1,2,check the term,administration,Resource - [the] term,0
+p141,6,6,refuse the continution,administration,Resource - [the] continution,0
+p141,8,9,run through the data,administration,,0
+p141,9,10,check the gba,administration,Resource - [the] gba,0
+p141,10,11,investigate the gba data,administration,Resource - [the] [gba] data,0
+p141,16,17,determine the child nationality,administration,Resource - [the] [child] nationality,0
+p141,18,19,create the birth certificate,administration,Resource - [the] [birth] certificate,0
+p141,19,20,sign the certificate,administration,Resource - [the] certificate,0
+p141,20,21,finalize the certificate,administration,Resource - [the] certificate,0
+p142,0,1,complete an application,applicant,Resource - [an] application,0
+p142,2,2,fill out the application form,applicant,Resource - [the] [application] form,0
+p142,3,3,add the certificate,applicant,Resource - [the] certificate,0
+p142,4,4,create the letter,applicant,Actor - [the] letter,0
+p142,4,5,add the letter,applicant,Actor - [the] letter,0
+p142,5,7,provide the additional information,applicant,Resource - [the] [additional] information,0
+p142,8,9,add the recomendations,applicant,Resource - [the] recomendations,0
+p142,11,13,check the application,applicant,Resource - [the] application,0
+p142,12,14,conduct the check application,applicant,Resource - [the] [check] application,0
+p142,14,16,conduct the review application,applicant,Resource - [the] [review] application,0
+p142,20,22,find the time,applicant,Resource - [the] time,0
+p142,22,24,check the application,applicant,Resource - the,0
+p142,24,25,find the equivalent bachelor,applicant,Actor - [the] [equivalent] bachelor,0
+p142,25,26,accept the application,applicant,Resource - [the] application,0
+p142,28,29,find the equivalent bachelor,applicant,Actor - [the] [equivalent] bachelor,0
+p143,3,4,fill in printed form,applicant,,0
+p143,4,6,examine board,applicant,Actor - board,0
+p143,6,8,fill in printed form,applicant,,0
+p143,8,13,check the application,applicant,Resource - [the] application,0
+p143,11,17,reject the application,applicant,Resource - [the] application,0
+p143,16,22,check the continual match,applicant,Actor - [the] [continual] match,0
+p143,17,23,check the entrance qualification,applicant,Resource - [the] [entrance] qualification,0
+p143,18,25,evaluate the requirements,applicant,Resource - [the] requirements,0
+p143,20,26,reject the match,applicant,Actor - [the] match,0
+p143,20,27,reject qualifications,applicant,Resource - qualifications,0
+p143,24,32,accept qualifications,applicant,Resource - qualifications,0
+p144,3,4,check the documents,applicant,Resource - [the] documents,0
+p144,6,7,evaluate the criteria,applicant,Resource - [the] criteria,0
+p144,8,8,reject the applicant,applicant,Actor - [the] applicant,0
+p144,9,9,send the rejection letter,applicant,Actor - [the] [rejection] letter,0
+p144,10,10,receive the rejection letter,applicant,Actor - [the] [rejection] letter,0
+p144,12,12,go to the interview,applicant,,0
+p144,13,13,conduct the interview,applicant,Resource - [the] interview,0
+p144,15,15,send the acceptance letter,applicant,Actor - [the] [acceptance] letter,0
+p144,16,16,receive the acceptance letter,applicant,Actor - [the] [acceptance] letter,0
+p145,6,3,add the certificate,applicant,Resource - [the] certificate,0
+p145,9,7,add the certificate,applicant,Resource - [the] certificate,0
+p145,10,8,fill out the application form,applicant,Resource - [the] [application] form,0
+p145,14,13,check the application,applicant,Resource - [the] application,0
+p145,16,16,evaluate the time,applicant,Resource - [the] time,0
+p145,19,17,find one thing missing,applicant,Resource - [one] thing,0
+p146,4,8,check the citizenship,applicant,Resource - [the] citizenship,0
+p146,6,9,find the international applicant,applicant,Actor - [the] [international] applicant,0
+p146,8,11,find the german applicant,applicant,Actor - [the] [german] applicant,0
+p146,12,16,check the completeness,applicant,Resource - [the] completeness,0
+p146,14,17,mark complete,applicant,Resource - complete,0
+p146,16,19,complete the application,applicant,Resource - [the] application,0
+p146,18,21,mark complete,applicant,,0
+p146,22,24,assess the application,applicant,Resource - [the] application,0
+p146,23,25,mark the application,applicant,Resource - [the] application,0
+p146,31,35,conduct the final confirmation,applicant,Resource - [the] [final] confirmation,0
+p146,33,36,publish the letter,applicant,Actor - [the] letter,0
+p146,35,38,receive the acceptance letter,applicant,Actor - [the] [acceptance] letter,0
+p147,0,1,complete an application,applicant,Resource - [an] application,0
+p147,2,2,create a letter,applicant,Actor - [a] letter,0
+p147,6,6,add the certificate,applicant,Resource - [the] certificate,0
+p147,8,10,create the cv,applicant,Resource - [the] cv,0
+p147,8,11,add the cv,applicant,Resource - [the] cv,0
+p147,9,12,fill out the application form,applicant,Resource - [the] [application] form,0
+p147,10,13,add the certificate,applicant,Resource - [the] certificate,0
+p147,12,15,add the certificate,applicant,Resource - [the] certificate,0
+p147,13,16,add the certificate,applicant,Resource - [the] certificate,0
+p147,17,20,check the application,applicant,Resource - [the] application,0
+p147,19,23,evaluate the application,applicant,Resource - [the] application,0
+p147,21,25,find the requirements to miss ,applicant,Resource - [the] requirements,0
+p147,23,27,hand over the application to the examining board,applicant,Resource - [the] application,0
+p147,29,31,sum the score,applicant,Resource - [the] score,0
+p147,32,33,send the rejection letter,applicant,Actor - [the] [rejection] letter,0
+p147,34,35,invite the applicants,applicant,Actor - [the] applicants,0
+p147,35,36,appoint the applicant,applicant,Actor - [the] applicant,0
+p147,36,37,take the interviews,applicant,Resource - [the] interviews,0
+p147,37,38,make the decision,applicant,Resource - [the] decision,0
+p147,39,39,reject the applicant,applicant,Actor - [the] applicant,0
+p147,45,46,send the acceptance letter,applicant,Actor - [the] [acceptance] letter,0
+p148,3,4,check the documents,applicant,Resource - [the] documents,0
+p148,5,5,conduct the required marks,applicant,Resource - [the] [required] marks,0
+p148,6,6,take the oral exam,applicant,Resource - [the] [oral] exam,0
+p148,7,7,conduct the sufficient marks,applicant,Resource - [the] [sufficient] marks,0
+p148,9,9,evaluate the documents,applicant,Resource - [the] documents,0
+p148,11,10,send the letter,applicant,Actor - [the] letter,0
+p148,12,11,receive the letter,applicant,Actor - [the] letter,0
+p148,13,12,send the letter,applicant,Actor - [the] letter,0
+p148,15,14,receive the rejection letter,applicant,Actor - [the] [rejection] letter,0
+p148,16,15,receive the certificate,applicant,Resource - [the] certificate,0
+p148,17,16,check the certificate,applicant,Resource - [the] certificate,0
+p148,20,18,take the oral exam,applicant,Resource - [the] [oral] exam,0
+p148,21,19,find the good average grade,applicant,Meta-Actor - [the] [good average] grade,0
+p148,23,22,send the acceptance letter,applicant,Actor - [the] [acceptance] letter,0
+p149,5,6,check the documents,university administration,Resource - [the] documents,0
+p149,6,7,evaluate the applicant eligibility,university administration,Resource - [the] [applicant] eligibility,0
+p149,9,9,invite to the aptitude test,university administration,,0
+p149,12,11,send the letter,university administration,Actor - [the] letter,0
+p149,13,12,send the letter,university administration,Actor - [the] letter,0
+p15,1,2,prepare the material,,Actor - [the] material,0
+p15,2,3,produce the goods,,Resource - [the] goods,0
+p15,5,6,check the quality,,Resource - [the] quality,0
+p15,7,8,conduct the quality report received,,Resource - [the] [quality] report,0
+p15,8,9,check the quality report,,Resource - [the] [quality] report,0
+p150,1,2,complete the online interview,applicant,Resource - [the] [online] interview,0
+p150,13,15,print signs,applicant,Resource - signs,0
+p150,14,16,correct the additional required documents,applicant,Resource - [the] [additional required] documents,0
+p150,20,26,get the required certificates,applicant,Resource - [the] [required] certificates,0
+p150,24,31,check the application,applicant,Resource - [the] application,0
+p150,24,32,evaluate the application,applicant,Resource - [the] application,0
+p150,25,33,create the transcript,applicant,Resource - [the] transcript,0
+p150,26,35,create the ranking,applicant,Resource - [the] ranking,0
+p150,28,36,mark the suitable applicant,applicant,Actor - [the] [suitable] applicant,0
+p150,29,37,invite the applicant,applicant,Actor - [the] applicant,0
+p150,31,39,accept the applicant,applicant,Actor - [the] applicant,0
+p150,32,40,mark the suitable applicant,applicant,Actor - [the] [suitable] applicant,0
+p150,33,41,reject the applicant,applicant,Actor - [the] applicant,0
+p16,3,3,wait for the delivery,customer,,0
+p16,5,6,process the order,customer,Meta-Actor - [the] order,0
+p16,6,7,deliver the goods,customer,Resource - [the] goods,0
+p16,7,8,receive the goods,customer,Resource - [the] goods,0
+p16,11,11,complain about about order,customer,,0
+p17,5,6,dispatch the products,supplier,Resource - [the] products,0
+p18,0,1,create a job requisition,hiring manager,Resource - [a] [job] requisition,0
+p18,1,2,prepare the candidate list,hiring manager,Resource - [the] [candidate] list,0
+p18,2,3,evaluate the list,hiring manager,Resource - [the] list,0
+p18,3,4,conduct the interviews,hiring manager,Resource - [the] interviews,0
+p18,7,7,give to the selected candidate,hiring manager,,0
+p18,8,8,reject the candidate,hiring manager,Actor - [the] candidate,0
+p19,1,2,select the book,customer,Resource - [the] book,0
+p19,2,3,order the book,customer,Resource - [the] book,0
+p19,4,5,check the availability,customer,Resource - [the] availability,0
+p19,7,7,deliver the book,customer,Resource - [the] book,0
+p19,8,8,receive the book,customer,Resource - [the] book,0
+p19,11,10,note the request,customer,Resource - [the] request,0
+p2,0,1,complete form,student,Meta-Actor - form,0
+p2,1,2,determine the consistency,student,Resource - [the] consistency,0
+p2,3,4,check the financial record,student,Resource - [the] [financial] record,0
+p2,10,10,find the student to fulfill financial requirments,student,Actor - [the] student,0
+p2,13,13,prepare the tuition bill,student,Resource - [the] [tuition] bill,0
+p20,1,2,review the order,manager,Meta-Actor - [the] order,0
+p20,3,3,reject the order,manager,Meta-Actor - [the] order,0
+p20,7,6,handle the order,manager,Meta-Actor - [the] order,0
+p20,8,7,handle the shipping,manager,Resource - [the] shipping,0
+p20,9,9,complete the order,manager,Meta-Actor - [the] order,0
+p21,2,3,check the booking criteria,traveling agent,Resource - [the] [booking] criteria,0
+p21,3,4,check the availability status,traveling agent,Resource - [the] [availability] status,0
+p21,11,10,complete the assignment,traveling agent,Resource - [the] assignment,0
+p21,13,12,reject the booking,traveling agent,Resource - [the] booking,0
+p22,3,4,check the credit,customer,Resource - [the] credit,0
+p22,3,5,check invoicing,customer,Resource - invoicing,0
+p22,5,6,find the deficit balance,customer,Meta-Actor - [the] [deficit] balance,0
+p22,6,7,address the credit problem,customer,Resource - [the] [credit] problem,0
+p22,7,8,find the credit ok,customer,Resource - [the] [credit] ok,0
+p22,8,10,prepare the invoice,customer,Resource - [the] invoice,0
+p22,10,12,ship the order,customer,Meta-Actor - [the] order,0
+p22,13,16,evaluate the order,customer,Meta-Actor - [the] order,0
+p22,15,17,control orders in the stock,customer,Meta-Actor - orders,0
+p22,16,18,bring from the warehouse,customer,,0
+p22,17,19,control orders,customer,Meta-Actor - orders,0
+p22,19,21,execute the order,customer,Meta-Actor - [the] order,0
+p22,19,22,execute the order,customer,Meta-Actor - [the] order,0
+p22,20,23,ship the order,customer,Meta-Actor - [the] order,0
+p22,20,24,ship the order,customer,Meta-Actor - [the] order,0
+p23,2,2,check the credit requirments,loan granting co,Resource - [the] [credit] requirments,0
+p24,0,1,receive a spare part,,Resource - [a] [spare] part,0
+p24,1,2,check the quality,,Resource - [the] quality,0
+p24,5,5,reintegrate the spare part,,Resource - [the] [spare] part,0
+p24,7,8,conduct the retrun part to supplier,,Resource - [the] [retrun] part,0
+p24,7,9,discard the return part,,Resource - it,0
+p25,2,3,verify the bug,user,Resource - [the] bug,0
+p25,4,5,find the bug,user,Resource - [the] bug,0
+p25,5,6,fix the bug,user,Resource - [the] bug,0
+p25,9,10,find the bug,user,Resource - [the] bug,0
+p26,0,1,prepare an expense voucher,sales department,Actor - [an] [expense] voucher,0
+p26,7,10,transfer the funds,sales department,Resource - [the] funds,0
+p27,4,5,conduct the optimal quotation,shopkeeper,Resource - [the] [optimal] quotation,0
+p27,5,6,accept the quotation,shopkeeper,Resource - [the] quotation,0
+p27,6,7,conduct the optimal quotation,shopkeeper,Resource - [the] [optimal] quotation,0
+p27,7,8,settle price,shopkeeper,Resource - price,0
+p28,2,3,validate the syntax,developer,Resource - [the] syntax,0
+p28,4,5,find the syntax error,developer,Resource - [the] [syntax] error,0
+p28,7,8,fix the bugs,developer,Resource - [the] bugs,0
+p28,10,11,check the content,developer,Resource - [the] content,0
+p28,11,13,evaluate the student project,developer,Resource - [the] [student] project,0
+p29,3,4,take the driving interview,person,Resource - [the] [driving] interview,0
+p29,6,7,reject the license issue,person,Meta-Actor - [the] [license] issue,0
+p3,0,1,demand a menue,customer,Resource - [a] menue,0
+p3,1,2,select the pizza,customer,Resource - [the] pizza,0
+p3,5,6,bake the pizza,customer,Resource - [the] pizza,0
+p3,6,7,conduct the available material,customer,Actor - [the] [available] material,0
+p3,7,8,prepare the material,customer,Actor - [the] material,0
+p3,8,10,deliver the pizza,customer,Resource - [the] pizza,0
+p30,0,1,conduct an evalute order,sales person,Meta-Actor - [an] [evalute] order,0
+p30,3,3,create the sale order,sales person,Meta-Actor - [the] [sale] order,0
+p30,4,4,prepare the quality assurance,sales person,Resource - [the] [quality] assurance,0
+p30,5,5,ship the order,sales person,Meta-Actor - [the] order,0
+p30,8,8,identify the business partner,sales person,Actor - [the] [business] partner,0
+p30,9,9,prepare the quotation,sales person,Resource - [the] quotation,0
+p30,11,11,analyze the offer,sales person,Resource - [the] offer,0
+p30,13,12,accept the offer,sales person,Resource - [the] offer,0
+p31,2,3,verify the customer identity,customer,Resource - [the] [customer] identity,0
+p31,8,11,arrange the delivery,customer,Resource - [the] delivery,0
+p31,9,12,deliver the water,customer,Resource - [the] water,0
+p32,0,1,support a repair,repairing person,Resource - [a] repair,0
+p32,1,2,visit the customer place,repairing person,Resource - [the] [customer] place,0
+p32,2,3,perform the inspection,repairing person,Resource - [the] inspection,0
+p32,5,6,arrange the product pickup,repairing person,Actor - [the] [product] pickup,0
+p32,6,7,inspect the repairing impossible,repairing person,Resource - [the] [repairing] impossible,0
+p32,7,8,arrange the refund,repairing person,Resource - [the] refund,0
+p33,5,5,check the order availability,customer,Resource - [the] [order] availability,0
+p33,7,7,find the stock runout,customer,Resource - [the] [stock] runout,0
+p33,10,11,assemble the package,customer,Resource - [the] package,0
+p34,1,2,find the job advertisment,candidate,Resource - [the] [job] advertisment,0
+p34,8,9,review the application,candidate,Resource - [the] application,0
+p34,9,10,conduct the interview,candidate,Resource - [the] interview,0
+p34,11,11,reject the candidate,candidate,Actor - [the] candidate,0
+p35,0,1,identify a vacancy,department,Resource - [a] vacancy,0
+p35,4,3,conduct the retrive position description,department,Resource - [the] [retrive] [position] description,0
+p35,6,6,review the vacancy,department,Resource - [the] vacancy,0
+p35,9,8,write the job description,department,Resource - [the] [job] description,0
+p35,10,9,check the job description,department,Resource - [the] [job] description,0
+p35,11,10,determine the channels,department,Resource - [the] channels,0
+p35,14,13,close the vacancy,department,Resource - [the] vacancy,0
+p36,3,4,review the request,borrower,Resource - [the] request,0
+p36,5,5,find the book,borrower,Resource - [the] book,0
+p36,10,10,check out the book,borrower,Resource - [the] book,0
+p36,11,11,deliver the book,borrower,Resource - [the] book,0
+p37,3,4,give the appointment,receptionist,Actor - [the] appointment,0
+p37,6,7,evaluate the cause,receptionist,Resource - [the] cause,0
+p37,8,9,give the medicine,receptionist,Resource - [the] medicine,0
+p37,9,10,receive the medicine,receptionist,Resource - [the] medicine,0
+p38,1,2,verify the credit card,bank,Resource - [the] [credit] card,0
+p38,2,3,check the balance,bank,Meta-Actor - [the] balance,0
+p38,4,5,find the balance insufficent,bank,Resource - [the] [balance] insufficent,0
+p38,6,7,find the balance sufficent,bank,Resource - [the] [balance] sufficent,0
+p38,7,8,fill the order,bank,Meta-Actor - [the] order,0
+p38,9,10,process the lodging order,bank,Meta-Actor - [the] [lodging] order,0
+p38,12,13,process the airline invoice,bank,Resource - [the] [airline] invoice,0
+p39,0,1,starts a browsing,customer,Resource - [a] browsing,0
+p39,2,4,conduct the checkout products,customer,Resource - [the] [checkout] products,0
+p4,1,2,determine the approval rules,,Resource - [the] [approval] rules,0
+p4,2,3,review the request,,Resource - [the] request,0
+p4,8,8,review the quote,,Resource - [the] quote,0
+p4,9,9,review personal information,,Resource - [personal] information,0
+p4,10,11,check the information,,Resource - [the] information,0
+p40,4,5,review the assignable request,customer,Resource - [the] [assignable] request,0
+p40,7,9,complete the registration,customer,Actor - [the] registration,0
+p40,10,11,provide the required information,customer,Resource - [the] [required] information,0
+p40,12,13,perform the prelimenary investigation,customer,Resource - [the] [prelimenary] investigation,0
+p40,14,15,grant the loan,customer,Resource - [the] loan,0
+p41,1,2,give the sat papper,student,Resource - [the] [sat] papper,0
+p41,2,3,take the sat test,student,Resource - [the] [sat] test,0
+p41,5,6,attend the university,student,Actor - [the] university,0
+p41,9,10,read the sat preparation book,student,Resource - [the] [sat] [preparation] book,0
+p42,6,6,charge the credit card,customer,Resource - [the] [credit] card,0
+p42,8,7,find the insufficent balance,customer,Meta-Actor - [the] [insufficent] balance,0
+p42,11,10,find the sufficent balance,customer,Meta-Actor - [the] [sufficent] balance,0
+p43,3,4,conduct the enquiry training,trainee,Resource - [the] [enquiry] training,0
+p43,5,5,find the available trainer,trainee,Actor - [the] [available] trainer,0
+p43,6,6,look for the trainer,trainee,,0
+p43,8,9,starts the training,trainee,Resource - [the] training,0
+p44,0,1,launch an auction,smart cell,Resource - [an] auction,0
+p44,1,2,find the item,smart cell,Resource - [the] item,0
+p44,2,3,read the item description,smart cell,Resource - [the] [item] description,0
+p44,4,5,contact the seller,smart cell,Actor - [the] seller,0
+p44,5,6,read the seller feedback,smart cell,Resource - [the] [seller] feedback,0
+p44,8,8,reject the offer,smart cell,Resource - [the] offer,0
+p44,10,10,buy the item now,smart cell,Resource - [the] item,0
+p44,11,11,verify the bidder credentials,smart cell,Resource - [the] [bidder] credentials,0
+p44,12,12,close the auction,smart cell,Resource - [the] auction,0
+p45,1,2,analyze the sample,seller,Resource - [the] sample,0
+p45,2,3,check the result,seller,Resource - [the] result,0
+p45,4,5,find the defective sample,seller,Resource - [the] [defective] sample,0
+p45,5,6,purchase the product,seller,Resource - [the] product,0
+p45,6,7,find the defective sample,seller,Resource - [the] [defective] sample,0
+p45,7,8,evaluate the reasons,seller,Resource - [the] reasons,0
+p46,4,5,find the issue,level support,Meta-Actor - [the] issue,0
+p46,7,8,resolve the issue,level support,Meta-Actor - [the] issue,0
+p46,8,9,resolve the issue,level support,Meta-Actor - [the] issue,0
+p47,0,1,demand an article,customer,Resource - [an] article,0
+p47,2,3,check the availability,customer,Resource - [the] availability,0
+p47,4,5,find the available article,customer,Resource - [the] [available] article,0
+p49,2,3,check the order catagory,order accounting department,Resource - [the] [order] catagory,0
+p49,4,5,find the standard order,order accounting department,Meta-Actor - [the] [standard] order,0
+p49,6,8,determine the order pricing,order accounting department,Resource - [the] [order] pricing,0
+p5,1,2,process the order request,manufacturer,Resource - [the] [order] request,0
+p5,5,7,check the availability,manufacturer,Resource - [the] availability,0
+p5,9,10,collect the parts,manufacturer,Resource - [the] parts,0
+p5,10,12,fulfil the order,manufacturer,Meta-Actor - [the] order,0
+p5,11,13,dispatch the product,manufacturer,Resource - [the] product,0
+p50,2,3,allocate the initial priority,,Resource - [the] [initial] priority,0
+p50,9,10,determine the scope,,Resource - [the] scope,0
+p52,2,2,package the goods,logistic manager,Resource - [the] goods,0
+p52,3,3,evaluate the normal order,logistic manager,Meta-Actor - [the] [normal] order,0
+p52,3,4,evaluate special shipment,logistic manager,Resource - [special] shipment,0
+p52,5,5,find the normal order,logistic manager,Meta-Actor - [the] [normal] order,0
+p52,6,6,take the extra insurance,logistic manager,Resource - [the] [extra] insurance,0
+p52,7,8,fill the order lable,logistic manager,Resource - [the] [order] lable,0
+p52,8,9,find the special order,logistic manager,Meta-Actor - [the] [special] order,0
+p52,10,11,assign the carrier,logistic manager,Meta-Actor - [the] carrier,0
+p52,11,13,add the paperwork,logistic manager,Resource - [the] paperwork,0
+p52,11,14,move the package,logistic manager,Resource - [the] package,0
+p53,4,5,assign the room,information cell,Meta-Actor - [the] room,0
+p53,5,6,establish the terms,information cell,Resource - [the] terms,0
+p53,5,7,establish methods,information cell,Resource - methods,0
+p53,6,8,issue the room key,information cell,Resource - [the] [room] key,0
+p53,9,13,check the availability,information cell,Resource - [the] availability,0
+p53,11,14,find the available room,information cell,Meta-Actor - [the] [available] room,0
+p53,12,15,reject the guest request,information cell,Resource - [the] [guest] request,0
+p53,14,17,issue the key,information cell,Resource - [the] key,0
+p54,2,3,review the order,retailer,Meta-Actor - [the] order,0
+p54,4,5,find the retailer,retailer,Actor - [the] retailer,0
+p54,7,11,analyze the demand availability,retailer,Resource - [the] [demand] availability,0
+p54,13,16,reject the order,retailer,Meta-Actor - [the] order,0
+p55,0,1,identify a vacancy,business unit manager,Resource - [a] vacancy,0
+p55,2,3,access the vacancy,business unit manager,Resource - [the] vacancy,0
+p55,3,4,review the vacancy,business unit manager,Resource - [the] vacancy,0
+p55,6,6,write the job description,business unit manager,Resource - [the] [job] description,0
+p55,7,7,determine the channels,business unit manager,Resource - [the] channels,0
+p55,10,9,reject the vacancy,business unit manager,Resource - [the] vacancy,0
+p56,3,3,find the available product,customer,Resource - [the] [available] product,0
+p56,4,4,bring the product,customer,Resource - [the] product,0
+p56,8,7,package the order,customer,Meta-Actor - [the] order,0
+p56,10,10,ship the order,customer,Meta-Actor - [the] order,0
+p57,6,7,verify the credit,retailer,Resource - [the] credit,0
+p57,8,8,find the credit sufficent,retailer,Resource - [the] [credit] sufficent,0
+p57,10,10,prepare ships,retailer,Resource - ships,0
+p57,14,16,close the order,retailer,Meta-Actor - [the] order,0
+p58,2,3,evaluate the payment mode,buyer,Resource - [the] [payment] mode,0
+p58,5,6,verify the total amount,buyer,Resource - [the] [total] amount,0
+p58,8,9,verify the credit card,buyer,Resource - [the] [credit] card,0
+p58,10,10,find the balance sufficent,buyer,Resource - [the] [balance] sufficent,0
+p58,12,12,find the balance insufficent,buyer,Resource - [the] [balance] insufficent,0
+p59,5,6,create the product specification,,Resource - [the] [product] specification,0
+p59,7,8,release the product class,,Actor - [the] [product] class,0
+p59,7,9,release attributeses,,Resource - attributeses,0
+p6,1,2,assist the customer,storekeeper,Actor - [the] customer,0
+p6,2,3,evaluate the request,storekeeper,Resource - [the] request,0
+p60,1,2,determine the registration authority,business organization,Meta-Actor - [the] [registration] authority,0
+p60,3,4,find the authority,business organization,Meta-Actor - [the] authority,0
+p60,4,6,find the authority,business organization,Meta-Actor - [the] authority,0
+p60,6,9,verify the business identity,business organization,Resource - [the] [business] identity,0
+p60,9,11,send the training letter,business organization,Actor - [the] [training] letter,0
+p61,3,2,process the shippping,shipping department,Resource - [the] shippping,0
+p61,7,5,handle the shipping price,shipping department,Resource - [the] [shipping] price,0
+p61,8,6,process the invoice,shipping department,Resource - [the] invoice,0
+p62,2,3,evaluate the support request,customer,Resource - [the] [support] request,0
+p62,4,5,find the information validate,customer,Resource - [the] [information] validate,0
+p62,8,9,validate the support,customer,Actor - [the] support,0
+p62,9,10,display the status,customer,Resource - [the] status,0
+p62,10,11,find the validate information,customer,Resource - [the] [validate] information,0
+p62,11,12,validate the information,customer,Resource - [the] information,0
+p62,11,13,validate resubmits,customer,Resource - resubmits,0
+p63,2,3,evaluate the candidate eligibility,election cell,Actor - [the] candidate,0
+p63,4,5,find the eligible candidate,election cell,Actor - [the] [eligible] candidate,0
+p63,6,7,find the candidate,election cell,Actor - [the] candidate,0
+p63,8,9,review the candidates list,election cell,Resource - [the] [candidates] list,0
+p63,9,10,conduct the announse issue,election cell,Meta-Actor - [the] [announse] issue,0
+p63,10,11,prepare the result,election cell,Resource - [the] result,0
+p64,1,2,review the request,originator,Resource - [the] request,0
+p64,3,4,transfer the fund,originator,Actor - [the] fund,0
+p64,4,5,order the product,originator,Resource - [the] product,0
+p64,6,6,get the product,originator,Resource - [the] product,0
+p65,0,1,offer a quote,wholesaler,Resource - [a] quote,0
+p65,2,3,prepare the appointment,wholesaler,Actor - [the] appointment,0
+p65,3,4,conduct the appointment,wholesaler,Actor - [the] appointment,0
+p65,4,5,collect the missing info,wholesaler,Resource - [the] [missing] info,0
+p65,5,6,calculate the insurance package,wholesaler,Resource - [the] [insurance] package,0
+p65,8,9,reevaluate the opportunity,wholesaler,Resource - [the] opportunity,0
+p66,5,6,review the request,employee,Resource - [the] request,0
+p66,7,8,reject the request,employee,Resource - [the] request,0
+p67,2,3,evaluate the person credit score,employee,Resource - [the] [person credit] score,0
+p67,4,5,find the eligible person,employee,Actor - [the] [eligible] person,0
+p67,5,6,evaluate the misc person,employee,Actor - [the] [misc] person,0
+p67,8,8,find the eligible person,employee,Actor - [the] [eligible] person,0
+p67,9,9,reject the loan request,employee,Resource - [the] [loan] request,0
+p68,1,2,check the patient,doctor,Meta-Actor - [the] patient,0
+p68,3,3,check the patient,doctor,Meta-Actor - [the] patient,0
+p68,4,4,advise the medicine,doctor,Resource - [the] medicine,0
+p68,5,5,get the medicine,doctor,Resource - [the] medicine,0
+p68,6,6,make the referral,doctor,Meta-Actor - [the] referral,0
+p68,7,7,take the patient blood sample,doctor,Resource - [the] [patient] [blood] sample,0
+p68,8,8,make the further referral,doctor,Meta-Actor - [the] [further] referral,0
+p68,9,9,perform the genetic testing,doctor,Resource - [the] [genetic] testing,0
+p69,0,1,view a need based scholorship notification,student,Resource - [a] need,0
+p69,3,4,verify the documents,student,Resource - [the] documents,0
+p69,4,5,list eligible candidates,student,Actor - [eligible] candidates,0
+p69,5,6,initiate the interviews,student,Resource - [the] interviews,0
+p69,7,8,find the student,student,Actor - [the] student,0
+p69,8,9,grant the scholorship,student,Resource - [the] scholorship,0
+p69,10,11,reject the student request,student,Resource - [the] [student] request,0
+p7,0,1,give an order,customer,Meta-Actor - [an] order,0
+p7,2,3,check the available or not funds,customer,Resource - [the] [available or not] funds,0
+p7,5,5,find the available funds,customer,Resource - [the] [available] funds,0
+p7,6,6,add the funds,customer,Resource - [the] funds,0
+p7,8,9,process the customer order,customer,Meta-Actor - [the] [customer] order,0
+p7,9,10,check the inventory,customer,Resource - [the] inventory,0
+p7,12,13,prepare the purchase requisition,customer,Resource - [the] [purchase] requisition,0
+p7,13,14,purchase the order,customer,Meta-Actor - [the] order,0
+p7,17,16,pack the product,customer,Resource - [the] product,0
+p7,18,17,deliver the product,customer,Resource - [the] product,0
+p70,2,3,process the claim,customer,Resource - [the] claim,0
+p70,3,4,identify the responsibilities,customer,Resource - [the] responsibilities,0
+p70,5,5,create the letter,customer,Actor - [the] letter,0
+p70,7,8,change the responsibilities,customer,Resource - [the] responsibilities,0
+p71,1,2,invite the candidates,company,Actor - [the] candidates,0
+p71,2,3,develop the bid,company,Resource - [the] bid,0
+p71,4,5,sign the contract,company,Resource - [the] contract,0
+p71,6,7,review the updates,company,Resource - [the] updates,0
+p72,0,1,fill a request form,employee,Meta-Actor - [a] [request] form,0
+p72,2,3,evaluate form,employee,Meta-Actor - form,0
+p72,4,5,reject form,employee,Meta-Actor - form,0
+p72,5,6,approve form,employee,Meta-Actor - form,0
+p73,2,3,prepare the food,customer,Resource - [the] food,0
+p73,5,7,prepare the food,customer,Resource - [the] food,0
+p73,6,8,require the ingredient,customer,Resource - [the] ingredient,0
+p73,7,9,prepare the material,customer,Actor - [the] material,0
+p73,8,10,prepare the food,customer,Resource - [the] food,0
+p73,10,12,deliver the food,customer,Resource - [the] food,0
+p74,3,4,analyze the problem,customer,Resource - [the] problem,0
+p74,3,5,address the problem,customer,Resource - it,0
+p74,5,7,solve the problem,customer,Resource - [the] problem,0
+p74,10,13,find the problem ,customer,Resource - [the] problem,0
+p74,11,14,evaluate the problem nature,customer,Resource - [the] [problem] nature,0
+p74,13,15,advise the customer,customer,Actor - [the] customer,0
+p75,2,3,review the request,open mms relay,Resource - [the] request,0
+p76,3,4,evaluate the overtime registration,employee,Actor - [the] [overtime] registration,0
+p76,7,7,decline the request,employee,Resource - [the] request,0
+p77,4,5,check the product type,customer,Meta-Actor - [the] [product] type,0
+p77,8,9,deliver the goods to the warehouse,customer,Resource - [the] goods,0
+p77,9,10,receive the goods,customer,Resource - [the] goods,0
+p77,14,14,receive the goods,customer,Resource - [the] goods,0
+p78,2,3,review the application,student,Resource - [the] application,0
+p78,7,11,accept the application,student,Resource - [the] application,0
+p78,8,13,evaluate the minimum standard to not meet ,student,Resource - [the] [minimum] standard,0
+p78,11,17,write the rejection letter,student,Actor - [the] [rejection] letter,0
+p78,14,22,receive the letter,student,Actor - [the] letter,0
+p79,0,1,view the products,customer,Resource - [the] products,0
+p79,1,2,greet the customer,customer,Actor - [the] customer,0
+p79,2,3,ask the special order,customer,Meta-Actor - [the] [special] order,0
+p79,3,4,review the special list,customer,Resource - [the] [special] list,0
+p79,4,5,provide the specials,customer,Resource - [the] specials,0
+p79,5,6,order the food,customer,Resource - [the] food,0
+p8,3,3,take the item,department,Resource - [the] item,0
+p8,4,4,conduct the available item,department,Resource - [the] [available] item,0
+p8,7,7,check the purchase requisition,department,Resource - [the] [purchase] requisition,0
+p80,5,5,identify the training groups,employee,Resource - [the] [training] groups,0
+p80,6,6,identify the extended workshops,employee,Resource - [the] [extended] workshops,0
+p80,7,8,attend the training,employee,Resource - [the] training,0
+p80,9,10,evaluate the performance,employee,Resource - [the] performance,0
+p81,2,3,analyze the order,salesman,Meta-Actor - [the] order,0
+p81,4,5,reject the order,salesman,Meta-Actor - [the] order,0
+p81,6,7,accept the order,salesman,Meta-Actor - [the] order,0
+p81,7,8,check the stock,salesman,Meta-Actor - [the] stock,0
+p81,11,12,purchase the raw material,salesman,Actor - [the] [raw] material,0
+p81,12,13,plan the production,salesman,Resource - [the] production,0
+p81,13,15,make the products,salesman,Resource - [the] products,0
+p82,3,3,create the consignment pipeline liability,accountant,Resource - [the] [consignment] [pipeline] liability,0
+p82,4,4,settle the consignment pipeline liability,accountant,Resource - [the] [consignment] [pipeline] liability,0
+p82,5,6,transmit the consignment pipeline settlement document,accountant,Resource - [the] [consignment] [pipeline settlement] document,0
+p82,7,8,plan the invoice settlement,accountant,Meta-Actor - [the] [invoice] settlement,0
+p82,11,10,create the purchase order,accountant,Resource - [the] [purchase] order,0
+p82,12,12,process the invoice,accountant,Resource - [the] invoice,0
+p82,13,13,evaluate the receipt settlement,accountant,Meta-Actor - [the] [receipt] settlement,0
+p82,17,17,release the invoice,accountant,Resource - [the] invoice,0
+p82,19,19,release the material,accountant,Actor - [the] material,0
+p82,20,20,release the invoice manually,accountant,Resource - [the] invoice,0
+p83,3,3,start the production,salesman,Resource - [the] production,0
+p83,5,5,purchase the raw material,salesman,Actor - [the] [raw] material,0
+p83,6,6,plan the production,salesman,Resource - [the] production,0
+p83,7,8,produce the articles,salesman,Resource - [the] articles,0
+p83,10,11,stop the billing,salesman,Resource - [the] blling,0
+p83,11,12,starts the billing,salesman,Resource - [the] billing,0
+p83,14,15,check the account status,salesman,Resource - [the] [account] status,0
+p83,15,16,produce the articles,salesman,Resource - [the] articles,0
+p84,0,1,pick a gun,assassin,Actor - [a] gun,0
+p84,1,2,load the gun,assassin,Actor - [the] gun,0
+p84,2,3,pull the trigger,assassin,Resource - [the] trigger,0
+p84,3,4,strike the firing pin,assassin,Resource - [the] [firing] pin,0
+p84,5,5,fire the gun,assassin,Actor - [the] gun,0
+p84,6,6,Assassin the victim,assassin,Actor - [the] victim,0
+p84,7,7,get the dead,assassin,Resource - [the] dead,0
+p84,8,8,misfire the gun,assassin,Actor - [the] gun,0
+p85,2,3,understand the requirement specification,customer,Resource - [the] [requirement] specification,0
+p85,10,10,prepare the item,customer,Resource - [the] item,0
+p86,3,4,provide the personal information,customer,Resource - [the] [personal] information,0
+p86,5,5,gather the customer information,customer,Resource - [the] [customer] information,0
+p86,6,6,perform the customer information inquiry,customer,Resource - [the] [customer information] inquiry,0
+p86,8,9,check the service requirments,customer,Resource - [the] [service] requirments,0
+p86,9,10,check the service availability,customer,Resource - [the] [service] availability,0
+p86,11,11,find the available service,customer,Meta-Actor - [the] [available] service,0
+p86,12,12,reject the request,customer,Resource - [the] request,0
+p87,4,5,review the request,customer,Resource - [the] request,0
+p87,9,9,reject the request,customer,Resource - [the] request,0
+p87,10,10,send the rejection letter,customer,Actor - [the] [rejection] letter,0
+p87,11,11,receive the rejection letter,customer,Actor - [the] [rejection] letter,0
+p88,1,2,open the customer inquiry,excise department,Resource - [the] [customer] inquiry,0
+p88,4,5,determine the tax,excise department,Resource - [the] tax,0
+p88,5,6,determine the vehicle price,excise department,Resource - [the] [vehicle] price,0
+p88,6,8,determine the markup discounts,excise department,Resource - [the] [markup] discounts,0
+p88,7,9,perform the export check,excise department,Resource - [the] [export] check,0
+p88,9,10,forbid the export,excise department,Resource - [the] export,0
+p88,10,11,perform the export control,excise department,Resource - [the] [export] control,0
+p88,11,12,process the required documents,excise department,Resource - [the] [required] documents,0
+p88,12,13,supervise the customer order,excise department,Meta-Actor - [the] [customer] order,0
+p88,13,14,ship the vehicle,excise department,Resource - [the] vehicle,0
+p89,1,2,create the product demand list,inventory manager,Resource - [the] [product demand] list,0
+p89,2,3,plan the production order,inventory manager,Resource - [the] [production] order,0
+p89,3,4,create the production order list,inventory manager,Resource - [the] [production order] list,0
+p89,4,5,review the production list,inventory manager,Resource - [the] [production] list,0
+p89,6,6,reject the production schedule list,inventory manager,Resource - [the] [production schedule] list,0
+p89,8,8,accept the production schedule list,inventory manager,Resource - [the] [production schedule] list,0
+p89,9,9,manufacture the products,inventory manager,Resource - [the] products,0
+p9,7,7,apologize to the customer,customer,,0
+p9,8,8,bake the pizza,customer,Resource - [the] pizza,0
+p9,9,9,deliver the pizza,customer,Resource - [the] pizza,0
+p9,10,10,receive the pizza delivery,customer,Resource - [the] [pizza] delivery,0
+p9,12,12,eat the pizza,customer,Resource - [the] pizza,0
+p90,2,3,review the order,customer,Meta-Actor - [the] order,0
+p90,4,5,reject the order,customer,Meta-Actor - [the] order,0
+p90,7,8,accept the order,customer,Meta-Actor - [the] order,0
+p90,13,12,purchase the raw material,customer,Actor - [the] [raw] material,0
+p90,14,13,plan the production,customer,Resource - [the] production,0
+p90,15,15,manufacture the products,customer,Resource - [the] products,0
+p90,18,18,prepare the shipment,customer,Resource - [the] shipment,0
+p90,19,19,ship the products,customer,Resource - [the] products,0
+p91,0,1,receive the spare parts,inventory department,Resource - [the] [spare] parts,0
+p91,2,2,prepare the receipt,inventory department,Resource - [the] receipt,0
+p91,4,4,check the quality,inventory department,Resource - [the] quality,0
+p91,4,5,receive spare parts,inventory department,Resource - [spare] parts,0
+p91,11,13,demand spare parts,inventory department,Resource - [spare] parts,0
+p92,4,5,review the detail,bank 1,Actor - [the] detail,0
+p92,7,8,find the user transaction,bank 1,Resource - [the] [user] transaction,0
+p92,12,13,conduct the transaction,bank 1,Resource - [the] transaction,0
+p93,0,2,consult the website specification,domain registration team,Resource - [the] [website] specification,0
+p93,1,3,prepare the proposal,domain registration team,Resource - [the] proposal,0
+p93,1,4,document the specifications,domain registration team,Resource - [the] specifications,0
+p93,2,5,conduct the kickoff meeting,domain registration team,Actor - [the] [kickoff] meeting,0
+p93,3,6,design the website template,domain registration team,Resource - [the] [website] template,0
+p93,5,7,design the wireframe,domain registration team,Resource - [the] wireframe,0
+p93,6,8,design the information architecture,domain registration team,Resource - [the] [information] architecture,0
+p93,7,10,assemble the contents,domain registration team,Resource - [the] contents,0
+p93,9,11,design the graphics,domain registration team,Resource - [the] graphics,0
+p93,10,12,design the animations,domain registration team,Resource - [the] animations,0
+p93,11,15,take the client approval,domain registration team,Resource - [the] [client] approval,0
+p93,17,21,decide the channel optimizations,domain registration team,Resource - [the] [channel] optimizations,0
+p93,20,26,launch the website,domain registration team,Resource - [the] website,0
+p94,4,5,evaluate the entered correctness,user,Resource - [the] [entered] correctness,0
+p94,4,6,evaluate completnesses,user,Resource - completnesses,0
+p95,0,1,enter in the hotel for dinner,customer,,0
+p95,5,6,prepare the order,customer,Meta-Actor - [the] order,0
+p95,6,8,handovers the order to the customer,customer,Meta-Actor - [the] order,0
+p95,10,11,allocate the seat,customer,Resource - [the] seat,0
+p95,11,12,provide the menu,customer,Resource - [the] menu,0
+p95,13,15,forwards the order,customer,Meta-Actor - [the] order,0
+p95,14,16,cook the meal,customer,Resource - [the] meal,0
+p95,16,18,eat the meat,customer,Resource - [the] meat,0
+p95,17,19,complete the dine,customer,Resource - [the] dine,0
+p95,18,20,issue the bill,customer,Resource - [the] bill,0
+p96,2,3,review the order,customer,Meta-Actor - [the] order,0
+p96,4,5,reject the order,customer,Meta-Actor - [the] order,0
+p96,7,8,accept the order,customer,Meta-Actor - [the] order,0
+p96,14,12,plan the production,customer,Resource - [the] production,0
+p96,18,15,make the production,customer,Resource - [the] production,0
+p96,19,17,ship the products,customer,Resource - [the] products,0
+p97,0,1,prepare a product requisition,production manager,Resource - [a] [product] requisition,0
+p97,6,7,create the testing plan,production manager,Resource - [the] [testing] plan,0
+p97,11,13,identify the reasons,production manager,Resource - [the] reasons,0
+p97,11,14,identify the reasons,production manager,Resource - [the] reasons,0
+p97,12,15,make the correction,production manager,Resource - [the] correction,0
+p97,15,19,promote the product,production manager,Resource - [the] product,0
+p97,15,20,promote the product,production manager,Resource - [the] product,0
+p97,16,21,launch the product,production manager,Resource - [the] product,0
+p97,16,22,launch the product,production manager,Resource - [the] product,0
+p98,3,3,find the possible request,person,Resource - [the] [possible] request,0
+p98,4,4,reject the request,person,Resource - [the] request,0
+p98,9,9,make the statments,person,Resource - [the] statments,0
+p98,9,10,give fact,person,Resource - fact,0
+p99,3,3,check the bill information,production manager,Resource - [the] [bill] information,0
+p99,5,5,find the need,production manager,Resource - [the] need,0
+p99,6,6,starts the billing,production manager,Resource - [the] billing,0
+p99,11,12,conduct the production start,production manager,Resource - [the] [production] start,0
+p99,13,13,plan the production,production manager,Resource - [the] production,0
+p99,14,14,purchase the raw material,production manager,Actor - [the] [raw] material,0
+p99,15,16,finish the production,production manager,Resource - [the] production,0
+p99,16,17,ship the products,production manager,Resource - [the] products,0
+p11,8,9,process the credit card,retailer,Resource - [the] [credit] card,0
+p110,9,9,issue the credit report,customer,Resource - [the] [credit] report,0
+p59,4,5,import the product,,Resource - [the] product,0
+p69,11,13,display the list,student,Resource - [the] list,0
+p39,7,9,verify the payment,customer,Resource - [the] payment,0
+p99,8,8,verify the payments,production manager,Resource - [the] payments,0
+p46,1,2,open the ticket,level support,Resource - [the] ticket,0
+p46,10,12,close the ticket,level support,Resource - [the] ticket,0
+p74,2,3,assign the ticket,customer,Resource - [the] ticket,0
+p116,2,3,open the ticket,customer,Resource - [the] ticket,0
+p59,0,1,open a project workspace,,Resource - [a] [project] workspace,0
+p150,6,7,fill the application form,applicant,Resource - [the] [application] form,0
+p89,10,10,fulfill the order,inventory manager,Meta-Actor - [the] order,0
+p87,6,6,accept the request,customer,Resource - [the] request,0
+p1,7,10,check the ticket,customer,Resource - [the] ticket,0
+p86,15,15,check the customer credit,customer,Resource - [the] [customer] credit,0
+p94,0,1,visit a website,user,Resource - [a] website,0
+p96,8,9,check the availability,customer,Resource - [the] availability,0
+p97,4,5,check the assessment detail,production manager,Actor - [the] [assessment] detail,0
+p98,1,2,check the legal grounds,person,Resource - [the] [legal] grounds,0
+p98,14,13,check the completeness,person,Resource - [the] completeness,0
+p98,10,11,identify the application legislation,person,Resource - [the] [application] legislation,0
+p145,8,6,complete the application,applicant,Resource - [the] application,0
+p22,0,1,generate an order,customer,Meta-Actor - [an] order,0
+p22,1,2,complete the order,customer,Meta-Actor - [the] order,0
+p62,7,8,accomplish the support,customer,Actor - [the] support,0
+p74,6,8,complete the ticket,customer,Resource - [the] ticket,0
+p79,8,9,accomplish the order,customer,Meta-Actor - [the] order,0
+p83,17,18,complete the billing,salesman,Resource - [the] billing,0
+p130,1,3,prepare the developmental needs,expert,Resource - [the] [developmental] needs,0
+p100,3,3,find the qualiy ok,,Resource - [the] [qualiy] ok,0
+p103,9,8,find the order cannot be fulfilled,manufacturer,,0
+p143,7,11,examine board,applicant,Actor - board,0
+p124,2,3,check the available or not funds,customer,Resource - [the] [available or not] funds,0
+p86,16,16,perform the pre-order validation results,customer,Resource - [the] [pre-order] [validation] results,0
+p101,13,14,take the extra insurance,worker,Resource - [the] [extra] insurance,0
+p109,10,10,assign the emergency contact to the duty officer\/contractor \/,customer,Meta-Actor - [the] [emergency] contact,0
+p138,6,7,take the decision,hospital administration,Resource - [the] decision,0
+p37,0,1,arrive at the clinic,receptionist,,0
+p68,0,1,arrive a hospital,doctor,Actor - [a] hospital,0
+p78,13,20,write the acceptance letter,student,Actor - [the] [acceptance] letter,0
+p83,18,21,ship the warehouse ships,salesman,Resource - [the] [warehouse] ships,0
+p85,6,6,wait for to unload item,customer,,0
+p94,1,2,show the login page to the user,user,Actor - [the] [login] page,0
+p95,1,2,arrive at the inquiry desk,customer,,0
+p95,15,17,serve as the meal,customer,,0
+p97,2,3,complete the detailed assessment,production manager,Resource - [the] [detailed] assessment,0
+p98,19,17,take the further decision,person,Resource - [the] [further] decision,0
+p118,10,11,send the invoice,bank,Resource - [the] invoice,2
+p118,11,12,receive the logging invoice,bank,Resource - [the] [lodging] invoice,2
+p118,13,14,send the invoice,bank,Resource - [the] invoice,2
+p118,14,15,receive the activity invoice,bank,Resource - [the] [activity] invoice,2
+p118,16,17,send the invoice,bank,Resource - [the] invoice,2
+p118,17,18,receive the airline invoice,bank,Resource - [the] [airline] invoice,2
+p119,0,1,received a claim,clerk,Resource - [a] claim,2
+p139,1,2,send the documents to the hospital administration,inquiry section,Resource - [the] documents,2
+p147,14,18,send the application,applicant,Resource - [the] application,2
+p147,15,19,receive the application,applicant,Resource - [the] application,2
+p147,24,28,receive the application,applicant,Resource - [the] application,2
+p147,40,40,send the rejection,applicant,Resource - [the] rejection,2
+p148,1,2,send the documents,applicant,Resource - [the] documents,2
+p148,2,3,receive the documents,applicant,Resource - [the] documents,2
+p149,3,4,send the documents,university administration,Resource - [the] documents,2
+p149,4,5,receive the documents,university administration,Resource - [the] documents,2
+p150,15,17,send the application,applicant,Resource - [the] application,2
+p150,15,18,send documentses,applicant,Resource - documentses,2
+p150,16,19,receive the application,applicant,Resource - [the] application,2
+p150,16,20,receive checks,applicant,Resource - checks,2
+p150,21,28,send the application to the selection committee,applicant,Resource - [the] application,2
+p150,22,29,receive the application,applicant,Resource - [the] application,2
+p19,3,4,receive the order,customer,Meta-Actor - [the] order,2
+p2,14,14,send the tution bill to the student,student,Resource - [the] [tution] bill,2
+p2,16,16,receive the bill,student,Resource - [the] bill,2
+p22,11,13,send the invoice,customer,Resource - [the] invoice,2
+p37,7,8,receive the prescription process,receptionist,Resource - [the] [prescription] process,2
+p38,10,11,send the lodging invoice,bank,Resource - [the] [lodging] invoice,2
+p38,11,12,receive the lodging invoice,bank,Resource - [the] [lodging] invoice,2
+p38,13,14,send the airline invoice,bank,Resource - [the] [airline] invoice,2
+p38,14,15,receive the airline invoice,bank,Resource - [the] [airline] invoice,2
+p43,1,2,send form,trainee,Meta-Actor - form,2
+p43,2,3,receive form ,trainee,,2
+p51,9,10,send the order acceptance confirmation to the one provider,purchaser,Resource - [the] [order acceptance] confirmation,2
+p73,11,13,receive the order,customer,Meta-Actor - [the] order,2
+p81,15,17,send the invoice,salesman,Resource - [the] invoice,2
+p82,8,9,receive the invoice,accountant,Resource - [the] invoice,2
+p83,12,13,send the bill,salesman,Resource - [the] bill,2
+p85,9,9,send the invoice,customer,Resource - [the] invoice,2
+p90,20,20,send the bill,customer,Resource - [the] bill,2
+p95,2,3,receive the inquiry,customer,Resource - [the] inquiry,2
+p95,7,9,receive the request,customer,Resource - [the] request,2
+p95,12,14,receive the meal order,customer,Meta-Actor - [the] [meal] order,2
+p96,20,18,send the invoice,customer,Resource - [the] invoice,2
+p99,9,10,clear the bill,production manager,Resource - [the] bill,2
+p99,10,11,send the bill,production manager,Resource - [the] bill,2
+p100,13,14,specify the reasons,,Resource - [the] reasons,2
+p100,14,15,specify the required quality measures,,Resource - [the] [required] [quality] measures,2
+p116,4,6,specify the requirments,customer,Resource - [the] requirments,2
+p119,7,7,specify the requirments,clerk,Resource - [the] requirments,2
+p120,12,14,pay the claim,customer,Resource - [the] claim,2
+p123,13,12,specify the reasons,incoming goods department,Resource - [the] reasons,2
+p125,6,6,specify the requirments,customer,Resource - [the] requirments,2
+p126,2,3,specify the budget requirments,company,Resource - [the] [budget] requirments,2
+p133,5,7,specify the registration requirments,user,Resource - [the] [registration] requirments,2
+p149,2,3,pay for the aptitude test,university administration,,2
+p18,6,6,setups the payroll,hiring manager,Actor - [the] payroll,2
+p35,1,2,specify the vacancy requirment,department,Resource - [the] [vacancy] requirment,2
+p36,0,1,request a book,borrower,Resource - [a] book,2
+p40,0,1,request an application,customer,Resource - [an] application,2
+p42,0,1,request a booking,customer,Resource - [a] booking,2
+p50,4,5,conduct the catagorize request,,Resource - [the] [catagorize] request,2
+p50,8,9,conduct the catagorize request,,Resource - [the] [catagorize] request,2
+p51,0,1,request the quotes,purchaser,Resource - [the] quotes,2
+p55,1,2,specify the vacancy requirment,business unit manager,Resource - [the] [vacancy] requirment,2
+p57,9,9,request order,retailer,Meta-Actor - order,2
+p82,0,1,specify a long contract,accountant,Resource - [a] [long] contract,2
+p95,19,22,pay the bill,customer,Resource - [the] bill,2
+p93,18,22,specify the channel optimization,domain registration team,Resource - [the] [channel] optimization,2
+p93,18,23,specify the channel optimization,domain registration team,Resource - [the] [channel] optimization,2
+p98,6,6,specify the request details,person,Resource - [the] [request] details,2
+p98,7,7,specify the references,person,Resource - [the] references,2
+p98,8,8,specify the urgencey,person,Resource - [the] urgencey,2
+p21,9,8,inform to the cab driver,traveling agent,,2
+p139,20,21,conduct the sen notification,inquiry section,Resource - [the] [sen] notification,2
+p140,3,3,cancel the birth notification,hospital administration,Resource - [the] [birth] notification,2
+p70,6,6,create the claims notification,customer,Resource - [the] [claims] notification,2
+p115,13,13,get the new offer,travel agent,Resource - [the] [new] offer,2
+p114,6,7,get the request,doctor,Resource - [the] request,2
+p115,1,1,get the flight booking request,travel agent,Resource - [the] [flight booking] request,2
+p117,8,9,get the info,customer,Resource - [the] info,2
+p125,1,2,get the order request,customer,Resource - [the] [order] request,2
+p17,4,5,get the authentication,supplier,Resource - [the] authentication,2
+p2,17,19,get the registration,student,Actor - [the] registration,2
+p10,9,10,make the payment,customer,Resource - [the] payment,2
+p102,23,21,make the payment,food supplier,Resource - [the] payment,2
+p106,4,5,find the pending payment,customer,Resource - [the] [pending] payment,2
+p107,13,14,make the payment,customer,Resource - [the] payment,2
+p107,21,21,take the payment,customer,Resource - [the] payment,2
+p108,29,27,make the payment,ship officer,Resource - [the] payment,2
+p11,12,14,reject the payment,retailer,Resource - [the] payment,2
+p114,13,15,make the payment,doctor,Resource - [the] payment,2
+p115,9,9,make the payment,travel agent,Resource - [the] payment,2
+p12,10,11,perform the payments,employer,Resource - [the] payments,2
+p123,7,7,make the payment,incoming goods department,Resource - [the] payment,2
+p125,16,16,make the payment,customer,Resource - [the] payment,2
+p134,7,7,make the payment,receiving department,Resource - [the] payment,2
+p3,10,12,make the payment,customer,Resource - [the] payment,2
+p37,9,11,make the payment,receptionist,Resource - [the] payment,2
+p58,0,1,make a payment,buyer,Resource - [a] payment,2
+p58,1,2,receive the payment,buyer,Resource - [the] payment,2
+p9,11,11,make the payment,customer,Resource - [the] payment,2
+p10,0,1,place a flight reservation order,customer,Meta-Actor - [a] [flight reservation] order,2
+p105,17,19,place the order,customer,Meta-Actor - [the] order,2
+p123,11,10,send the replacement order,incoming goods department,Meta-Actor - [the] [replacement] order,2
+p131,0,1,place a service request,customer,Resource - [a] [service] request,2
+p16,2,2,place the order,customer,Meta-Actor - [the] order,2
+p31,0,1,place an order,customer,Meta-Actor - [an] order,2
+p56,0,1,place an order,customer,Meta-Actor - [an] order,2
+p57,0,1,place an order,retailer,Meta-Actor - [an] order,2
+p81,0,1,place an order,salesman,Meta-Actor - [an] order,2
+p85,0,1,place an order,customer,Meta-Actor - [an] order,2
+p87,0,1,place an enrollment request,customer,Resource - [an] [enrollment] request,2
+p90,0,1,place an order,customer,Meta-Actor - [an] order,2
+p1,8,11,modify the ticket,customer,Resource - [the] ticket,2
+p1,11,13,send the mail to the support agent,customer,Resource - [the] mail,2
+p1,14,17,notify to the support agent,customer,,2
+p1,15,18,notify to the customer,customer,,2
+p10,1,2,receive the order,customer,Meta-Actor - [the] order,2
+p10,5,6,receive the rejection notification,customer,Resource - [the] [rejection] notification,2
+p10,8,9,receive the flight confirmation,customer,Resource - [the] [flight] confirmation,2
+p100,5,5,inform the account dept.,,Resource - [the] [account] dept.,2
+p100,9,10,send the replacement order,,Meta-Actor - [the] [replacement] order,2
+p101,0,1,receive an order,worker,Meta-Actor - [an] order,2
+p101,10,10,dept. forwards the order to check,worker,Meta-Actor - [the] order,2
+p102,2,4,send the order to the supplier,food supplier,Meta-Actor - [the] order,2
+p102,3,5,receive the order,food supplier,Meta-Actor - [the] order,2
+p102,7,8,send the notification to the commitee,food supplier,Resource - [the] notification,2
+p102,10,11,request the food item delivery,food supplier,Resource - [the] [food item] delivery,2
+p102,12,12,receive the delivery request,food supplier,Resource - [the] [delivery] request,2
+p102,15,13,send the notification to the supplier,food supplier,Resource - [the] notification,2
+p102,16,14,receive the confirmation,food supplier,Resource - [the] confirmation,2
+p102,21,18,receive the notification,food supplier,Resource - [the] notification,2
+p102,22,19,receive the order,food supplier,Meta-Actor - [the] order,2
+p103,0,1,receive an order,manufacturer,Meta-Actor - [an] order,2
+p103,12,12,inform the reasons,manufacturer,Resource - [the] reasons,2
+p103,14,15,retrieve the destinations,manufacturer,Resource - [the] destinations,2
+p104,11,9,inform the reasons,analyst,Resource - [the] reasons,2
+p104,20,16,approve the design,analyst,Resource - [the] design,2
+p105,0,1,select a product,customer,Resource - [a] product,2
+p105,1,2,enter the email address,customer,Resource - [the] [email] address,2
+p105,2,3,enter the credit card number,customer,Actor - [the] [credit card] number,2
+p105,4,5,get the order,customer,Meta-Actor - [the] order,2
+p105,5,6,retrieve the isbn,customer,Resource - [the] isbn,2
+p105,18,20,confirm the order,customer,Meta-Actor - [the] order,2
+p106,0,1,enter a credit card number,customer,Actor - [a] [credit card] number,2
+p106,7,10,select the shipping type,customer,Meta-Actor - [the] [shipping] type,2
+p106,9,11,send the order confirmation,customer,Resource - [the] [order] confirmation,2
+p107,7,8,receive the request,customer,Resource - [the] request,2
+p107,9,10,inform the customer,customer,Actor - [the] customer,2
+p107,12,13,purchase the order,customer,Meta-Actor - [the] order,2
+p107,14,15,receive the payment,customer,Resource - [the] payment,2
+p107,15,16,authenticate the payment,customer,Resource - [the] payment,2
+p107,19,19,inform the customer,customer,Actor - [the] customer,2
+p108,6,6,disapprove the rfq,ship officer,Resource - [the] rfq,2
+p108,7,7,inform the reasons,ship officer,Resource - [the] reasons,2
+p108,8,8,approve the rfq,ship officer,Resource - [the] rfq,2
+p108,16,15,send the quote response,ship officer,Resource - [the] [quote] response,2
+p108,17,16,receive the quote response,ship officer,Resource - [the] [quote] response,2
+p108,21,20,send the order to the vendor,ship officer,Meta-Actor - [the] order,2
+p108,30,28,receive the payment,ship officer,Resource - [the] payment,2
+p109,1,2,submit the request,customer,Resource - [the] request,2
+p109,6,6,inform the reasons,customer,Resource - [the] reasons,2
+p109,7,7,receive the acknowledgment,customer,Resource - [the] acknowledgment,2
+p109,27,27,approve the order,customer,Meta-Actor - [the] order,2
+p109,43,43,submit the signed order,customer,Meta-Actor - [the] [signed] order,2
+p11,13,15,notify the customer,retailer,Actor - [the] customer,2
+p110,10,10,make the terms approval,customer,Resource - [the] [terms] approval,2
+p111,0,1,request a loan,employee,Resource - [a] loan,2
+p111,1,2,receive the loan request,employee,Resource - [the] [loan] request,2
+p111,3,4,record the loan request,employee,Resource - [the] [loan] request,2
+p111,12,12,notify the customer,employee,Actor - [the] customer,2
+p111,15,14,inform the reasons,employee,Resource - [the] reasons,2
+p112,0,1,receive a client record,manager,Resource - [a] [client] record,2
+p113,1,2,submit the demographics,customer,Resource - [the] demographics,2
+p113,8,8,inform the customer,customer,Actor - [the] customer,2
+p113,9,9,receive the notification,customer,Resource - [the] notification,2
+p113,11,11,approve the insurance,customer,Resource - [the] insurance,2
+p113,13,13,receive the claim,customer,Resource - [the] claim,2
+p114,7,8,send the required details,doctor,Resource - [the] [required] detailes,2
+p114,8,9,access the details,doctor,Resource - [the] detailes,2
+p114,10,12,select the candidate doze,doctor,Resource - [the] [candidate] doze,2
+p114,12,14,receive the instruction,doctor,Resource - [the] instruction,2
+p114,14,16,receive the payment,doctor,Resource - [the] payment,2
+p115,2,2,register the request,travel agent,Resource - [the] request,2
+p115,8,8,register the flight,travel agent,Meta-Actor - [the] flight,2
+p115,10,10,receive the payment,travel agent,Resource - [the] payment,2
+p115,15,15,inform the travel agent,travel agent,Actor - [the] [travel] agent,2
+p116,0,1,register a ticket claim,customer,Resource - [a] [ticket] claim,2
+p116,1,2,receive the claim,customer,Resource - [the] claim,2
+p116,3,5,edit the level ticket claim,customer,Resource - [the] [level] [ticket] claim,2
+p116,5,7,submit the review results,customer,Resource - [the] [review] results,2
+p116,8,10,inform the customer,customer,Actor - [the] customer,2
+p116,9,11,receive the notification,customer,Resource - [the] notification,2
+p116,12,14,receive the claim,customer,Resource - [the] claim,2
+p116,14,16,submit the review results,customer,Resource - [the] [review] results,2
+p116,20,24,send the mail to the account manager,customer,Resource - [the] mail,2
+p117,2,3,receive the request,customer,Resource - [the] request,2
+p117,6,7,receive the request,customer,Resource - [the] request,2
+p117,19,21,register the customer,customer,Actor - [the] customer,2
+p118,0,1,receive an order,bank,Meta-Actor - [an] order,2
+p118,6,7,notify the customer,bank,Actor - [the] customer,2
+p119,9,10,inform the customer,clerk,Actor - [the] customer,2
+p12,0,1,request the vacations,employer,Resource - [the] vacations,2
+p12,4,4,inform the customer,employer,Actor - [the] customer,2
+p12,6,6,approve the vacation request,employer,Resource - [the] [vacation] request,2
+p120,1,3,submit the insurance claim,customer,Resource - [the] [insurance] claim,2
+p120,10,12,approve the case,customer,Meta-Actor - [the] case,2
+p121,0,1,starts a registration,user,Actor - [a] registration,2
+p121,3,4,enter the registration information,user,Resource - [the] [registration] information,2
+p121,5,6,create the database record,user,Resource - [the] [database] record,2
+p121,8,10,receive the registration mail,user,Resource - [the] [registration] mail,2
+p122,0,1,receive a complaint,complaint receiver,Resource - [a] complaint,2
+p122,2,2,create the incident record,complaint receiver,Resource - [the] [incident] record,2
+p122,3,3,categorize the incident,complaint receiver,Resource - [the] incident,2
+p122,4,4,prioritize the incident,complaint receiver,Resource - [the] incident,2
+p122,5,5,create the customer complaint,complaint receiver,Resource - [the] [customer] complaint,2
+p122,17,22,inform the complainer,complaint receiver,Actor - [the] complainer,2
+p124,1,2,receive the order,customer,Meta-Actor - [the] order,2
+p124,19,18,send the email to the customer,customer,Resource - [the] email,2
+p124,21,20,receive the order,customer,Meta-Actor - [the] order,2
+p125,0,1,request an order,customer,Meta-Actor - [an] order,2
+p125,7,7,inform the requirements to the warehouse manager,customer,Resource - [the] requirements,2
+p125,11,10,select the delivery service,customer,Meta-Actor - [the] [delivery] service,2
+p126,0,1,initiate a project,company,Resource - [a] project,2
+p126,6,7,select the candidate,company,Actor - [the] candidate,2
+p126,9,9,submit the updates,company,Resource - [the] updates,2
+p126,13,13,receive the payment,company,Resource - [the] payment,2
+p127,1,2,select the candidates,hr manager,Actor - [the] candidates,2
+p127,7,7,notify the hiring manager,hr manager,Actor - [the] [hiring] manager,2
+p127,8,8,receive the notification,hr manager,Resource - [the] notification,2
+p127,9,9,revise the package,hr manager,Resource - [the] package,2
+p127,12,13,receive the offer,hr manager,Resource - [the] offer,2
+p127,17,18,revise the offer,hr manager,Resource - [the] offer,2
+p128,0,1,send a policy request,customer,Resource - [a] [policy] request,2
+p128,1,2,receive the policy request,customer,Resource - [the] [policy] request,2
+p128,4,5,receive the questionaire,customer,Resource - [the] questionaire,2
+p128,6,7,send the response,customer,Resource - [the] response,2
+p128,7,8,receive the additional information,customer,Resource - [the] [additional] information,2
+p128,10,11,send the request outcome,customer,Resource - [the] [request] outcome,2
+p128,11,12,receive the request outcome,customer,Resource - [the] [request] outcome,2
+p13,3,3,apply the application,customer,Resource - [the] application,2
+p13,4,4,receive the application,customer,Resource - [the] application,2
+p131,1,2,receive the request,customer,Resource - [the] request,2
+p131,2,3,select the service package,customer,Resource - [the] [service] package,2
+p131,6,7,create the account,customer,Resource - [the] account,2
+p131,14,15,receive the results,customer,Resource - [the] results,2
+p131,17,18,receive the rejection notification,customer,Resource - [the] [rejection] notification,2
+p132,9,10,allow the break,worker,Resource - [the] break,2
+p133,6,8,enter the registration information,user,Resource - [the] [registration] information,2
+p133,8,10,create the database record,user,Resource - [the] [database] record,2
+p133,12,15,receive the registration mail,user,Resource - [the] [registration] mail,2
+p133,14,17,notify the customer,user,Actor - [the] customer,2
+p133,15,18,receive the notification,user,Resource - [the] notification,2
+p134,8,8,update the inventory system,receiving department,Resource - [the] [inventory] system,2
+p134,14,14,inform the reasons,receiving department,Resource - [the] reasons,2
+p134,16,16,send the replacement order,receiving department,Meta-Actor - [the] [replacement] order,2
+p135,0,1,receive a birth notification,hospital administration,Resource - [a] [birth] notification,2
+p135,1,2,receive the documents,hospital administration,Resource - [the] documents,2
+p135,7,8,register the baby,hospital administration,Actor - [the] baby,2
+p135,13,15,register the baby,hospital administration,Actor - [the] baby,2
+p135,15,17,register the nationality,hospital administration,Resource - [the] nationality,2
+p135,22,25,inform the resposible persons,hospital administration,Actor - [the] [resposible] persons,2
+p136,5,6,inform the civil court,administration,Actor - [the] [civil] court,2
+p136,10,13,send the information,administration,Resource - [the] information,2
+p136,18,21,receive the citizenship decision,administration,Resource - [the] [citizenship] decision,2
+p136,19,22,register the citizenship,administration,Resource - [the] citizenship,2
+p136,21,25,register the baby,administration,Actor - [the] baby,2
+p136,25,29,register the baby,administration,Actor - [the] baby,2
+p136,26,30,send the birth information to the parents,administration,Resource - [the] [birth] information,2
+p136,29,35,send the request,administration,Resource - [the] request,2
+p137,0,1,receive a notification,hospital administration,Resource - [a] notification,2
+p137,6,7,register the baby,hospital administration,Actor - [the] baby,2
+p137,8,10,register the child,hospital administration,Actor - [the] child,2
+p137,25,28,receive the processed information,hospital administration,Resource - [the] [processed] information,2
+p138,0,1,receive a birth notification,hospital administration,Resource - [a] [birth] notification,2
+p138,3,3,confirm the identity,hospital administration,Resource - [the] identity,2
+p138,4,4,confirm the identity,hospital administration,Resource - [the] identity,2
+p138,5,6,send the documents to the administration,hospital administration,Resource - [the] documents,2
+p138,9,9,confirm the identity,hospital administration,Resource - [the] identity,2
+p138,16,15,update the gba,hospital administration,Resource - [the] gba,2
+p138,18,17,send the notification,hospital administration,Resource - [the] notification,2
+p138,21,20,send the data,hospital administration,Resource - [the] data,2
+p138,22,22,archive the documents,hospital administration,Resource - [the] documents,2
+p139,0,1,receive a notification,inquiry section,Resource - [a] notification,2
+p139,2,3,confirm the identity,inquiry section,Resource - [the] identity,2
+p139,7,8,register at the municiplility,inquiry section,,2
+p139,22,23,archive the documents,inquiry section,Resource - [the] documents,2
+p14,4,2,email the discussion deadline to warn ,,Resource - [the] [discussion] deadline,2
+p14,5,3,initiate the email discussion,,Resource - [the] [email] discussion,2
+p140,0,1,receive a notification,hospital administration,Resource - [a] notification,2
+p140,9,10,confirm the choice,hospital administration,Resource - [the] choice,2
+p140,14,14,send the notification,hospital administration,Resource - [the] notification,2
+p140,18,19,archive the documents,hospital administration,Resource - [the] documents,2
+p141,0,1,receive a notification,administration,Resource - [a] notification,2
+p141,2,3,inform the court,administration,Actor - [the] court,2
+p141,3,4,confirm the identity,administration,Resource - [the] identity,2
+p141,5,5,confirm the identity,administration,Resource - [the] identity,2
+p141,7,7,confirm the identity,administration,Resource - [the] identity,2
+p141,11,12,approve the data,administration,Resource - [the] data,2
+p141,17,18,confirm the choice,administration,Resource - [the] choice,2
+p141,21,22,send the notification,administration,Resource - [the] notification,2
+p141,22,23,archive the documents,administration,Resource - [the] documents,2
+p142,7,8,add the case,applicant,Meta-Actor - [the] case,2
+p142,9,11,send the application to the enrollment administration,applicant,Resource - [the] application,2
+p142,17,19,send the rejection,applicant,Resource - [the] rejection,2
+p142,18,20,inform the reason,applicant,Resource - [the] reason,2
+p142,19,21,receive the rejection,applicant,Resource - [the] rejection,2
+p142,21,23,hand over the application to examine board,applicant,Resource - [the] application,2
+p142,26,27,send the acceptance,applicant,Resource - [the] acceptance,2
+p142,27,28,receive the acceptance,applicant,Resource - [the] acceptance,2
+p142,29,30,send the rejection,applicant,Resource - [the] rejection,2
+p142,30,31,inform the reasons,applicant,Resource - [the] reasons,2
+p142,31,32,receive the rejection,applicant,Resource - [the] rejection,2
+p143,2,2,choose the international university,applicant,Actor - [the] [international] university,2
+p143,4,5,send the international application,applicant,Resource - [the] [international] application,2
+p143,5,7,choose the german university,applicant,Actor - [the] [german] university,2
+p143,7,10,send german application,applicant,Resource - [german] application,2
+p143,12,18,send the rejection,applicant,Resource - [the] rejection,2
+p143,13,19,receive the rejection,applicant,Resource - [the] rejection,2
+p143,21,28,send the rejection,applicant,Resource - [the] rejection,2
+p143,22,29,inform the reasons,applicant,Resource - [the] reasons,2
+p143,23,30,receive the rejection,applicant,Resource - [the] rejection,2
+p143,25,33,send the commitment,applicant,Resource - [the] commitment,2
+p143,26,34,receive the commitment,applicant,Resource - [the] commitment,2
+p144,1,2,send the documents,applicant,Resource - [the] documents,2
+p144,2,3,receive the documents,applicant,Resource - [the] documents,2
+p144,5,6,receive the documents,applicant,Resource - [the] documents,2
+p144,11,11,send the interview invitation,applicant,Resource - [the] [interview] invitation,2
+p144,14,14,select the applicant,applicant,Actor - [the] applicant,2
+p145,11,10,send the application,applicant,Resource - [the] application,2
+p145,12,11,receive the application,applicant,Resource - [the] application,2
+p145,20,18,send the rejection,applicant,Resource - [the] rejection,2
+p145,21,19,receive the rejection,applicant,Resource - [the] rejection,2
+p146,0,1,complete to form onlline,applicant,,2
+p146,0,2,send the application,applicant,Resource - [the] application,2
+p146,1,3,receive the online application,applicant,Resource - [the] [online] application,2
+p146,2,4,allocate the application number,applicant,Actor - [the] [application] number,2
+p146,2,5,allocate passwords,applicant,Resource - passwords,2
+p146,3,6,receive the number,applicant,Actor - [the] number,2
+p146,3,7,receive passwords,applicant,Resource - passwords,2
+p146,7,10,print the international application form,applicant,Resource - [the] [international] [application] form,2
+p146,9,12,print the german application form,applicant,Resource - [the] [german] [application] form,2
+p146,10,14,send the requirements to the secretarial office,applicant,Resource - [the] requirements,2
+p146,11,15,receive the application,applicant,Resource - [the] application,2
+p146,17,20,resubmit the application,applicant,Resource - [the] application,2
+p146,19,22,send the documents to the committee,applicant,Resource - [the] documents,2
+p146,20,23,receive the application,applicant,Resource - [the] application,2
+p147,43,43,attach the additional requirements,applicant,Resource - [the] [additional] requirements,2
+p148,22,20,confirm the acceptance,applicant,Resource - [the] acceptance,2
+p149,1,2,send the online protocol,university administration,Resource - [the] [online] protocol,2
+p15,0,1,receive an order,,Meta-Actor - [an] order,2
+p15,3,4,send the inquiry,,Resource - [the] inquiry,2
+p15,4,5,receive the inquiry,,Resource - [the] inquiry,2
+p15,6,7,send the report to the production branch,,Resource - [the] report,2
+p150,0,1,choose the courses,applicant,Actor - [the] courses,2
+p150,2,3,choose the response,applicant,Resource - [the] response,2
+p150,8,8,upload the bachelor degree,applicant,Resource - [the] [bachelor] degree,2
+p150,9,9,upload the university entrance certificate,applicant,Resource - [the] [university entrance] certificate,2
+p150,10,10,upload the letter,applicant,Actor - [the] letter,2
+p150,11,11,upload the cv,applicant,Resource - [the] cv,2
+p150,12,12,upload the language certificate,applicant,Resource - [the] [language] certificate,2
+p150,34,43,send the information to the application office,applicant,Resource - [the] information,2
+p150,35,44,update the application system,applicant,Resource - [the] [application] system,2
+p16,4,5,receive the order,customer,Meta-Actor - [the] order,2
+p17,0,1,receive a payment,supplier,Resource - [a] payment,2
+p17,1,2,send the payment,supplier,Resource - [the] payment,2
+p17,2,3,authorize the card payment,supplier,Resource - [the] [card] payment,2
+p17,3,4,notify to the supplier,supplier,,2
+p18,5,5,select the candidate,hiring manager,Actor - [the] candidate,2
+p18,9,9,inform the candidate,hiring manager,Actor - [the] candidate,2
+p19,12,11,inform the customer,customer,Actor - [the] customer,2
+p2,2,3,retrieve the educational record,student,Resource - [the] [educational] record,2
+p2,6,6,send the notification,student,Resource - [the] notification,2
+p2,7,7,receive the notice,student,Resource - [the] notice,2
+p2,9,9,resubmit form,student,Meta-Actor - form,2
+p2,11,11,register the student,student,Actor - [the] student,2
+p2,12,12,enroll the student,student,Actor - [the] student,2
+p2,15,15,send the outcome,student,Resource - [the] outcome,2
+p2,16,17,receive registrations,student,Actor - registrations,2
+p20,0,1,receive an order,manager,Meta-Actor - [an] order,2
+p20,4,4,inform the reasons,manager,Resource - [the] reasons,2
+p20,5,5,approve the order,manager,Meta-Actor - [the] order,2
+p21,0,1,request a cab booking,traveling agent,Resource - [a] [cab] booking,2
+p21,1,2,receive the request,traveling agent,Resource - [the] request,2
+p21,6,5,receive the booking details,traveling agent,Resource - [the] [booking] details,2
+p21,8,7,confirm the booking,traveling agent,Resource - [the] booking,2
+p21,10,9,receive the details,traveling agent,Resource - [the] details,2
+p21,12,11,inform the confirmation,traveling agent,Resource - [the] confirmation,2
+p21,14,13,inform the reasons,traveling agent,Resource - [the] reasons,2
+p22,2,3,receive the order,customer,Meta-Actor - [the] order,2
+p22,12,14,enter the order,customer,Meta-Actor - [the] order,2
+p23,4,5,register a black list,loan granting co,Resource - the,2
+p23,9,8,inform the reason listed,loan granting co,Resource - [the] reason,2
+p25,0,1,report a bug,user,Resource - [a] bug,2
+p25,1,2,receive the report,user,Resource - [the] report,2
+p25,6,7,notify the administrator,user,Actor - [the] administrator,2
+p25,7,8,install the new version,user,Resource - [the] [new] version,2
+p25,8,9,notify the user,user,Actor - [the] user,2
+p25,10,12,inform the user,user,Actor - [the] user,2
+p25,11,14,use the application,user,Resource - [the] application,2
+p26,1,2,take the manager approval,sales department,Resource - [the] [manager] approval,2
+p26,2,3,receive the approved voucher,sales department,Actor - [the] [approved] voucher,2
+p27,1,2,receive the quote,shopkeeper,Resource - [the] quote,2
+p28,0,1,submit a project,developer,Resource - [a] project,2
+p28,1,2,receive the project,developer,Resource - [the] project,2
+p28,8,9,resubmit the project,developer,Resource - [the] project,2
+p29,0,1,request a new license,person,Resource - [a] [new] license,2
+p29,1,2,submit the application,person,Resource - [the] application,2
+p29,2,3,receive the new licence application,person,Resource - [the] [new licence] application,2
+p29,7,8,inform the reason,person,Resource - [the] reason,2
+p30,6,6,require the quotation,sales person,Resource - [the] quotation,2
+p31,1,2,receive the order,customer,Meta-Actor - [the] order,2
+p31,6,9,create the customer account,customer,Resource - [the] [customer] account,2
+p33,0,1,place an order,customer,Meta-Actor - [an] order,2
+p33,1,2,receive the order,customer,Meta-Actor - [the] order,2
+p33,3,3,input the order data into the erp system,customer,Resource - [the] [order] data,2
+p33,11,12,print the shipping label,customer,Resource - [the] [shipping] label,2
+p34,0,1,advertise a job,candidate,Meta-Actor - [a] job,2
+p34,2,3,apply the required job,candidate,Meta-Actor - [the] [required] job,2
+p34,4,5,submit the challan form,candidate,Meta-Actor - [the] [challan] form,2
+p34,5,6,submit the application,candidate,Resource - [the] application,2
+p34,7,8,receive the job application,candidate,Resource - [the] [job] application,2
+p34,12,12,inform the candidate,candidate,Actor - [the] candidate,2
+p34,13,13,select the candidate,candidate,Actor - [the] candidate,2
+p34,14,14,inform the candidate,candidate,Actor - [the] candidate,2
+p34,15,15,submit the employment form,candidate,Meta-Actor - [the] [employment] form,2
+p35,5,5,access the vacancy,department,Resource - [the] vacancy,2
+p35,8,7,approve the vacancy,department,Resource - [the] vacancy,2
+p35,12,11,release the advertisment,department,Resource - [the] advertisment,2
+p36,1,2,receive the book request,borrower,Resource - [the] [book] request,2
+p36,8,8,inform the borrower,borrower,Actor - [the] borrower,2
+p37,1,2,request the doctor appointment,receptionist,Actor - [the] [doctor] appointment,2
+p37,2,3,receive the request,receptionist,Resource - [the] request,2
+p37,4,5,receive the appointment,receptionist,Actor - [the] appointment,2
+p37,5,6,inform the symptoms,receptionist,Resource - [the] symptoms,2
+p38,0,1,receive an order,bank,Meta-Actor - [an] order,2
+p38,5,6,inform the customer,bank,Actor - [the] customer,2
+p39,3,5,receive the order,customer,Meta-Actor - [the] order,2
+p39,4,6,configure the shopping cart,customer,Resource - [the] [shopping] cart,2
+p39,6,8,receive the payment,customer,Resource - [the] payment,2
+p39,8,10,send the confirmation,customer,Resource - [the] confirmation,2
+p39,10,12,receive the order products,customer,Resource - [the] [order] products,2
+p39,11,13,receive the confirmation,customer,Resource - [the] confirmation,2
+p39,12,15,send the feedback email,customer,Resource - [the] [feedback] email,2
+p4,0,1,receive a request,,Resource - [a] request,2
+p4,5,6,notify the reasons,,Resource - [the] reasons,2
+p4,12,13,register the customer,,Actor - [the] customer,2
+p40,1,2,receive the request,customer,Resource - [the] request,2
+p40,2,3,register the personal data,customer,Resource - [the] [personal] data,2
+p40,5,6,register the salary information,customer,Resource - [the] [salary] information,2
+p40,6,7,register the documents,customer,Resource - [the] documents,2
+p40,13,14,approve the loan,customer,Resource - [the] loan,2
+p41,0,1,register a sat exam,student,Resource - [a] [sat] exam,2
+p42,1,2,receive the request,customer,Resource - [the] request,2
+p42,9,8,inform the customer,customer,Actor - [the] customer,2
+p42,10,9,undo the booking,customer,Resource - [the] booking,2
+p42,12,11,update the credit card balance,customer,Meta-Actor - [the] [credit card] balance,2
+p42,13,12,notify the customer,customer,Actor - [the] customer,2
+p44,9,9,inform the seller,smart cell,Actor - [the] seller,2
+p44,13,13,receive the payment,smart cell,Resource - [the] payment,2
+p46,0,1,receive an issue,level support,Meta-Actor - [an] issue,2
+p46,2,3,edit the level ticket,level support,Resource - [the] [level] ticket,2
+p46,5,6,send the issue to the 2nd level,level support,Meta-Actor - [the] issue,2
+p46,6,7,edit the 2nd level ticket,level support,Resource - [the] [2nd] [level] ticket,2
+p46,9,11,send the confirmation email to the account manager,level support,Resource - [the] [confirmation] email,2
+p47,1,2,receive the article order,customer,Meta-Actor - [the] [article] order,2
+p47,5,6,inform the customer,customer,Actor - [the] customer,2
+p47,9,8,receive the payment,customer,Resource - [the] payment,2
+p47,10,10,receive the order,customer,Meta-Actor - [the] order,2
+p47,11,11,remove the article,customer,Resource - [the] article,2
+p48,1,2,receive request form,sponsor,Meta-Actor - [request] form,2
+p48,8,11,resubmit the request form,sponsor,Meta-Actor - [the] [request] form,2
+p49,0,1,receive a purchase order,order accounting department,Resource - [a] [purchase] order,2
+p49,1,2,enter the order into the managment system,order accounting department,Meta-Actor - [the] order,2
+p51,2,2,receive the request,purchaser,Resource - [the] request,2
+p51,3,3,send the quote,purchaser,Resource - [the] quote,2
+p51,4,4,receive the request,purchaser,Resource - [the] request,2
+p51,5,5,send the quote,purchaser,Resource - [the] quote,2
+p51,6,6,receive the request,purchaser,Resource - [the] request,2
+p51,7,7,send the quote,purchaser,Resource - [the] quote,2
+p52,0,1,receive an order,logistic manager,Meta-Actor - [an] order,2
+p53,3,4,confirm the reservation information,information cell,Resource - [the] [reservation] infromation,2
+p53,13,16,confirm the room,information cell,Meta-Actor - [the] room,2
+p54,0,1,submit an iphone puchase order,retailer,Meta-Actor - [an] [iphone puchase] order,2
+p54,1,2,receive the request order,retailer,Meta-Actor - [the] [request] order,2
+p54,6,9,register the retailer,retailer,Actor - [the] retailer,2
+p54,11,14,receive the order,retailer,Meta-Actor - [the] order,2
+p55,5,5,approve the vacancy,business unit manager,Resource - [the] vacancy,2
+p55,8,8,release the advertisment,business unit manager,Resource - [the] [advertisment] ad,2
+p55,11,10,inform the reasons,business unit manager,Resource - [the] reasons,2
+p56,1,2,receive the order,customer,Meta-Actor - [the] order,2
+p56,9,8,select the delivery service,customer,Meta-Actor - [the] [delivery] service,2
+p56,11,11,receive the order,customer,Meta-Actor - [the] order,2
+p57,1,2,receive the order,retailer,Meta-Actor - [the] order,2
+p57,3,3,department forwards the order,retailer,Meta-Actor - [the] order,2
+p57,4,4,enter the order information,retailer,Resource - [the] [order] information,2
+p57,5,6,receive the order payment,retailer,Resource - [the] [order] payment,2
+p57,11,11,receive the order,retailer,Meta-Actor - [the] order,2
+p57,13,14,send the rejection notification,retailer,Resource - [the] [rejection] notification,2
+p58,4,5,receive the payment,buyer,Resource - [the] payment,2
+p58,6,7,receive the payment,buyer,Resource - [the] payment,2
+p58,11,11,update the balance,buyer,Meta-Actor - [the] balance,2
+p58,13,13,inform the reasons,buyer,Resource - [the] reasons,2
+p59,1,2,create the attribute definations,,Resource - [the] [attribute] definations,2
+p59,2,3,create the product class,,Actor - [the] [product] class,2
+p6,5,6,notify the reasons,storekeeper,Resource - [the] reasons,2
+p60,5,8,register on authority,business organization,,2
+p60,8,10,store the registration authority information,business organization,Resource - [the] [registration authority] information,2
+p61,0,1,receive an order,shipping department,Meta-Actor - [an] order,2
+p61,5,3,send the shipping schedule,shipping department,Resource - [the] [shipping] schedule,2
+p61,6,4,initiate the price calculations,shipping department,Resource - [the] [price] calculations,2
+p62,0,1,submit a service request form,customer,Meta-Actor - [a] [service request] form,2
+p62,1,2,receive the support service request,customer,Resource - [the] [support service] request,2
+p62,5,6,submit the task order,customer,Meta-Actor - [the] [task] order,2
+p62,6,7,receive the task order service,customer,Meta-Actor - [the] [task order] service,2
+p63,0,1,submit an application form,election cell,Resource - [an] [application] form,2
+p63,1,2,receive the candidate form,election cell,Meta-Actor - [the] [candidate] form,2
+p63,5,6,notify the reasons,election cell,Resource - [the] reasons,2
+p63,7,8,inform the election commission,election cell,Actor - [the] [election] commission,2
+p63,12,13,send the result to the candidate,election cell,Resource - [the] result,2
+p64,0,1,receive a fund request,originator,Resource - [a] [fund] request,2
+p64,2,3,select the vendor,originator,Actor - [the] vendor,2
+p64,7,7,update the record,originator,Resource - [the] record,2
+p65,1,2,receive the quote,wholesaler,Resource - [the] quote,2
+p65,7,8,archive the quote,wholesaler,Resource - [the] quote,2
+p66,0,1,submit a vacations request,employee,Resource - [a] [vacations] request,2
+p66,1,2,receive the request,employee,Resource - [the] request,2
+p66,2,3,register the request,employee,Resource - [the] request,2
+p66,3,4,send the request to the immediate employee supervisor,employee,Resource - [the] request,2
+p66,4,5,receive the vacation request,employee,Resource - [the] [vacation] request,2
+p66,10,13,receive the rejection notice,employee,Resource - [the] [rejection] notice,2
+p66,11,14,approve the request,employee,Resource - [the] request,2
+p66,13,16,notify to the employee,employee,,2
+p66,14,17,receive the approval notice,employee,Resource - [the] [approval] notice,2
+p67,0,1,submit an application,employee,Resource - [an] application,2
+p67,1,2,receive the request,employee,Resource - [the] request,2
+p67,7,7,receive the loan acceptance notification,employee,Resource - [the] [loan acceptance] notification,2
+p67,10,10,receive the rejection notification,employee,Resource - [the] [rejection] notification,2
+p69,1,2,submit form,student,Meta-Actor - form,2
+p69,2,3,receive the scholorship requests,student,Resource - [the] [scholorship] requests,2
+p7,1,2,receive the order,customer,Meta-Actor - [the] order,2
+p7,19,18,send the email to the customer,customer,Resource - [the] email,2
+p7,21,20,receive the order,customer,Meta-Actor - [the] order,2
+p70,0,1,claim a case,customer,Meta-Actor - [a] case,2
+p70,1,2,receive the claim request,customer,Resource - [the] [claim] request,2
+p71,3,4,select the candidate,company,Actor - [the] candidate,2
+p71,5,6,submit the updates,company,Resource - [the] updates,2
+p71,7,8,submit the complete project,company,Resource - [the] [complete] project,2
+p71,9,10,receive the payment,company,Resource - [the] payment,2
+p72,1,2,send form to the manager,employee,Meta-Actor - form,2
+p72,6,7,send the request to the vice principal,employee,Resource - [the] request,2
+p72,7,9,receive the approval,employee,Resource - [the] approval,2
+p73,0,1,place an order,customer,Meta-Actor - [an] order,2
+p73,1,2,take the order,customer,Meta-Actor - [the] order,2
+p74,1,2,receive the request,customer,Resource - [the] request,2
+p74,7,10,confirm reservation,customer,Resource - reservation,2
+p74,9,12,receive the ticket,customer,Resource - [the] ticket,2
+p74,14,16,inform the reasons,customer,Resource - [the] reasons,2
+p74,16,20,inform the customer,customer,Actor - [the] customer,2
+p75,0,1,send a mm,open mms relay,Resource - [a] mm,2
+p75,1,2,receive the mm,open mms relay,Resource - [the] mm,2
+p75,6,8,receive the error message,open mms relay,Resource - [the] [error] message,2
+p75,8,11,send the data,open mms relay,Resource - [the] data,2
+p75,9,12,store the mm,open mms relay,Resource - [the] mm,2
+p75,11,13,send the mm,open mms relay,Resource - [the] mm,2
+p75,12,14,send the mm,open mms relay,Resource - [the] mm,2
+p75,13,16,create the changing data records,open mms relay,Resource - [the] [changing] [data] records,2
+p75,14,17,receive the confirmation message,open mms relay,Resource - [the] [confirmation] message,2
+p76,0,1,create an overtime registration,employee,Actor - [an] [overtime] registration,2
+p76,1,2,send the overtime registration to the manager,employee,Actor - [the] [overtime] registration,2
+p76,2,3,receive the request,employee,Resource - [the] request,2
+p76,5,5,approve the request,employee,Resource - [the] request,2
+p76,6,6,inform the confirmation,employee,Resource - [the] confirmation,2
+p76,8,8,return the overtime registration to the employee,employee,Actor - [the] [overtime] registration,2
+p76,9,9,receive the rejection notification,employee,Resource - [the] [rejection] notification,2
+p77,0,1,order an inquiry,customer,Resource - [an] inquiry,2
+p77,1,2,send the quotation,customer,Resource - [the] quotation,2
+p77,2,3,receive the quotation,customer,Resource - [the] quotation,2
+p77,6,6,send the production order form,customer,Meta-Actor - [the] [production order] form,2
+p77,7,7,send the purchase order form,customer,Meta-Actor - [the] [purchase order] form,2
+p78,0,1,submit a registration application,student,Resource - [a] [registration] application,2
+p78,1,2,receive the application,student,Resource - [the] application,2
+p78,5,7,inform the student to resubmit,student,Actor - [the] student,2
+p78,5,8,resubmit additional information,student,Resource - [additional] information,2
+p79,7,8,enter the order,customer,Meta-Actor - [the] order,2
+p79,9,11,receive the order,customer,Meta-Actor - [the] order,2
+p8,5,5,specify the quantity need,department,Resource - [the] [quantity] need,2
+p8,6,6,save the purchase requisition,department,Resource - [the] [purchase] requisition,2
+p8,11,10,create the creditor,department,Actor - [the] creditor,2
+p8,12,12,create the order template to form purchase requisition,department,Resource - [the] [order] template,2
+p8,13,13,release the order,department,Meta-Actor - [the] order,2
+p8,14,15,supply the order,department,Meta-Actor - [the] order,2
+p80,0,1,get the nominations,employee,Resource - [the] nominations,2
+p80,1,2,head to confirm the nominations,employee,,2
+p80,2,3,create the training calender,employee,Resource - [the] [training] calender,2
+p80,3,4,get the program details,employee,Resource - [the] [program] details,2
+p81,1,2,receive the order,salesman,Meta-Actor - [the] order,2
+p81,5,6,inform the reasons,salesman,Resource - [the] reasons,2
+p81,9,10,retrieve the product,salesman,Resource - [the] product,2
+p81,16,18,receive the order,salesman,Meta-Actor - [the] order,2
+p83,0,1,receive an order,salesman,Meta-Actor - [an] order,2
+p83,1,2,register the order,salesman,Meta-Actor - [the] order,2
+p85,1,2,receive the new item order,customer,Meta-Actor - [the] [new] [item] order,2
+p86,0,1,request a service,customer,Meta-Actor - [a] service,2
+p86,1,2,receive the service request,customer,Resource - [the] [service] request,2
+p86,2,3,select the service package,customer,Resource - [the] [service] package,2
+p86,7,7,create the new customer account,customer,Resource - [the] [new] [customer] account,2
+p86,13,13,receive the rejection notification,customer,Resource - [the] [rejection] notification,2
+p87,1,2,receive the customer request,customer,Resource - [the] [customer] request,2
+p87,2,3,get the account data,customer,Resource - [the] [account] data,2
+p88,0,1,receive a customer inquiry,excise department,Resource - [a] [customer] inquiry,2
+p88,2,3,configure the vehicle exporting inquiry and datas,excise department,Resource - [the] vehicle,2
+p88,14,15,receive the shipment charges,excise department,Meta-Actor - [the] [shipment] charges,2
+p89,0,1,receive a product demand request,inventory manager,Resource - [a] [product demand] request,2
+p89,7,7,inform the reasons,inventory manager,Resource - [the] reasons,2
+p9,1,2,select a pizza,customer,Resource - [a] pizza,2
+p9,2,3,order a pizza,customer,Resource - [a] pizza,2
+p9,3,4,receive the pizza order,customer,Meta-Actor - [the] [pizza] order,2
+p9,4,5,confirm the availability,customer,Resource - [the] availability,2
+p90,1,2,receive the order,customer,Meta-Actor - [the] order,2
+p90,5,6,inform the rejection reasons,customer,Resource - [the] [rejection] reasons,2
+p90,6,7,receive the rejection,customer,Resource - [the] rejection,2
+p90,17,17,confirm the order products,customer,Resource - [the] [order] products,2
+p90,21,21,make the payment,customer,Resource - [the] payment,2
+p90,21,22,receive the order,customer,Meta-Actor - [the] order,2
+p91,3,3,send the copy to accounts department,inventory department,Resource - [the] copy,2
+p91,7,8,update the stock repository,inventory department,Actor - [the] [stock] repository,2
+p91,10,12,generate the warning letter,inventory department,Actor - [the] [warning] letter,2
+p92,1,2,get the transection detail,bank 1,Actor - [the] [transection] detail,2
+p92,2,3,pass the transaction detail to the 2 bank,bank 1,Actor - [the] [transaction] detail,2
+p92,3,4,receive the transactions detail,bank 1,Actor - [the] [transactions] detail,2
+p92,8,9,pass the detail to the 3 bank,bank 1,Actor - [the] detail,2
+p93,12,16,perform the business tool integration,domain registration team,Resource - [the] [business tool] integration,2
+p93,19,24,approve the specifications,domain registration team,Resource - [the] specifications,2
+p93,19,25,approve the specifications,domain registration team,Resource - [the] specifications,2
+p94,3,4,receive the required user information,user,Resource - [the] [required] [user] information,2
+p94,7,9,enter correct information,user,Resource - [correct] information,2
+p94,10,11,store the personal user information,user,Resource - [the] [personal] [user] information,2
+p94,12,14,send the registration email to the user,user,Resource - [the] [registration] email,2
+p94,13,15,receive the notification,user,Resource - [the] notification,2
+p95,4,5,get the order,customer,Meta-Actor - [the] order,2
+p96,1,2,receive the order,customer,Meta-Actor - [the] order,2
+p96,5,6,inform the reasons,customer,Resource - [the] reasons,2
+p96,6,7,receive the rejection notification,customer,Resource - [the] [rejection] notification,2
+p97,1,2,retrieve the previous production information,production manager,Resource - [the] [previous] [production] information,2
+p97,3,4,communicate the assessment,production manager,Resource - [the] assessment,2
+p97,13,16,resubmit for testing,production manager,,2
+p98,13,12,receive the documents,person,Resource - [the] documents,2
+p98,20,19,send the results to the customer,person,Resource - [the] results,2
+p99,0,1,receive an order,production manager,Meta-Actor - [an] order,2
+p99,1,2,register the order,production manager,Meta-Actor - [the] order,2
+p99,7,7,receive the payments,production manager,Resource - [the] payments,2
+p11,7,8,authorize the payment,retailer,Resource - [the] payment,2
+p15,13,14,supply the order,,Meta-Actor - [the] order,2
+p3,9,11,receiveds the order,customer,Meta-Actor - [the] order,2
+p39,5,7,charge the customer,customer,Actor - [the] customer,2
+p41,4,5,get the score,student,Resource - [the] score,2
+p41,6,7,get the 800 and 1000s score,student,Resource - [the] [800 and 1000s] score,2
+p41,7,8,get the expensive class,student,Actor - [the] [expensive] class,2
+p41,8,9,get the score,student,Resource - [the] score,2
+p50,1,2,filter the appropriate requests,,Resource - [the] [appropriate] requests,2
+p74,0,1,request a ticket,customer,Resource - [a] ticket,2
+p96,0,1,place an order request,customer,Resource - [an] [order] request,2
+p98,0,1,place a legal assistance request,person,Resource - [a] [legal] [assistance] request,2
+p50,0,1,initiate the requests,,Resource - [the] requests,2
+p113,12,12,pay the claim,customer,Resource - [the] claim,2
+p52,11,15,pick area,logistic manager,Resource - area,2
+p118,18,19,the opc updates ,bank,,2
+p112,12,9,pay the amount,manager,Resource - [the] amount,2
+p71,8,9,award the payment,company,Resource - [the] payment,2
+p124,20,19,the fulfillment unit updates ,customer,,2
+p36,2,3,get the book status,borrower,Resource - [the] [book] status,2
+p36,6,6,send the offer borrower to the hold request,borrower,Actor - [the] [offer] borrower,2
+p66,9,11,annotated the decision,employee,Resource - [the] decision,2
+p66,9,12,annotated original request sents,employee,Resource - [original] [request] sents,2
+p7,20,19,the fulfillment unit updates ,customer,,2
+p141,12,13,starts the procedure,administration,Resource - [the] procedure,3
+p4,15,16,finish the process,,Resource - [the] process,3
+p114,15,17,complete the checkup process,doctor,Resource - [the] [checkup] process,3
+p100,8,8,create the replacement order,,Meta-Actor - [the] [replacement] order,3
+p74,8,11,create the open ticket,customer,Resource - [the] [open] ticket,3
+p1,16,19,finish the process,customer,Resource - [the] process,3
+p10,11,13,finish the process,customer,Resource - [the] process,3
+p100,15,16,finish the process,,Resource - [the] process,3
+p101,16,18,finish the process,worker,Resource - [the] process,3
+p102,24,22,finish the process,food supplier,Resource - [the] process,3
+p103,22,25,finish the process,manufacturer,Resource - [the] process,3
+p104,30,26,finish the process,analyst,Resource - [the] process,3
+p105,15,16,send the error message,customer,Resource - [the] [error] message,3
+p105,19,22,complete the order process,customer,Resource - [the] [order] process,3
+p105,20,23,finish the process,customer,Resource - [the] process,3
+p106,12,15,finish the process,customer,Resource - [the] process,3
+p107,23,23,finish the process,customer,Resource - [the] process,3
+p108,33,31,finish the process,ship officer,Resource - [the] process,3
+p109,46,46,finish the process,customer,Resource - [the] process,3
+p11,14,16,finish the process,retailer,Resource - [the] process,3
+p110,11,11,finish the process,customer,Resource - [the] process,3
+p111,16,15,finish the process,employee,Resource - [the] process,3
+p112,13,11,complete the process,manager,Resource - [the] process,3
+p112,14,12,finish the process,manager,Resource - [the] process,3
+p113,14,14,finish the process,customer,Resource - [the] process,3
+p114,16,18,finish the process,doctor,Resource - [the] process,3
+p115,16,16,finish the process,travel agent,Resource - [the] process,3
+p116,21,25,close the claim process,customer,Resource - [the] [claim] process,3
+p116,22,26,finish the process,customer,Resource - [the] process,3
+p117,20,22,finish the process,customer,Resource - [the] process,3
+p118,19,20,finish the process,bank,Resource - [the] process,3
+p119,11,13,finish the process,clerk,Resource - [the] process,3
+p12,11,12,finish the process,employer,Resource - [the] process,3
+p120,13,15,finish the process,customer,Resource - [the] process,3
+p121,9,11,complete the registration process,user,Resource - [the] [registration] process,3
+p121,10,12,finish the process,user,Resource - [the] process,3
+p122,16,21,complete the complaint process,complaint receiver,Resource - [the] [complaint] process,3
+p122,18,23,finish the process,complaint receiver,Resource - [the] process,3
+p123,14,13,finish the process,incoming goods department,Resource - [the] process,3
+p124,22,21,finish the process,customer,Resource - [the] process,3
+p125,17,17,finish the process,customer,Resource - [the] process,3
+p126,14,14,finish the process,company,Resource - [the] process,3
+p127,21,22,finish the process,hr manager,Resource - [the] process,3
+p128,12,13,finish the process,customer,Resource - [the] process,3
+p129,19,20,finish the process,hospital,Resource - [the] process,3
+p13,10,10,finish the process,customer,Resource - [the] process,3
+p130,13,17,finish the process,expert,Resource - [the] process,3
+p131,18,19,finish the process,customer,Resource - [the] process,3
+p132,13,15,finish the process,worker,Resource - [the] process,3
+p133,13,16,complete the registration process,user,Resource - [the] [registration] process,3
+p133,16,19,finish the process,user,Resource - [the] process,3
+p134,17,17,finish the process,receiving department,Resource - [the] process,3
+p135,24,26,finish the process,hospital administration,Resource - [the] process,3
+p136,31,37,finish the process,administration,Resource - [the] process,3
+p137,28,31,finish the process,hospital administration,Resource - [the] process,3
+p138,23,23,finish the process,hospital administration,Resource - [the] process,3
+p139,23,24,finish the process,inquiry section,Resource - [the] process,3
+p14,12,9,finish the process,,Resource - [the] process,3
+p140,19,20,finish the process,hospital administration,Resource - [the] process,3
+p141,23,24,finish the process,administration,Resource - [the] process,3
+p142,32,33,finish the process,applicant,Resource - [the] process,3
+p143,27,35,finish the process,applicant,Resource - [the] process,3
+p144,17,17,finish the process,applicant,Resource - [the] process,3
+p145,0,0,start process with a decision,applicant,,3
+p146,36,39,finish the process,applicant,Resource - [the] process,3
+p147,46,47,finish the process,applicant,Resource - [the] process,3
+p148,24,23,finish the process,applicant,Resource - [the] process,3
+p149,14,13,finish the process,university administration,Resource - [the] process,3
+p15,14,15,finish the process,,Resource - [the] process,3
+p150,36,45,finish the process,applicant,Resource - [the] process,3
+p16,14,16,finish the process,customer,Resource - [the] process,3
+p17,6,7,finish the process,supplier,Resource - [the] process,3
+p18,10,10,finish the process,hiring manager,Resource - [the] process,3
+p19,13,12,finish the process,customer,Resource - [the] process,3
+p2,18,20,finish the process,student,Resource - [the] process,3
+p20,10,10,finish the process,manager,Resource - [the] process,3
+p21,15,14,finish the process,traveling agent,Resource - [the] process,3
+p22,21,25,finish the process,customer,Resource - [the] process,3
+p23,11,11,finish the process,loan granting co,Resource - [the] process,3
+p24,8,10,finish the process,,Resource - [the] process,3
+p25,12,15,finish the process,user,Resource - [the] process,3
+p26,8,11,finish the process,sales department,Resource - [the] process,3
+p27,8,9,finish the process,shopkeeper,Resource - [the] process,3
+p28,12,14,finish the process,developer,Resource - [the] process,3
+p29,10,11,finish the process,person,Resource - [the] process,3
+p3,12,15,finish the process,customer,Resource - [the] process,3
+p30,17,16,finish the process,sales person,Resource - [the] process,3
+p31,10,13,finish the process,customer,Resource - [the] process,3
+p32,8,9,finish the process,repairing person,Resource - [the] process,3
+p33,13,13,finish the process,customer,Resource - [the] process,3
+p34,16,16,finish the process,candidate,Resource - [the] process,3
+p35,16,15,finish the process,department,Resource - [the] process,3
+p36,12,12,finish the process,borrower,Resource - [the] process,3
+p37,10,12,finish the process,receptionist,Resource - [the] process,3
+p38,16,17,finish the process,bank,Resource - [the] process,3
+p39,13,16,finish the process,customer,Resource - [the] process,3
+p40,15,16,finish the process,customer,Resource - [the] process,3
+p41,10,11,finish the process,student,Resource - [the] process,3
+p42,14,13,finish the process,customer,Resource - [the] process,3
+p43,9,10,finish the process,trainee,Resource - [the] process,3
+p44,14,14,finish the process,smart cell,Resource - [the] process,3
+p45,9,10,finish the process,seller,Resource - [the] process,3
+p46,11,13,finish the process,level support,Resource - [the] process,3
+p47,12,12,finish the process,customer,Resource - [the] process,3
+p48,5,7,create the generic user id,sponsor,Actor - [the] [generic] user [id],3
+p48,9,12,finish the process,sponsor,Resource - [the] process,3
+p49,8,10,finish the process,order accounting department,Resource - [the] process,3
+p50,12,13,finish the process,,Resource - [the] process,3
+p51,10,11,finish the process,purchaser,Resource - [the] process,3
+p52,12,16,finish the process,logistic manager,Resource - [the] process,3
+p53,15,18,finish the process,information cell,Resource - [the] process,3
+p54,14,17,finish the process,retailer,Resource - [the] process,3
+p55,14,12,finish the process,business unit manager,Resource - [the] process,3
+p56,12,12,finish the process,customer,Resource - [the] process,3
+p57,15,17,finish the process,retailer,Resource - [the] process,3
+p58,14,15,close the process,buyer,Resource - [the] process,3
+p58,15,16,finish the process,buyer,Resource - [the] process,3
+p59,8,10,finish the process,,Resource - [the] process,3
+p6,9,10,finish the process,storekeeper,Resource - [the] process,3
+p60,10,12,finish the process,business organization,Resource - [the] process,3
+p61,10,8,finish the process,shipping department,Resource - [the] process,3
+p62,12,14,finish the process,customer,Resource - [the] process,3
+p63,14,15,finish the process,election cell,Resource - [the] process,3
+p64,8,8,finish the process,originator,Resource - [the] process,3
+p65,9,10,finish the process,wholesaler,Resource - [the] process,3
+p66,15,18,finish the process,employee,Resource - [the] process,3
+p67,11,11,finish the process,employee,Resource - [the] process,3
+p68,11,11,finish the process,doctor,Resource - [the] process,3
+p69,12,14,finish the process,student,Resource - [the] process,3
+p7,22,21,finish the process,customer,Resource - [the] process,3
+p70,8,9,finish the process,customer,Resource - [the] process,3
+p71,10,11,finish the process,company,Resource - [the] process,3
+p72,8,10,finish the process,employee,Resource - [the] process,3
+p73,12,14,finish the process,customer,Resource - [the] process,3
+p74,17,21,finish the process,customer,Resource - [the] process,3
+p75,5,7,send the error message,open mms relay,Resource - [the] [error] message,3
+p75,15,18,finish the process,open mms relay,Resource - [the] process,3
+p76,10,10,finish the process,employee,Resource - [the] process,3
+p77,3,4,generate the purchase order form,customer,Meta-Actor - [the] [purchase order] form,3
+p77,11,11,generate the sales invoice form,customer,Meta-Actor - [the] [sales invoice] form,3
+p77,12,12,generate the goods delivery note,customer,Resource - [the] [goods delivery] note,3
+p77,15,15,finish the process,customer,Resource - [the] process,3
+p78,15,23,finish the process,student,Resource - [the] process,3
+p79,10,12,finish the process,customer,Resource - [the] process,3
+p8,13,14,trigger the order,department,Meta-Actor - [the] order,3
+p8,15,16,finish the process,department,Resource - [the] process,3
+p80,10,11,finish the process,employee,Resource - [the] process,3
+p81,17,19,finish the process,salesman,Resource - [the] process,3
+p82,21,21,finish the process,accountant,Resource - [the] process,3
+p83,19,22,finish the process,salesman,Resource - [the] process,3
+p84,10,11,finish the process,assassin,Resource - [the] process,3
+p85,12,13,finish the process,customer,Resource - [the] process,3
+p86,18,18,finish the process,customer,Resource - [the] process,3
+p87,8,8,complete the process,customer,Resource - [the] processing,3
+p87,13,13,finish the process,customer,Resource - [the] process,3
+p88,15,16,finish the process,excise department,Resource - [the] process,3
+p89,11,11,finish the process,inventory manager,Resource - [the] process,3
+p9,13,13,finish the process,customer,Resource - [the] process,3
+p90,22,23,finish the process,customer,Resource - [the] process,3
+p91,12,14,finish the process,inventory department,Resource - [the] process,3
+p92,13,15,complete the process,bank 1,Resource - [the] processing,3
+p92,14,16,finish the process,bank 1,Resource - [the] process,3
+p93,21,27,finish the process,domain registration team,Resource - [the] process,3
+p94,11,12,update the database,user,Resource - [the] database,3
+p94,14,16,finish the process,user,Resource - [the] process,3
+p95,20,23,finish the process,customer,Resource - [the] process,3
+p96,21,19,finish the process,customer,Resource - [the] process,3
+p97,17,23,finish the process,production manager,Resource - [the] process,3
+p98,21,20,finish the process,person,Resource - [the] process,3
+p99,17,18,finish the process,production manager,Resource - [the] process,3
+p74,7,9,automate the request to confirm,customer,Resource - [the] request,3
+p91,6,7,find the quality,inventory department,Resource - [the] quality,?
+p85,11,12,complete the item,customer,Resource - [the] item,?
+p68,9,10,perform send,doctor,Resource - send,?
+p93,10,13,design others,domain registration team,Resource - others,?
+p144,0,1,apply an online,applicant,Resource - [an] online,?
+p148,0,1,apply an online,applicant,Resource - [an] online,?
+p149,0,1,apply an online,university administration,Resource - [an] online,?
+p80,8,9,record ,employee,,?
+p90,8,9,check to available for the production,customer,,?
+p122,7,7,assign the medium to the complaint,complaint receiver,Meta-Actor - [the] medium,?
+p130,1,4,prepare cores,expert,Actor - cores,?
+p132,12,14,return the back to home,worker,Actor - [the] back,?
+p135,4,5,check the nationality to has which,hospital administration,Resource - the,?
+p150,13,14,print the out,applicant,Resource - [the] out,?
+p33,8,8,bring from warehouse,customer,,?
+p10,4,5,check subsequently,customer,Resource - the,?
+p53,8,11,get the guest,information cell,Actor - [the] guest,?
+p110,2,3,order the entry,customer,Resource - [the] entry,?
+p43,0,1,fill to form ,trainee,,?
+p104,19,15,make the changes,analyst,Resource - [the] changes,?
+p109,2,3,work the order,customer,Meta-Actor - [the] order,?
+p109,28,28,check the in-house,customer,Resource - [the] in-house,?
+p48,0,1,place an account request form,sponsor,Meta-Actor - [an] [account request] form,?
+p1,0,0,begin ,customer,,?
+p1,0,1,arrive at the ticket office,customer,,?
+p1,1,2,register ,customer,,?
+p1,1,3,complain ,customer,,?
+p1,3,5,subsequently ,customer,,?
+p1,5,8,solve ,customer,,?
+p1,6,9,send the customer to the support system,customer,Actor - [the] customer,?
+p1,12,15,ticket ,customer,,?
+p1,12,16,change ,customer,,?
+p10,0,0,begin ,customer,,?
+p10,3,4,subsequently ,customer,,?
+p10,7,8,co the flight,customer,Meta-Actor - [the] flight,?
+p10,10,11,conduct ,customer,,?
+p10,10,12,receive ,customer,,?
+p100,0,0,begin ,,,?
+p100,4,4,dept. the goods receipt,,Resource - [the] [goods] receipt,?
+p100,6,6,find to not appropriate ,,,?
+p100,8,7,complain ,,,?
+p100,9,9,complain ,,,?
+p101,0,0,begin ,worker,,?
+p101,14,15,was and be ,worker,,?
+p102,0,0,begin ,food supplier,,?
+p102,6,7,find to available ,food supplier,,?
+p102,21,17,is the cafe,food supplier,Resource - [the] cafe,?
+p102,23,20,is the cafe,food supplier,Resource - [the] cafe,?
+p103,0,0,begin ,manufacturer,,?
+p103,9,9,can be not fulfil the order,manufacturer,Meta-Actor - [the] order,?
+p103,13,13,find ,manufacturer,,?
+p103,16,16,conduct the destination code to ,manufacturer,Resource - [the] [destination] code,?
+p103,17,17,conduct ,manufacturer,,?
+p103,17,18,does not the destination code does not exist ,manufacturer,,?
+p103,19,20,is the shipment,manufacturer,Resource - [the] shipment,?
+p103,20,22,dept. the products,manufacturer,Resource - [the] products,?
+p103,21,23,once ,manufacturer,,?
+p104,0,0,begin when the req,analyst,,?
+p104,2,2,requirments to the spec,analyst,,?
+p104,4,3,spec ,analyst,,?
+p104,8,6,spec ,analyst,,?
+p104,10,8,spec ,analyst,,?
+p104,12,10,spec ,analyst,,?
+p104,21,17,once is the design analyst,analyst,Actor - [the] [design] analyst,?
+p104,22,18,implem ,analyst,,?
+p104,24,20,implem ,analyst,,?
+p104,26,22,implem ,analyst,,?
+p104,28,24,implem ,analyst,,?
+p105,0,0,begin ,customer,,?
+p105,6,7,subsequently ,customer,,?
+p105,11,12,the salesman checks ,customer,,?
+p105,13,13,subsequently ,customer,,?
+p105,14,14,credit the card,customer,Actor - [the] card,?
+p105,14,15,credit email address invalidate,customer,Resource - [email] [address] invalidate,?
+p105,16,17,credit the card,customer,Actor - [the] card,?
+p105,16,18,email the validated,customer,Resource - [the] validated,?
+p105,19,21,is the customer,customer,Actor - [the] customer,?
+p106,0,0,begin ,customer,,?
+p106,3,4,subsequently ,customer,,?
+p106,5,6,find default,customer,Resource - default,?
+p106,5,7,the payment is default,customer,Resource - default,?
+p106,6,8,show the message,customer,Resource - [the] message,?
+p106,7,9,is the customer,customer,Actor - [the] customer,?
+p106,11,13,is the customer,customer,Actor - [the] customer,?
+p107,0,0,begin ,customer,,?
+p107,3,4,check exist,customer,Resource - exist,?
+p107,3,5,check not,customer,Resource - not,?
+p107,5,6,find to not available ,customer,,?
+p107,6,7,admin for further process,customer,,?
+p107,10,11,find to available ,customer,,?
+p107,20,20,find to available ,customer,,?
+p108,0,0,begin ,ship officer,,?
+p108,14,13,quote acceptable,ship officer,,?
+p108,19,18,quote the acceptable,ship officer,Resource - [the] acceptable,?
+p108,23,22,check the acceptable,ship officer,Resource - the,?
+p108,31,29,not the acceptable,ship officer,,?
+p109,0,0,begin ,customer,,?
+p109,5,5,conduct the completed info,customer,Resource - [the] [completed] info,?
+p109,8,8,conduct the info completed,customer,Resource - [the] info,?
+p109,13,12,conduct the stl housing concern found,customer,Meta-Actor - [the] [stl housing] concern,?
+p109,14,13,conduct the advice to work to require ,customer,Resource - [the] advice,?
+p109,15,14,check ,customer,,?
+p109,15,15,agree to the address,customer,,?
+p109,17,16,conduct agreed,customer,Resource - agreed,?
+p109,18,17,advise the fm\/gso,customer,Resource - [the] fm\/gso,?
+p109,19,18,agreeds to the address,customer,,?
+p109,21,20,is the work,customer,Resource - [the] work,?
+p109,21,21,conduct the stl housing concern to find ,customer,Meta-Actor - [the] [stl] [housing] concern,?
+p109,24,24,subsequently ,customer,,?
+p109,25,25,conduct approved,customer,Resource - approved,?
+p109,30,29,subsequently ,customer,,?
+p109,35,33,subsequently ,customer,,?
+p109,36,34,cleareds the required escort,customer,Actor - [the] [required] escort,?
+p109,37,35,cleareds the escort required,customer,Actor - [the] escort,?
+p109,41,40,is the work,customer,Resource - [the] work,?
+p109,42,42,work order,customer,Meta-Actor - order,?
+p11,0,0,begin ,retailer,,?
+p11,6,6,begin ,retailer,,?
+p11,9,10,credit the card balance sufficent,retailer,Resource - [the] [card balance] sufficent,?
+p11,11,12,begin ,retailer,,?
+p11,11,13,claiming card balance insufficent,retailer,Resource - [card balance] insufficent,?
+p110,0,0,begin ,customer,,?
+p110,3,4,form ,customer,,?
+p111,0,0,begin ,employee,,?
+p111,5,6,see ,employee,,?
+p111,5,7,the request is from the new client,employee,,?
+p112,0,0,begin ,manager,,?
+p112,11,8,feedbacks the positive,manager,Resource - [the] positive,?
+p112,13,10,is the manager,manager,Actor - [the] manager,?
+p113,0,0,begin ,customer,,?
+p113,0,1,\/ ,customer,,?
+p113,6,6,subsequently ,customer,,?
+p113,7,7,find to not possible ,customer,,?
+p113,10,10,find to possible ,customer,,?
+p114,0,0,begin ,doctor,,?
+p114,0,1,arriveses at the clinic,doctor,,?
+p114,11,13,receive the doze,doctor,Resource - [the] doze,?
+p115,0,0,begin when the customer requests for flight booking,travel agent,,?
+p115,6,6,subsequently ,travel agent,,?
+p115,7,7,find to available ,travel agent,,?
+p116,0,0,begin ,customer,,?
+p116,6,8,subsequently ,customer,,?
+p116,10,12,issue resolved,customer,Resource - resolved,?
+p116,11,13,support ,customer,,?
+p116,16,17,claim in the next relese,customer,,?
+p116,17,18,2nd the issue into the product backlog,customer,Meta-Actor - [the] issue,?
+p116,18,19,issue ,customer,,?
+p116,18,20,resolve ,customer,,?
+p116,19,21,inform ,customer,,?
+p116,19,22,support ,customer,,?
+p116,20,23,was and be the 1st level,customer,Resource - [the] [1st] level,?
+p117,0,0,begin ,customer,,?
+p117,0,1,conduct a customer arrived at shop,customer,Actor - [a] customer,?
+p117,9,10,subsequently ,customer,,?
+p117,14,15,see the customer,customer,Actor - [the] customer,?
+p117,14,16,register ,customer,,?
+p117,17,17,find ,customer,,?
+p117,17,18,register ,customer,,?
+p117,18,19,find ,customer,,?
+p117,18,20,the customer is new,customer,,?
+p118,0,0,begin ,bank,,?
+p118,3,4,subsequently ,bank,,?
+p118,8,9,subsequently ,bank,,?
+p119,0,0,begin ,clerk,,?
+p119,4,4,subsequently ,clerk,,?
+p119,6,5,claim ,clerk,,?
+p119,6,6,express ,clerk,,?
+p119,8,8,express 50.0 s.,clerk,Resource - [50.0] s.,?
+p12,0,0,begin ,employer,,?
+p12,8,9,subsequently ,employer,,?
+p120,0,0,begin ,customer,,?
+p120,0,1,conduct ,customer,,?
+p120,0,2,come ,customer,,?
+p120,6,8,subsequently ,customer,,?
+p120,7,9,insurance co. does the required copy,customer,Resource - [the] [required] copy,?
+p120,8,10,requireds the copy,customer,Resource - [the] copy,?
+p120,9,11,is the insurance co.,customer,Actor - [the] [insurance] co.,?
+p121,0,0,begin ,user,,?
+p121,1,2,begin the user resistration,user,Resource - [the] [user] resistration,?
+p121,4,5,conduct to commit ,user,,?
+p121,6,7,conduct ,user,,?
+p121,6,8,create ,user,,?
+p121,7,9,open ,user,,?
+p122,0,0,begin ,complaint receiver,,?
+p122,8,8,subsequently ,complaint receiver,,?
+p122,9,9,conduct ,complaint receiver,,?
+p122,11,12,find ,complaint receiver,,?
+p122,11,13,content email,complaint receiver,,?
+p122,15,17,is the complaint,complaint receiver,Resource - [the] complaint,?
+p122,15,18,conduct ,complaint receiver,,?
+p122,16,20,is the complaint,complaint receiver,Resource - [the] complaint,?
+p123,0,0,begin ,incoming goods department,,?
+p123,1,2,the goods,incoming goods department,Resource - goods,?
+p123,5,5,find the quality,incoming goods department,Resource - [the] quality,?
+p123,8,8,find the quality ok,incoming goods department,Resource - [the] quality,?
+p124,0,0,begin ,customer,,?
+p124,4,4,subsequently ,customer,,?
+p124,7,7,find to available ,customer,,?
+p124,8,8,is the processing,customer,Resource - [the] processing,?
+p124,10,11,subsequently ,customer,,?
+p124,11,12,n'ts to has inventory,customer,Resource - n'ts,?
+p124,15,15,processing department has the inventory,customer,Resource - [the] inventory,?
+p125,0,0,begin ,customer,,?
+p125,5,5,find the quality ok,customer,Resource - [the] quality,?
+p125,8,8,find the quality ok,customer,Resource - [the] [quality] ok,?
+p125,12,12,ready to deliver ,customer,,?
+p126,0,0,begin ,company,,?
+p127,0,0,begin ,hr manager,,?
+p127,11,11,HR ,hr manager,,?
+p127,14,15,subsequently ,hr manager,,?
+p127,19,20,HR the hr system,hr manager,Resource - [the] [hr] system,?
+p127,20,21,send the notices,hr manager,Resource - [the] notices,?
+p128,0,0,begin ,customer,,?
+p129,0,0,begin ,hospital,,?
+p129,3,4,subsequently ,hospital,,?
+p129,6,7,is the doctor,hospital,Actor - [the] doctor,?
+p129,14,14,helpers the lab test,hospital,Resource - [the] [lab] test,?
+p129,17,17,is the ward,hospital,Actor - [the] ward,?
+p13,0,0,begin ,customer,,?
+p13,2,2,informeds to not available ,customer,,?
+p13,8,8,informeds to available ,customer,,?
+p130,0,0,begin ,expert,,?
+p130,0,1,identify ,expert,,?
+p130,0,2,need ,expert,,?
+p130,6,9,subsequently ,expert,,?
+p130,7,10,prepare ,expert,,?
+p130,8,11,plan ,expert,,?
+p131,0,0,begin ,customer,,?
+p131,3,4,subsequently ,customer,,?
+p131,10,11,subsequently ,customer,,?
+p132,0,0,begin ,worker,,?
+p132,0,1,ready for the work,worker,,?
+p132,6,7,the required task starts the daily work,worker,Resource - [the] [daily] work,?
+p132,7,8,find to time ,worker,,?
+p132,10,11,work ,worker,,?
+p132,11,12,work the time completed,worker,Resource - [the] time,?
+p133,0,0,begin ,user,,?
+p133,1,2,view ,user,,?
+p133,1,3,sign up page,user,Actor - page,?
+p133,4,6,allow the user,user,Actor - [the] user,?
+p133,7,9,conduct to commit ,user,,?
+p133,9,11,website the record,user,Resource - [the] record,?
+p133,10,12,conduct ,user,,?
+p133,10,13,create ,user,,?
+p133,11,14,open ,user,,?
+p134,0,0,begin ,receiving department,,?
+p134,1,2,the goods,receiving department,Resource - goods,?
+p134,5,5,find the fine quality,receiving department,Resource - [the] [fine] quality,?
+p134,10,10,find to not fine ,receiving department,,?
+p134,11,11,subsequently ,receiving department,,?
+p135,0,0,begin ,hospital administration,,?
+p135,6,6,find ,hospital administration,,?
+p135,6,7,the at-least one has german citizenship,hospital administration,Resource - [german] citizenship,?
+p135,8,9,find ,hospital administration,,?
+p135,8,10,the one has german citizenship,hospital administration,Resource - [german] citizenship,?
+p135,9,11,document to the commitee,hospital administration,,?
+p135,11,13,subsequently ,hospital administration,,?
+p135,12,14,find ,hospital administration,,?
+p135,16,18,was and be the hospital,hospital administration,Actor - [the] hospital,?
+p135,21,23,is the hospital,hospital administration,Actor - [the] hospital,?
+p136,0,0,begin ,administration,,?
+p136,2,2,find ,administration,,?
+p136,2,3,miss ,administration,,?
+p136,3,4,request the parents,administration,Actor - [the] parents,?
+p136,4,5,conduct the information received,administration,Resource - [the] information,?
+p136,6,7,find to complete ,administration,,?
+p136,7,8,is the hospital,administration,Actor - [the] hospital,?
+p136,7,9,confirm ,administration,,?
+p136,9,11,see ,administration,,?
+p136,9,12,do not accept baby,administration,Actor - baby,?
+p136,12,14,see ,administration,,?
+p136,14,17,russian citizenship,administration,Resource - citizenship,?
+p136,16,18,find ,administration,,?
+p136,16,19,the one has russian nationality,administration,Resource - [russian] nationality,?
+p136,20,24,the east atl is russian,administration,Actor - russian,?
+p136,22,26,is the hospital,administration,Actor - [the] hospital,?
+p136,22,27,take the decided name,administration,Meta-Actor - [the] [decided] name,?
+p136,27,32,find at the least,administration,,?
+p136,27,33,the parents have registration,administration,Actor - registration,?
+p136,30,36,formalize the moth payments,administration,Resource - [the] [moth] payments,?
+p137,0,0,begin ,hospital administration,,?
+p137,2,3,document to the hospital administration,hospital administration,,?
+p137,5,6,one parent is citizen,hospital administration,Actor - citizen,?
+p137,7,9,the one is citizen,hospital administration,Actor - citizen,?
+p137,9,11,is the hospital administration,hospital administration,Actor - [the] [hospital] administration,?
+p137,10,12,see the child born in the wedlock or not,hospital administration,Actor - [the] child,?
+p137,18,19,see the present or not father,hospital administration,Meta-Actor - [the] [present or not] father,?
+p137,20,20,find ,hospital administration,,?
+p137,20,21,the father is present,hospital administration,,?
+p137,22,23,find ,hospital administration,,?
+p137,22,24,does not the father does not exist ,hospital administration,,?
+p137,25,27,was and be the hospital,hospital administration,Actor - [the] hospital,?
+p138,0,0,begin ,hospital administration,,?
+p138,5,5,is the inquiry,hospital administration,Resource - [the] inquiry,?
+p138,22,21,is the inquiry,hospital administration,Resource - [the] inquiry,?
+p139,0,0,begin ,inquiry section,,?
+p139,3,4,subsequently ,inquiry section,,?
+p139,4,5,predict to the municipility,inquiry section,,?
+p139,5,6,the based on the information,inquiry section,,?
+p139,12,12,is the hospital,inquiry section,Actor - [the] hospital,?
+p139,17,18,gba ,inquiry section,,?
+p14,0,0,begin ,,,?
+p14,6,4,once is the moderates discussion,,Resource - [the] [moderates] discussion,?
+p14,10,6,wait until the due date,,,?
+p14,11,7,was and be ,,,?
+p140,0,0,begin ,hospital administration,,?
+p140,5,5,subsequently ,hospital administration,,?
+p140,8,8,is the hospital,hospital administration,Actor - [the] hospital,?
+p140,15,15,gba data,hospital administration,Resource - data,?
+p140,16,16,is the hospital,hospital administration,Actor - [the] hospital,?
+p141,0,0,begin ,administration,,?
+p141,14,14,apply the decent rights,administration,Actor - [the] [decent] rights,?
+p141,15,15,apply the decent rights,administration,Actor - [the] [decent] rights,?
+p142,0,0,begin ,applicant,,?
+p142,10,12,subsequently ,applicant,,?
+p142,14,15,is the enrolment,applicant,Resource - [the] enrolment,?
+p142,16,17,conduct ,applicant,,?
+p142,16,18,not find application in complete or in time,applicant,Resource - application,?
+p143,0,0,begin ,applicant,,?
+p143,0,1,chooseses a university,applicant,Actor - [a] university,?
+p143,3,3,conduct ,applicant,,?
+p143,7,9,conduct ,applicant,,?
+p143,9,14,subsequently ,applicant,,?
+p143,10,15,find ,applicant,,?
+p143,10,16,not the application is not complete,applicant,,?
+p143,14,20,find ,applicant,,?
+p143,14,21,the application is complete,applicant,,?
+p143,24,31,acceptses the match,applicant,Actor - [the] match,?
+p144,0,0,begin ,applicant,,?
+p144,4,5,document to the department,applicant,,?
+p145,2,1,applicant is the german,applicant,Actor - [the] german,?
+p145,5,2,conduct the a german,applicant,Actor - [the] [a] german,?
+p145,7,4,conduct ,applicant,,?
+p145,8,5,is the applicant,applicant,Actor - [the] applicant,?
+p145,13,12,subsequently ,applicant,,?
+p145,15,14,check to complete ,applicant,,?
+p145,16,15,is the enrollment,applicant,Actor - [the] enrollment,?
+p146,0,0,begin ,applicant,,?
+p146,15,18,request to the complete application,applicant,,?
+p146,25,27,conduct ,applicant,,?
+p146,25,28,meet the high ranking requirements,applicant,Resource - [the] [high ranking] requirements,?
+p146,26,29,proposeds accepted,applicant,Resource - accepted,?
+p146,27,30,provide ,applicant,,?
+p146,28,31,proposeds reserved,applicant,Resource - reserved,?
+p146,29,32,not see the requirements to meet ,applicant,Resource - [the] requirements,?
+p146,30,33,proposeds rejected,applicant,Resource - rejected,?
+p146,31,34,is the selection,applicant,Resource - [the] selection,?
+p146,35,37,is the applicant,applicant,Actor - [the] applicant,?
+p147,0,0,begin ,applicant,,?
+p147,3,3,conduct the nationality german,applicant,Actor - [the] [nationality] german,?
+p147,5,4,conduct ,applicant,,?
+p147,5,5,not the nationality is not german,applicant,,?
+p147,7,7,conduct german,applicant,Actor - german,?
+p147,7,8,the nationality is german,applicant,Actor - german,?
+p147,18,21,check to complete ,applicant,,?
+p147,19,22,is the enrollment,applicant,Actor - [the] enrollment,?
+p147,20,24,subsequently ,applicant,,?
+p147,22,26,find to complete ,applicant,,?
+p147,25,29,subsequently ,applicant,,?
+p147,31,32,conduct 50 points,applicant,Resource - [50] points,?
+p147,33,34,conduct the 50-69 points,applicant,Resource - [the] [50-69] points,?
+p147,42,42,qualify the applicant,applicant,Actor - [the] applicant,?
+p147,44,44,qualify the applicant,applicant,Actor - [the] applicant,?
+p148,0,0,begin ,applicant,,?
+p148,8,8,is the university administration,applicant,Actor - [the] [university] administration,?
+p148,14,13,wait for certificate,applicant,,?
+p148,19,17,average to less than good,applicant,,?
+p148,23,21,is the university,applicant,Actor - [the] university,?
+p149,0,0,begin ,university administration,,?
+p149,8,8,keep in the applicant pool,university administration,,?
+p149,10,10,is the aplicant,university administration,Resource - [the] aplicant,?
+p15,0,0,begin ,,,?
+p15,9,10,subsequently ,,,?
+p15,10,11,conduct the quality to lack ,,Resource - [the] quality,?
+p15,11,12,lack ,,,?
+p15,12,13,conduct the quality ok,,Resource - [the] [quality] ok,?
+p150,0,0,begin ,applicant,,?
+p150,3,4,subsequently ,applicant,,?
+p150,4,5,not conduct to meet basic requirements,applicant,,?
+p150,5,6,meet the basic requirements,applicant,Resource - [the] [basic] requirements,?
+p150,13,13,is the applicant,applicant,Actor - [the] applicant,?
+p150,17,21,subsequently ,applicant,,?
+p150,18,22,find ,applicant,,?
+p150,18,23,the applicant is from the european country,applicant,,?
+p150,19,24,find ,applicant,,?
+p150,19,25,not the applicant is not from the european country,applicant,,?
+p150,21,27,is the university,applicant,Actor - [the] university,?
+p150,23,30,subsequently ,applicant,,?
+p150,26,34,is the selection,applicant,Resource - [the] selection,?
+p150,30,38,the selection committee does the interview,applicant,Resource - [the] interview,?
+p150,34,42,is the selection,applicant,Resource - [the] selection,?
+p16,0,0,begin ,customer,,?
+p16,0,1,arrive at the shop,customer,,?
+p16,9,9,conduct the happy,customer,Resource - [the] happy,?
+p16,10,10,conduct to not happy with order,customer,,?
+p16,12,12,receive ,customer,,?
+p16,12,13,complain ,customer,,?
+p16,13,14,process ,customer,,?
+p16,13,15,complain ,customer,,?
+p17,0,0,begin ,supplier,,?
+p18,0,0,begin ,hiring manager,,?
+p19,0,0,begin ,customer,,?
+p19,0,1,arrive at the book shop,customer,,?
+p19,6,6,conduct to available ,customer,,?
+p19,9,9,conduct to not available ,customer,,?
+p2,0,0,begin ,student,,?
+p2,5,5,not find the student to fulfill financial requirments,student,Actor - [the] student,?
+p2,8,8,remedy the financial condition,student,Resource - [the] [financial] condition,?
+p2,17,18,is the admission,student,Resource - [the] admission,?
+p20,0,0,begin ,manager,,?
+p20,9,8,once ,manager,,?
+p21,0,0,begin ,traveling agent,,?
+p22,0,0,begin ,customer,,?
+p22,9,11,subsequently ,customer,,?
+p22,13,15,is the production,customer,Resource - [the] production,?
+p22,18,20,once is the assembly,customer,Actor - [the] assembly,?
+p23,0,0,begin ,loan granting co,,?
+p23,0,1,check an,loan granting co,Resource - an,?
+p23,2,3,if ,loan granting co,,?
+p23,3,4,not grant a black list,loan granting co,Resource - [a] [black] list,?
+p23,5,6,co checks is list ,loan granting co,Resource - checks,?
+p23,8,7,not grant ,loan granting co,,?
+p23,10,9,is the loan granting co grants,loan granting co,Resource - [the] [loan granting co] grants,?
+p23,10,10,the loan granting co grants is ready,loan granting co,,?
+p24,0,0,begin ,,,?
+p24,3,3,repairables ,,,?
+p24,4,4,spare part,,Resource - part,?
+p24,5,6,restock inventory,,Resource - it,?
+p24,6,7,repair to not good for the repair,,,?
+p25,0,0,begin ,user,,?
+p25,3,4,subsequently ,user,,?
+p26,0,0,begin ,sales department,,?
+p26,3,4,subsequently ,sales department,,?
+p26,4,5,conduct the entry,sales department,Resource - [the] entry,?
+p26,5,6,voucher details,sales department,Resource - details,?
+p26,6,7,is the accounting department,sales department,Actor - [the] [accounting] department,?
+p26,6,8,conduct details to enter data,sales department,Resource - the,?
+p26,6,9,conduct details to prepare transfer file,sales department,Resource - the,?
+p27,0,0,begin ,shopkeeper,,?
+p27,0,1,receive a supplier,shopkeeper,Actor - [a] supplier,?
+p27,2,3,analyze ,shopkeeper,,?
+p27,3,4,subsequently ,shopkeeper,,?
+p28,0,0,begin ,developer,,?
+p28,3,4,subsequently ,developer,,?
+p28,5,6,project the fixing bugs,developer,Resource - [the] [fixing] bugs,?
+p28,9,10,find to prone ,developer,,?
+p28,11,12,is the project,developer,Resource - [the] project,?
+p29,0,0,begin ,person,,?
+p29,5,5,find ,person,,?
+p29,5,6,fail ,person,,?
+p29,8,9,find to successful ,person,,?
+p29,9,10,issue the license,person,Resource - [the] license,?
+p3,0,0,begin ,customer,,?
+p3,2,3,receive ,customer,,?
+p3,3,4,subsequently ,customer,,?
+p3,4,5,conduct to available ,customer,,?
+p3,11,13,conduct ,customer,,?
+p3,11,14,receive ,customer,,?
+p30,0,0,begin ,sales person,,?
+p30,2,2,not conduct to require quotation,sales person,,?
+p30,7,7,managment requests,sales person,Resource - requests,?
+p30,10,10,manage the quotation,sales person,Resource - [the] quotation,?
+p30,14,13,manage the pending offer,sales person,Resource - [the] [pending] offer,?
+p30,15,14,not conduct to accept offer,sales person,,?
+p30,16,15,manage the quotation,sales person,Resource - [the] quotation,?
+p31,0,0,begin ,customer,,?
+p31,3,4,subsequently ,customer,,?
+p31,4,5,identify ,customer,,?
+p31,4,6,the customer ,customer,,?
+p31,5,7,identify ,customer,,?
+p31,5,8,not the customerdoes exist not ,customer,,?
+p31,7,10,once is the aqua co.,customer,Actor - [the] [aqua] co.,?
+p32,0,0,begin ,repairing person,,?
+p32,3,4,subsequently ,repairing person,,?
+p32,4,5,inspect to possible ,repairing person,,?
+p33,0,0,begin ,customer,,?
+p33,5,4,is the stock keeper,customer,Actor - [the] [stock] keeper,?
+p33,6,6,subsequently ,customer,,?
+p33,9,9,find to available ,customer,,?
+p33,10,10,is the stock,customer,Meta-Actor - [the] stock,?
+p34,0,0,begin ,candidate,,?
+p34,3,4,subsequently ,candidate,,?
+p34,6,7,is the candidate,candidate,Actor - [the] candidate,?
+p35,0,0,begin ,department,,?
+p35,5,4,is the hr,department,Resource - [the] hr,?
+p35,13,12,HR department updates,department,Resource - [department] updates,?
+p35,15,14,HR department updates,department,Resource - [department] updates,?
+p36,0,0,begin ,borrower,,?
+p36,7,7,find to unavailable ,borrower,,?
+p36,9,9,find to available ,borrower,,?
+p37,0,0,begin ,receptionist,,?
+p38,0,0,begin ,bank,,?
+p38,3,4,subsequently ,bank,,?
+p38,8,9,subsequently ,bank,,?
+p38,15,16,website the customer status,bank,Resource - [the] [customer] status,?
+p39,0,0,begin ,customer,,?
+p39,1,2,choose ,customer,,?
+p39,1,3,require products,customer,Resource - products,?
+p39,9,11,subsequently ,customer,,?
+p4,0,0,begin ,,,?
+p4,3,4,subsequently ,,,?
+p4,4,5,conduct the candidate,,Actor - [the] candidate,?
+p4,6,7,conduct the candidate,,Actor - [the] candidate,?
+p4,11,12,subsequently ,,,?
+p4,13,14,conduct the insufficent information,,Resource - [the] [insufficent] information,?
+p4,14,15,notifieses ,,,?
+p40,0,0,begin ,customer,,?
+p40,3,4,subsequently ,customer,,?
+p40,7,8,once ,customer,,?
+p40,9,10,find to incomplete ,customer,,?
+p40,11,12,find to complete ,customer,,?
+p41,0,0,begin ,student,,?
+p41,3,4,subsequently ,student,,?
+p42,0,0,begin ,customer,,?
+p42,3,3,co. the flight,customer,Meta-Actor - [the] flight,?
+p42,4,4,co. the hotel,customer,Resource - [the] hotel,?
+p42,5,5,co. the booking system,customer,Resource - [the] [booking] system,?
+p43,0,0,begin ,trainee,,?
+p43,7,7,find to available ,trainee,,?
+p43,8,8,is the training co.,trainee,Actor - [the] [training] co.,?
+p44,0,0,begin ,smart cell,,?
+p44,3,4,subsequently ,smart cell,,?
+p44,6,7,the bidder deals ,smart cell,,?
+p45,0,0,begin ,seller,,?
+p45,0,1,take a sample,seller,Resource - [a] sample,?
+p45,3,4,subsequently ,seller,,?
+p45,8,9,offer the correct sample,seller,Resource - [the] [correct] sample,?
+p46,0,0,begin ,level support,,?
+p46,3,4,subsequently ,level support,,?
+p46,9,10,is the 1st level,level support,Resource - [the] [1st] level,?
+p47,0,0,begin ,customer,,?
+p47,3,4,subsequently ,customer,,?
+p47,6,7,find to available ,customer,,?
+p47,10,9,is the shopkeeper,customer,Actor - [the] shopkeeper,?
+p48,0,0,begin ,sponsor,,?
+p48,2,3,form validity,sponsor,Resource - validity,?
+p48,3,4,subsequently ,sponsor,,?
+p48,4,5,find ,sponsor,,?
+p48,4,6,the account request is valid,sponsor,,?
+p48,6,8,find ,sponsor,,?
+p48,6,9,miss ,sponsor,,?
+p48,7,10,I&T to help the sponsor,sponsor,,?
+p49,0,0,begin ,order accounting department,,?
+p49,3,4,subsequently ,order accounting department,,?
+p49,5,6,find ,order accounting department,,?
+p49,5,7,the order is special,order accounting department,,?
+p49,7,9,the order ,order accounting department,,?
+p5,0,0,begin ,manufacturer,,?
+p5,0,1,place ,manufacturer,,?
+p5,3,3,conduct to miss ,manufacturer,,?
+p5,3,4,reject ,manufacturer,,?
+p5,4,5,conduct the capacity ok,manufacturer,Resource - [the] [capacity] ok,?
+p5,4,6,confirm ,manufacturer,,?
+p5,7,8,conduct to available ,manufacturer,,?
+p5,8,9,partses to miss ,manufacturer,,?
+p50,0,0,begin ,,,?
+p50,3,4,subsequently ,,,?
+p50,7,7,review ,,,?
+p50,7,8,apply ,,,?
+p50,10,11,implement defined,,Resource - defined,?
+p50,11,12,authorize ,,,?
+p51,0,0,begin ,purchaser,,?
+p51,8,8,the purchaser accesses ,purchaser,,?
+p51,8,9,reviews ,purchaser,,?
+p52,0,0,begin ,logistic manager,,?
+p52,6,7,require ,logistic manager,,?
+p52,9,10,carry ,logistic manager,,?
+p52,11,12,was and be the warehouse,logistic manager,Resource - [the] warehouse,?
+p53,0,0,begin ,information cell,,?
+p53,0,1,greet a guest,information cell,Actor - [a] guest,?
+p53,2,2,find ,information cell,,?
+p53,2,3,the guest has reservations,information cell,Resource - reservations,?
+p53,7,9,find ,information cell,,?
+p53,7,10,the guest has no reservations,information cell,Resource - [no] reservations,?
+p53,8,12,the the guest services,information cell,Resource - the,?
+p54,0,0,begin ,retailer,,?
+p54,3,4,subsequently ,retailer,,?
+p54,4,6,register ,retailer,,?
+p54,5,7,find the retailer don't exist,retailer,,?
+p54,5,8,do not the retailer do not exist ,retailer,,?
+p54,7,10,is the iphone co.,retailer,Actor - [the] [iphone] co.,?
+p54,9,12,demand the available so to accept order,retailer,Resource - [the] available,?
+p54,10,13,co. the iphone order,retailer,Meta-Actor - [the] [iphone] order,?
+p54,12,15,co. stocks,retailer,Resource - stocks,?
+p55,0,0,begin ,business unit manager,,?
+p55,13,11,provide ,business unit manager,,?
+p56,0,0,begin ,customer,,?
+p56,5,5,find to available ,customer,,?
+p56,6,6,the warehouse man ,customer,,?
+p56,10,9,once ,customer,,?
+p57,0,0,begin ,retailer,,?
+p57,5,5,is the finance department,retailer,Actor - [the] [finance] department,?
+p57,12,12,find ,retailer,,?
+p57,12,13,not the order is not sufficent,retailer,,?
+p57,14,15,is the sales,retailer,Resource - [the] sales,?
+p58,0,0,begin ,buyer,,?
+p58,3,4,subsequently ,buyer,,?
+p58,7,8,card for the verification,buyer,,?
+p59,0,0,begin ,,,?
+p59,3,4,subsequently ,,,?
+p59,6,7,deploy the cartridg,,Resource - [the] cartridg,?
+p6,0,0,begin ,storekeeper,,?
+p6,0,1,conduct a customer to arrive ,storekeeper,Actor - [a] customer,?
+p6,3,4,subsequently ,storekeeper,,?
+p6,4,5,conduct the available products,storekeeper,Resource - [the] [available] products,?
+p6,6,7,conduct to available ,storekeeper,,?
+p6,7,8,conduct the setle prices,storekeeper,Resource - [the] [setle] prices,?
+p6,8,9,storekeeper the products,storekeeper,Resource - [the] products,?
+p60,0,0,begin ,business organization,,?
+p60,0,1,need a registration authority,business organization,Meta-Actor - [a] [registration] authority,?
+p60,1,3,exists not,business organization,Resource - not,?
+p61,0,0,begin ,shipping department,,?
+p61,9,7,the shipping department ships ,shipping department,,?
+p62,0,0,begin ,customer,,?
+p62,3,4,subsequently ,customer,,?
+p63,0,0,begin ,election cell,,?
+p63,3,4,subsequently ,election cell,,?
+p63,11,12,subsequently ,election cell,,?
+p63,13,14,result on the website,election cell,,?
+p64,0,0,begin ,originator,,?
+p65,0,0,begin ,wholesaler,,?
+p65,6,7,subsequently ,wholesaler,,?
+p66,0,0,begin ,employee,,?
+p66,6,7,subsequently ,employee,,?
+p66,7,9,reject sends,employee,Resource - sends,?
+p66,8,10,receive ,employee,,?
+p66,12,15,receive ,employee,,?
+p67,0,0,begin ,employee,,?
+p67,3,4,subsequently ,employee,,?
+p68,0,0,begin ,doctor,,?
+p69,0,0,begin ,student,,?
+p69,6,7,subsequently ,student,,?
+p69,9,10,find to not eligible ,student,,?
+p7,0,0,begin ,customer,,?
+p7,4,4,subsequently ,customer,,?
+p7,7,7,find to available ,customer,,?
+p7,8,8,is the processing,customer,Resource - [the] processing,?
+p7,10,11,subsequently ,customer,,?
+p7,11,12,n'ts to has inventory,customer,Resource - n'ts,?
+p7,15,15,processing department has the inventory,customer,Resource - [the] inventory,?
+p70,0,0,begin ,customer,,?
+p70,7,7,is the company,customer,Actor - [the] company,?
+p71,0,0,begin ,company,,?
+p71,0,1,develop ,company,,?
+p72,0,0,begin ,employee,,?
+p72,3,4,subsequently ,employee,,?
+p73,0,0,begin ,customer,,?
+p73,3,4,subsequently ,customer,,?
+p73,4,5,find ,customer,,?
+p73,4,6,the ingredients be complete,customer,,?
+p73,9,11,the driver schedules ,customer,,?
+p74,0,0,begin ,customer,,?
+p74,5,6,find ,customer,,?
+p74,15,17,is the isc,customer,Resource - [the] isc,?
+p74,15,18,determine ,customer,,?
+p74,15,19,require ,customer,,?
+p75,0,0,begin ,open mms relay,,?
+p75,3,4,subsequently ,open mms relay,,?
+p75,4,5,find ,open mms relay,,?
+p75,4,6,not the request is not valid,open mms relay,,?
+p75,7,9,find ,open mms relay,,?
+p75,7,10,the request is valid,open mms relay,,?
+p75,13,15,is the open mms,open mms relay,Resource - [the] [open] mms,?
+p76,0,0,begin ,employee,,?
+p77,0,0,begin ,customer,,?
+p77,13,13,once is the supplier ships,customer,Actor - [the] supplier [ships],?
+p78,0,0,begin ,student,,?
+p78,3,4,subsequently ,student,,?
+p78,4,5,find ,student,,?
+p78,4,6,miss ,student,,?
+p78,6,9,find ,student,,?
+p78,6,10,the information is complete,student,,?
+p78,8,12,is the registrar,student,Actor - [the] registrar,?
+p78,9,14,subsequently ,student,,?
+p78,10,15,find ,student,,?
+p78,10,16,not the standard is not ok,student,,?
+p78,12,18,find ok,student,Resource - ok,?
+p78,12,19,the standard is ok,student,Resource - ok,?
+p79,0,0,begin ,customer,,?
+p79,6,7,subsequently ,customer,,?
+p79,9,10,is the customer,customer,Actor - [the] customer,?
+p8,0,0,begin ,department,,?
+p8,0,1,occur ,department,,?
+p8,2,2,conduct to available ,department,,?
+p8,8,8,subsequently ,department,,?
+p8,10,9,conduct the unknown creditor,department,Actor - [the] [unknown] creditor,?
+p80,0,0,begin ,employee,,?
+p81,0,0,begin ,salesman,,?
+p81,3,4,subsequently ,salesman,,?
+p81,8,9,subsequently ,salesman,,?
+p81,14,16,the warehouse ships ,salesman,,?
+p82,0,0,begin ,accountant,,?
+p82,15,15,was and be ,accountant,,?
+p82,16,16,not block ,accountant,,?
+p82,18,18,block ,accountant,,?
+p83,0,0,begin ,salesman,,?
+p83,4,4,subsequently ,salesman,,?
+p83,7,7,is the production house,salesman,Actor - [the] [production] house,?
+p83,8,9,finish the product,salesman,Resource - [the] product,?
+p83,13,14,subsequently ,salesman,,?
+p83,16,17,finish the product,salesman,Resource - [the] product,?
+p83,18,19,once is the warehouse ships,salesman,Resource - [the] [warehouse] ships,?
+p84,0,0,begin ,assassin,,?
+p84,9,9,conduct ,assassin,,?
+p84,9,10,alive ,assassin,,?
+p85,0,0,begin ,customer,,?
+p85,5,4,find ,customer,,?
+p85,5,5,the machine is busy,customer,,?
+p85,7,7,find to available ,customer,,?
+p85,11,11,once ,customer,,?
+p86,0,0,begin ,customer,,?
+p86,8,8,is the customer,customer,Actor - [the] customer,?
+p86,14,14,perform the service portability,customer,Resource - [the] [service] portability,?
+p86,17,17,conduct the receiveconsolidated validation results,customer,Resource - [the] [receiveconsolidated] [validation] results,?
+p87,0,0,begin ,customer,,?
+p87,3,4,request to the distributor,customer,,?
+p87,7,7,account data,customer,Resource - data,?
+p87,12,12,complete ,customer,,?
+p88,0,0,begin ,excise department,,?
+p88,3,4,subsequently ,excise department,,?
+p88,6,7,is the excise,excise department,Resource - [the] excise,?
+p89,0,0,begin ,inventory manager,,?
+p9,0,0,begin ,customer,,?
+p9,0,1,conduct a hungry,customer,Resource - [a] hungry,?
+p9,6,6,conduct the available ingredients,customer,Resource - [the] [available] ingredients,?
+p90,0,0,begin ,customer,,?
+p90,3,4,subsequently ,customer,,?
+p90,10,10,conduct the products,customer,Resource - [the] products,?
+p90,11,11,not conduct the products in stock,customer,Resource - [the] products,?
+p90,17,16,is the delivery,customer,Resource - [the] delivery,?
+p91,0,0,begin ,inventory department,,?
+p91,5,6,subsequently ,inventory department,,?
+p91,8,9,find to not appropriate ,inventory department,,?
+p91,9,10,file ,inventory department,,?
+p91,9,11,complain ,inventory department,,?
+p92,0,0,begin ,bank 1,,?
+p92,0,1,allow to perform a transaction to use ,bank 1,,?
+p92,6,6,find ,bank 1,,?
+p92,6,7,does not the user transaction does not exist ,bank 1,,?
+p92,9,10,further transaction details,bank 1,Resource - [transaction] details,?
+p92,11,11,conduct ,bank 1,,?
+p92,11,12,does not the transaction does not exist ,bank 1,,?
+p92,13,14,is the bank,bank 1,Actor - [the] bank,?
+p93,0,0,begin ,domain registration team,,?
+p93,0,1,meet the website specification,domain registration team,Resource - [the] [website] specification,?
+p93,7,9,is the domain,domain registration team,Resource - [the] domain,?
+p93,11,14,is the domain,domain registration team,Resource - [the] domain,?
+p93,14,17,website to launch the managment,domain registration team,,?
+p93,15,18,conduct the e-commerce,domain registration team,Resource - [the] e-commerce,?
+p93,16,19,inventory the fulfilment,domain registration team,Resource - [the] fulfilment,?
+p93,17,20,is the website launch,domain registration team,Resource - [the] [website] launch,?
+p94,0,0,begin ,user,,?
+p94,2,3,let the user,user,Actor - [the] user,?
+p94,6,7,find to incomplete ,user,,?
+p94,7,8,prompt the message,user,Resource - [the] message,?
+p94,8,10,find to complete ,user,,?
+p95,0,0,begin ,customer,,?
+p95,3,4,subsequently ,customer,,?
+p95,5,7,pack the inquiry desk,customer,Resource - it,?
+p95,8,10,dine in the customer,customer,,?
+p95,12,13,is the waiter,customer,Actor - [the] waiter,?
+p95,19,21,is the customer,customer,Actor - [the] customer,?
+p96,0,0,begin ,customer,,?
+p96,3,4,subsequently ,customer,,?
+p96,10,10,stock the available,customer,Resource - [the] available,?
+p96,11,11,stock available,customer,,?
+p96,16,13,require for the production,customer,,?
+p96,17,14,the manufacturing unit ,customer,,?
+p96,19,16,once ,customer,,?
+p97,0,0,begin ,production manager,,?
+p97,5,6,build the product,production manager,Resource - [the] product,?
+p97,7,8,the product department,production manager,Actor - [product] department,?
+p97,8,9,complete the testing,production manager,Resource - [the] testing,?
+p97,9,10,subsequently ,production manager,,?
+p97,10,11,find to defective ,production manager,,?
+p97,10,12,find to defective ,production manager,,?
+p97,14,17,find to not defective ,production manager,,?
+p97,14,18,find to not defective ,production manager,,?
+p98,0,0,begin ,person,,?
+p98,5,5,find the possible,person,Meta-Actor - [the] possible,?
+p98,16,14,find to incomplete ,person,,?
+p98,17,15,reject ,person,,?
+p98,18,16,find to complete ,person,,?
+p98,20,18,was and be ,person,,?
+p99,0,0,begin ,production manager,,?
+p99,4,4,subsequently ,production manager,,?
+p99,9,9,is the billing department,production manager,Actor - [the] [billing] department,?
+p109,31,30,procure the contractor services,customer,Resource - [the] [contractor] services,?
+p113,3,3,access the demographics,customer,Resource - [the] demographics,?
+p28,6,7,expect the complete project,developer,Resource - [the] [complete] project,?
+p50,5,6,access and tests,,,?
+p82,14,14,settle the g\/r settlement automatically,accountant,Meta-Actor - [the] [g\/r] settlement,?
+p1,12,14,,customer,,
+p103,7,6,,manufacturer,,
+p109,39,37,,customer,,
+p11,1,2, ,retailer,,
+p11,5,5, ,retailer,,
+p112,6,4,,manager,,
+p117,1,2, ,customer,,
+p117,5,6, ,customer,,
+p119,10,11,,clerk,,
+p125,12,11,,customer,,
+p126,11,11,,company,,
+p131,7,8,,customer,,
+p132,4,4,,worker,,
+p136,27,31,,administration,,
+p141,8,8,,administration,,
+p141,16,16,,administration,,
+p142,5,6,,applicant,,
+p142,9,10,,applicant,,
+p143,8,12,,applicant,,
+p143,18,24,,applicant,,
+p145,11,9,,applicant,,
+p146,10,13,,applicant,,
+p146,24,26,,applicant,,
+p147,8,9,,applicant,,
+p147,11,14,,applicant,,
+p147,14,17,,applicant,,
+p147,29,30,,applicant,,
+p147,41,41,,applicant,,
+p147,45,45,,applicant,,
+p16,4,4,,customer,,
+p21,7,6,,traveling agent,,
+p22,8,9,,customer,,
+p25,9,11,,user,,
+p25,11,13,,user,,
+p3,8,9,,customer,,
+p39,12,14,,customer,,
+p4,10,10,,,,
+p5,10,11,,manufacturer,,
+p58,14,14,,buyer,,
+p60,3,5,,business organization,,
+p60,4,7,,business organization,,
+p69,11,12,,student,,
+p72,7,8,,employee,,
+p77,8,8,,customer,,
+p78,14,21,,student,,
+p8,12,11,,department,,
+p80,7,7,,employee,,
+p81,10,11,,salesman,,
+p81,13,14,,salesman,,
+p82,2,2,,accountant,,
+p82,5,5,,accountant,,
+p82,6,7,,accountant,,
+p82,12,11,,accountant,,
+p83,9,10,,salesman,,
+p83,18,20,,salesman,,
+p85,8,8,,customer,,
+p90,15,14,,customer,,
+p94,12,13,,user,,
+p99,15,15,,production manager,,
+,"SBAR: solved (null)""",,,,,
+,"PP: for the quality assurance (Resource - [the] [quality] assurance)""",,,,,
+,"PP: for the shipment (Resource - [the] shipment)""",,,,,
+,"INFMOD: to check (null)""",,,,,
+,"PP: to the picking area (Resource - [the] [picking] area)""",,,,,
+,"PP: for month (Resource - month)""",,,,,
+,"PP: in the design (Resource - [the] design)""",,,,,
+,"PP: to the implementation analyst (Actor - [the] [implementation] analyst)""",,,,,
+,"PP: for purchasing (Resource - purchasing)""",,,,,
+,"PP: for the quote (Resource - [the] quote)""",,,,,
+,"PP: for the quote (Resource - [the] quote)""",,,,,
+,"PP: to the vendor (Actor - [the] vendor)""",,,,,
+,"PP: of the e-service (Resource - [the] e-service)""",,,,,
+,"PP: of the e-services (Resource - [the] e-services)""",,,,,
+,"PP: for the windows (Resource - [the] windows)""",,,,,
+,"PP: to the custmer (Resource - [the] custmer)""",,,,,
+,"PP: of the request (Resource - [the] request)""",,,,,
+,"PARTMOD: completed (null)""",,,,,
+,"PARTMOD: found (null)""",,,,,
+,"PARTMOD: required (null)""",,,,,
+,"PP: in the wow (Resource - [the] wow)""",,,,,
+,"PP: for the customer (Actor - [the] customer)""",,,,,
+,"PP: for the customer (Actor - [the] customer)""",,,,,
+,"PP: to the customer (Actor - [the] customer)""",,,,,
+,"PP: to the customer (Actor - [the] customer)""",,,,,
+,"PP: of the usage (Resource - [the] usage)""",,,,,
+,"PP: of the medicine (Resource - [the] medicine)""",,,,,
+,"PP: of the flights (Meta-Actor - [the] flights)""",,,,,
+,"PARTMOD: offered (null)""",,,,,
+,"PP: about decision (Resource - decision)""",,,,,
+,"PARTMOD: arrived at shop (null)""",,,,,
+,"SBAR: already register (null)""",,,,,
+,"SBAR: the clerk conducts the high touch cliam (null)""",,,,,
+,"PARTMOD: created (null)""",,,,,
+,"PP: via online form (Meta-Actor - [online] form)""",,,,,
+,"PP: from the online form (Meta-Actor - [the] [online] form)""",,,,,
+,"PP: for the quality assurance (Resource - [the] [quality] assurance)""",,,,,
+,"PP: of the goods ok (Resource - [the] [goods] ok)""",,,,,
+,"PP: of the goods (Resource - [the] goods)""",,,,,
+,"PP: of the eligible candidates (Actor - [the] [eligible] candidates)""",,,,,
+,"PP: for the further approval (Resource - [the] [further] approval)""",,,,,
+,"PP: to the questionaire (Resource - [the] questionaire)""",,,,,
+,"PP: to the ward (Actor - [the] ward)""",,,,,
+,"PP: in the office (Actor - [the] office)""",,,,,
+,"PP: from the manager (Actor - [the] manager)""",,,,,
+,"PARTMOD: completed (null)""",,,,,
+,"PP: to the register (Resource - [the] register)""",,,,,
+,"PP: about registration (Actor - registration)""",,,,,
+,"PP: for the quality assurance (Resource - [the] [quality] assurance)""",,,,,
+,"PP: of the goods (Resource - [the] goods)""",,,,,
+,"PP: of the inspection quality (Resource - [the] [inspection] quality)""",,,,,
+,"PP: of the rejection (Resource - [the] rejection)""",,,,,
+,"PP: of the parents (Actor - [the] parents)""",,,,,
+,"PP: of the baby (Actor - [the] baby)""",,,,,
+,"PP: of the parents (Actor - [the] parents)""",,,,,
+,"PP: of the birth (Meta-Actor - [the] birth)""",,,,,
+,"PP: to the complete information (Resource - [the] [complete] information)""",,,,,
+,"PARTMOD: received (null)""",,,,,
+,PP: in court of nationality affairs (Actor - court,,,,,
+,"PP: of nationality affairs (Resource - [nationality] affairs))""",,,,,
+,"PP: of the baby (Actor - [the] baby)""",,,,,
+,"PP: of the baby (Actor - [the] baby)""",,,,,
+,"PP: about money benefits (Resource - [money] benefits)""",,,,,
+,"PARTMOD: born in the wedlock or not (null)""",,,,,
+,"PARTMOD: born in the wedlock (null)""",,,,,
+,"PARTMOD: not born in the wedlock (null)""",,,,,
+,"PP: with the passport (Resource - [the] passport)""",,,,,
+,PP: on the basis of information received (Resource - [the] basis,,,,,
+,PP: of information received (Resource - information,,,,,
+,"PARTMOD: received (null)))""",,,,,
+,"PP: of the birth (Meta-Actor - [the] birth)""",,,,,
+,"PP: of the discussion (Resource - [the] discussion)""",,,,,
+,"PP: for the conference call (Resource - [the] [conference] call)""",,,,,
+,"PP: of the birth (Meta-Actor - [the] birth)""",,,,,
+,"PP: of the name (Meta-Actor - [the] name)""",,,,,
+,"PP: of the birth (Meta-Actor - [the] birth)""",,,,,
+,"PP: of the notification (Resource - [the] notification)""",,,,,
+,"PP: with the passport (Resource - [the] passport)""",,,,,
+,"PP: of the name (Meta-Actor - [the] name)""",,,,,
+,"PP: of the degrees (Resource - [the] degrees)""",,,,,
+,"PP: of motivation (Resource - motivation)""",,,,,
+,"PP: of motivation (Resource - motivation)""",,,,,
+,"PP: of the hardship certificate (Resource - [the] [hardship] certificate)""",,,,,
+,"PP: in time or not (null)""",,,,,
+,"PP: of the rejection (Resource - [the] rejection)""",,,,,
+,"PP: of the rejection (Resource - [the] rejection)""",,,,,
+,"PP: for the admission (Resource - [the] admission)""",,,,,
+,"PP: of the rejection (Resource - [the] rejection)""",,,,,
+,"PP: of the german language (Resource - [the] [german] language)""",,,,,
+,"PP: of the bachelors degree (Resource - [the] [bachelors] degree)""",,,,,
+,"PP: in the time (Resource - [the] time)""",,,,,
+,"PARTMOD: missing (null)""",,,,,
+,"PP: to each applicant (Actor - [each] applicant)""",,,,,
+,"PP: of the application (Resource - [the] application)""",,,,,
+,PP: on the scale of 1 to10 (Resource - [the] scale,,,,,
+,"PP: of 1 to10 (Resource - [1] to10))""",,,,,
+,PP: by head of university (Actor - head,,,,,
+,"PP: of university (Actor - university))""",,,,,
+,"PP: of the motivation (Resource - [the] motivation)""",,,,,
+,"PP: of the german language (Resource - [the] [german] language)""",,,,,
+,"PP: of the bachelor degree (Resource - [the] [bachelor] degree)""",,,,,
+,"PP: of the qualification (Resource - [the] qualification)""",,,,,
+,"PP: of further language skills (Resource - [further] [language] skills)""",,,,,
+,"PP: in the time (Resource - [the] time)""",,,,,
+,"PP: in mathematics (Resource - mathematics)""",,,,,
+,"PP: in mathematics (Resource - mathematics)""",,,,,
+,"PP: of the rejection (Resource - [the] rejection)""",,,,,
+,"PP: of the acceptance (Resource - [the] acceptance)""",,,,,
+,"PP: of the acceptance provisionally (Resource - [the] [acceptance] provisionally)""",,,,,
+,"PP: of the acceptance (Resource - [the] acceptance)""",,,,,
+,"PP: of the rejection (Resource - [the] rejection)""",,,,,
+,"PP: for the quality check (Resource - [the] [quality] check)""",,,,,
+,"PP: for the quality check (Resource - [the] [quality] check)""",,,,,
+,"PARTMOD: received (null)""",,,,,
+,"PP: of the studies (Meta-Actor - [the] studies)""",,,,,
+,"PP: of the motivation (Resource - [the] motivation)""",,,,,
+,"PP: of the applicant (Actor - [the] applicant)""",,,,,
+,"PP: for the interview (Resource - [the] interview)""",,,,,
+,"PP: to the shop (Resource - [the] shop)""",,,,,
+,"PP: for the authentication (Resource - [the] authentication)""",,,,,
+,"PP: of the required book (Resource - [the] [required] book)""",,,,,
+,"PP: of the reasons (Resource - [the] reasons)""",,,,,
+,"PP: in the course (Actor - [the] course)""",,,,,
+,"PP: of the registration (Actor - [the] registration)""",,,,,
+,"PP: in the course (Actor - [the] course)""",,,,,
+,"PP: in the stock (Meta-Actor - [the] stock)""",,,,,
+,"SBAR: if existing (null)""",,,,,
+,PARTMOD: listed (null),,,,,
+,"PP: in case of black (Meta-Actor - black)""",,,,,
+,"PP: of the received part (Resource - [the] [received] part)""",,,,,
+,"PP: in inventory (Resource - inventory)""",,,,,
+,"SBAR: not exist (null)""",,,,,
+,"PP: to gl system (Resource - [gl] system)""",,,,,
+,"PP: with the quotation (Resource - [the] quotation)""",,,,,
+,"PP: with the tickets (Resource - [the] tickets)""",,,,,
+,"PP: to the person (Actor - [the] person)""",,,,,
+,"PP: for the quotation (Resource - [the] quotation)""",,,,,
+,"PP: forwards the order (null)""",,,,,
+,"PP: about selection (Resource - selection)""",,,,,
+,"PP: on the hr system (Resource - [the] [hr] system)""",,,,,
+,"PP: on the loan (Resource - [the] loan)""",,,,,
+,"PP: of the illness (Resource - [the] illness)""",,,,,
+,"PP: of the failure (Meta-Actor - [the] failure)""",,,,,
+,"PP: for the registration (Actor - [the] registration)""",,,,,
+,"PP: to the candidate (Actor - [the] candidate)""",,,,,
+,"PP: for the loan (Resource - [the] loan)""",,,,,
+,"PP: of the information (Resource - [the] information)""",,,,,
+,"PP: over 1000 (Resource - 1000)""",,,,,
+,"PP: under 800 (Resource - 800)""",,,,,
+,"PP: about confirmation (Resource - confirmation)""",,,,,
+,"PP: of the interest (Meta-Actor - [the] interest)""",,,,,
+,"PP: for the further information (Resource - [the] [further] information)""",,,,,
+,"PP: of the all parts (Resource - [the] parts)""",,,,,
+,"PP: for the quote (Resource - [the] quote)""",,,,,
+,"PP: for the quote (Resource - [the] quote)""",,,,,
+,"PP: for the quote (Resource - [the] quote)""",,,,,
+,"PP: to the ship goods (Resource - [the] [ship] goods)""",,,,,
+,"PP: for the delivery (Resource - [the] delivery)""",,,,,
+,"SBAR: if require (null)""",,,,,
+,"PP: for the delivery (Resource - [the] delivery)""",,,,,
+,"PP: of payment (Resource - payment)""",,,,,
+,"PP: with information (Resource - information)""",,,,,
+,"PP: of the rooms (Resource - [the] rooms)""",,,,,
+,"SBAR: already register (null)""",,,,,
+,"PP: for the advertisment (Resource - [the] advertisment)""",,,,,
+,"PP: to the business unit manager (Actor - [the] [business unit] manager)""",,,,,
+,"PP: from the warehouse (Resource - [the] warehouse)""",,,,,
+,"PP: to the warehouse (Resource - [the] warehouse)""",,,,,
+,"PP: in the sale system (Resource - [the] [sale] system)""",,,,,
+,"PP: to the seller (Actor - [the] seller)""",,,,,
+,"PP: in the sce (Resource - [the] sce)""",,,,,
+,"PP: to the customer (Actor - [the] customer)""",,,,,
+,"PP: at the remote location (Resource - [the] [remote] location)""",,,,,
+,"SBAR: already exist or not (null)""",,,,,
+,"SBAR: already exist (null)""",,,,,
+,"SBAR: not exist (null)""",,,,,
+,"PP: for the registration authority (Meta-Actor - [the] [registration] authority)""",,,,,
+,"PP: on the nh identity (Resource - [the] [nh] identity)""",,,,,
+,"PP: to the candidate (Actor - [the] candidate)""",,,,,
+,"PP: to the admin assistant (Actor - [the] [admin] assistant)""",,,,,
+,"PP: to the employer (Actor - [the] employer)""",,,,,
+,"PP: for the loan (Resource - [the] loan)""",,,,,
+,"PP: for the further tests (Resource - [the] [further] tests)""",,,,,
+,"PP: with the sample (Resource - [the] sample)""",,,,,
+,"PARTMOD: based scholorship notification (null)""",,,,,
+,"PP: for the project (Resource - [the] project)""",,,,,
+,"INFMOD: to confirm (null)""",,,,,
+,"PP: to the supervisor (Actor - [the] supervisor)""",,,,,
+,"PP: for storing (Resource - storing)""",,,,,
+,"PP: for the notification (Resource - [the] notification)""",,,,,
+,"PP: for billing (Resource - billing)""",,,,,
+,"PP: to the employee (Actor - [the] employee)""",,,,,
+,"INFMOD: to resubmit (null)""",,,,,
+,"PP: in the system (Resource - [the] system)""",,,,,
+,"PP: from the warehouse (Resource - [the] warehouse)""",,,,,
+,"PP: to the customer (Actor - [the] customer)""",,,,,
+,"PP: of the customer (Actor - [the] customer)""",,,,,
+,"PP: to the customer (Actor - [the] customer)""",,,,,
+,"PARTMOD: exporting inquiry and datas (null)""",,,,,
+,PP: of the rejection to inventory manager (Resource - [the] rejection,,,,,
+,"PP: to inventory manager (Actor - [inventory] manager))""",,,,,
+,"PP: of the ingredients (Resource - [the] ingredients)""",,,,,
+,"PP: to the customer (Actor - [the] customer)""",,,,,
+,"PP: in stock (Meta-Actor - stock)""",,,,,
+,"PP: for the payment (Resource - [the] payment)""",,,,,
+,"PP: of receipt (Resource - receipt)""",,,,,
+,"PP: for the registration (Actor - [the] registration)""",,,,,
+,"PP: to the start registration (Actor - [the] [start] registration)""",,,,,
+,SBAR: for enter correct information (null),,,,,
+,"PP: to the user (Actor - [the] user)""",,,,,
+,"PP: of the successful registration (Actor - [the] [successful] registration)""",,,,,
+,"PP: for the dine (Resource - [the] dine)""",,,,,
+,"PP: to the cooking department (Actor - [the] [cooking] department)""",,,,,
+,"PP: in the (Resource - the)""",,,,,
+,"PP: of the rejection (Resource - [the] rejection)""",,,,,
+,"PP: of the stock (Meta-Actor - [the] stock)""",,,,,
+,"PP: to the all production team (Actor - [the] [production] team)""",,,,,
+,"PP: across all departments (Actor - [all] departments)""",,,,,
+,"PP: to customer testing (Resource - [customer] testing)""",,,,,
+,"PP: to customer testing (Resource - [customer] testing)""",,,,,
+,"PP: in the market (Actor - [the] market)""",,,,,
+,"PP: in the market (Actor - [the] market)""",,,,,
+,"PP: of the request (Resource - [the] request)""",,,,,
+,"PP: to the fulfil (Resource - [the] fulfil)""",,,,,
+,"PP: of the request (Resource - [the] request)""",,,,,
+,"PP: of the bill (Resource - [the] bill)""",,,,,

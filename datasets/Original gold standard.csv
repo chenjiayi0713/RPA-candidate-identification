@@ -1,0 +1,569 @@
+textid,sentenceID,activityID,activity,resource,GS
+model2-2,22,35,accept ,customer,0
+bicyclemanufacturing,2,4,accept the order,small company,0
+runningexample,2,4,accept the order,small company,0
+model9-3,0,1,add draft dates to calendars,coordination unit,0
+model4-1,22,34,add information to the assignment list,secretarial worker,0
+model4-1,13,14,add new patient,secretarial worker,0
+model4-1,32,49,add standard checklist to the patient s,secretarial worker,0
+model4-1,27,43,add the copy to the patient file,secretarial worker,0
+model4-1,35,53,add the information to the patient file,secretarial worker,0
+model8-1,1,1,advertise post,functional department,0
+model9-4,1,4,advise committee members,support,0
+model2-2,11,17,analyze the causing issues,customer,0
+model2-1,15,28,analyze this,customer,0
+model8-1,1,2,apply ,functional department,0
+model8-3,2,4,approve the job description,number,0
+model5-1,2,4,approve the loan,customer,0
+model5-2,2,4,approve the request,employee,0
+model5-3,2,4,approve the request,employee,0
+model9-2,2,5,archive the work,customer service representative,0
+model1-4,8,16,arrange a road show to talk to potential investors,company,0
+model8-3,2,3,ask again for corrections,number,0
+model6-4,6,10,ask the customer,potential customers,0
+bicyclemanufacturing,10,16,assemble the bicycle,small company,0
+runningexample,10,15,assemble the bicycle,small company,0
+model4-1,16,17,assign new patients to members,secretarial worker,0
+model4-1,17,18,assign patient to a social-medical worker,secretarial worker,0
+hotelservice,5,8,assign the order to the waiter,guest,0
+model3-1,5,9,attach the new sct document,party,0
+model1-4,7,15,begin to firm up the issue price,company,0
+model1-2,0,0,bring in a defective computer,customer,0
+model6-4,2,1,buy details,potential customers,0
+model1-4,2,6,buy the issue,company,0
+model7-1,3,3,call customer,manager,0
+hotelservice,1,1,call room service,guest,0
+model6-4,3,5,call the customer,potential customers,0
+model6-4,12,16,call the customer,potential customers,0
+model7-1,6,6,call the next customer,manager,0
+model3-5,6,8,capture the matter details,mail processing unit,0
+model3-5,8,13,capture the party details,mail processing unit,0
+model2-2,18,28,carry out the termination,customer,0
+repairexample,4,6,categorize defect,company,0
+repairexample,5,7,categorize defects,company,0
+model3-3,2,3,check recommendation,claims officer,0
+model2-2,16,23,check switch-over request,customer,0
+model2-1,13,26,check that,customer,0
+model8-1,1,3,check the applications,functional department,0
+model3-6,7,10,check the claimant again,organization,0
+model1-2,0,1,check the defect back,customer,0
+model1-2,3,5,check the hardware,customer,0
+model7-1,0,0,check the open leads,manager,0
+model6-3,8,18,check the order again,masters,0
+bicyclemanufacturing,5,9,check the required quantity,small company,0
+model3-6,4,7,check the severity,organization,0
+model3-5,1,1,clerk sorts into the various business areas,mail processing unit,0
+model3-5,0,0,collect mail,mail processing unit,0
+model9-6,10,17,combine both,,0
+model6-1,17,35,complete the commercial audit,acme ag,0
+model9-4,3,7,conduct a qa check,support,0
+model3-2,3,6,conduct the directions hearings,,0
+model6-1,10,25,consult the cost center managers again,acme ag,0
+model8-2,4,7,correct the description,department,0
+model2-2,19,29,create a cis contract,customer,0
+model2-1,7,12,create a detailed problem report,customer,0
+model8-2,0,1,create a job description,department,0
+model2-1,14,27,create a notification,customer,0
+model4-1,8,9,create a patient file,secretarial worker,0
+model6-4,13,17,create a quotation,potential customers,0
+model2-1,24,44,create a request,customer,0
+model9-6,6,10,create a revised design,,0
+model2-1,12,21,create a trouble report,customer,0
+model2-1,12,22,create a trouble report,customer,0
+model2-1,15,29,create a trouble report,customer,0
+model2-1,29,54,create a trouble-shooting report,customer,0
+model2-2,26,44,create the final billing,customer,0
+model2-1,22,41,create the problem resolution report,customer,0
+model2-1,9,14,deal on a first level with violations,customer,0
+model2-2,20,31,decide to confirm the switch contract,customer,0
+model2-2,20,30,decide to withdraw from the switch contract the switch contract,customer,0
+model9-6,12,20,deem the designs complete,,0
+hotelservice,8,17,deliver cart to the guests room,guest,0
+model2-2,17,26,demand the resolution,customer,0
+model9-6,1,2,design the electrical and physical systems,,0
+model2-1,20,38,detect no problem,customer,0
+model4-1,21,33,determine assignments,secretarial worker,0
+model6-4,0,0,determine contact details,potential customers,0
+model6-3,0,2,determine quantities well,masters,0
+model6-4,5,7,determine the budget,potential customers,0
+model6-4,5,6,determine the contact person,potential customers,0
+model2-1,3,5,determine the necessary counter measures to include respective priorities,customer,0
+model6-3,0,1,determine the necessary parts well,masters,0
+model2-1,18,35,determine what counter measures should be taken depending on the information in the final status report,customer,0
+model3-5,2,2,distribute mail,mail processing unit,0
+model3-2,2,5,distribute the judges lawlist to the relevant people,,0
+model9-3,0,0,draft a schedule in november,coordination unit,0
+model1-4,10,19,enter into a firm commitment to buy,company,0
+model3-6,2,3,evaluate the severity,organization,0
+model3-3,0,1,examine a claim,claims officer,0
+model4-1,29,45,examine the patient to use a standard checklist,secretarial worker,0
+model1-2,5,8,execute arbitrary repair activity,customer,0
+model3-5,5,7,explain the reason,mail processing unit,0
+model8-1,1,4,fill the post,functional department,0
+model8-1,2,5,fill the post,functional department,0
+model9-4,0,0,finalize the dates,support,0
+model1-2,5,9,finish the repair,customer,0
+repairexample,10,15,finish to work on a phone,company,0
+repairexample,1,1,fix different 3 types,company,0
+repairexample,8,12,fix simple defects,company,0
+model1-4,9,18,fix the issue price,company,0
+model4-1,38,57,formulate a treatment plan together with the team-leader,secretarial worker,0
+model3-1,2,4,forward the sct warrant possession to queensland police,party,0
+hotelservice,3,4,give an order to fetch wine to the sommelier,guest,0
+hotelservice,3,5,give an order to prepare other alcoholic beverages to the sommelier,guest,0
+model6-1,17,36,give payment instructions,acme ag,0
+model1-4,4,11,give seal,company,0
+model4-1,6,6,hand in form,secretarial worker,0
+model3-2,2,4,hand the files to the associate,,0
+model9-4,2,5,hold meeting,support,0
+repairexample,6,8,identify the problem,company,0
+model2-1,16,31,include the normal execution notification in a status report,customer,0
+model2-1,16,30,include trouble report in a status report,customer,0
+model2-1,12,23,indicate the type,customer,0
+model2-1,12,24,indicate the type,customer,0
+model3-2,1,1,initiate a search,,0
+model4-1,2,2,inquire after the name,secretarial worker,0
+model9-6,3,5,interrupt development,,0
+model2-1,10,16,investigate ,customer,0
+model4-1,25,37,keep registration,secretarial worker,0
+model6-4,7,11,leave the customer alone,potential customers,0
+model4-1,4,4,make a full inquiry,secretarial worker,0
+model1-4,0,0,make the decision to go,company,0
+model6-1,13,30,make to approval for payment,acme ag,0
+bicyclemanufacturing,0,0,manufacture customized bicycles,small company,0
+runningexample,0,0,manufacture customized bicycles,small company,0
+model6-1,8,18,mark positions,acme ag,0
+model3-2,0,0,need to be check to make sure they are in order for the court hearing,,0
+model3-5,3,4,open the mail,mail processing unit,0
+bicyclemanufacturing,7,11,part is back-ordered,small company,0
+model6-4,2,2,participate in exhibitions,potential customers,0
+model4-1,24,36,pass the produced registration cards to the first and second intaker,secretarial worker,0
+model3-5,4,6,perform a quality check,mail processing unit,0
+model9-6,0,1,perform a task to distribute relevant existing designs,,0
+model9-6,0,0,perform a task to locate ,,0
+model2-1,12,19,perform the analysis,customer,0
+model4-1,28,44,plan a meeting soon,secretarial worker,0
+model4-1,33,50,plan the first meeting has been receive ,secretarial worker,0
+model3-5,7,12,post an envelope to the party,mail processing unit,0
+model4-1,26,39,prepare a letter requesting for a copy of the medical file,secretarial worker,0
+model1-4,5,12,prepare a registration statement,company,0
+bicyclemanufacturing,9,13,prepare everything in the meantime,small company,0
+runningexample,9,12,prepare everything in the meantime,small company,0
+model2-1,17,34,prepare the final status report based on the received information,customer,0
+model1-4,3,10,present the facts fairly,company,0
+model6-1,10,24,proceed with the clarification,acme ag,0
+model5-3,0,0,process an office supply request,employee,0
+model7-1,5,5,process the lead,manager,0
+model6-2,2,2,process the order,assembler ag,0
+bicyclemanufacturing,5,8,process the part list,small company,0
+runningexample,5,8,process the part list,small company,0
+model5-2,0,0,process vacations request,employee,0
+model9-4,2,6,produce minutes including any action points for each committee member,support,0
+model4-1,11,12,produce two registration cards,secretarial worker,0
+model3-5,6,9,provide the matter details to the cashier,mail processing unit,0
+model4-1,37,56,provide the team-leader,secretarial worker,0
+model4-1,31,48,put a copy in the file,secretarial worker,0
+model3-5,7,11,put copied documents into an envelope,mail processing unit,0
+claimscreation,0,1,put police report related to the car accident in a file together with the claim documentation,claims handler,0
+model3-5,7,10,put the receipt into an envelope,mail processing unit,0
+model4-1,3,3,put through the doctor to the responsible nursing officer,secretarial worker,0
+hotelservice,6,11,ready a cart,guest,0
+model1-4,9,17,receive clearance,company,0
+model3-5,3,3,receive the mail,mail processing unit,0
+model3-1,6,11,receive the physical sct file,party,0
+model4-1,30,47,register additional observations in a personal notebook,secretarial worker,0
+model6-1,9,21,reject the ap,acme ag,0
+bicyclemanufacturing,2,3,reject the order,small company,0
+runningexample,2,3,reject the order,small company,0
+model5-2,2,5,reject the request,employee,0
+repairexample,8,13,repair complex defects,company,0
+repairexample,9,14,repair some,company,0
+model1-2,3,6,repair the hardware whereas the second activity checks,customer,0
+bicyclemanufacturing,8,12,repeat procedure,small company,0
+runningexample,8,11,repeat procedure,small company,0
+model3-3,3,6,repeat the recommendation,claims officer,0
+model1-4,2,7,resell procedural and financial advice to the public,company,0
+bicyclemanufacturing,6,10,reserve part,small company,0
+runningexample,6,9,reserve the part list,small company,0
+model6-1,16,34,resolve copy,acme ag,0
+model6-1,11,26,resolve inconsistencies,acme ag,0
+model2-2,11,18,resolve the causing issues,customer,0
+model3-1,4,8,retrieve the respective sct file,party,0
+model3-1,1,3,retrieve the sctt file,party,0
+hotelservice,9,18,return ,guest,0
+model6-1,6,15,return the copy to the internal mail,acme ag,0
+model3-6,4,6,return the forms,organization,0
+model5-3,4,6,return the request to the petitioner\/employee,employee,0
+model9-6,5,7,review existing designs in department,,0
+model9-5,1,2,review report,employee,0
+model6-1,5,11,review the content,acme ag,0
+model9-6,10,16,revise both,,0
+claimscreation,0,0,search police report related to the car accident,claims handler,0
+model7-1,1,1,select the top five ones,manager,0
+model1-4,0,2,select the underwriters,company,0
+model4-1,26,40,send a letter requesting for a copy of the medical file,secretarial worker,0
+repairexample,6,10,send a letter to inform him\/her about the problem to the customer,company,0
+repairexample,15,25,send a new brand device to the customer,company,0
+model6-1,9,22,send back the copy directly to accounting,acme ag,0
+repairexample,10,16,send device to the quality assurance department,company,0
+model9-6,11,19,send the combined design back to initiate design cycle to the beginning,,0
+model9-6,8,14,send the design back to create a new update plan,,0
+model9-6,8,13,send the design back to review ,,0
+model9-6,12,21,send the designs to the manufacturing process,,0
+repairexample,13,21,send the telephone to the customer,company,0
+repairexample,6,9,send the telephone to the repair department,company,0
+repairexample,12,19,send the telephone to the repair department,company,0
+model3-5,3,5,sort the mail into groups,mail processing unit,0
+model4-1,9,10,store registration form in the patient file,secretarial worker,0
+model3-1,3,5,store sctt physical file to await a report to sent,party,0
+hotelservice,2,3,submit an order ticket to begin to prepare to the kitchen,guest,0
+model9-3,1,3,suggest modifications,coordination unit,0
+model6-3,7,17,take care,masters,0
+model4-1,19,23,take case load in assigning intakers into account,secretarial worker,0
+model1-2,1,3,take computer home unrepaired,customer,0
+hotelservice,1,2,take down the order,guest,0
+model4-1,19,22,take earlier contacts in assigning intakers into account,secretarial worker,0
+model4-1,19,20,take expertise in assigning intakers into account,secretarial worker,0
+model4-1,14,15,take place,secretarial worker,0
+model4-1,36,54,take place,secretarial worker,0
+model4-1,19,21,take the region in assigning intakers into account,secretarial worker,0
+model2-1,7,11,take together the information,customer,0
+model7-1,2,2,tell sales to call the contact person,manager,0
+model9-6,9,15,tell the other department,,0
+model9-6,10,18,test both,,0
+model1-2,4,7,test the proper system functionality,customer,0
+model9-6,7,12,test the revised design,,0
+model4-1,1,1,the family doctor does notice,secretarial worker,0
+hotelservice,6,9,the kitchen are doing tasks,guest,0
+runningexample,7,10,the part list is back-ordered,small company,0
+hotelservice,6,10,the sommelier are doing tasks,guest,0
+model2-1,27,51,track possible errors,customer,0
+model3-2,1,2,track the files to the intended location,,0
+model6-4,8,12,try to acquire the customer,potential customers,0
+claimscreation,3,5,try to negotiate a settlement,claims handler,0
+model2-1,21,40,undertake corrective actions,customer,0
+model2-1,28,53,undertake necessary corrective actions,customer,0
+model4-1,34,51,use dictaphones to record observations made during meetings with patients,secretarial worker,0
+model9-6,6,9,use the existing draft,,0
+model9-6,6,8,use the update plan,,0
+model6-4,11,15,wait for the customer to come back to the customer,potential customers,0
+hotelservice,10,20,wait to does the billing,guest,0
+model3-3,1,2,write a settlement recommendation,claims officer,0
+model9-5,2,3,approve amounts,employee,2
+repairexample,13,20,archive the case,company,2
+repairexample,15,24,archive the case anyway,company,2
+model9-2,3,6,attach prerequisite documents,customer service representative,2
+model9-1,0,1,back up morning,2:30 PM,2
+model3-6,0,1,check a claim,organization,2
+model2-2,4,8,check data,customer,2
+model9-1,0,0,check morning to see whether the account defaulters table has new records,2:30 PM,2
+model6-1,3,6,check notes,acme ag,2
+model9-1,1,2,check the crm system to see whether new returns have been filed,2:30 PM,2
+model9-3,1,2,check the dates,coordination unit,2
+model6-1,3,5,check the invoice items,acme ag,2
+model5-3,6,9,choose a different vendor,employee,2
+model6-1,17,37,close the instance in acme financial accounting,acme ag,2
+model2-2,18,27,communicate the termination,customer,2
+model2-2,4,7,compare data,customer,2
+model2-2,6,10,comparison to prevent individual customer data being stored multiple times,customer,2
+model9-1,5,11,complete account report,2:30 PM,2
+model2-2,25,42,compute the final billing based on the meter data,customer,2
+model5-3,7,11,confirm a vendor,employee,2
+model2-2,5,9,correct data,customer,2
+model9-5,0,1,create a new account,employee,2
+model2-2,7,11,create a new customer object,customer,2
+claimscreation,2,3,create available plan system,claims handler,2
+model9-4,0,1,create to meet folders,support,2
+hotelservice,9,19,debit account,guest,2
+model5-1,3,5,deny the loan,customer,2
+model9-4,0,2,ensure ,support,2
+model2-1,2,2,enter a problem Then,customer,2
+model2-2,4,6,enter data,customer,2
+model6-3,1,4,enter into planning production system,masters,2
+runningexample,3,5,enter the order details into the erp system,small company,2
+model6-1,1,2,forward invoices to an accounting employee,acme ag,2
+model6-4,10,13,give a detailed online presentation,potential customers,2
+model6-4,10,14,give a detailed online presentation,potential customers,2
+model6-1,2,3,identify the charging suppliers in acme financial accounting,acme ag,2
+model2-2,28,47,import the meter data to systems,customer,2
+claimscreation,4,6,inform claimant,claims handler,2
+model2-2,17,25,inform involved suppliers,customer,2
+model3-6,1,2,inform the claimant,organization,2
+model3-6,6,9,inform the claimant to update the forms,organization,2
+runningexample,4,7,inform the engineering department,small company,2
+bicyclemanufacturing,4,7,inform the engineering department in the latter case,small company,2
+model4-1,27,42,inform the second intaker,secretarial worker,2
+runningexample,4,6,inform the storehouse,small company,2
+bicyclemanufacturing,4,6,inform the storehouse in the latter case,small company,2
+model5-1,1,2,invoke risk assessment to assess the request,customer,2
+model6-1,15,32,move back in the appropriate signature file,acme ag,2
+model9-2,3,7,move the case to administration,customer service representative,2
+model6-1,7,16,pass on to the next cost center manager based on the docket,acme ag,2
+model8-2,5,9,post the job,department,2
+model4-1,7,8,print the information,secretarial worker,2
+model3-5,8,14,print the physical court file,mail processing unit,2
+model9-1,3,5,produce table,2:30 PM,2
+model5-3,7,15,receive ,employee,2
+model3-6,0,0,receive a claim,organization,2
+model5-1,0,1,receive a customer request,customer,2
+model6-3,7,16,receive a notice,masters,2
+model9-5,3,5,receive a rejection notice,employee,2
+model9-5,5,7,receive an approval,employee,2
+model9-5,6,9,receive an email cancellation notice,employee,2
+bicyclemanufacturing,1,1,receive an order,small company,2
+runningexample,1,1,receive an order,small company,2
+model4-1,27,41,receive copy,secretarial worker,2
+model2-2,3,4,receive customer data,customer,2
+model5-1,5,8,receive feedback,customer,2
+model6-1,0,0,receive invoices,acme ag,2
+model6-1,1,1,receive invoices in the central inbox,acme ag,2
+model2-1,32,56,receive the actual service performance,customer,2
+model3-4,3,4,receive the completed questionnaire,,2
+model6-1,5,12,receive the copy,acme ag,2
+model2-1,10,15,receive the detailed problem report,customer,2
+model2-1,13,25,receive the detailed problem report,customer,2
+model9-5,0,0,receive the expense report,employee,2
+model6-2,4,4,receive the invoice,assembler ag,2
+model2-2,28,46,receive the meter data,customer,2
+model2-1,32,57,receive the problem resolution report,customer,2
+model2-1,36,63,receive the report,customer,2
+model3-1,4,7,receive the report,party,2
+model3-1,1,2,receive the request,party,2
+model5-3,1,3,receive the request to request the office supplies,employee,2
+model5-2,1,3,receive the request to request the vacation,employee,2
+model2-1,27,50,receive the restoration request,customer,2
+model9-3,2,4,rechecks dates,coordination unit,2
+model4-1,20,32,record assignments,secretarial worker,2
+model4-1,5,5,record information,secretarial worker,2
+model3-3,0,0,register a claim,claims officer,2
+repairexample,2,3,register a telephone device sent by a customer,company,2
+model9-1,2,4,register customers,2:30 PM,2
+model9-1,2,3,register defaulting accounts,2:30 PM,2
+model3-6,5,8,register the claim in the claims management system,organization,2
+model5-2,1,2,register the requirement,employee,2
+model5-3,1,2,register the requirement,employee,2
+model8-2,0,0,report a vacancy to me,department,2
+model2-1,33,60,report an sla violation rebate to billing,customer,2
+model8-3,0,1,report the vacancy,number,2
+model8-2,3,6,request a correction,department,2
+model9-5,6,10,resubmit the expense report,employee,2
+model5-2,3,6,return the application to the applicant\/employee,employee,2
+model6-3,7,15,schedule production to ,masters,2
+model5-3,5,8,select a vendor,employee,2
+model5-3,7,10,select a vendor,employee,2
+model9-1,7,13,send a message,2:30 PM,2
+model9-2,0,0,send a mortgage offer to the customer,customer service representative,2
+model7-1,4,4,send a note to the manager,manager,2
+model5-3,9,20,send a notification,employee,2
+model5-3,8,16,send a notification to let what the result was in case,employee,2
+model5-3,7,13,send a purchase order,employee,2
+model3-4,2,2,send a reminder to the claimant,,2
+model9-1,4,10,send an alert to the supervisor,2:30 PM,2
+model6-2,3,3,send an invoice to assembler ag,assembler ag,2
+model2-1,8,13,send detailed problem report to service management,customer,2
+model6-1,4,9,send docket to the first cost center manager to the list,acme ag,2
+model9-3,3,6,send final schedule to the independent committee members,coordination unit,2
+model2-1,1,1,send list to the customer service department,customer,2
+model2-1,25,46,send message to resource provisioning,customer,2
+model2-2,13,20,send out a confirmation document to the customer stating that the switch-over to the new supplier can be executed,customer,2
+model2-1,30,55,send out report to service management,customer,2
+model2-1,34,61,send out report to the customer,customer,2
+model2-2,14,21,send out request,customer,2
+model2-1,11,18,send out the detailed problem report to resource provisioning,customer,2
+model2-1,22,42,send out the problem resolution report to customer service,customer,2
+model2-1,26,48,send out the status report,customer,2
+model3-1,0,0,send possession request asking a warrant to be released,party,2
+model3-6,3,5,send relevant forms to the claimant,organization,2
+model3-4,3,3,send so,,2
+model2-1,20,37,send the actual service performance back to the customer service,customer,2
+model3-3,3,4,send the claim back to the claims,claims officer,2
+model6-1,11,27,send the copy again to the cost,acme ag,2
+model6-1,4,10,send the copy to the first cost center manager to the list,acme ag,2
+model2-2,25,43,send the final billing based on the meter data to the old supplier,customer,2
+model2-2,26,45,send the final billing to the customer,customer,2
+model2-1,16,33,send the normal execution notification back to service management,customer,2
+model6-2,1,1,send the order to the supplier,assembler ag,2
+model5-1,4,7,send the request to the approver web service,customer,2
+model9-1,3,7,send to account management,2:30 PM,2
+model2-1,16,32,send trouble report back to service management,customer,2
+model4-1,23,35,store the assignment,secretarial worker,2
+model4-1,7,7,store the information in the information system,secretarial worker,2
+model5-2,0,1,submit a vacation request,employee,2
+model5-3,0,1,submit an office supply request,employee,2
+model8-2,4,8,submit the description again,department,2
+model8-2,2,3,submit the job description,department,2
+model6-3,4,11,transfer the data manually,masters,2
+model2-2,16,24,transmit a response comment,customer,2
+model2-2,1,2,transmit data to the customer service department,customer,2
+model4-1,35,52,type out tapes,secretarial worker,2
+model9-4,4,8,update departmental records,support,2
+model9-2,2,4,update the case details,customer service representative,2
+model9-2,5,9,update the case details,customer service representative,2
+model9-4,0,3,upload appropriate documents to system,support,2
+model2-2,9,14,use generated customer object to prepare the contract documents in combination,customer,2
+model9-2,2,3,write back to decline the mortgage,customer service representative,2
+model2-2,11,16,are not generate the contract documents,customer,3
+model2-2,10,15,carry out an automated check in the following,customer,3
+model6-3,3,8,create a list,masters,3
+model6-1,2,4,create a new instance,acme ag,3
+bicyclemanufacturing,1,2,create a new process instance,small company,3
+runningexample,1,2,create a new process instance,small company,3
+model6-3,2,6,create uniform work packages are minimize ,masters,3
+model2-1,4,6,determine the significance,customer,3
+model9-2,4,8,generate a message to request outstanding documents to the customer,customer service representative,3
+model5-2,4,7,generate a notification to the human resources representative,employee,3
+model5-3,7,12,generate a purchase order,employee,3
+model2-2,12,19,generate the contract documents again,customer,3
+model2-2,0,0,initiate process,customer,3
+model2-1,5,8,link to an extra problem,customer,3
+model6-3,2,7,minimize the setup times,masters,3
+model2-2,23,39,speed up the switch process,customer,3
+model2-1,26,49,terminate the process,customer,3
+model2-2,24,41,transmit meter data to the customer service,customer,3
+model2-1,33,58,trigger i.e.,customer,3
+model2-1,33,59,trigger i.e.,customer,3
+model8-1,0,0,trigger process to fill a post,functional department,3
+model8-2,1,2, stillask the department again,department,?
+model3-4,0,0,a claim handling process is necessary,,?
+model9-1,3,8,account management,2:30 PM,?
+model4-1,18,19,act ,secretarial worker,?
+model1-4,1,3,act to a new issue,company,?
+model2-2,22,33,additional constraint is that the customer can only withdraw from the offered contract within 7 days after the 7th day,customer,?
+model5-3,2,5,ask the request,employee,?
+model3-1,5,10,attach stores,party,?
+model1-4,7,14,await approval,company,?
+bicyclemanufacturing,10,14,back ,small company,?
+runningexample,10,13,back ,small company,?
+claimscreation,3,4,bases on the action plan,claims handler,?
+model3-6,3,4,bases on the outcome (simple or complex claims),organization,?
+model2-1,2,3,bases on the received data,customer,?
+model6-1,10,23,bases on the statements of the cost center managers,acme ag,?
+model2-1,28,52,bases on the tracked errors,customer,?
+model2-1,3,4,bases on this,customer,?
+model2-2,24,40,begin ,customer,?
+model1-4,3,9,believe ,company,?
+hotelservice,8,16,cart is ready,guest,?
+model1-2,0,2,check hands back,customer,?
+model3-3,4,7,claim to handle process proceeds,claims officer,?
+model2-1,4,7,collect that,customer,?
+model9-6,7,11,complete ,,?
+model9-1,4,9,complete all,2:30 PM,?
+model9-1,7,12,complete this,2:30 PM,?
+model2-1,35,62,complete three activities,customer,?
+model2-2,8,13,consist of data elements,customer,?
+model4-1,15,16,consist of social-medical workers,secretarial worker,?
+model1-2,2,4,consist of two activities,customer,?
+model4-1,12,13,contain a set,secretarial worker,?
+model2-1,6,10,continue ,customer,?
+model2-2,21,32,continue ,customer,?
+model2-2,22,36,continue ,customer,?
+model6-1,11,28,continue ,acme ag,?
+model8-3,4,6,corrections is available,number,?
+model2-2,23,38,count to accept after 7 days in way,customer,?
+model2-2,3,5,customer service bases customer data,customer,?
+model2-2,2,3,customer service is a shared service center,customer,?
+model9-1,3,6,default accounts,2:30 PM,?
+repairexample,3,4,depart ment,company,?
+model8-3,0,0,detect a number,number,?
+repairexample,11,17,device to analyze by an employee to check if the defect was indeed fixed or not,company,?
+model6-1,9,19,e.g. ,acme ag,?
+model2-1,23,43,end ,customer,?
+model4-1,39,58,end the intake procedure,secretarial worker,?
+model1-4,3,8,established underwriters be careful,company,?
+hotelservice,0,0,evanstonian is an upscale independent hotel,guest,?
+model6-1,6,13,everything Should be in order,acme ag,?
+model9-6,2,3,existing any is inputs,,?
+model3-4,1,1,expect claimant to return the questionnaire,,?
+model4-1,29,46,fill out which,secretarial worker,?
+bicyclemanufacturing,10,15,finish ,small company,?
+runningexample,10,14,finish ,small company,?
+bicyclemanufacturing,11,17,finish the process instance,small company,?
+bicyclemanufacturing,3,5,finish the process instance in the former case,small company,?
+model2-1,5,9,fix process,customer,?
+model6-3,0,0,get ,masters,?
+model6-1,4,7,go docket to the internal mail,acme ag,?
+model5-3,5,7,go quotations to the purchase department,employee,?
+model6-1,4,8,go the copy to the internal mail,acme ag,?
+model9-5,4,6,go to the employees,employee,?
+model2-1,26,47,happen on-hold and waiting request,customer,?
+model8-3,3,5,happen that the colleague from the hr department still has questions about the tasks and requirements before he can describe the job,number,?
+model8-2,3,5,happen the approval,department,?
+model6-4,2,3,happen to know somebody,potential customers,?
+hotelservice,4,7,include other alcoholic beverage,guest,?
+hotelservice,4,6,include wine,guest,?
+model6-3,1,3,information is present,masters,?
+model4-1,0,0,intake workflow starts with a notice,secretarial worker,?
+model6-4,2,4,interest somebody in the product,potential customers,?
+model6-1,12,29,invoice items be AP,acme ag,?
+repairexample,4,5,is analyze ,company,?
+model6-3,4,10,is not couple the setup times correctly to enterprise resource planning system,masters,?
+model5-1,0,0,loan approval process ,customer,?
+model9-3,2,5,look ,coordination unit,?
+model4-1,10,11,may not leave the building,secretarial worker,?
+model6-1,8,17,move through the hands,acme ag,?
+model1-4,6,13,need to check that the issue complies with the so-called blue-sky laws of each state that regulate sales of securities within the state,company,?
+model6-3,6,13,need to decide are miss ,masters,?
+model2-2,23,37,not confirmation message is not necessary,customer,?
+model6-1,9,20,not the ordered product is not of the expected quantity or quality,acme ag,?
+model6-1,6,14,note code one,acme ag,?
+model6-3,2,5,optimize production processes,masters,?
+model2-1,0,0,perceive that her subscribed service has degraded,customer,?
+model2-1,12,20,perform based,customer,?
+model1-4,2,4,play a triple role,company,?
+model9-6,2,4,previous electrical and physical designs be inputs,,?
+repairexample,2,2,process ,company,?
+model6-2,0,0,process start when assembler ag places an order with the supplier in order to request more product parts,assembler ag,?
+model1-4,2,5,provide the company,company,?
+model4-1,36,55,put the patient,secretarial worker,?
+model2-2,15,22,put the question,customer,?
+hotelservice,6,12,ready gathers silverware,guest,?
+model2-2,7,12,remain the data object,customer,?
+repairexample,7,11,repair department has two teams,company,?
+model3-3,3,5,repeat officer,claims officer,?
+model5-3,9,17,require ,employee,?
+model5-3,9,18,require ,employee,?
+model5-3,9,19,require ,employee,?
+model9-5,2,4,require approval,employee,?
+model2-1,24,45,require automatic resource restoration,customer,?
+model2-1,21,39,require that,customer,?
+model4-1,26,38,require the medical file,secretarial worker,?
+repairexample,0,0,running example is about a process to repair telephones in a company,company,?
+claimscreation,1,2,serve who calculates an initial claim as input estimate,claims handler,?
+model6-1,16,33,Should there be a complaint,acme ag,?
+model9-6,4,6,stop ,,?
+model9-5,6,8,stop the process,employee,?
+model2-1,19,36,take alternative three process paths,customer,?
+model6-3,5,12,that is the second step,masters,?
+model5-1,2,3,the customer is low risk,customer,?
+model6-3,6,14,the data is present,masters,?
+model3-2,2,3,the files be ready,,?
+hotelservice,8,14,the food is ready,guest,?
+model4-1,19,24,the region is responsible,secretarial worker,?
+model4-1,19,25,the region is responsible,secretarial worker,?
+model4-1,19,26,the region is responsible,secretarial worker,?
+model4-1,19,27,the region is responsible,secretarial worker,?
+model4-1,19,28,the teamleader might have had with the patient,secretarial worker,?
+model4-1,19,29,the teamleader might have had with the patient,secretarial worker,?
+model4-1,19,30,the teamleader might have had with the patient,secretarial worker,?
+model4-1,19,31,the teamleader might have had with the patient,secretarial worker,?
+model2-1,11,17,to be ,customer,?
+model5-3,7,14,to be deliver ,employee,?
+model6-3,3,9,to be procure ,masters,?
+model3-1,0,1,to be release ,party,?
+model3-1,3,6,to be send ,party,?
+repairexample,11,18,to check ,company,?
+model1-4,0,1,to go ,company,?
+repairexample,14,22,To save throughput time,company,?
+repairexample,14,23,try to fix a limited number,company,?
+model9-2,1,2,use a series,customer service representative,?
+model8-2,2,4,wait for the approval,department,?
+model9-2,0,1,wait previous defaulters,customer service representative,?
+model8-3,1,2,wait to get the job description,number,?
+hotelservice,7,13,waiter is responsible,guest,?
+model6-4,5,8,which is available,potential customers,?
+model6-4,5,9,which is available,potential customers,?
+model2-2,22,34,will be regard ,customer,?
+hotelservice,8,15,wine is ready,guest,?
+model2-2,1,1,,customer,?
+model5-1,4,6,the loan amount is for $10,,
+model6-1,14,31,want to check 20,,

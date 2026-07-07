@@ -1,0 +1,171 @@
+starts the procedure starts procedure low 0
+finish the process finish process high 1
+complete the checkup process complete process low 0
+create the replacement order create order low 0
+create the open ticket create ticket low 0
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+send the error message send message low 1
+complete the order process complete process low 0
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+complete the process complete process low 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+close the claim process close process low 0
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+complete the registration process complete process low 1
+finish the process finish process high 1
+complete the complaint process complete process low 0
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+complete the registration process complete process low 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+start process with a decision start process low 0
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+create the generic user id create user id low 0
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+close the process close process low 0
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+send the error message send message low 1
+finish the process finish process high 1
+finish the process finish process high 1
+generate the purchase order form generate form low 0
+generate the sales invoice form generate form low 0
+generate the goods delivery note generate note low 0
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+trigger the order trigger order low 0
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+complete the process complete process low 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+complete the process complete process low 1
+finish the process finish process high 1
+finish the process finish process high 1
+update the database update database low 0
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+finish the process finish process high 1
+automate the request to confirm automate request low 0

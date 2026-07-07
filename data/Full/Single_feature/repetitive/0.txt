@@ -1,0 +1,1240 @@
+accept 0
+add draft dates to calendars 0
+add information to the assignment list 0
+add new patient 0
+add standard checklist to the patient s 0
+add the copy to the patient file 0
+add the information to the patient file 0
+advertise post 0
+advise committee members 0
+analyze the causing issues 0
+analyze this 0
+apply 0
+approve the job description 0
+archive the work 0
+arrange a road show to talk to potential investors 0
+ask again for corrections 0
+ask the customer 0
+assign new patients to members 0
+assign patient to a social-medical worker 0
+assign the order to the waiter 0
+attach the new sct document 0
+begin to firm up the issue price 0
+bring in a defective computer 0
+buy details 0
+buy the issue 0
+call customer 0
+call room service 0
+call the next customer 0
+capture the matter details 0
+capture the party details 0
+carry out the termination 0
+categorize defect 0
+categorize defects 0
+check recommendation 0
+check switch-over request 0
+check that 0
+check the applications 0
+check the claimant again 0
+check the defect back 0
+check the hardware 0
+check the open leads 0
+check the order again 0
+check the required quantity 0
+check the severity 0
+clerk sorts into the various business areas 0
+collect mail 0
+combine both 0
+complete the commercial audit 0
+conduct a qa check 0
+conduct the directions hearings 0
+consult the cost center managers again 0
+correct the description 0
+create a cis contract 0
+create a detailed problem report 0
+create a job description 0
+create a notification 0
+create a patient file 0
+create a quotation 0
+create a request 0
+create a revised design 0
+create a trouble-shooting report 0
+create the final billing 0
+create the problem resolution report 0
+deal on a first level with violations 0
+decide to confirm the switch contract 0
+decide to withdraw from the switch contract the switch contract 0
+deem the designs complete 0
+deliver cart to the guests room 0
+demand the resolution 0
+design the electrical and physical systems 0
+detect no problem 0
+determine assignments 0
+determine contact details 0
+determine quantities well 0
+determine the budget 0
+determine the contact person 0
+determine the necessary counter measures to include respective priorities 0
+determine the necessary parts well 0
+determine what counter measures should be taken depending on the information in the final status report 0
+distribute mail 0
+distribute the judges lawlist to the relevant people 0
+draft a schedule in november 0
+enter into a firm commitment to buy 0
+evaluate the severity 0
+examine a claim 0
+examine the patient to use a standard checklist 0
+execute arbitrary repair activity 0
+explain the reason 0
+finalize the dates 0
+finish the repair 0
+finish to work on a phone 0
+fix different 3 types 0
+fix simple defects 0
+fix the issue price 0
+formulate a treatment plan together with the team-leader 0
+forward the sct warrant possession to queensland police 0
+give an order to fetch wine to the sommelier 0
+give an order to prepare other alcoholic beverages to the sommelier 0
+give payment instructions 0
+give seal 0
+hand in form 0
+hand the files to the associate 0
+hold meeting 0
+identify the problem 0
+include the normal execution notification in a status report 0
+include trouble report in a status report 0
+initiate a search 0
+inquire after the name 0
+interrupt development 0
+investigate 0
+keep registration 0
+leave the customer alone 0
+make a full inquiry 0
+make the decision to go 0
+make to approval for payment 0
+mark positions 0
+need to be check to make sure they are in order for the court hearing 0
+open the mail 0
+part is back-ordered 0
+participate in exhibitions 0
+pass the produced registration cards to the first and second intaker 0
+perform a quality check 0
+perform a task to distribute relevant existing designs 0
+perform a task to locate 0
+perform the analysis 0
+plan a meeting soon 0
+plan the first meeting has been receive 0
+post an envelope to the party 0
+prepare a letter requesting for a copy of the medical file 0
+prepare a registration statement 0
+prepare the final status report based on the received information 0
+present the facts fairly 0
+proceed with the clarification 0
+process an office supply request 0
+process the lead 0
+process vacations request 0
+produce minutes including any action points for each committee member 0
+produce two registration cards 0
+provide the matter details to the cashier 0
+provide the team-leader 0
+put a copy in the file 0
+put copied documents into an envelope 0
+put police report related to the car accident in a file together with the claim documentation 0
+put the receipt into an envelope 0
+put through the doctor to the responsible nursing officer 0
+ready a cart 0
+receive clearance 0
+receive the mail 0
+receive the physical sct file 0
+register additional observations in a personal notebook 0
+reject the ap 0
+repair complex defects 0
+repair some 0
+repair the hardware whereas the second activity checks 0
+repeat the recommendation 0
+resell procedural and financial advice to the public 0
+reserve part 0
+reserve the part list 0
+resolve copy 0
+resolve inconsistencies 0
+resolve the causing issues 0
+retrieve the respective sct file 0
+retrieve the sctt file 0
+return 0
+return the copy to the internal mail 0
+return the forms 0
+return the request to the petitioner\/employee 0
+review existing designs in department 0
+review report 0
+review the content 0
+revise both 0
+search police report related to the car accident 0
+select the top five ones 0
+select the underwriters 0
+send a letter requesting for a copy of the medical file 0
+send a letter to inform him\/her about the problem to the customer 0
+send a new brand device to the customer 0
+send back the copy directly to accounting 0
+send device to the quality assurance department 0
+send the combined design back to initiate design cycle to the beginning 0
+send the design back to create a new update plan 0
+send the design back to review 0
+send the designs to the manufacturing process 0
+send the telephone to the customer 0
+sort the mail into groups 0
+store registration form in the patient file 0
+store sctt physical file to await a report to sent 0
+submit an order ticket to begin to prepare to the kitchen 0
+suggest modifications 0
+take care 0
+take case load in assigning intakers into account 0
+take computer home unrepaired 0
+take down the order 0
+take earlier contacts in assigning intakers into account 0
+take expertise in assigning intakers into account 0
+take the region in assigning intakers into account 0
+take together the information 0
+tell sales to call the contact person 0
+tell the other department 0
+test both 0
+test the proper system functionality 0
+test the revised design 0
+the family doctor does notice 0
+the kitchen are doing tasks 0
+the part list is back-ordered 0
+the sommelier are doing tasks 0
+track possible errors 0
+track the files to the intended location 0
+try to acquire the customer 0
+try to negotiate a settlement 0
+undertake corrective actions 0
+undertake necessary corrective actions 0
+use dictaphones to record observations made during meetings with patients 0
+use the existing draft 0
+use the update plan 0
+wait for the customer to come back to the customer 0
+wait to does the billing 0
+write a settlement recommendation 0
+discuss the problem 0
+explain the solution 0
+conduct the problem 0
+call the service provider 0
+process the seat availabilty 0
+check the rejection notification 0
+check the goods 0
+identify the issue 0
+prepare the inspection list 0
+decide the normal order 0
+decide special shipment 0
+find the special carrier 0
+prepare the paperwork 0
+finalize the shipment 0
+find the normal post 0
+check extra insurrance 0
+find the extra insurance to require 0
+fill out form 0
+add the paper work 0
+decide a menu 0
+decide budgets 0
+prepare the order list 0
+find the available order 0
+collect the items 0
+starts the cooking 0
+dispatch the order 0
+check the status 0
+reserve the inventory 0
+find the available address 0
+validate the address 0
+check the other requirments 0
+create the code 0
+plan the shipment 0
+get the model requirments 0
+list the requirments 0
+verify the requirments 0
+reject the requirments 0
+accept the requirements 0
+verify the specifications 0
+check the design 0
+accept the design 0
+implement the design 0
+integrate the design 0
+finalize the integration 0
+launch the model 0
+check the credit card 0
+validate the credit card 0
+verify the email address 0
+validate the email address 0
+verify the credit card system 0
+check the default payment 0
+send the book 0
+conduct the complete order 0
+decides to buy a book 0
+open the online website 0
+find the book title 0
+process the request 0
+add the book to the shopping cart 0
+find the available amount 0
+reject the shipment 0
+prepare a requisition 0
+prepare the request 0
+check the request 0
+evaluate the rfq 0
+review the rfq 0
+prepare the quote 0
+prepare the quote response 0
+review the quote response 0
+receive the ordered items 0
+conduct the resend order 0
+prepare a new request 0
+check the info 0
+check the emergency 0
+check the stl housing concern 0
+correct the problem 0
+assign the routine or priority order 0
+check the assigned order 0
+advise the options 0
+inspect the work 0
+check the cleared escort 0
+arrange the clear escort 0
+assign the work to work order clerk 0
+perform the work 0
+complete the work order 0
+close the work order 0
+complete the satisfaction survey 0
+identify a payment method 0
+accept the cash 0
+prepare the package 0
+accept credit card 0
+buy a product 0
+fill the credit form 0
+get the credit criteria 0
+review the receivable accounts 0
+calculate the credit terms 0
+conduct the risk assessment 0
+analyze the requirements 0
+conduct the positive risk assessment 0
+setups the loan contract 0
+fulfill the loan request 0
+give the department feed back 0
+give the client feedback 0
+collect the feedback 0
+assess the feedback 0
+investigate the demographics 0
+describe the illness 0
+receive the symptoms 0
+examine the symptoms 0
+consider the suitable drugs 0
+ask for cost 0
+check the specification 0
+check requirmentses 0
+check the booking request details 0
+check the flights details 0
+check the availablity 0
+find the available flight 0
+conduct the alternative flight offered 0
+review the ticket 0
+review the issue 0
+verify the request 0
+reserve the fuel type 0
+provide the info 0
+look up at the subscription 0
+deliver the fuel 0
+conduct the complete fuel process 0
+search the customer data 0
+verify the creditcard 0
+find the insufficient balance 0
+process the logging 0
+process the activity order 0
+process the airline order 0
+check the claim details 0
+express claim 0
+conduct the high touch claim 0
+conduct the handled claim 0
+check the vacation rights 0
+reject the vacations 0
+accept the vacations 0
+calculate the documentation 0
+provide the documentation 0
+deliver the vacations doumentation 0
+access the documents 0
+investigate the claim 0
+review to complete 0
+fulfill the requirements 0
+conduct the complaint created 0
+assign the incoming email 0
+read the email 0
+assign the category mannually 0
+conduct the customer claim 0
+create the inspection report 0
+prepare the goods acquisition 0
+get the goods to deliver 0
+get the ordered goods 0
+develop the project budget 0
+build up the project bid 0
+review the list 0
+monitor the project 0
+review the short listed candidates 0
+offer package 0
+receive the offer package 0
+review the package 0
+reject the package 0
+accept the package 0
+manager forwards the package 0
+review the non acceptance 0
+check the request completion 0
+determine the customer status 0
+prepare the response 0
+determine the premium 0
+assess the policy 0
+admit a patient 0
+perform the checkup 0
+examine the patient 0
+discuss the risks 0
+examine the anesthesia 0
+schedule the surgery 0
+check the patient record 0
+send the patient to the surgical suite 0
+perform the surgery 0
+transport the patient 0
+receive the patient 0
+provide the prostsurgical care 0
+create the surgical report 0
+write the discharge letter 0
+discharge the patient 0
+order a cheque book 0
+deliver the cheque book 0
+program the strategy theme 0
+open the program specification 0
+decide the program objectives 0
+complete the program specification 0
+design the verification 0
+validate the methods 0
+plan the quality 0
+review the requirments 0
+check the available or not services 0
+find the services availble 0
+check the amount 0
+go to the office 0
+work from the home 0
+reach the office 0
+assign the required task 0
+demand the lunch break 0
+stop the work 0
+open a website 0
+starts the registration 0
+review the quality 0
+store the goods 0
+create the report 0
+prepare the replacement order 0
+check the nationality 0
+check the other required conditions 0
+find the fulfilled conditions 0
+give the prename 0
+check the prename 0
+clarify the name 0
+give the married name 0
+create the certification 0
+check a data 0
+check the parents nationality 0
+conduct the trial 0
+find russian 0
+get the citizenship stamp 0
+review the parents citizenship 0
+find the atleast 0
+find citizen 0
+find the child born in the wedlock 0
+consult the father 0
+give the father surname 0
+find the child not born in the wedlock 0
+consult the mother 0
+decide on the surname 0
+give first name 0
+process the birth certificate 0
+deliver the birth certificate 0
+fill in birth registration form 0
+sign the birth certificate 0
+finalize the registration 0
+collect the documents 0
+fill in the birth certificate 0
+determine the gba municiplility 0
+correct the errors 0
+finalize the message exchange 0
+announce the issues 0
+check the calender 0
+evaluate the discussion process 0
+determine the desendent 0
+determine the gba municipility 0
+check the accuracy 0
+finalize the message 0
+check the term 0
+run through the data 0
+investigate the gba data 0
+determine the child nationality 0
+finalize the certificate 0
+add the letter 0
+provide the additional information 0
+add the recomendations 0
+conduct the check application 0
+conduct the review application 0
+find the time 0
+reject the application 0
+check the continual match 0
+check the entrance qualification 0
+evaluate the requirements 0
+reject the match 0
+reject qualifications 0
+accept qualifications 0
+evaluate the criteria 0
+go to the interview 0
+evaluate the time 0
+find one thing missing 0
+check the citizenship 0
+find the international applicant 0
+find the german applicant 0
+assess the application 0
+mark the application 0
+conduct the final confirmation 0
+publish the letter 0
+create a letter 0
+create the cv 0
+add the cv 0
+find the requirements to miss 0
+hand over the application to the examining board 0
+sum the score 0
+invite the applicants 0
+appoint the applicant 0
+take the interviews 0
+make the decision 0
+conduct the required marks 0
+conduct the sufficient marks 0
+evaluate the documents 0
+receive the certificate 0
+find the good average grade 0
+evaluate the applicant eligibility 0
+invite to the aptitude test 0
+produce the goods 0
+conduct the quality report received 0
+check the quality report 0
+complete the online interview 0
+print signs 0
+correct the additional required documents 0
+get the required certificates 0
+create the transcript 0
+create the ranking 0
+invite the applicant 0
+accept the applicant 0
+wait for the delivery 0
+complain about about order 0
+dispatch the products 0
+create a job requisition 0
+prepare the candidate list 0
+evaluate the list 0
+conduct the interviews 0
+give to the selected candidate 0
+select the book 0
+order the book 0
+receive the book 0
+note the request 0
+complete form 0
+determine the consistency 0
+check the financial record 0
+find the student to fulfill financial requirments 0
+prepare the tuition bill 0
+handle the order 0
+handle the shipping 0
+check the booking criteria 0
+check the availability status 0
+complete the assignment 0
+reject the booking 0
+check invoicing 0
+find the deficit balance 0
+address the credit problem 0
+find the credit ok 0
+evaluate the order 0
+control orders in the stock 0
+bring from the warehouse 0
+control orders 0
+check the credit requirments 0
+receive a spare part 0
+reintegrate the spare part 0
+conduct the retrun part to supplier 0
+discard the return part 0
+verify the bug 0
+fix the bug 0
+prepare an expense voucher 0
+transfer the funds 0
+accept the quotation 0
+settle price 0
+validate the syntax 0
+find the syntax error 0
+fix the bugs 0
+check the content 0
+evaluate the student project 0
+take the driving interview 0
+reject the license issue 0
+demand a menue 0
+select the pizza 0
+conduct the available material 0
+conduct an evalute order 0
+create the sale order 0
+prepare the quality assurance 0
+identify the business partner 0
+prepare the quotation 0
+analyze the offer 0
+verify the customer identity 0
+arrange the delivery 0
+deliver the water 0
+support a repair 0
+visit the customer place 0
+perform the inspection 0
+arrange the product pickup 0
+inspect the repairing impossible 0
+arrange the refund 0
+check the order availability 0
+find the stock runout 0
+assemble the package 0
+find the job advertisment 0
+conduct the retrive position description 0
+check the job description 0
+close the vacancy 0
+find the book 0
+check out the book 0
+give the appointment 0
+evaluate the cause 0
+give the medicine 0
+receive the medicine 0
+fill the order 0
+process the lodging order 0
+process the airline invoice 0
+starts a browsing 0
+conduct the checkout products 0
+determine the approval rules 0
+review personal information 0
+check the information 0
+review the assignable request 0
+complete the registration 0
+provide the required information 0
+perform the prelimenary investigation 0
+grant the loan 0
+give the sat papper 0
+take the sat test 0
+attend the university 0
+read the sat preparation book 0
+charge the credit card 0
+find the insufficent balance 0
+conduct the enquiry training 0
+find the available trainer 0
+look for the trainer 0
+starts the training 0
+launch an auction 0
+find the item 0
+read the item description 0
+contact the seller 0
+read the seller feedback 0
+buy the item now 0
+verify the bidder credentials 0
+close the auction 0
+analyze the sample 0
+check the result 0
+purchase the product 0
+evaluate the reasons 0
+find the issue 0
+demand an article 0
+find the available article 0
+check the order catagory 0
+find the standard order 0
+determine the order pricing 0
+process the order request 0
+collect the parts 0
+dispatch the product 0
+allocate the initial priority 0
+determine the scope 0
+evaluate the normal order 0
+evaluate special shipment 0
+find the normal order 0
+fill the order lable 0
+find the special order 0
+add the paperwork 0
+assign the room 0
+establish the terms 0
+establish methods 0
+issue the room key 0
+find the available room 0
+reject the guest request 0
+issue the key 0
+find the retailer 0
+analyze the demand availability 0
+reject the vacancy 0
+find the available product 0
+bring the product 0
+package the order 0
+verify the credit 0
+find the credit sufficent 0
+prepare ships 0
+close the order 0
+evaluate the payment mode 0
+verify the total amount 0
+create the product specification 0
+release the product class 0
+release attributeses 0
+assist the customer 0
+evaluate the request 0
+determine the registration authority 0
+verify the business identity 0
+send the training letter 0
+process the shippping 0
+handle the shipping price 0
+evaluate the support request 0
+find the information validate 0
+validate the support 0
+display the status 0
+find the validate information 0
+validate the information 0
+validate resubmits 0
+evaluate the candidate eligibility 0
+find the eligible candidate 0
+find the candidate 0
+review the candidates list 0
+conduct the announse issue 0
+prepare the result 0
+transfer the fund 0
+order the product 0
+get the product 0
+offer a quote 0
+prepare the appointment 0
+conduct the appointment 0
+collect the missing info 0
+calculate the insurance package 0
+reevaluate the opportunity 0
+evaluate the person credit score 0
+evaluate the misc person 0
+advise the medicine 0
+get the medicine 0
+make the referral 0
+take the patient blood sample 0
+make the further referral 0
+perform the genetic testing 0
+view a need based scholorship notification 0
+verify the documents 0
+list eligible candidates 0
+initiate the interviews 0
+find the student 0
+grant the scholorship 0
+reject the student request 0
+process the claim 0
+identify the responsibilities 0
+change the responsibilities 0
+develop the bid 0
+fill a request form 0
+evaluate form 0
+reject form 0
+approve form 0
+require the ingredient 0
+deliver the food 0
+analyze the problem 0
+address the problem 0
+solve the problem 0
+find the problem 0
+evaluate the problem nature 0
+advise the customer 0
+evaluate the overtime registration 0
+decline the request 0
+check the product type 0
+deliver the goods to the warehouse 0
+evaluate the minimum standard to not meet 0
+write the rejection letter 0
+view the products 0
+greet the customer 0
+ask the special order 0
+review the special list 0
+provide the specials 0
+order the food 0
+take the item 0
+conduct the available item 0
+check the purchase requisition 0
+identify the training groups 0
+identify the extended workshops 0
+attend the training 0
+evaluate the performance 0
+analyze the order 0
+check the stock 0
+make the products 0
+create the consignment pipeline liability 0
+settle the consignment pipeline liability 0
+transmit the consignment pipeline settlement document 0
+plan the invoice settlement 0
+create the purchase order 0
+evaluate the receipt settlement 0
+release the invoice 0
+release the material 0
+release the invoice manually 0
+start the production 0
+stop the billing 0
+check the account status 0
+pick a gun 0
+load the gun 0
+pull the trigger 0
+strike the firing pin 0
+fire the gun 0
+Assassin the victim 0
+get the dead 0
+misfire the gun 0
+understand the requirement specification 0
+prepare the item 0
+provide the personal information 0
+check the service requirments 0
+check the service availability 0
+open the customer inquiry 0
+determine the tax 0
+determine the vehicle price 0
+determine the markup discounts 0
+perform the export check 0
+forbid the export 0
+perform the export control 0
+process the required documents 0
+supervise the customer order 0
+ship the vehicle 0
+create the product demand list 0
+plan the production order 0
+create the production order list 0
+review the production list 0
+reject the production schedule list 0
+accept the production schedule list 0
+apologize to the customer 0
+receive the pizza delivery 0
+eat the pizza 0
+receive the spare parts 0
+prepare the receipt 0
+receive spare parts 0
+demand spare parts 0
+review the detail 0
+find the user transaction 0
+conduct the transaction 0
+consult the website specification 0
+prepare the proposal 0
+document the specifications 0
+conduct the kickoff meeting 0
+design the website template 0
+design the wireframe 0
+design the information architecture 0
+assemble the contents 0
+design the graphics 0
+design the animations 0
+take the client approval 0
+decide the channel optimizations 0
+launch the website 0
+evaluate the entered correctness 0
+evaluate completnesses 0
+enter in the hotel for dinner 0
+handovers the order to the customer 0
+allocate the seat 0
+provide the menu 0
+forwards the order 0
+cook the meal 0
+eat the meat 0
+complete the dine 0
+issue the bill 0
+make the production 0
+prepare a product requisition 0
+create the testing plan 0
+make the correction 0
+find the possible request 0
+make the statments 0
+give fact 0
+check the bill information 0
+find the need 0
+conduct the production start 0
+finish the production 0
+process the credit card 0
+issue the credit report 0
+import the product 0
+display the list 0
+verify the payment 0
+verify the payments 0
+close the ticket 0
+assign the ticket 0
+open a project workspace 0
+fill the application form 0
+accept the request 0
+check the ticket 0
+check the customer credit 0
+visit a website 0
+check the assessment detail 0
+check the legal grounds 0
+identify the application legislation 0
+generate an order 0
+accomplish the support 0
+complete the ticket 0
+accomplish the order 0
+complete the billing 0
+prepare the developmental needs 0
+find the qualiy ok 0
+find the order cannot be fulfilled 0
+assign the emergency contact to the duty officer\/contractor \/ 0
+take the decision 0
+arrive at the clinic 0
+arrive a hospital 0
+write the acceptance letter 0
+ship the warehouse ships 0
+wait for to unload item 0
+show the login page to the user 0
+arrive at the inquiry desk 0
+serve as the meal 0
+complete the detailed assessment 0
+take the further decision 0
+approve the loan 1
+assemble the bicycle 1
+assemble the bicycle 1
+call the customer 1
+call the customer 1
+fill the post 1
+fill the post 1
+indicate the type 1
+indicate the type 1
+manufacture customized bicycles 1
+manufacture customized bicycles 1
+prepare everything in the meantime 1
+prepare everything in the meantime 1
+process the part list 1
+process the part list 1
+repeat procedure 1
+repeat procedure 1
+send the telephone to the repair department 1
+send the telephone to the repair department 1
+take place 1
+take place 1
+assign the carrier 1
+move the package 1
+fulfil the order 1
+prepare the shipment 1
+check the quote 1
+review the quote 1
+check the quote 1
+fulfill the order 1
+check the credit 1
+reject the loan request 1
+review the insurance policy 1
+review the offer 1
+check the balance 1
+find the sufficent balance 1
+review the insurance policy 1
+open the registration screen 1
+assign the category 1
+assign the category 1
+store the goods receipt 1
+give an order 1
+find the available funds 1
+add the funds 1
+process the customer order 1
+check the inventory 1
+prepare the purchase requisition 1
+pack the product 1
+deliver the product 1
+deliver the goods 1
+invite the candidates 1
+sign the contract 1
+review the updates 1
+review the offer 1
+reject the offer 1
+accept the offer 1
+receive the cheque book 1
+receive the cheque book 1
+prepare the customer communication material 1
+prepare the customer communication material 1
+gather the customer information 1
+perform the customer information inquiry 1
+perform the pre-order validation results 1
+perform the pre-order validation results 1
+find the available service 1
+open the registration screen 1
+store the goods receipt 1
+accept baby 1
+accept baby 1
+decide on the first name 1
+decide on the first name 1
+check the identity 1
+refuse the continution 1
+check the gba data 1
+check the validity 1
+check the gba 1
+search the gba data 1
+check the certificate 1
+check the validity 1
+check the identity 1
+check the gba data 1
+search the gba data 1
+sign the certificate 1
+refuse the continution 1
+check the gba 1
+sign the certificate 1
+complete an application 1
+create the letter 1
+find the equivalent bachelor 1
+accept the application 1
+find the equivalent bachelor 1
+fill in printed form 1
+examine board 1
+examine board 1
+fill in printed form 1
+conduct the interview 1
+receive the acceptance letter 1
+check the completeness 1
+mark complete 1
+complete the application 1
+mark complete 1
+receive the acceptance letter 1
+complete an application 1
+evaluate the application 1
+take the oral exam 1
+receive the letter 1
+check the certificate 1
+take the oral exam 1
+evaluate the application 1
+mark the suitable applicant 1
+mark the suitable applicant 1
+deliver the goods 1
+reject the candidate 1
+deliver the book 1
+check the credit 1
+execute the order 1
+execute the order 1
+find the bug 1
+find the bug 1
+conduct the optimal quotation 1
+conduct the optimal quotation 1
+bake the pizza 1
+deliver the pizza 1
+accept the offer 1
+review the application 1
+conduct the interview 1
+reject the candidate 1
+identify a vacancy 1
+review the vacancy 1
+write the job description 1
+determine the channels 1
+deliver the book 1
+verify the credit card 1
+check the balance 1
+find the balance insufficent 1
+find the balance sufficent 1
+review the quote 1
+find the sufficent balance 1
+reject the offer 1
+find the defective sample 1
+find the defective sample 1
+fulfil the order 1
+take the extra insurance 1
+take the extra insurance 1
+assign the carrier 1
+move the package 1
+identify a vacancy 1
+access the vacancy 1
+review the vacancy 1
+write the job description 1
+determine the channels 1
+verify the credit card 1
+find the balance sufficent 1
+find the balance insufficent 1
+find the authority 1
+find the authority 1
+process the invoice 1
+find the eligible person 1
+find the eligible person 1
+reject the loan request 1
+check the patient 1
+check the patient 1
+give an order 1
+check the available or not funds 1
+check the available or not funds 1
+find the available funds 1
+add the funds 1
+process the customer order 1
+check the inventory 1
+prepare the purchase requisition 1
+pack the product 1
+deliver the product 1
+create the letter 1
+invite the candidates 1
+sign the contract 1
+review the updates 1
+review the application 1
+accept the application 1
+receive the letter 1
+process the invoice 1
+produce the articles 1
+starts the billing 1
+produce the articles 1
+gather the customer information 1
+perform the customer information inquiry 1
+find the available service 1
+manufacture the products 1
+bake the pizza 1
+deliver the pizza 1
+manufacture the products 1
+prepare the shipment 1
+identify the reasons 1
+identify the reasons 1
+promote the product 1
+promote the product 1
+launch the product 1
+launch the product 1
+starts the billing 1
+open the ticket 1
+open the ticket 1
+fulfill the order 1
+check the completeness 1
+complete the application 1
+take the extra insurance 1
+create a trouble report 1
+create a trouble report 1
+create a trouble report 1
+process the order 1
+return the goods 1
+package the goods 1
+complete the order 1
+prepare the order 1
+prepare the order 1
+prepare the invoice 1
+prepare the invoice 1
+resolve the issue 1
+return the goods 1
+purchase the order 1
+package the goods 1
+process the order 1
+return the goods 1
+return the documents 1
+determine the next action 1
+determine the next action 1
+return the documents 1
+determine the next action 1
+return the documents 1
+fill out the application form 1
+reject the applicant 1
+send the rejection letter 1
+receive the rejection letter 1
+send the acceptance letter 1
+fill out the application form 1
+fill out the application form 1
+send the rejection letter 1
+reject the applicant 1
+send the acceptance letter 1
+receive the rejection letter 1
+send the acceptance letter 1
+prepare the material 1
+reject the applicant 1
+process the order 1
+complete the order 1
+prepare the invoice 1
+prepare the material 1
+resolve the issue 1
+resolve the issue 1
+package the goods 1
+purchase the order 1
+prepare the food 1
+prepare the food 1
+prepare the material 1
+prepare the food 1
+send the rejection letter 1
+receive the rejection letter 1
+ship the products 1
+prepare the order 1
+ship the products 1
+ship the products 1
+complete the order 1
+approve the request 1
+approve the request 1
+create the birth certificate 1
+create the birth certificate 1
+create the birth certificate 1
+create the birth certificate 1
+purchase the raw material 1
+purchase the raw material 1
+purchase the raw material 1
+purchase the raw material 1
+send the letter 1
+check the quality 1
+check the quality 1
+check the documents 1
+check the documents 1
+check the documents 1
+check the documents 1
+send the letter 1
+send the letter 1
+check the documents 1
+send the letter 1
+send the letter 1
+check the quality 1
+ship the order 1
+ship the order 1
+ship the order 1
+check the quality 1
+ship the order 1
+ship the order 1
+plan the production 1
+plan the production 1
+plan the production 1
+check the quality 1
+plan the production 1
+plan the production 1
+accept the order 1
+accept the order 1
+reject the request 1
+check the availability 1
+review the order 1
+review the order 1
+accept the order 1
+reject the request 1
+check the application 1
+check the application 1
+check the application 1
+check the application 1
+check the application 1
+check the application 1
+check the availability 1
+review the order 1
+check the availability 1
+check the availability 1
+check the availability 1
+review the order 1
+reject the request 1
+accept the order 1
+reject the request 1
+reject the request 1
+review the order 1
+accept the order 1
+review the order 1
+accept the order 1
+reject the request 1
+check the availability 1
+review the request 1
+add the certificate 1
+add the certificate 1
+add the certificate 1
+add the certificate 1
+add the certificate 1
+add the certificate 1
+add the certificate 1
+review the request 1
+review the request 1
+review the request 1
+review the request 1
+review the request 1
+review the request 1
+receive the goods 1
+receive the goods 1
+receive the goods 1
+receive the goods 1
+receive the goods 1
+receive the goods 1
+receive the goods 1
+receive the goods 1
+reject the order 1
+reject the order 1
+reject the order 1
+reject the order 1
+reject the order 1
+reject the order 1
+reject the order 1
+reject the order 1
+reject the order 1

@@ -1,0 +1,21 @@
+are not generate the contract documents generate documents low 0
+carry out an automated check in the following carry check low 0
+create a list create list low 0
+create a new instance create instance low 0
+create a new process instance create instance low 1
+create a new process instance create instance low 1
+create uniform work packages are minimize create packages low 0
+determine the significance determine significance low 0
+generate a message to request outstanding documents to the customer generate message low 0
+generate a notification to the human resources representative generate notification low 0
+generate a purchase order generate order low 0
+generate the contract documents again generate documents low 0
+initiate process initiate process low 0
+link to an extra problem link problem low 0
+minimize the setup times minimize times low 0
+speed up the switch process speed process low 0
+terminate the process terminate process low 0
+transmit meter data to the customer service transmit data low 0
+trigger i.e. trigger i.e. low 1
+trigger i.e. trigger i.e. low 1
+trigger process to fill a post trigger process low 0

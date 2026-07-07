@@ -1,0 +1,2915 @@
+textid,sentenceID,activityID,activity,verb,object,IT system,process volume,repetitve,human intervention,GS
+p1,2,4,discuss the problem,discuss,problem,0,low,0,1,0
+p1,4,6,explain the solution,explain,solution,0,low,0,1,0
+p1,5,7,conduct the problem,conduct,problem,0,low,0,1,0
+p1,10,12,call the service provider,call,provider,0,low,0,1,0
+p10,2,3,process the seat availabilty,process,availabilty,0,low,0,1,0
+p10,6,7,check the rejection notification,check,notification,0,low,0,1,0
+p100,0,1,receive the goods,receive,goods,0,medium,1,1,0
+p100,1,2,check the goods,check,goods,0,low,0,1,0
+p100,10,11,identify the issue,identify,issue,0,low,0,1,0
+p100,11,12,return the goods,return,goods,0,low,1,1,0
+p100,12,13,prepare the inspection list,prepare,list,0,low,0,1,0
+p101,2,2,package the goods,package,goods,0,low,1,1,0
+p101,3,3,decide the normal order,decide,order,0,low,0,1,0
+p101,3,4,decide special shipment,decide,shipment,0,low,0,1,0
+p101,5,5,find the special carrier,find,carrier,0,low,0,1,0
+p101,6,6,assign the carrier,assign,carrier,0,low,1,1,0
+p101,7,7,prepare the paperwork,prepare,paperwork,0,low,0,1,0
+p101,8,8,finalize the shipment,finalize,shipment,0,low,0,1,0
+p101,9,9,find the normal post,find,post,0,low,0,1,0
+p101,10,11,check extra insurrance,check,insurrance,0,low,0,1,0
+p101,11,12,find the extra insurance to require ,find,insurance,0,low,0,1,0
+p101,12,13,fill out form,fill,form,0,low,0,1,0
+p101,14,16,add the paper work,add,paperwork,0,low,0,1,0
+p101,15,17,move the package,move,package,0,low,1,1,0
+p102,0,1,decide a menu,decide,menu,0,low,0,1,0
+p102,0,2,decide budgets,decide,budgets,0,low,0,1,0
+p102,1,3,prepare the order list,prepare,list,0,low,0,1,0
+p102,4,6,check the availability,check,availability,0,medium,1,1,0
+p102,8,9,find the available order,find,order,0,low,0,1,0
+p102,9,10,collect the items,collect,items,0,low,0,1,0
+p102,18,15,starts the cooking,starts,cooking,0,low,0,1,0
+p102,20,16,dispatch the order,dispatch,order,0,low,0,1,0
+p103,1,2,check the status,check,status,0,low,0,1,0
+p103,4,3,reserve the inventory,reserve,inventory,0,low,0,1,0
+p103,5,4,find the available address,find,address,0,low,0,1,0
+p103,6,5,validate the address,validate,address,0,low,0,1,0
+p103,7,7,review the order,review,order,0,medium,1,1,0
+p103,10,10,check the other requirments,check,requirments,0,low,0,1,0
+p103,11,11,reject the order,reject,order,0,medium,1,1,0
+p103,13,14,fulfil the order,fulfil,order,0,low,1,1,0
+p103,18,19,create the code,create,code,0,low,0,1,0
+p103,19,21,plan the shipment,plan,shipment,0,low,0,1,0
+p103,21,24,complete the order,complete,order,0,low,1,1,0
+p104,1,1,get the model requirments,get,requirments,0,low,0,1,0
+p104,5,4,list the requirments,list,requirments,0,low,0,1,0
+p104,6,5,verify the requirments,verify,requirments,0,low,0,1,0
+p104,9,7,reject the requirments,reject,requirments,0,low,0,1,0
+p104,13,11,accept the requirements,accept,requirements,0,low,0,1,0
+p104,15,12,verify the specifications,verify,specifications,0,low,0,1,0
+p104,16,13,check the design,check,design,0,low,0,1,0
+p104,18,14,accept the design,accept,design,0,low,0,1,0
+p104,23,19,implement the design,implement,design,0,low,0,1,0
+p104,25,21,integrate the design,integrate,design,0,low,0,1,0
+p104,27,23,finalize the integration,finalize,integration,0,low,0,1,0
+p104,29,25,launch the model,launch,model,0,low,0,1,0
+p105,3,4,prepare the order,prepare,order,0,low,1,1,0
+p105,7,8,check the credit card,check,credit card,0,low,0,1,0
+p105,8,9,validate the credit card,validate,credit card,0,low,0,1,0
+p105,9,10,verify the email address,verify,email address,0,low,0,1,0
+p105,10,11,validate the email address,validate,email address,0,low,0,1,0
+p106,1,2,verify the credit card system,verify,system,0,low,0,1,0
+p106,2,3,check the default payment,check,payment,0,low,0,1,0
+p106,10,12,send the book,send,book,0,low,0,1,0
+p106,11,14,conduct the complete order,conduct,order,0,low,0,1,0
+p107,0,1,decides to buy a book,decides,book,0,low,0,1,0
+p107,1,2,open the online website,open,website,0,low,0,1,0
+p107,2,3,find the book title,find,book title,0,low,0,1,0
+p107,8,9,process the request,process,request,0,low,0,1,0
+p107,11,12,add the book to the shopping cart,add,book,0,low,0,1,0
+p107,17,17,find the available amount,find,amount,0,low,0,1,0
+p107,18,18,reject the shipment,reject,shipment,0,low,0,1,0
+p107,22,22,prepare the shipment,prepare,shipment,0,low,1,1,0
+p108,0,1,prepare a requisition,prepare,requisition,0,low,0,1,0
+p108,1,2,prepare the request,prepare,request,0,low,0,1,0
+p108,2,3,check the request,check,request,0,low,0,1,0
+p108,3,4,check the quote,check,quote,0,low,1,1,0
+p108,4,5,evaluate the rfq,evaluate,rfq,0,low,0,1,0
+p108,9,9,review the rfq,review,rfq,0,low,0,1,0
+p108,10,10,prepare the quote,prepare,quote,0,low,0,1,0
+p108,11,11,review the quote,review,quote,0,low,1,1,0
+p108,12,12,check the quote,check,quote,0,low,1,1,0
+p108,15,14,prepare the quote response,prepare,response,0,low,0,1,0
+p108,18,17,review the quote response,review,response,0,low,0,1,0
+p108,20,19,prepare the order,prepare,order,0,low,1,1,0
+p108,22,21,review the order,review,order,0,medium,1,1,0
+p108,25,23,accept the order,accept,order,0,low,1,1,0
+p108,26,24,fulfill the order,fulfill,order,0,low,1,1,0
+p108,27,25,receive the ordered items,receive,items,0,low,0,1,0
+p108,28,26,prepare the invoice,prepare,invoice,0,low,1,1,0
+p108,32,30,conduct the resend order,conduct,order,0,low,0,1,0
+p109,0,1,prepare a new request,prepare,request,0,low,0,1,0
+p109,3,4,check the info,check,info,0,low,0,1,0
+p109,9,9,check the emergency,check,emergency,0,low,0,1,0
+p109,11,11,check the stl housing concern,check,concern,0,low,0,1,0
+p109,20,19,correct the problem,correct,problem,0,low,0,1,0
+p109,22,22,assign the routine or priority order,assign,order,0,low,0,1,0
+p109,23,23,check the assigned order,check,order,0,low,0,1,0
+p109,26,26,advise the options,advise,options,0,low,0,1,0
+p109,32,31,inspect the work,inspect,work,0,low,0,1,0
+p109,34,32,check the cleared escort,check,escort,0,low,0,1,0
+p109,38,36,arrange the clear escort,arrange,escort,0,low,0,1,0
+p109,39,38,assign the work to work order clerk,assign,work,0,low,0,1,0
+p109,40,39,perform the work,perform,work,0,low,0,1,0
+p109,41,41,complete the work order,complete,order,0,low,0,1,0
+p109,44,44,close the work order,close,order,0,low,0,1,0
+p109,45,45,complete the satisfaction survey,complete,survey,0,low,0,1,0
+p11,0,1,identify a payment method,identify,method,0,low,0,1,0
+p11,3,3,accept the cash,accept,cash,0,low,0,1,0
+p11,4,4,prepare the package,prepare,package,0,low,0,1,0
+p11,6,7,accept credit card,accept,card,0,low,0,1,0
+p11,10,11,prepare the invoice,prepare,invoice,0,low,1,1,0
+p110,0,1,buy a product,buy,product,0,low,0,1,0
+p110,1,2,fill the credit form,fill,form,0,low,0,1,0
+p110,4,5,check the credit,check,credit,0,low,1,1,0
+p110,5,6,get the credit criteria,get,criteria,0,low,0,1,0
+p110,6,7,review the receivable accounts,review,accounts,0,low,0,1,0
+p110,7,8,calculate the credit terms,calculate,terms,0,low,0,1,0
+p111,2,3,review the request,review,request,0,medium,1,1,0
+p111,4,5,conduct the risk assessment,conduct,assessment,0,low,0,1,0
+p111,6,8,analyze the requirements,analyze,requirements,0,low,0,1,0
+p111,8,9,conduct the positive risk assessment,conduct,assessment,0,low,0,1,0
+p111,9,10,setups the loan contract,setups,contract,0,low,0,1,0
+p111,11,11,fulfill the loan request,fulfill,request,0,low,0,1,0
+p111,14,13,reject the loan request,reject,request,0,low,1,1,0
+p112,3,2,give the department feed back,give,feedback,0,low,0,1,0
+p112,5,3,give the client feedback,give,feedback,0,low,0,1,0
+p112,6,5,collect the feedback,collect,feedback,0,low,0,1,0
+p112,7,6,assess the feedback,assess,feedback,0,low,0,1,0
+p112,10,7,send the letter,send,letter,0,low,1,1,0
+p113,4,4,investigate the demographics,investigate,demographics,0,low,0,1,0
+p113,5,5,review the insurance policy,review,policy,0,low,1,1,0
+p114,1,2,describe the illness,describe,illness,0,low,0,1,0
+p114,2,3,receive the symptoms,receive,symptoms,0,low,0,1,0
+p114,3,4,examine the symptoms,examine,symptoms,0,low,0,1,0
+p114,4,5,consider the suitable drugs,consider,drugs,0,low,0,1,0
+p114,5,6,ask for cost,ask,cost,0,low,0,1,0
+p114,9,10,check the specification,check,specification,0,low,0,1,0
+p114,9,11,check requirmentses,check,requirments,0,low,0,1,0
+p115,3,3,check the booking request details,check,details,0,low,0,1,0
+p115,4,4,check the flights details,check,flights,0,low,0,1,0
+p115,5,5,check the availablity,check,availablity,0,low,0,1,0
+p115,11,11,find the available flight,find,flight,0,low,0,1,0
+p115,12,12,conduct the alternative flight offered,conduct,flight,0,low,0,1,0
+p115,14,14,review the offer,review,offer,0,low,1,1,0
+p116,2,4,review the ticket,review,ticket,0,low,0,1,0
+p116,7,9,resolve the issue,resolve,issue,0,low,1,1,0
+p116,13,15,review the issue,review,issue,0,low,0,1,0
+p117,3,4,verify the request,verify,request,0,low,0,1,0
+p117,4,5,reserve the fuel type,reserve,fuel type,0,low,0,1,0
+p117,7,8,provide the info,provide,info,0,low,0,1,0
+p117,10,11,look up at the subscription,look,subscription,,low,0,1,0
+p117,11,12,deliver the fuel,deliver,fuel,0,low,0,1,0
+p117,12,13,conduct the complete fuel process,conduct,process,0,low,0,1,0
+p117,13,14,search the customer data,search,data,0,low,0,1,0
+p118,1,2,verify the creditcard,verify,creditcard,0,low,0,1,0
+p118,2,3,check the balance,check,balance,0,low,1,1,0
+p118,4,5,find the insufficient balance,find,balance,0,low,0,1,0
+p118,5,6,reject the order,reject,order,0,medium,1,1,0
+p118,7,8,find the sufficent balance,find,balance,0,low,1,1,0
+p118,9,10,process the logging,process,logging,0,low,0,1,0
+p118,12,13,process the activity order,process,order,0,low,0,1,0
+p118,15,16,process the airline order,process,order,0,low,0,1,0
+p119,1,2,check the claim details,check,details,0,low,0,1,0
+p119,2,3,express claim,express,claim,0,low,0,1,0
+p119,8,9,conduct the high touch claim,conduct,claim,0,low,0,1,0
+p119,10,12,conduct the handled claim,conduct,claim,0,low,0,1,0
+p12,1,2,check the vacation rights,check,rights,0,low,0,1,0
+p12,3,3,reject the vacations,reject,vacations,0,low,0,1,0
+p12,5,5,accept the vacations,accept,vacations,0,low,0,1,0
+p12,7,7,calculate the documentation,calculate,documentation,0,low,0,1,0
+p12,7,8,provide the documentation,provide,documentation,0,low,0,1,0
+p12,9,10,deliver the vacations doumentation,deliver,doumentation,0,low,0,1,0
+p120,2,4,access the documents,access,documents,0,low,0,1,0
+p120,3,5,investigate the claim,investigate,claim,0,low,0,1,0
+p120,4,6,review to complete ,review,complete,0,low,0,1,0
+p120,5,7,review the insurance policy,review,policy,0,low,0,1,0
+p120,11,13,fulfill the requirements,fulfill,requirements,0,low,0,1,0
+p121,2,3,open the registration screen,open,screen,0,low,1,1,0
+p122,6,6,conduct the complaint created,conduct,complaint,0,low,0,1,0
+p122,9,10,assign the incoming email,assign,email,0,low,0,1,0
+p122,10,11,read the email,read,email,0,low,0,1,0
+p122,12,14,assign the category mannually,assign,category,0,low,0,1,0
+p122,13,15,conduct the customer claim,conduct,claim,0,low,0,1,0
+p122,14,16,assign the category,assign,category,0,low,1,1,0
+p122,15,19,assign the category,assign,category,0,low,1,1,0
+p123,0,1,receive the goods,receive,goods,0,medium,1,1,0
+p123,2,3,receive the goods,receive,goods,0,medium,1,1,0
+p123,3,4,check the quality,check,quality,0,low,1,1,0
+p123,6,6,store the goods receipt,store,receipt,0,low,1,1,0
+p123,10,9,create the inspection report,create,report,0,low,0,1,0
+p123,12,11,return the goods,return,goods,0,low,1,1,0
+p124,0,1,give an order,give,order,0,low,1,1,0
+p124,5,5,find the available funds,find,funds,0,low,1,1,0
+p124,6,6,add the funds,add,funds,0,low,1,1,0
+p124,8,9,process the customer order,process,order,0,low,1,1,0
+p124,9,10,check the inventory,check,inventory,0,low,1,1,0
+p124,12,13,prepare the purchase requisition,prepare,requisition,0,low,1,1,0
+p124,13,14,purchase the order,purchase,order,0,low,1,1,0
+p124,17,16,pack the product,pack,product,0,low,1,1,0
+p124,18,17,deliver the product,deliver,product,0,low,1,1,0
+p125,2,3,prepare the goods acquisition,prepare,acquisition,0,low,0,1,0
+p125,3,4,check the quality,check,quality,0,low,1,1,0
+p125,10,9,package the goods,package,goods,0,low,1,1,0
+p125,13,13,get the goods to deliver ,get,goods,0,low,0,1,0
+p125,14,14,deliver the goods,deliver,goods,0,low,1,1,0
+p125,15,15,get the ordered goods,get,goods,0,low,0,1,0
+p126,1,2,develop the project budget,develop,budget,0,low,0,1,0
+p126,3,4,invite the candidates,invite,candidates,0,low,1,1,0
+p126,4,5,build up the project bid,build up,bid,0,low,0,1,0
+p126,5,6,review the list,review,list,0,low,0,1,0
+p126,7,8,sign the contract,sign,contract,0,low,1,1,0
+p126,10,10,monitor the project,monitor,project,0,low,0,1,0
+p126,11,12,review the updates,review,updates,0,low,1,1,0
+p127,0,1,review the short listed candidates,review,candidates,0,low,0,1,0
+p127,2,3,offer package,offer,package,0,low,0,1,0
+p127,3,4,receive the offer package,receive,package,0,low,0,1,0
+p127,4,5,review the package,review,package,0,low,0,1,0
+p127,6,6,reject the package,reject,package,0,low,0,1,0
+p127,10,10,accept the package,accept,package,0,low,0,1,0
+p127,11,12,manager forwards the package,manager,package,0,low,0,1,0
+p127,13,14,review the offer,review,offer,0,low,1,1,0
+p127,15,16,reject the offer,reject,offer,0,low,1,1,0
+p127,16,17,review the non acceptance,review,acceptance,0,low,0,1,0
+p127,18,19,accept the offer,accept,offer,0,low,1,1,0
+p128,2,3,check the request completion,check,completion,0,low,0,1,0
+p128,3,4,determine the customer status,determine,status,0,low,0,1,0
+p128,5,6,prepare the response,prepare,response,0,low,0,1,0
+p128,8,9,determine the premium,determine,premium,0,low,0,1,0
+p128,9,10,assess the policy,assess,policy,0,low,0,1,0
+p129,0,1,admit a patient,admit,patient,0,low,0,1,0
+p129,1,2,perform the checkup,perform,checkup,0,low,0,1,0
+p129,2,3,examine the patient,examine,patient,0,low,0,1,0
+p129,4,5,discuss the risks,discuss,risks,0,low,0,1,0
+p129,5,6,examine the anesthesia,examine,anesthesia,0,low,0,1,0
+p129,7,8,schedule the surgery,schedule,surgery,0,low,0,1,0
+p129,8,9,check the patient record,check,record,0,low,0,1,0
+p129,9,10,send the patient to the surgical suite,send,patient,0,low,0,1,0
+p129,10,11,perform the surgery,perform,surgery,0,low,0,1,0
+p129,11,12,transport the patient,transport,patient,0,low,0,1,0
+p129,12,13,receive the patient,receive,patient,0,low,0,1,0
+p129,15,15,provide the prostsurgical care,provide,care,0,low,0,1,0
+p129,16,16,create the surgical report,create,report,0,low,0,1,0
+p129,17,18,write the discharge letter,write,letter,0,low,0,1,0
+p129,18,19,discharge the patient,discharge,patient,0,low,0,1,0
+p13,0,1,order a cheque book,order,book,0,low,0,1,0
+p13,5,5,process the order,process,order,0,low,1,1,0
+p13,6,6,deliver the cheque book,deliver,book,0,low,0,1,0
+p13,7,7,receive the cheque book,receive,book,0,low,1,1,0
+p13,9,9,receive the cheque book,receive,book,0,low,1,1,0
+p130,2,5,program the strategy theme,program,strategy theme,0,low,0,1,0
+p130,3,6,open the program specification,open,specification,0,low,0,1,0
+p130,4,7,decide the program objectives,decide,objectives,0,low,0,1,0
+p130,5,8,complete the program specification,complete,specification,0,low,0,1,0
+p130,9,12,prepare the customer communication material,prepare,material,0,low,1,1,0
+p130,9,13,prepare the customer communication material,prepare,material,0,low,1,1,0
+p130,10,14,design the verification,design,verification,0,low,0,1,0
+p130,11,15,validate the methods,validate,methods,0,low,0,1,0
+p130,12,16,plan the quality,plan,quality,0,low,0,1,0
+p131,4,5,gather the customer information,gather,information,0,low,1,1,0
+p131,5,6,perform the customer information inquiry,perform,inquiry,0,low,1,1,0
+p131,7,9,review the requirments,review,requirments,0,low,0,1,0
+p131,8,10,check the available or not services,check,services,0,low,0,1,0
+p131,11,12,find the services availble,find,services,0,low,0,1,0
+p131,12,13,check the amount,check,amount,0,low,0,1,0
+p131,13,14,perform the pre-order validation results,perform,results,0,low,1,1,0
+p131,15,16,find the available service,find,service,0,low,1,1,0
+p131,16,17,reject the request,reject,request,0,low,1,1,0
+p132,2,2,go to the office,go,office,0,low,0,1,0
+p132,3,3,work from the home,work,,0,low,0,1,0
+p132,4,5,reach the office,reach,office,0,low,0,1,0
+p132,5,6,assign the required task,assign,task,0,low,0,1,0
+p132,8,9,demand the lunch break,demand,lunch break,0,low,0,1,0
+p132,12,13,stop the work,stop,work,0,low,0,1,0
+p133,0,1,open a website,open,website,0,low,0,1,0
+p133,2,4,starts the registration,start,registration,0,low,0,1,0
+p133,3,5,open the registration screen,open,screen,0,low,1,1,0
+p134,0,1,receive the goods,receive,goods,0,medium,1,1,0
+p134,2,3,receive the goods,receive,goods,0,medium,1,1,0
+p134,3,4,review the quality,review,quality,0,low,0,1,0
+p134,6,6,store the goods receipt,store,receipt,0,low,1,1,0
+p134,9,9,store the goods,store,goods,0,low,0,1,0
+p134,12,12,create the report,create,report,0,low,0,1,0
+p134,13,13,return the goods,return,goods,0,low,1,1,0
+p134,15,15,prepare the replacement order,prepare,order,0,low,0,1,0
+p135,2,3,check the documents,check,documents,0,low,1,1,0
+p135,3,4,check the nationality,check,nationality,0,low,0,1,0
+p135,10,12,check the other required conditions,check,conditions,0,low,0,1,0
+p135,14,16,find the fulfilled conditions,find,conditions,0,low,0,1,0
+p135,16,19,give the prename,give,prename,0,low,0,1,0
+p135,17,20,check the prename,check,prename,0,low,0,1,0
+p135,19,21,clarify the name,clarify,name,0,low,0,1,0
+p135,20,22,give the married name,give,name,0,low,0,1,0
+p135,21,24,create the certification,create,certification,0,low,0,1,0
+p136,0,1,check a data,check,data,0,low,0,1,0
+p136,7,10,accept baby,accept,baby,0,low,1,1,0
+p136,12,15,accept baby,accept,baby,0,low,1,1,0
+p136,13,16,check the parents nationality,check,nationality,0,low,0,1,0
+p136,17,20,conduct the trial,conduct,trial,0,low,0,1,0
+p136,20,23,find russian,find,russian,0,low,0,1,0
+p136,23,28,create the birth certificate,create,certificate,0,low,1,1,0
+p136,28,34,get the citizenship stamp,get,stamp,0,low,0,1,0
+p137,1,2,check the documents,check,documents,0,low,1,1,0
+p137,3,4,review the parents citizenship,review,citizenship,0,low,0,1,0
+p137,5,5,find the atleast,find,atleast,0,low,0,1,0
+p137,7,8,find citizen,find,citizen,0,low,0,1,0
+p137,12,13,find the child born in the wedlock,find,child,0,low,0,1,0
+p137,13,14,consult the father,consult,father,0,low,0,1,0
+p137,14,15,give the father surname,give,surname,0,low,0,1,0
+p137,15,16,decide on the first name,decide,name,0,low,1,1,0
+p137,16,17,find the child not born in the wedlock,find,child,0,low,0,1,0
+p137,17,18,consult the mother,consult,mother,0,low,0,1,0
+p137,21,22,decide on the surname,decide,surname,0,low,0,1,0
+p137,23,25,give first name,give,name,0,low,0,1,0
+p137,24,26,decide on the first name,decide,name,0,low,1,1,0
+p137,26,29,process the birth certificate,process,certificate,0,low,0,1,0
+p137,27,30,deliver the birth certificate,deliver,certificate,0,low,0,1,0
+p138,1,2,check the identity,check,identity,0,low,1,1,0
+p138,8,8,refuse the continution,refuse,continution,0,low,1,1,0
+p138,10,10,fill in birth registration form,fill,form,0,low,0,1,0
+p138,11,11,check the gba data,check,data,0,low,1,1,0
+p138,12,12,create the birth certificate,create,certificate,0,low,1,1,0
+p138,13,13,sign the birth certificate,sign,certificate,0,low,0,1,0
+p138,14,14,return the documents,return,documents,0,low,1,1,0
+p138,17,16,check the validity,check,validity,0,low,1,1,0
+p138,19,18,finalize the registration,finalize,registration,0,low,0,1,0
+p138,20,19,determine the next action,determine,action,0,low,1,1,0
+p139,6,7,collect the documents,collect,documents,0,low,0,1,0
+p139,8,9,check the gba,check,gba,0,low,1,1,0
+p139,10,10,determine the next action,determine,action,0,low,1,1,0
+p139,11,11,search the gba data,search,data,0,low,1,1,0
+p139,12,13,fill in the birth certificate,fill,certificate,0,low,0,1,0
+p139,13,14,create the birth certificate,create,certificate,0,low,1,1,0
+p139,14,15,check the certificate,check,certificate,0,low,1,1,0
+p139,15,16,return the documents,return,documents,0,low,1,1,0
+p139,16,17,determine the gba municiplility,determine,municiplility,0,low,0,1,0
+p139,18,19,check the validity,check,validity,0,low,1,1,0
+p139,19,20,correct the errors,correct,errors,0,low,0,1,0
+p139,21,22,finalize the message exchange,finalize,exchange,0,low,0,1,0
+p14,0,1,announce the issues,announce,issues,0,low,0,1,0
+p14,7,5,check the calender,check,calender,0,low,0,1,0
+p14,11,8,evaluate the discussion process,evaluate,process,0,low,0,1,0
+p140,1,2,check the identity,check,identity,0,low,1,1,0
+p140,4,4,check the gba data,check,data,0,low,1,1,0
+p140,6,6,determine the next action,determine,action,0,low,1,1,0
+p140,7,7,search the gba data,search,data,0,low,1,1,0
+p140,8,9,determine the desendent,determine,desendent,0,low,0,1,0
+p140,10,11,sign the certificate,sign,certificate,0,low,1,1,0
+p140,11,12,return the documents,return,documents,0,low,1,1,0
+p140,12,13,determine the gba municipility,determine,municipility,0,low,0,1,0
+p140,16,17,check the accuracy,check,accuracy,0,low,0,1,0
+p140,17,18,finalize the message,finalize,message,0,low,0,1,0
+p141,1,2,check the term,check,term,0,low,0,1,0
+p141,6,6,refuse the continution,refuse,continution,0,low,1,1,0
+p141,8,9,run through the data,run,data,0,low,0,1,0
+p141,9,10,check the gba,check,gba,0,low,1,1,0
+p141,10,11,investigate the gba data,investigate,data,0,low,0,1,0
+p141,16,17,determine the child nationality,determine,nationality,0,low,0,1,0
+p141,18,19,create the birth certificate,create,certificate,0,low,1,1,0
+p141,19,20,sign the certificate,sign,certificate,0,low,1,1,0
+p141,20,21,finalize the certificate,finalize,certificate,0,low,0,1,0
+p142,0,1,complete an application,complete,application,0,low,1,1,0
+p142,2,2,fill out the application form,fill,form,0,low,1,1,0
+p142,3,3,add the certificate,add,certificate,0,medium,1,1,0
+p142,4,4,create the letter,create,letter,0,low,1,1,0
+p142,4,5,add the letter,add,letter,0,low,0,1,0
+p142,5,7,provide the additional information,provide,information,0,low,0,1,0
+p142,8,9,add the recomendations,add,recomendations,0,low,0,1,0
+p142,11,13,check the application,check,application,0,medium,1,1,0
+p142,12,14,conduct the check application,conduct,application,0,low,0,1,0
+p142,14,16,conduct the review application,conduct,application,0,low,0,1,0
+p142,20,22,find the time,find,time,0,low,0,1,0
+p142,22,24,check the application,check,application,0,medium,1,1,0
+p142,24,25,find the equivalent bachelor,find,bachelor,0,low,1,1,0
+p142,25,26,accept the application,accept,application,0,low,1,1,0
+p142,28,29,find the equivalent bachelor,find,bachelor,0,low,1,1,0
+p143,3,4,fill in printed form,fill,form,0,low,1,1,0
+p143,4,6,examine board,examine,board,0,low,1,1,0
+p143,6,8,fill in printed form,fill,form,0,low,1,1,0
+p143,8,13,check the application,check,application,0,medium,1,1,0
+p143,11,17,reject the application,reject,application,0,low,0,1,0
+p143,16,22,check the continual match,check,match,0,low,0,1,0
+p143,17,23,check the entrance qualification,check,qualification,0,low,0,1,0
+p143,18,25,evaluate the requirements,evaluate,requirements,0,low,0,1,0
+p143,20,26,reject the match,reject,match,0,low,0,1,0
+p143,20,27,reject qualifications,reject,qualifications,0,low,0,1,0
+p143,24,32,accept qualifications,accept,qualifications,0,low,0,1,0
+p144,3,4,check the documents,check,documents,0,low,1,1,0
+p144,6,7,evaluate the criteria,evaluate,criteria,0,low,0,1,0
+p144,8,8,reject the applicant,reject,applicant,0,low,1,1,0
+p144,9,9,send the rejection letter,send,letter,0,low,1,1,0
+p144,10,10,receive the rejection letter,receive,letter,0,low,1,1,0
+p144,12,12,go to the interview,go,interview,0,low,0,1,0
+p144,13,13,conduct the interview,conduct,interview,0,low,1,1,0
+p144,15,15,send the acceptance letter,send,letter,0,low,1,1,0
+p144,16,16,receive the acceptance letter,receive,letter,0,low,1,1,0
+p145,6,3,add the certificate,add,certificate,0,medium,1,1,0
+p145,9,7,add the certificate,add,certificate,0,medium,1,1,0
+p145,10,8,fill out the application form,fill,form,0,low,1,1,0
+p145,14,13,check the application,check,application,0,medium,1,1,0
+p145,16,16,evaluate the time,evaluate,time,0,low,0,1,0
+p145,19,17,find one thing missing,find,thing,0,low,0,1,0
+p146,4,8,check the citizenship,check,citizenship,0,low,0,1,0
+p146,6,9,find the international applicant,find,applicant,0,low,0,1,0
+p146,8,11,find the german applicant,find,applicant,0,low,0,1,0
+p146,12,16,check the completeness,check,completeness,0,low,1,1,0
+p146,14,17,mark complete,mark,,0,low,1,1,0
+p146,16,19,complete the application,complete,application,0,low,1,1,0
+p146,18,21,mark complete,mark,,0,low,1,1,0
+p146,22,24,assess the application,assess,application,0,low,0,1,0
+p146,23,25,mark the application,mark,application,0,low,0,1,0
+p146,31,35,conduct the final confirmation,conduct,confirmation,0,low,0,1,0
+p146,33,36,publish the letter,publish,letter,0,low,0,1,0
+p146,35,38,receive the acceptance letter,receive,letter,0,low,1,1,0
+p147,0,1,complete an application,complete,application,0,low,1,1,0
+p147,2,2,create a letter,create,letter,0,low,0,1,0
+p147,6,6,add the certificate,add,certificate,0,medium,1,1,0
+p147,8,10,create the cv,create,cv,0,low,0,1,0
+p147,8,11,add the cv,add,cv,0,low,0,1,0
+p147,9,12,fill out the application form,fill,form,0,low,1,1,0
+p147,10,13,add the certificate,add,certificate,0,medium,1,1,0
+p147,12,15,add the certificate,add,certificate,0,medium,1,1,0
+p147,13,16,add the certificate,add,certificate,0,medium,1,1,0
+p147,17,20,check the application,check,application,0,medium,1,1,0
+p147,19,23,evaluate the application,evaluate,application,0,low,1,1,0
+p147,21,25,find the requirements to miss ,find,requirements,0,low,0,1,0
+p147,23,27,hand over the application to the examining board,hand,application,0,low,0,1,0
+p147,29,31,sum the score,sum,score,0,low,0,1,0
+p147,32,33,send the rejection letter,send,letter,0,low,1,1,0
+p147,34,35,invite the applicants,invite,applicants,0,low,0,1,0
+p147,35,36,appoint the applicant,appoint,applicant,0,low,0,1,0
+p147,36,37,take the interviews,take,interviews,0,low,0,1,0
+p147,37,38,make the decision,make,decision,0,low,0,1,0
+p147,39,39,reject the applicant,reject,applicant,0,low,1,1,0
+p147,45,46,send the acceptance letter,send,letter,0,low,1,1,0
+p148,3,4,check the documents,check,documents,0,low,1,1,0
+p148,5,5,conduct the required marks,conduct,marks,0,low,0,1,0
+p148,6,6,take the oral exam,take,exam,0,low,1,1,0
+p148,7,7,conduct the sufficient marks,conduct,marks,0,low,0,1,0
+p148,9,9,evaluate the documents,evaluate,documents,0,low,0,1,0
+p148,11,10,send the letter,send,letter,0,low,1,1,0
+p148,12,11,receive the letter,receive,letter,0,low,1,1,0
+p148,13,12,send the letter,send,letter,0,low,1,1,0
+p148,15,14,receive the rejection letter,receive,letter,0,low,1,1,0
+p148,16,15,receive the certificate,receive,certificate,0,low,0,1,0
+p148,17,16,check the certificate,check,certificate,0,low,1,1,0
+p148,20,18,take the oral exam,take,exam,0,low,1,1,0
+p148,21,19,find the good average grade,find,grade,0,low,0,1,0
+p148,23,22,send the acceptance letter,send,letter,0,low,1,1,0
+p149,5,6,check the documents,check,documents,0,low,1,1,0
+p149,6,7,evaluate the applicant eligibility,evaluate,eligibility,0,low,0,1,0
+p149,9,9,invite to the aptitude test,invite,test,0,low,0,1,0
+p149,12,11,send the letter,send,letter,0,low,1,1,0
+p149,13,12,send the letter,send,letter,0,low,1,1,0
+p15,1,2,prepare the material,prepare,material,0,low,1,1,0
+p15,2,3,produce the goods,produce,goods,0,low,0,1,0
+p15,5,6,check the quality,check,quality,0,low,1,1,0
+p15,7,8,conduct the quality report received,conduct,report,0,low,0,1,0
+p15,8,9,check the quality report,check,report,0,low,0,1,0
+p150,1,2,complete the online interview,complete,interview,0,low,0,1,0
+p150,13,15,print signs,print,signs,0,low,0,1,0
+p150,14,16,correct the additional required documents,correct,documents,0,low,0,1,0
+p150,20,26,get the required certificates,get,certificates,0,low,0,1,0
+p150,24,31,check the application,check,application,0,medium,1,1,0
+p150,24,32,evaluate the application,evaluate,application,0,low,1,1,0
+p150,25,33,create the transcript,create,transcript,0,low,0,1,0
+p150,26,35,create the ranking,create,ranking,0,low,0,1,0
+p150,28,36,mark the suitable applicant,mark,applicant,0,low,1,1,0
+p150,29,37,invite the applicant,invite,applicant,0,low,0,1,0
+p150,31,39,accept the applicant,accept,applicant,0,low,0,1,0
+p150,32,40,mark the suitable applicant,mark,applicant,0,low,1,1,0
+p150,33,41,reject the applicant,reject,applicant,0,low,1,1,0
+p16,3,3,wait for the delivery,wait,delivery,0,low,0,1,0
+p16,5,6,process the order,process,order,0,low,1,1,0
+p16,6,7,deliver the goods,deliver,goods,0,low,1,1,0
+p16,7,8,receive the goods,receive,goods,0,medium,1,1,0
+p16,11,11,complain about about order,complain,order,0,low,0,1,0
+p17,5,6,dispatch the products,dispatch,products,0,low,0,1,0
+p18,0,1,create a job requisition,create,job requisition,0,low,0,1,0
+p18,1,2,prepare the candidate list,prepare,candidate list,0,low,0,1,0
+p18,2,3,evaluate the list,evaluate,list,0,low,0,1,0
+p18,3,4,conduct the interviews,conduct,interviews,0,low,0,1,0
+p18,7,7,give to the selected candidate,give,candidate,0,low,0,1,0
+p18,8,8,reject the candidate,reject,candidate,0,low,1,1,0
+p19,1,2,select the book,select,book,0,low,0,1,0
+p19,2,3,order the book,order,book,0,low,0,1,0
+p19,4,5,check the availability,check,availability,0,medium,1,1,0
+p19,7,7,deliver the book,deliver,book,0,low,1,1,0
+p19,8,8,receive the book,receive,book,0,low,0,1,0
+p19,11,10,note the request,note,request,0,low,0,1,0
+p2,0,1,complete form,complete,form,0,low,0,1,0
+p2,1,2,determine the consistency,determine,consistency,0,low,0,1,0
+p2,3,4,check the financial record,check,record,0,low,0,1,0
+p2,10,10,find the student to fulfill financial requirments,find,student,0,low,0,1,0
+p2,13,13,prepare the tuition bill,prepare,bill,0,low,0,1,0
+p20,1,2,review the order,review,order,0,medium,1,1,0
+p20,3,3,reject the order,reject,order,0,medium,1,1,0
+p20,7,6,handle the order,handle,order,0,low,0,1,0
+p20,8,7,handle the shipping,handle,shipping,0,low,0,1,0
+p20,9,9,complete the order,complete,order,0,low,1,1,0
+p21,2,3,check the booking criteria,check,criteria,0,low,0,1,0
+p21,3,4,check the availability status,check,status,0,low,0,1,0
+p21,11,10,complete the assignment,complete,assignment,0,low,0,1,0
+p21,13,12,reject the booking,reject,booking,0,low,0,1,0
+p22,3,4,check the credit,check,credit,0,low,1,1,0
+p22,3,5,check invoicing,check,invoice,0,low,0,1,0
+p22,5,6,find the deficit balance,find,balance,0,low,0,1,0
+p22,6,7,address the credit problem,address,problem,0,low,0,1,0
+p22,7,8,find the credit ok,find,credit,0,low,0,1,0
+p22,8,10,prepare the invoice,prepare,invoice,0,low,1,1,0
+p22,10,12,ship the order,ship,order,0,low,1,1,0
+p22,13,16,evaluate the order,evaluate,order,0,low,0,1,0
+p22,15,17,control orders in the stock,control,orders,0,low,0,1,0
+p22,16,18,bring from the warehouse,bring,,0,low,0,1,0
+p22,17,19,control orders,control,orders,0,low,0,1,0
+p22,19,21,execute the order,execute,order,0,low,1,1,0
+p22,19,22,execute the order,execute,order,0,low,1,1,0
+p22,20,23,ship the order,ship,order,0,low,1,1,0
+p22,20,24,ship the order,ship,order,0,low,1,1,0
+p23,2,2,check the credit requirments,check,requirments,0,low,0,1,0
+p24,0,1,receive a spare part,receive,spare part,0,low,0,1,0
+p24,1,2,check the quality,check,quality,0,low,1,1,0
+p24,5,5,reintegrate the spare part,reintegrate,spare part,0,low,0,1,0
+p24,7,8,conduct the retrun part to supplier,conduct,retrun part,0,low,0,1,0
+p24,7,9,discard the return part,discard,return part,0,low,0,1,0
+p25,2,3,verify the bug,verify,bug,0,low,0,1,0
+p25,4,5,find the bug,find,bug,0,low,1,1,0
+p25,5,6,fix the bug,fix,bug,0,low,0,1,0
+p25,9,10,find the bug,find,bug,0,low,1,1,0
+p26,0,1,prepare an expense voucher,prepare,voucher,0,low,0,1,0
+p26,7,10,transfer the funds,transfer,funds,0,low,0,1,0
+p27,4,5,conduct the optimal quotation,conduct,quotation,0,low,1,1,0
+p27,5,6,accept the quotation,accept,quotation,0,low,0,1,0
+p27,6,7,conduct the optimal quotation,conduct,quotation,0,low,1,1,0
+p27,7,8,settle price,settle,price,0,low,0,1,0
+p28,2,3,validate the syntax,validate,syntax,0,low,0,1,0
+p28,4,5,find the syntax error,find,error,0,low,0,1,0
+p28,7,8,fix the bugs,fix,bugs,0,low,0,1,0
+p28,10,11,check the content,check,content,0,low,0,1,0
+p28,11,13,evaluate the student project,evaluate,project,0,low,0,1,0
+p29,3,4,take the driving interview,take,interview,0,low,0,1,0
+p29,6,7,reject the license issue,reject,license,0,low,0,1,0
+p3,0,1,demand a menue,demand,menue,0,low,0,1,0
+p3,1,2,select the pizza,select,pizza,0,low,0,1,0
+p3,5,6,bake the pizza,bake,pizza,0,low,1,1,0
+p3,6,7,conduct the available material,conduct,material,0,low,0,1,0
+p3,7,8,prepare the material,prepare,material,0,low,1,1,0
+p3,8,10,deliver the pizza,deliver,pizza,0,low,1,1,0
+p30,0,1,conduct an evalute order,conduct,order,0,low,0,1,0
+p30,3,3,create the sale order,create,order,0,low,0,1,0
+p30,4,4,prepare the quality assurance,prepare,assurance,0,low,0,1,0
+p30,5,5,ship the order,ship,order,0,low,1,1,0
+p30,8,8,identify the business partner,identify,partner,0,low,0,1,0
+p30,9,9,prepare the quotation,prepare,quotation,0,low,0,1,0
+p30,11,11,analyze the offer,analyze,offer,0,low,0,1,0
+p30,13,12,accept the offer,accept,offer,0,low,1,1,0
+p31,2,3,verify the customer identity,verify,identity,0,low,0,1,0
+p31,8,11,arrange the delivery,arrange,delivery,0,low,0,1,0
+p31,9,12,deliver the water,deliver,water,0,low,0,1,0
+p32,0,1,support a repair,support,repair,0,low,0,1,0
+p32,1,2,visit the customer place,visit,place,0,low,0,1,0
+p32,2,3,perform the inspection,perform,inspection,0,low,0,1,0
+p32,5,6,arrange the product pickup,arrange,pickup,0,low,0,1,0
+p32,6,7,inspect the repairing impossible,inspect,repairing,0,low,0,1,0
+p32,7,8,arrange the refund,arrange,refund,0,low,0,1,0
+p33,5,5,check the order availability,check,availability,0,low,0,1,0
+p33,7,7,find the stock runout,find,stock,0,low,0,1,0
+p33,10,11,assemble the package,assemble,package,0,low,0,1,0
+p34,1,2,find the job advertisment,find,advertisment,0,low,0,1,0
+p34,8,9,review the application,review,application,0,low,1,1,0
+p34,9,10,conduct the interview,conduct,interview,0,low,1,1,0
+p34,11,11,reject the candidate,reject,candidate,0,low,1,1,0
+p35,0,1,identify a vacancy,identify,vacancy,0,low,1,1,0
+p35,4,3,conduct the retrive position description,conduct,description,0,low,0,1,0
+p35,6,6,review the vacancy,review,vacancy,0,low,1,1,0
+p35,9,8,write the job description,write,description,0,low,1,1,0
+p35,10,9,check the job description,check,description,0,low,0,1,0
+p35,11,10,determine the channels,determine,channels,0,low,1,1,0
+p35,14,13,close the vacancy,close,vacancy,0,low,0,1,0
+p36,3,4,review the request,review,request,0,medium,1,1,0
+p36,5,5,find the book,find,book,0,low,0,1,0
+p36,10,10,check out the book,check,book,0,low,0,1,0
+p36,11,11,deliver the book,deliver,book,0,low,1,1,0
+p37,3,4,give the appointment,give,appointment,0,low,0,1,0
+p37,6,7,evaluate the cause,evaluate,cause,0,low,0,1,0
+p37,8,9,give the medicine,give,medicine,0,low,0,1,0
+p37,9,10,receive the medicine,receive,medicine,0,low,0,1,0
+p38,1,2,verify the credit card,verify,credit card,0,low,1,1,0
+p38,2,3,check the balance,check,balance,0,low,1,1,0
+p38,4,5,find the balance insufficent,find,balance,0,low,1,1,0
+p38,6,7,find the balance sufficent,find,balance,0,low,1,1,0
+p38,7,8,fill the order,fill,order,0,low,0,1,0
+p38,9,10,process the lodging order,process,order,0,low,0,1,0
+p38,12,13,process the airline invoice,process,invoice,0,low,0,1,0
+p39,0,1,starts a browsing,starts,browsing,0,low,0,1,0
+p39,2,4,conduct the checkout products,conduct,products,0,low,0,1,0
+p4,1,2,determine the approval rules,determine,rules,0,low,0,1,0
+p4,2,3,review the request,review,request,0,medium,1,1,0
+p4,8,8,review the quote,review,quote,0,low,1,1,0
+p4,9,9,review personal information,review,information,0,low,0,1,0
+p4,10,11,check the information,check,information,0,low,0,1,0
+p40,4,5,review the assignable request,review,request,0,low,0,1,0
+p40,7,9,complete the registration,complete,registration,0,low,0,1,0
+p40,10,11,provide the required information,provide,information,0,low,0,1,0
+p40,12,13,perform the prelimenary investigation,perform,investigation,0,low,0,1,0
+p40,14,15,grant the loan,grant,loan,0,low,0,1,0
+p41,1,2,give the sat papper,give,papper,0,low,0,1,0
+p41,2,3,take the sat test,take,test,0,low,0,1,0
+p41,5,6,attend the university,attend,university,0,low,0,1,0
+p41,9,10,read the sat preparation book,read,book,0,low,0,1,0
+p42,6,6,charge the credit card,charge,credit card,0,low,0,1,0
+p42,8,7,find the insufficent balance,find,balance,0,low,0,1,0
+p42,11,10,find the sufficent balance,find,balance,0,low,1,1,0
+p43,3,4,conduct the enquiry training,conduct,training,0,low,0,1,0
+p43,5,5,find the available trainer,find,trainer,0,low,0,1,0
+p43,6,6,look for the trainer,look,trainer,0,low,0,1,0
+p43,8,9,starts the training,starts,training,0,low,0,1,0
+p44,0,1,launch an auction,launch,auction,0,low,0,1,0
+p44,1,2,find the item,find,item,0,low,0,1,0
+p44,2,3,read the item description,read,description,0,low,0,1,0
+p44,4,5,contact the seller,contact,seller,0,low,0,1,0
+p44,5,6,read the seller feedback,read,feedback,0,low,0,1,0
+p44,8,8,reject the offer,reject,offer,0,low,1,1,0
+p44,10,10,buy the item now,buy,item,0,low,0,1,0
+p44,11,11,verify the bidder credentials,verify,credentials,0,low,0,1,0
+p44,12,12,close the auction,close,auction,0,low,0,1,0
+p45,1,2,analyze the sample,analyze,sample,0,low,0,1,0
+p45,2,3,check the result,check,result,0,low,0,1,0
+p45,4,5,find the defective sample,find,sample,0,low,1,1,0
+p45,5,6,purchase the product,purchase,product,0,low,0,1,0
+p45,6,7,find the defective sample,find,sample,0,low,1,1,0
+p45,7,8,evaluate the reasons,evaluate,reasons,0,low,0,1,0
+p46,4,5,find the issue,find,issue,0,low,0,1,0
+p46,7,8,resolve the issue,resolve,issue,0,low,1,1,0
+p46,8,9,resolve the issue,resolve,issue,0,low,1,1,0
+p47,0,1,demand an article,demand,article,0,low,0,1,0
+p47,2,3,check the availability,check,availability,0,medium,1,1,0
+p47,4,5,find the available article,find,article,0,low,0,1,0
+p49,2,3,check the order catagory,check,catagory,0,low,0,1,0
+p49,4,5,find the standard order,find,order,0,low,0,1,0
+p49,6,8,determine the order pricing,determine,pricing,0,low,0,1,0
+p5,1,2,process the order request,process,request,0,low,0,1,0
+p5,5,7,check the availability,check,availability,0,medium,1,1,0
+p5,9,10,collect the parts,collect,parts,0,low,0,1,0
+p5,10,12,fulfil the order,fulfil,order,0,low,1,1,0
+p5,11,13,dispatch the product,dispatch,product,0,low,0,1,0
+p50,2,3,allocate the initial priority,allocate,priority,0,low,0,1,0
+p50,9,10,determine the scope,determine,scope,0,low,0,1,0
+p52,2,2,package the goods,package,goods,0,low,1,1,0
+p52,3,3,evaluate the normal order,evaluate,order,0,low,0,1,0
+p52,3,4,evaluate special shipment,evaluate,shipment,0,low,0,1,0
+p52,5,5,find the normal order,find,normal,0,low,0,1,0
+p52,6,6,take the extra insurance,take,insurance,0,low,1,1,0
+p52,7,8,fill the order lable,fill,lable,0,low,0,1,0
+p52,8,9,find the special order,find,order,0,low,0,1,0
+p52,10,11,assign the carrier,assign,carrier,0,low,1,1,0
+p52,11,13,add the paperwork,add,paperwork,0,low,0,1,0
+p52,11,14,move the package,move,package,0,low,1,1,0
+p53,4,5,assign the room,assign,room,0,low,0,1,0
+p53,5,6,establish the terms,establish,terms,0,low,0,1,0
+p53,5,7,establish methods,establish,methods,0,low,0,1,0
+p53,6,8,issue the room key,issue,key,0,low,0,1,0
+p53,9,13,check the availability,check,availability,0,medium,1,1,0
+p53,11,14,find the available room,find,room,0,low,0,1,0
+p53,12,15,reject the guest request,reject,request,0,low,0,1,0
+p53,14,17,issue the key,issue,key,0,low,0,1,0
+p54,2,3,review the order,review,order,0,medium,1,1,0
+p54,4,5,find the retailer,find,retailer,0,low,0,1,0
+p54,7,11,analyze the demand availability,analyze,availability,0,low,0,1,0
+p54,13,16,reject the order,reject,order,0,medium,1,1,0
+p55,0,1,identify a vacancy,identify,vacancy,0,low,1,1,0
+p55,2,3,access the vacancy,access,vacancy,0,low,1,1,0
+p55,3,4,review the vacancy,review,vacancy,0,low,1,1,0
+p55,6,6,write the job description,write,description,0,low,1,1,0
+p55,7,7,determine the channels,determine,channels,0,low,1,1,0
+p55,10,9,reject the vacancy,reject,vacancy,0,low,0,1,0
+p56,3,3,find the available product,find,product,0,low,0,1,0
+p56,4,4,bring the product,bring,product,0,low,0,1,0
+p56,8,7,package the order,package,order,0,low,0,1,0
+p56,10,10,ship the order,ship,order,0,low,1,1,0
+p57,6,7,verify the credit,verify,credit,0,low,0,1,0
+p57,8,8,find the credit sufficent,find,credit,0,low,0,1,0
+p57,10,10,prepare ships,prepare,ships,0,low,0,1,0
+p57,14,16,close the order,close,order,0,low,0,1,0
+p58,2,3,evaluate the payment mode,evaluate,mode,0,low,0,1,0
+p58,5,6,verify the total amount,verify,amount,0,low,0,1,0
+p58,8,9,verify the credit card,verify,credit card,0,low,1,1,0
+p58,10,10,find the balance sufficent,find,balance,0,low,1,1,0
+p58,12,12,find the balance insufficent,find,balance,0,low,1,1,0
+p59,5,6,create the product specification,create,specification,0,low,0,1,0
+p59,7,8,release the product class,release,product class,0,low,0,1,0
+p59,7,9,release attributeses,release,attributes,0,low,0,1,0
+p6,1,2,assist the customer,assist,customer,0,low,0,1,0
+p6,2,3,evaluate the request,evaluate,request,0,low,0,1,0
+p60,1,2,determine the registration authority,determine,authority,0,low,0,1,0
+p60,3,4,find the authority,find,authority,0,low,1,1,0
+p60,4,6,find the authority,find,authority,0,low,1,1,0
+p60,6,9,verify the business identity,verify,identity,0,low,0,1,0
+p60,9,11,send the training letter,send,letter,0,low,0,1,0
+p61,3,2,process the shippping,process,shippping,0,low,0,1,0
+p61,7,5,handle the shipping price,handle,price,0,low,0,1,0
+p61,8,6,process the invoice,process,invoice,0,low,1,1,0
+p62,2,3,evaluate the support request,evaluate,request,0,low,0,1,0
+p62,4,5,find the information validate,find,information,0,low,0,1,0
+p62,8,9,validate the support,validate,support,0,low,0,1,0
+p62,9,10,display the status,display,status,0,low,0,1,0
+p62,10,11,find the validate information,find,information,0,low,0,1,0
+p62,11,12,validate the information,validate,information,0,low,0,1,0
+p62,11,13,validate resubmits,validate,resubmits,0,low,0,1,0
+p63,2,3,evaluate the candidate eligibility,evaluate,eligibility,0,low,0,1,0
+p63,4,5,find the eligible candidate,find,candidate,0,low,0,1,0
+p63,6,7,find the candidate,find,candidate,0,low,0,1,0
+p63,8,9,review the candidates list,review,list,0,low,0,1,0
+p63,9,10,conduct the announse issue,conduct,issue,0,low,0,1,0
+p63,10,11,prepare the result,prepare,result,0,low,0,1,0
+p64,1,2,review the request,review,request,0,medium,1,1,0
+p64,3,4,transfer the fund,transfer,fund,0,low,0,1,0
+p64,4,5,order the product,order,product,0,low,0,1,0
+p64,6,6,get the product,get,product,0,low,0,1,0
+p65,0,1,offer a quote,offer,quote,0,low,0,1,0
+p65,2,3,prepare the appointment,prepare,appointment,0,low,0,1,0
+p65,3,4,conduct the appointment,conduct,appointment,0,low,0,1,0
+p65,4,5,collect the missing info,collect,info,0,low,0,1,0
+p65,5,6,calculate the insurance package,calculate,package,0,low,0,1,0
+p65,8,9,reevaluate the opportunity,reevaluate,opportunity,0,low,0,1,0
+p66,5,6,review the request,review,request,0,medium,1,1,0
+p66,7,8,reject the request,reject,request,0,low,1,1,0
+p67,2,3,evaluate the person credit score,evaluate,credit score,0,low,0,1,0
+p67,4,5,find the eligible person,find,person,0,low,1,1,0
+p67,5,6,evaluate the misc person,evaluate,person,0,low,0,1,0
+p67,8,8,find the eligible person,find,person,0,low,1,1,0
+p67,9,9,reject the loan request,reject,request,0,low,1,1,0
+p68,1,2,check the patient,check,patient,0,low,1,1,0
+p68,3,3,check the patient,check,patient,0,low,1,1,0
+p68,4,4,advise the medicine,advise,medicine,0,low,0,1,0
+p68,5,5,get the medicine,get,medicine,0,low,0,1,0
+p68,6,6,make the referral,make,referral,0,low,0,1,0
+p68,7,7,take the patient blood sample,take,sample,0,low,0,1,0
+p68,8,8,make the further referral,make,referral,0,low,0,1,0
+p68,9,9,perform the genetic testing,perform,testing,0,low,0,1,0
+p69,0,1,view a need based scholorship notification,view,notification,0,low,0,1,0
+p69,3,4,verify the documents,verify,documents,0,low,0,1,0
+p69,4,5,list eligible candidates,list,candidates,0,low,0,1,0
+p69,5,6,initiate the interviews,initiate,interviews,0,low,0,1,0
+p69,7,8,find the student,find,student,0,low,0,1,0
+p69,8,9,grant the scholorship,grant,scholorship,0,low,0,1,0
+p69,10,11,reject the student request,reject,request,0,low,0,1,0
+p7,0,1,give an order,give,order,0,low,1,1,0
+p7,2,3,check the available or not funds,check,funds,0,low,1,1,0
+p7,5,5,find the available funds,find,funds,0,low,1,1,0
+p7,6,6,add the funds,add,funds,0,low,1,1,0
+p7,8,9,process the customer order,process,order,0,low,1,1,0
+p7,9,10,check the inventory,check,inventory,0,low,1,1,0
+p7,12,13,prepare the purchase requisition,prepare,requisition,0,low,1,1,0
+p7,13,14,purchase the order,purchase,order,0,low,1,1,0
+p7,17,16,pack the product,pack,product,0,low,1,1,0
+p7,18,17,deliver the product,deliver,product,0,low,1,1,0
+p70,2,3,process the claim,process,claim,0,low,0,1,0
+p70,3,4,identify the responsibilities,identify,responsibilities,0,low,0,1,0
+p70,5,5,create the letter,create,letter,0,low,1,1,0
+p70,7,8,change the responsibilities,change,responsibilities,0,low,0,1,0
+p71,1,2,invite the candidates,invite,candidates,0,low,1,1,0
+p71,2,3,develop the bid,develop,bid,0,low,0,1,0
+p71,4,5,sign the contract,sign,contract,0,low,1,1,0
+p71,6,7,review the updates,review,updates,0,low,1,1,0
+p72,0,1,fill a request form,fill,form,0,low,0,1,0
+p72,2,3,evaluate form,evaluate,form,0,low,0,1,0
+p72,4,5,reject form,reject,form,0,low,0,1,0
+p72,5,6,approve form,approve,form,0,low,0,1,0
+p73,2,3,prepare the food,prepare,food,0,low,1,1,0
+p73,5,7,prepare the food,prepare,food,0,low,1,1,0
+p73,6,8,require the ingredient,require,ingredient,0,low,0,1,0
+p73,7,9,prepare the material,prepare,material,0,low,1,1,0
+p73,8,10,prepare the food,prepare,food,0,low,1,1,0
+p73,10,12,deliver the food,deliver,food,0,low,0,1,0
+p74,3,4,analyze the problem,analyze,problem,0,low,0,1,0
+p74,3,5,address the problem,address,problem,0,low,0,1,0
+p74,5,7,solve the problem,solve,problem,0,low,0,1,0
+p74,10,13,find the problem ,find,problem,0,low,0,1,0
+p74,11,14,evaluate the problem nature,evaluate,nature,0,low,0,1,0
+p74,13,15,advise the customer,advise,customer,0,low,0,1,0
+p75,2,3,review the request,review,request,0,medium,1,1,0
+p76,3,4,evaluate the overtime registration,evaluate,registration,0,low,0,1,0
+p76,7,7,decline the request,decline,request,0,low,0,1,0
+p77,4,5,check the product type,check,product type,0,low,0,1,0
+p77,8,9,deliver the goods to the warehouse,deliver,goods,0,low,0,1,0
+p77,9,10,receive the goods,receive,goods,0,medium,1,1,0
+p77,14,14,receive the goods,receive,goods,0,medium,1,1,0
+p78,2,3,review the application,review,application,0,low,1,1,0
+p78,7,11,accept the application,accept,application,0,low,1,1,0
+p78,8,13,evaluate the minimum standard to not meet ,evaluate,standard,0,low,0,1,0
+p78,11,17,write the rejection letter,write,letter,0,low,0,1,0
+p78,14,22,receive the letter,receive,letter,0,low,1,1,0
+p79,0,1,view the products,view,products,0,low,0,1,0
+p79,1,2,greet the customer,greet,customer,0,low,0,1,0
+p79,2,3,ask the special order,ask,order,0,low,0,1,0
+p79,3,4,review the special list,review,list,0,low,0,1,0
+p79,4,5,provide the specials,provide,specials,0,low,0,1,0
+p79,5,6,order the food,order,food,0,low,0,1,0
+p8,3,3,take the item,take,item,0,low,0,1,0
+p8,4,4,conduct the available item,conduct,item,0,low,0,1,0
+p8,7,7,check the purchase requisition,check,requisition,0,low,0,1,0
+p80,5,5,identify the training groups,identify,groups,0,low,0,1,0
+p80,6,6,identify the extended workshops,identify,workshops,0,low,0,1,0
+p80,7,8,attend the training,attend,training,0,low,0,1,0
+p80,9,10,evaluate the performance,evaluate,performance,0,low,0,1,0
+p81,2,3,analyze the order,analyze,order,0,low,0,1,0
+p81,4,5,reject the order,reject,order,0,medium,1,1,0
+p81,6,7,accept the order,accept,order,0,low,1,1,0
+p81,7,8,check the stock,check,stock,0,low,0,1,0
+p81,11,12,purchase the raw material,purchase,material,0,low,1,1,0
+p81,12,13,plan the production,plan,production,0,low,1,1,0
+p81,13,15,make the products,make,products,0,low,0,1,0
+p82,3,3,create the consignment pipeline liability,create,liability,0,low,0,1,0
+p82,4,4,settle the consignment pipeline liability,settle,liability,0,low,0,1,0
+p82,5,6,transmit the consignment pipeline settlement document,transmit,document,0,low,0,1,0
+p82,7,8,plan the invoice settlement,plan,settlement,0,low,0,1,0
+p82,11,10,create the purchase order,create,order,0,low,0,1,0
+p82,12,12,process the invoice,process,invoice,0,low,1,1,0
+p82,13,13,evaluate the receipt settlement,evaluate,settlement,0,low,0,1,0
+p82,17,17,release the invoice,release,invoice,0,low,0,1,0
+p82,19,19,release the material,release,material,0,low,0,1,0
+p82,20,20,release the invoice manually,release,invoice,0,low,0,1,0
+p83,3,3,start the production,start,production,0,low,0,1,0
+p83,5,5,purchase the raw material,purchase,material,0,low,1,1,0
+p83,6,6,plan the production,plan,production,0,low,1,1,0
+p83,7,8,produce the articles,produce,articles,0,low,1,1,0
+p83,10,11,stop the billing,stop,billing,0,low,0,1,0
+p83,11,12,starts the billing,starts,billing,0,low,1,1,0
+p83,14,15,check the account status,check,status,0,low,0,1,0
+p83,15,16,produce the articles,produce,articles,0,low,1,1,0
+p84,0,1,pick a gun,pick,gun,0,low,0,1,0
+p84,1,2,load the gun,load,gun,0,low,0,1,0
+p84,2,3,pull the trigger,pull,trigger,0,low,0,1,0
+p84,3,4,strike the firing pin,strike,firing pin,0,low,0,1,0
+p84,5,5,fire the gun,fire,gun,0,low,0,1,0
+p84,6,6,Assassin the victim,Assassin,victim,0,low,0,1,0
+p84,7,7,get the dead,get,dead,0,low,0,1,0
+p84,8,8,misfire the gun,misfire,gun,0,low,0,1,0
+p85,2,3,understand the requirement specification,understand,specification,0,low,0,1,0
+p85,10,10,prepare the item,prepare,item,0,low,0,1,0
+p86,3,4,provide the personal information,provide,information,0,low,0,1,0
+p86,5,5,gather the customer information,gather,information,0,low,1,1,0
+p86,6,6,perform the customer information inquiry,perform,inquiry,0,low,1,1,0
+p86,8,9,check the service requirments,check,requirments,0,low,0,1,0
+p86,9,10,check the service availability,check,availability,0,low,0,1,0
+p86,11,11,find the available service,find,service,0,low,1,1,0
+p86,12,12,reject the request,reject,request,0,low,1,1,0
+p87,4,5,review the request,review,request,0,medium,1,1,0
+p87,9,9,reject the request,reject,request,0,low,1,1,0
+p87,10,10,send the rejection letter,send,letter,0,low,1,1,0
+p87,11,11,receive the rejection letter,receive,letter,0,low,1,1,0
+p88,1,2,open the customer inquiry,open,inquiry,0,low,0,1,0
+p88,4,5,determine the tax,determine,tax,0,low,0,1,0
+p88,5,6,determine the vehicle price,determine,price,0,low,0,1,0
+p88,6,8,determine the markup discounts,determine,discounts,0,low,0,1,0
+p88,7,9,perform the export check,perform,check,0,low,0,1,0
+p88,9,10,forbid the export,forbid,export,0,low,0,1,0
+p88,10,11,perform the export control,perform,control,0,low,0,1,0
+p88,11,12,process the required documents,process,documents,0,low,0,1,0
+p88,12,13,supervise the customer order,supervise,order,0,low,0,1,0
+p88,13,14,ship the vehicle,ship,vehicle,0,low,0,1,0
+p89,1,2,create the product demand list,create,list,0,low,0,1,0
+p89,2,3,plan the production order,plan,order,0,low,0,1,0
+p89,3,4,create the production order list,create,list,0,low,0,1,0
+p89,4,5,review the production list,review,list,0,low,0,1,0
+p89,6,6,reject the production schedule list,reject,list,0,low,0,1,0
+p89,8,8,accept the production schedule list,accept,list,0,low,0,1,0
+p89,9,9,manufacture the products,manufacture,products,0,low,1,1,0
+p9,7,7,apologize to the customer,apologize,customer,0,low,0,1,0
+p9,8,8,bake the pizza,bake,pizza,0,low,1,1,0
+p9,9,9,deliver the pizza,deliver,pizza,0,low,1,1,0
+p9,10,10,receive the pizza delivery,receive,pizza,0,low,0,1,0
+p9,12,12,eat the pizza,eat,pizza,0,low,0,1,0
+p90,2,3,review the order,review,order,0,medium,1,1,0
+p90,4,5,reject the order,reject,order,0,medium,1,1,0
+p90,7,8,accept the order,accept,order,0,low,1,1,0
+p90,13,12,purchase the raw material,purchase,material,0,low,1,1,0
+p90,14,13,plan the production,plan,production,0,low,1,1,0
+p90,15,15,manufacture the products,manufacture,products,0,low,1,1,0
+p90,18,18,prepare the shipment,prepare,shipment,0,low,1,1,0
+p90,19,19,ship the products,ship,products,0,low,1,1,0
+p91,0,1,receive the spare parts,receive,spare parts,0,low,0,1,0
+p91,2,2,prepare the receipt,prepare,receipt,0,low,0,1,0
+p91,4,4,check the quality,check,quality,0,low,1,1,0
+p91,4,5,receive spare parts,receive,parts,0,low,0,1,0
+p91,11,13,demand spare parts,demand,parts,0,low,0,1,0
+p92,4,5,review the detail,review,detail,0,low,0,1,0
+p92,7,8,find the user transaction,find,transaction,0,low,0,1,0
+p92,12,13,conduct the transaction,conduct,transaction,0,low,0,1,0
+p93,0,2,consult the website specification,consult,specification,0,low,0,1,0
+p93,1,3,prepare the proposal,prepare,proposal,0,low,0,1,0
+p93,1,4,document the specifications,document,specifications,0,low,0,1,0
+p93,2,5,conduct the kickoff meeting,conduct,meeting,0,low,0,1,0
+p93,3,6,design the website template,design,template,0,low,0,1,0
+p93,5,7,design the wireframe,design,wireframe,0,low,0,1,0
+p93,6,8,design the information architecture,design,architecture,0,low,0,1,0
+p93,7,10,assemble the contents,assemble,contents,0,low,0,1,0
+p93,9,11,design the graphics,design,graphics,0,low,0,1,0
+p93,10,12,design the animations,design,animations,0,low,0,1,0
+p93,11,15,take the client approval,take,approval,0,low,0,1,0
+p93,17,21,decide the channel optimizations,decide,optimizations,0,low,0,1,0
+p93,20,26,launch the website,launch,website,0,low,0,1,0
+p94,4,5,evaluate the entered correctness,evaluate,correctness,0,low,0,1,0
+p94,4,6,evaluate completnesses,evaluate,completnesses,0,low,0,1,0
+p95,0,1,enter in the hotel for dinner,enter,hotel,0,low,0,1,0
+p95,5,6,prepare the order,prepare,order,0,low,1,1,0
+p95,6,8,handovers the order to the customer,handovers,order,0,low,0,1,0
+p95,10,11,allocate the seat,allocate,seat,0,low,0,1,0
+p95,11,12,provide the menu,provide,menu,0,low,0,1,0
+p95,13,15,forwards the order,forwards,order,0,low,0,1,0
+p95,14,16,cook the meal,cook,meal,0,low,0,1,0
+p95,16,18,eat the meat,eat,meat,0,low,0,1,0
+p95,17,19,complete the dine,complete,dine,0,low,0,1,0
+p95,18,20,issue the bill,issue,bill,0,low,0,1,0
+p96,2,3,review the order,review,order,0,medium,1,1,0
+p96,4,5,reject the order,reject,order,0,medium,1,1,0
+p96,7,8,accept the order,accept,order,0,low,1,1,0
+p96,14,12,plan the production,plan,production,0,low,1,1,0
+p96,18,15,make the production,make,production,0,low,0,1,0
+p96,19,17,ship the products,ship,products,0,low,1,1,0
+p97,0,1,prepare a product requisition,prepare,requisition,0,low,0,1,0
+p97,6,7,create the testing plan,create,plan,0,low,0,1,0
+p97,11,13,identify the reasons,identify,reasons,0,low,1,1,0
+p97,11,14,identify the reasons,identify,reasons,0,low,1,1,0
+p97,12,15,make the correction,make,correction,0,low,0,1,0
+p97,15,19,promote the product,promote,product,0,low,1,1,0
+p97,15,20,promote the product,promote,product,0,low,1,1,0
+p97,16,21,launch the product,launch,product,0,low,1,1,0
+p97,16,22,launch the product,launch,product,0,low,1,1,0
+p98,3,3,find the possible request,find,request,0,low,0,1,0
+p98,4,4,reject the request,reject,request,0,low,1,1,0
+p98,9,9,make the statments,make,statments,0,low,0,1,0
+p98,9,10,give fact,give,fact,0,low,0,1,0
+p99,3,3,check the bill information,check,information,0,low,0,1,0
+p99,5,5,find the need,find,need,0,low,0,1,0
+p99,6,6,starts the billing,starts,billing,0,low,1,1,0
+p99,11,12,conduct the production start,conduct,production,0,low,0,1,0
+p99,13,13,plan the production,plan,production,0,low,1,1,0
+p99,14,14,purchase the raw material,purchase,material,0,low,1,1,0
+p99,15,16,finish the production,finish,production,0,low,0,1,0
+p99,16,17,ship the products,ship,products,0,low,1,1,0
+p11,8,9,process the credit card,process,credit card,0,low,0,1,0
+p110,9,9,issue the credit report,issue,report,0,low,0,1,0
+p59,4,5,import the product,import,product,0,low,0,1,0
+p69,11,13,display the list,display,list,0,low,0,1,0
+p39,7,9,verify the payment,verify,payment,0,low,0,1,0
+p99,8,8,verify the payments,verify,payments,0,low,0,1,0
+p46,1,2,open the ticket,open,ticket,0,low,1,1,0
+p46,10,12,close the ticket,close,ticket,0,low,0,1,0
+p74,2,3,assign the ticket,assign,ticket,0,low,0,1,0
+p116,2,3,open the ticket,open,ticket,0,low,1,1,0
+p59,0,1,open a project workspace,open,workspace,0,low,0,1,0
+p150,6,7,fill the application form,fill,form,0,low,0,1,0
+p89,10,10,fulfill the order,fulfill,order,0,low,1,1,0
+p87,6,6,accept the request,accept,request,0,low,0,1,0
+p1,7,10,check the ticket,check,ticket,0,low,0,1,0
+p86,15,15,check the customer credit,check,credit,0,low,0,1,0
+p94,0,1,visit a website,visit,website,0,low,0,1,0
+p96,8,9,check the availability,check,availability,0,medium,1,1,0
+p97,4,5,check the assessment detail,check,detail,0,low,0,1,0
+p98,1,2,check the legal grounds,check,grounds,0,low,0,1,0
+p98,14,13,check the completeness,check,completeness,0,low,1,1,0
+p98,10,11,identify the application legislation,identify,legislation,0,low,0,1,0
+p145,8,6,complete the application,complete,application,0,low,1,1,0
+p22,0,1,generate an order,generate,order,0,low,0,1,0
+p22,1,2,complete the order,complete,order,0,low,1,1,0
+p62,7,8,accomplish the support,accomplish,support,0,low,0,1,0
+p74,6,8,complete the ticket,complete,ticket,0,low,0,1,0
+p79,8,9,accomplish the order,accomplish,order,0,low,0,1,0
+p83,17,18,complete the billing,complete,billing,0,low,0,1,0
+p130,1,3,prepare the developmental needs,prepare,needs,0,low,0,1,0
+p100,3,3,find the qualiy ok,find,qualiy,0,low,0,1,0
+p103,9,8,find the order cannot be fulfilled,find,order,0,low,0,1,0
+p143,7,11,examine board,examine,board,0,low,1,1,0
+p124,2,3,check the available or not funds,check,funds,0,low,1,1,0
+p86,16,16,perform the pre-order validation results,perform,results,0,low,1,1,0
+p101,13,14,take the extra insurance,take,insurance,0,low,1,1,0
+p109,10,10,assign the emergency contact to the duty officer\/contractor \/,assign,contact,0,low,0,1,0
+p138,6,7,take the decision,take,decision,0,low,0,1,0
+p37,0,1,arrive at the clinic,arrive,clinic,0,low,0,1,0
+p68,0,1,arrive a hospital,arrive,hospital,0,low,0,1,0
+p78,13,20,write the acceptance letter,write,letter,0,low,0,1,0
+p83,18,21,ship the warehouse ships,ship,ships,0,low,0,1,0
+p85,6,6,wait for to unload item,wait,item,0,low,0,1,0
+p94,1,2,show the login page to the user,show,page,0,low,0,1,0
+p95,1,2,arrive at the inquiry desk,arrive,desk,0,low,0,1,0
+p95,15,17,serve as the meal,serve,meal,0,low,0,1,0
+p97,2,3,complete the detailed assessment,complete,assessment,0,low,0,1,0
+p98,19,17,take the further decision,take,decision,0,low,0,1,0
+p118,10,11,send the invoice,send,invoice,1,medium,1,1,2
+p118,11,12,receive the logging invoice,receive,invoice,1,low,0,1,2
+p118,13,14,send the invoice,send,invoice,1,medium,1,1,2
+p118,14,15,receive the activity invoice,receive,invoice,1,low,0,1,2
+p118,16,17,send the invoice,send,invoice,1,medium,1,1,2
+p118,17,18,receive the airline invoice,receive,invoice,1,low,1,1,2
+p119,0,1,received a claim,received,claim,1,low,0,1,2
+p139,1,2,send the documents to the hospital administration,send,documents,1,low,0,1,2
+p147,14,18,send the application,send,application,1,low,1,1,2
+p147,15,19,receive the application,receive,application,1,medium,1,1,2
+p147,24,28,receive the application,receive,application,1,medium,1,1,2
+p147,40,40,send the rejection,send,rejection,1,medium,1,1,2
+p148,1,2,send the documents,send,documents,1,low,1,1,2
+p148,2,3,receive the documents,receive,documents,1,medium,1,1,2
+p149,3,4,send the documents,send,documents,1,low,1,1,2
+p149,4,5,receive the documents,receive,documents,1,medium,1,1,2
+p150,15,17,send the application,send,application,1,low,1,1,2
+p150,15,18,send documentses,send,documents,1,low,0,1,2
+p150,16,19,receive the application,receive,application,1,medium,1,1,2
+p150,16,20,receive checks,receive,checks,1,low,0,1,2
+p150,21,28,send the application to the selection committee,send,application,1,low,0,1,2
+p150,22,29,receive the application,receive,application,1,medium,1,1,2
+p19,3,4,receive the order,receive,order,1,medium,1,1,2
+p2,14,14,send the tution bill to the student,send,bill,1,low,0,1,2
+p2,16,16,receive the bill,receive,bill,1,low,0,1,2
+p22,11,13,send the invoice,send,invoice,1,medium,1,1,2
+p37,7,8,receive the prescription process,receive,process,1,low,0,1,2
+p38,10,11,send the lodging invoice,send,invoice,1,low,0,1,2
+p38,11,12,receive the lodging invoice,receive,invoice,1,low,0,1,2
+p38,13,14,send the airline invoice,send,invoice,1,low,0,1,2
+p38,14,15,receive the airline invoice,receive,invoice,1,low,1,1,2
+p43,1,2,send form,send,form,1,low,0,1,2
+p43,2,3,receive form ,receive,form,1,low,0,1,2
+p51,9,10,send the order acceptance confirmation to the one provider,send,confirmation,1,low,0,1,2
+p73,11,13,receive the order,receive,order,1,medium,1,1,2
+p81,15,17,send the invoice,send,invoice,1,medium,1,1,2
+p82,8,9,receive the invoice,receive,invoice,1,low,0,1,2
+p83,12,13,send the bill,send,bill,1,low,1,1,2
+p85,9,9,send the invoice,send,invoice,1,medium,1,1,2
+p90,20,20,send the bill,send,bill,1,low,1,1,2
+p95,2,3,receive the inquiry,receive,inquiry,1,low,1,1,2
+p95,7,9,receive the request,receive,request,1,medium,1,1,2
+p95,12,14,receive the meal order,receive,order,1,low,0,1,2
+p96,20,18,send the invoice,send,invoice,1,medium,1,1,2
+p99,9,10,clear the bill,clear,bill,1,low,0,1,2
+p99,10,11,send the bill,send,bill,1,low,1,1,2
+p100,13,14,specify the reasons,specify,reasons,1,low,1,1,2
+p100,14,15,specify the required quality measures,specify,measures,1,low,0,1,2
+p116,4,6,specify the requirments,specify,requirments,1,low,1,1,2
+p119,7,7,specify the requirments,specify,requirments,1,low,1,1,2
+p120,12,14,pay the claim,pay,claim,1,low,1,1,2
+p123,13,12,specify the reasons,specify,reasons,1,low,1,1,2
+p125,6,6,specify the requirments,specify,requirments,1,low,1,1,2
+p126,2,3,specify the budget requirments,specify,requirments,1,low,0,1,2
+p133,5,7,specify the registration requirments,specify,requirments,1,low,0,1,2
+p149,2,3,pay for the aptitude test,pay,test,1,low,0,1,2
+p18,6,6,setups the payroll,setups,payroll,1,low,0,1,2
+p35,1,2,specify the vacancy requirment,specify,requirment,1,low,1,1,2
+p36,0,1,request a book,request,book,1,low,0,1,2
+p40,0,1,request an application,request,application,1,low,0,1,2
+p42,0,1,request a booking,request,booking,1,low,0,1,2
+p50,4,5,conduct the catagorize request,conduct,request,1,low,1,1,2
+p50,8,9,conduct the catagorize request,conduct,request,1,low,1,1,2
+p51,0,1,request the quotes,request,quotes,1,low,0,1,2
+p55,1,2,specify the vacancy requirment,specify,requirment,1,low,1,1,2
+p57,9,9,request order,request,order,1,low,0,1,2
+p82,0,1,specify a long contract,specify,contract,1,low,0,1,2
+p95,19,22,pay the bill,pay,bill,1,low,0,1,2
+p93,18,22,specify the channel optimization,specify,optimization,1,low,1,1,2
+p93,18,23,specify the channel optimization,specify,optimization,1,low,1,1,2
+p98,6,6,specify the request details,specify,details,1,low,0,1,2
+p98,7,7,specify the references,specify,references,1,low,0,1,2
+p98,8,8,specify the urgencey,specify,urgencey,1,low,0,1,2
+p21,9,8,inform to the cab driver,inform,driver,1,low,0,1,2
+p139,20,21,conduct the sen notification,conduct,notification,1,low,0,1,2
+p140,3,3,cancel the birth notification,cancel,notification,1,low,0,1,2
+p70,6,6,create the claims notification,create,notification,1,low,0,1,2
+p115,13,13,get the new offer,get,offer,1,low,0,1,2
+p114,6,7,get the request,get,request,1,low,0,1,2
+p115,1,1,get the flight booking request,get,request,1,low,0,1,2
+p117,8,9,get the info,get,info,1,low,0,1,2
+p125,1,2,get the order request,get,request,1,low,0,1,2
+p17,4,5,get the authentication,get,authentication,1,low,0,1,2
+p2,17,19,get the registration,get,registration,1,low,0,1,2
+p10,9,10,make the payment,make,payment,1,medium,1,1,2
+p102,23,21,make the payment,make,payment,1,medium,1,1,2
+p106,4,5,find the pending payment,find,payment,1,low,0,1,2
+p107,13,14,make the payment,make,payment,1,medium,1,1,2
+p107,21,21,take the payment,take,payment,1,low,0,1,2
+p108,29,27,make the payment,make,payment,1,medium,1,1,2
+p11,12,14,reject the payment,reject,payment,1,low,0,1,2
+p114,13,15,make the payment,make,payment,1,medium,1,1,2
+p115,9,9,make the payment,make,payment,1,medium,1,1,2
+p12,10,11,perform the payments,perform,payments,1,low,0,1,2
+p123,7,7,make the payment,make,payment,1,medium,1,1,2
+p125,16,16,make the payment,make,payment,1,medium,1,1,2
+p134,7,7,make the payment,make,payment,1,medium,1,1,2
+p3,10,12,make the payment,make,payment,1,medium,1,1,2
+p37,9,11,make the payment,make,payment,1,medium,1,1,2
+p58,0,1,make a payment,make,payment,1,low,0,1,2
+p58,1,2,receive the payment,receive,payment,1,medium,1,1,2
+p9,11,11,make the payment,make,payment,1,medium,1,1,2
+p10,0,1,place a flight reservation order,place,order,1,low,0,1,2
+p105,17,19,place the order,place,order,1,low,1,1,2
+p123,11,10,send the replacement order,send,order,1,low,1,1,2
+p131,0,1,place a service request,place,request,1,low,0,1,2
+p16,2,2,place the order,place,order,1,low,1,1,2
+p31,0,1,place an order,place,order,1,medium,1,1,2
+p56,0,1,place an order,place,order,1,medium,1,1,2
+p57,0,1,place an order,place,order,1,medium,1,1,2
+p81,0,1,place an order,place,order,1,medium,1,1,2
+p85,0,1,place an order,place,order,1,medium,1,1,2
+p87,0,1,place an enrollment request,place,request,1,low,0,1,2
+p90,0,1,place an order,place,order,1,medium,1,1,2
+p1,8,11,modify the ticket,modify,ticket,1,low,0,1,2
+p1,11,13,send the mail to the support agent,send,mail,1,low,0,1,2
+p1,14,17,notify to the support agent,notify,agent,1,low,0,1,2
+p1,15,18,notify to the customer,notify,customer,1,low,0,1,2
+p10,1,2,receive the order,receive,order,1,medium,1,1,2
+p10,5,6,receive the rejection notification,receive,notification,1,medium,1,1,2
+p10,8,9,receive the flight confirmation,receive,confirmation,1,low,0,1,2
+p100,5,5,inform the account dept.,inform,dept.,1,low,0,1,2
+p100,9,10,send the replacement order,send,order,1,low,1,1,2
+p101,0,1,receive an order,receive,order,1,medium,1,1,2
+p101,10,10,dept. forwards the order to check,dept.,order,1,low,0,1,2
+p102,2,4,send the order to the supplier,send,order,1,low,0,1,2
+p102,3,5,receive the order,receive,order,1,medium,1,1,2
+p102,7,8,send the notification to the commitee,send,notification,1,low,0,1,2
+p102,10,11,request the food item delivery,request,item,1,low,0,1,2
+p102,12,12,receive the delivery request,receive,request,1,low,0,1,2
+p102,15,13,send the notification to the supplier,send,notification,1,low,0,1,2
+p102,16,14,receive the confirmation,receive,confirmation,1,low,1,1,2
+p102,21,18,receive the notification,receive,notification,1,medium,1,1,2
+p102,22,19,receive the order,receive,order,1,medium,1,1,2
+p103,0,1,receive an order,receive,order,1,medium,1,1,2
+p103,12,12,inform the reasons,inform,reasons,1,medium,1,1,2
+p103,14,15,retrieve the destinations,retrieve,destinations,1,low,0,1,2
+p104,11,9,inform the reasons,inform,reasons,1,medium,1,1,2
+p104,20,16,approve the design,approve,design,1,low,0,1,2
+p105,0,1,select a product,select,product,1,low,0,1,2
+p105,1,2,enter the email address,enter,email address,1,low,0,1,2
+p105,2,3,enter the credit card number,enter,number,1,low,0,1,2
+p105,4,5,get the order,get,order,1,low,1,1,2
+p105,5,6,retrieve the isbn,retrieve,isbn,1,low,0,1,2
+p105,18,20,confirm the order,confirm,order,1,low,0,1,2
+p106,0,1,enter a credit card number,enter,number,1,low,0,1,2
+p106,7,10,select the shipping type,select,shipping type,1,low,0,1,2
+p106,9,11,send the order confirmation,send,confirmation,1,low,0,1,2
+p107,7,8,receive the request,receive,request,1,medium,1,1,2
+p107,9,10,inform the customer,inform,customer,1,medium,1,1,2
+p107,12,13,purchase the order,purchase,order,1,low,1,1,2
+p107,14,15,receive the payment,receive,payment,1,medium,1,1,2
+p107,15,16,authenticate the payment,authenticate,payment,1,low,0,1,2
+p107,19,19,inform the customer,inform,customer,1,medium,1,1,2
+p108,6,6,disapprove the rfq,disapprove,rfq,1,low,0,1,2
+p108,7,7,inform the reasons,inform,reasons,1,medium,1,1,2
+p108,8,8,approve the rfq,approve,rfq,1,low,0,1,2
+p108,16,15,send the quote response,send,response,1,low,0,1,2
+p108,17,16,receive the quote response,receive,response,1,low,0,1,2
+p108,21,20,send the order to the vendor,send,order,1,low,0,1,2
+p108,30,28,receive the payment,receive,payment,1,medium,1,1,2
+p109,1,2,submit the request,submit,request,1,low,0,1,2
+p109,6,6,inform the reasons,inform,reasons,1,medium,1,1,2
+p109,7,7,receive the acknowledgment,receive,acknowledgment,1,low,0,1,2
+p109,27,27,approve the order,approve,order,1,low,1,1,2
+p109,43,43,submit the signed order,submit,order,1,low,0,1,2
+p11,13,15,notify the customer,notify,customer,1,low,1,1,2
+p110,10,10,make the terms approval,make,approval,1,low,0,1,2
+p111,0,1,request a loan,request,loan,1,low,0,1,2
+p111,1,2,receive the loan request,receive,request,1,low,0,1,2
+p111,3,4,record the loan request,record,request,1,low,0,1,2
+p111,12,12,notify the customer,notify,customer,1,low,1,1,2
+p111,15,14,inform the reasons,inform,reasons,1,medium,1,1,2
+p112,0,1,receive a client record,receive,record,1,low,0,1,2
+p113,1,2,submit the demographics,submit,demographics,1,low,0,1,2
+p113,8,8,inform the customer,inform,customer,1,medium,1,1,2
+p113,9,9,receive the notification,receive,notification,1,medium,1,1,2
+p113,11,11,approve the insurance,approve,insurance,1,low,0,1,2
+p113,13,13,receive the claim,receive,claim,1,low,1,1,2
+p114,7,8,send the required details,send,details,1,low,0,1,2
+p114,8,9,access the details,access,details,1,low,0,1,2
+p114,10,12,select the candidate doze,select,candidate,1,low,0,1,2
+p114,12,14,receive the instruction,receive,instruction,1,low,0,1,2
+p114,14,16,receive the payment,receive,payment,1,medium,1,1,2
+p115,2,2,register the request,register,request,1,low,1,1,2
+p115,8,8,register the flight,register,flight,1,low,0,1,2
+p115,10,10,receive the payment,receive,payment,1,medium,1,1,2
+p115,15,15,inform the travel agent,inform,agent,1,low,0,1,2
+p116,0,1,register a ticket claim,register,claim,1,low,0,1,2
+p116,1,2,receive the claim,receive,claim,1,low,1,1,2
+p116,3,5,edit the level ticket claim,edit,claim,1,low,0,1,2
+p116,5,7,submit the review results,submit,results,1,low,1,1,2
+p116,8,10,inform the customer,inform,customer,1,medium,1,1,2
+p116,9,11,receive the notification,receive,notification,1,medium,1,1,2
+p116,12,14,receive the claim,receive,claim,1,low,1,1,2
+p116,14,16,submit the review results,submit,results,1,low,1,1,2
+p116,20,24,send the mail to the account manager,send,mail,1,low,0,1,2
+p117,2,3,receive the request,receive,request,1,medium,1,1,2
+p117,6,7,receive the request,receive,request,1,medium,1,1,2
+p117,19,21,register the customer,register,customer,1,low,1,1,2
+p118,0,1,receive an order,receive,order,1,medium,1,1,2
+p118,6,7,notify the customer,notify,customer,1,low,1,1,2
+p119,9,10,inform the customer,inform,customer,1,medium,1,1,2
+p12,0,1,request the vacations,request,vacations,1,low,0,1,2
+p12,4,4,inform the customer,inform,customer,1,medium,1,1,2
+p12,6,6,approve the vacation request,approve,request,1,low,0,1,2
+p120,1,3,submit the insurance claim,submit,claim,1,low,0,1,2
+p120,10,12,approve the case,approve,case,1,low,0,1,2
+p121,0,1,starts a registration,starts,registration,1,low,0,1,2
+p121,3,4,enter the registration information,enter,information,1,low,1,1,2
+p121,5,6,create the database record,create,record,1,low,1,1,2
+p121,8,10,receive the registration mail,receive,mail,1,low,1,1,2
+p122,0,1,receive a complaint,receive,complaint,1,low,0,1,2
+p122,2,2,create the incident record,create,record,1,low,0,1,2
+p122,3,3,categorize the incident,categorize,incident,1,low,0,1,2
+p122,4,4,prioritize the incident,prioritize,incident,1,low,0,1,2
+p122,5,5,create the customer complaint,create,complaint,1,low,0,1,2
+p122,17,22,inform the complainer,inform,complainer,1,low,0,1,2
+p124,1,2,receive the order,receive,order,1,medium,1,1,2
+p124,19,18,send the email to the customer,send,email,1,low,1,1,2
+p124,21,20,receive the order,receive,order,1,medium,1,1,2
+p125,0,1,request an order,request,order,1,low,0,1,2
+p125,7,7,inform the requirements to the warehouse manager,inform,requirements,1,low,0,1,2
+p125,11,10,select the delivery service,select,service,1,low,1,1,2
+p126,0,1,initiate a project,initiate,project,1,low,0,1,2
+p126,6,7,select the candidate,select,candidate,1,low,1,1,2
+p126,9,9,submit the updates,submit,updates,1,low,1,1,2
+p126,13,13,receive the payment,receive,payment,1,medium,1,1,2
+p127,1,2,select the candidates,select,candidates,1,low,0,1,2
+p127,7,7,notify the hiring manager,notify,manager,1,low,0,1,2
+p127,8,8,receive the notification,receive,notification,1,medium,1,1,2
+p127,9,9,revise the package,revise,package,1,low,0,1,2
+p127,12,13,receive the offer,receive,offer,1,low,0,1,2
+p127,17,18,revise the offer,revise,offer,1,low,0,1,2
+p128,0,1,send a policy request,send,request,1,low,0,1,2
+p128,1,2,receive the policy request,receive,request,1,low,0,1,2
+p128,4,5,receive the questionaire,receive,questionaire,1,low,0,1,2
+p128,6,7,send the response,send,response,1,low,0,1,2
+p128,7,8,receive the additional information,receive,information,1,low,0,1,2
+p128,10,11,send the request outcome,send,outcome,1,low,0,1,2
+p128,11,12,receive the request outcome,receive,outcome,1,low,0,1,2
+p13,3,3,apply the application,apply,application,1,low,0,1,2
+p13,4,4,receive the application,receive,application,1,medium,1,1,2
+p131,1,2,receive the request,receive,request,1,medium,1,1,2
+p131,2,3,select the service package,select,package,1,low,1,1,2
+p131,6,7,create the account,create,account,1,low,0,1,2
+p131,14,15,receive the results,receive,results,1,low,0,1,2
+p131,17,18,receive the rejection notification,receive,notification,1,medium,1,1,2
+p132,9,10,allow the break,allow,break,1,low,0,1,2
+p133,6,8,enter the registration information,enter,information,1,low,1,1,2
+p133,8,10,create the database record,create,record,1,low,1,1,2
+p133,12,15,receive the registration mail,receive,mail,1,low,1,1,2
+p133,14,17,notify the customer,notify,customer,1,low,1,1,2
+p133,15,18,receive the notification,receive,notification,1,medium,1,1,2
+p134,8,8,update the inventory system,update,system,1,low,0,1,2
+p134,14,14,inform the reasons,inform,reasons,1,medium,1,1,2
+p134,16,16,send the replacement order,send,order,1,low,1,1,2
+p135,0,1,receive a birth notification,receive,notification,1,low,1,1,2
+p135,1,2,receive the documents,receive,documents,1,medium,1,1,2
+p135,7,8,register the baby,register,baby,1,low,1,1,2
+p135,13,15,register the baby,register,baby,1,low,1,1,2
+p135,15,17,register the nationality,register,nationality,1,low,0,1,2
+p135,22,25,inform the resposible persons,inform,persons,1,low,0,1,2
+p136,5,6,inform the civil court,inform,court,1,low,0,1,2
+p136,10,13,send the information,send,information,1,low,0,1,2
+p136,18,21,receive the citizenship decision,receive,decision,1,low,0,1,2
+p136,19,22,register the citizenship,register,citizenship,1,low,0,1,2
+p136,21,25,register the baby,register,baby,1,low,1,1,2
+p136,25,29,register the baby,register,baby,1,low,1,1,2
+p136,26,30,send the birth information to the parents,send,information,1,low,0,1,2
+p136,29,35,send the request,send,request,1,low,0,1,2
+p137,0,1,receive a notification,receive,notification,1,low,1,1,2
+p137,6,7,register the baby,register,baby,1,low,1,1,2
+p137,8,10,register the child,register,child,1,low,0,1,2
+p137,25,28,receive the processed information,receive,information,1,low,0,1,2
+p138,0,1,receive a birth notification,receive,notification,1,low,1,1,2
+p138,3,3,confirm the identity,confirm,identity,1,medium,1,1,2
+p138,4,4,confirm the identity,confirm,identity,1,medium,1,1,2
+p138,5,6,send the documents to the administration,send,documents,1,low,0,1,2
+p138,9,9,confirm the identity,confirm,identity,1,medium,1,1,2
+p138,16,15,update the gba,update,gba,1,low,0,1,2
+p138,18,17,send the notification,send,notification,1,low,1,1,2
+p138,21,20,send the data,send,data,1,low,1,1,2
+p138,22,22,archive the documents,archive,documents,1,low,1,1,2
+p139,0,1,receive a notification,receive,notification,1,low,1,1,2
+p139,2,3,confirm the identity,confirm,identity,1,medium,1,1,2
+p139,7,8,register at the municiplility,register,municiplility,1,low,0,1,2
+p139,22,23,archive the documents,archive,documents,1,low,1,1,2
+p14,4,2,email the discussion deadline to warn ,email,deadline,1,low,0,1,2
+p14,5,3,initiate the email discussion,initiate,discussion,1,low,0,1,2
+p140,0,1,receive a notification,receive,notification,1,low,1,1,2
+p140,9,10,confirm the choice,confirm,choice,1,low,1,1,2
+p140,14,14,send the notification,send,notification,1,low,1,1,2
+p140,18,19,archive the documents,archive,documents,1,low,1,1,2
+p141,0,1,receive a notification,receive,notification,1,low,1,1,2
+p141,2,3,inform the court,inform,court,1,low,0,1,2
+p141,3,4,confirm the identity,confirm,identity,1,medium,1,1,2
+p141,5,5,confirm the identity,confirm,identity,1,medium,1,1,2
+p141,7,7,confirm the identity,confirm,identity,1,medium,1,1,2
+p141,11,12,approve the data,approve,data,1,low,0,1,2
+p141,17,18,confirm the choice,confirm,choice,1,low,1,1,2
+p141,21,22,send the notification,send,notification,1,low,1,1,2
+p141,22,23,archive the documents,archive,documents,1,low,1,1,2
+p142,7,8,add the case,add,case,1,low,0,1,2
+p142,9,11,send the application to the enrollment administration,send,application,1,low,0,1,2
+p142,17,19,send the rejection,send,rejection,1,medium,1,1,2
+p142,18,20,inform the reason,inform,reason,1,low,1,1,2
+p142,19,21,receive the rejection,receive,rejection,1,medium,1,1,2
+p142,21,23,hand over the application to examine board,hand,application,1,low,0,1,2
+p142,26,27,send the acceptance,send,acceptance,1,low,0,1,2
+p142,27,28,receive the acceptance,receive,acceptance,1,low,0,1,2
+p142,29,30,send the rejection,send,rejection,1,medium,1,1,2
+p142,30,31,inform the reasons,inform,reasons,1,medium,1,1,2
+p142,31,32,receive the rejection,receive,rejection,1,medium,1,1,2
+p143,2,2,choose the international university,choose,university,1,low,0,1,2
+p143,4,5,send the international application,send,application,1,low,0,1,2
+p143,5,7,choose the german university,choose,university,1,low,0,1,2
+p143,7,10,send german application,send,application,1,low,0,1,2
+p143,12,18,send the rejection,send,rejection,1,medium,1,1,2
+p143,13,19,receive the rejection,receive,rejection,1,medium,1,1,2
+p143,21,28,send the rejection,send,rejection,1,medium,1,1,2
+p143,22,29,inform the reasons,inform,reasons,1,medium,1,1,2
+p143,23,30,receive the rejection,receive,rejection,1,medium,1,1,2
+p143,25,33,send the commitment,send,commitment,1,low,0,1,2
+p143,26,34,receive the commitment,receive,commitment,1,low,0,1,2
+p144,1,2,send the documents,send,documents,1,low,1,1,2
+p144,2,3,receive the documents,receive,documents,1,medium,1,1,2
+p144,5,6,receive the documents,receive,documents,1,medium,1,1,2
+p144,11,11,send the interview invitation,send,invitation,1,low,0,1,2
+p144,14,14,select the applicant,select,applicant,1,low,0,1,2
+p145,11,10,send the application,send,application,1,low,1,1,2
+p145,12,11,receive the application,receive,application,1,medium,1,1,2
+p145,20,18,send the rejection,send,rejection,1,medium,1,1,2
+p145,21,19,receive the rejection,receive,rejection,1,medium,1,1,2
+p146,0,1,complete to form onlline,complete,form,1,low,0,1,2
+p146,0,2,send the application,send,application,1,low,1,1,2
+p146,1,3,receive the online application,receive,application,1,low,0,1,2
+p146,2,4,allocate the application number,allocate,number,1,low,0,1,2
+p146,2,5,allocate passwords,allocate,passwords,1,low,0,1,2
+p146,3,6,receive the number,receive,number,1,low,0,1,2
+p146,3,7,receive passwords,receive,passwords,1,low,0,1,2
+p146,7,10,print the international application form,print,form,1,low,0,1,2
+p146,9,12,print the german application form,print,form,1,low,0,1,2
+p146,10,14,send the requirements to the secretarial office,send,requirements,1,low,0,1,2
+p146,11,15,receive the application,receive,application,1,medium,1,1,2
+p146,17,20,resubmit the application,resubmit,application,1,low,0,1,2
+p146,19,22,send the documents to the committee,send,documents,1,low,0,1,2
+p146,20,23,receive the application,receive,application,1,medium,1,1,2
+p147,43,43,attach the additional requirements,attach,requirements,1,low,0,1,2
+p148,22,20,confirm the acceptance,confirm,acceptance,1,low,0,1,2
+p149,1,2,send the online protocol,send,protocol,1,low,0,1,2
+p15,0,1,receive an order,receive,order,1,medium,1,1,2
+p15,3,4,send the inquiry,send,inquiry,1,low,0,1,2
+p15,4,5,receive the inquiry,receive,inquiry,1,low,1,1,2
+p15,6,7,send the report to the production branch,send,report,1,low,0,1,2
+p150,0,1,choose the courses,choose,courses,1,low,0,1,2
+p150,2,3,choose the response,choose,response,1,low,0,1,2
+p150,8,8,upload the bachelor degree,upload,degree,1,low,0,1,2
+p150,9,9,upload the university entrance certificate,upload,certificate,1,low,0,1,2
+p150,10,10,upload the letter,upload,letter,1,low,0,1,2
+p150,11,11,upload the cv,upload,cv,1,low,0,1,2
+p150,12,12,upload the language certificate,upload,certificate,1,low,0,1,2
+p150,34,43,send the information to the application office,send,information,1,low,0,1,2
+p150,35,44,update the application system,update,system,1,low,0,1,2
+p16,4,5,receive the order,receive,order,1,medium,1,1,2
+p17,0,1,receive a payment,receive,payment,1,low,0,1,2
+p17,1,2,send the payment,send,payment,1,low,0,1,2
+p17,2,3,authorize the card payment,authorize,payment,1,low,0,1,2
+p17,3,4,notify to the supplier,notify,supplier,1,low,0,1,2
+p18,5,5,select the candidate,select,candidate,1,low,1,1,2
+p18,9,9,inform the candidate,inform,candidate,1,low,1,1,2
+p19,12,11,inform the customer,inform,customer,1,medium,1,1,2
+p2,2,3,retrieve the educational record,retrieve,record,1,low,0,1,2
+p2,6,6,send the notification,send,notification,1,low,1,1,2
+p2,7,7,receive the notice,receive,notice,1,low,0,1,2
+p2,9,9,resubmit form,resubmit,form,1,low,0,1,2
+p2,11,11,register the student,register,student,1,low,0,1,2
+p2,12,12,enroll the student,enroll,student,1,low,0,1,2
+p2,15,15,send the outcome,send,outcome,1,low,0,1,2
+p2,16,17,receive registrations,receive,registrations,1,low,0,1,2
+p20,0,1,receive an order,receive,order,1,medium,1,1,2
+p20,4,4,inform the reasons,inform,reasons,1,medium,1,1,2
+p20,5,5,approve the order,approve,order,1,low,1,1,2
+p21,0,1,request a cab booking,request,booking,1,low,0,1,2
+p21,1,2,receive the request,receive,request,1,medium,1,1,2
+p21,6,5,receive the booking details,receive,details,1,low,0,1,2
+p21,8,7,confirm the booking,confirm,booking,1,low,0,1,2
+p21,10,9,receive the details,receive,details,1,low,0,1,2
+p21,12,11,inform the confirmation,inform,confirmation,1,low,1,1,2
+p21,14,13,inform the reasons,inform,reasons,1,medium,1,1,2
+p22,2,3,receive the order,receive,order,1,medium,1,1,2
+p22,12,14,enter the order,enter,order,1,low,1,1,2
+p23,4,5,register a black list,register,list,1,low,0,1,2
+p23,9,8,inform the reason listed,inform,reason,1,low,0,1,2
+p25,0,1,report a bug,report,bug,1,low,0,1,2
+p25,1,2,receive the report,receive,report,1,low,0,1,2
+p25,6,7,notify the administrator,notify,administrator,1,low,0,1,2
+p25,7,8,install the new version,install,version,1,low,0,1,2
+p25,8,9,notify the user,notify,user,1,low,0,1,2
+p25,10,12,inform the user,inform,user,1,low,0,1,2
+p25,11,14,use the application,use,application,1,low,0,1,2
+p26,1,2,take the manager approval,take,approval,1,low,0,1,2
+p26,2,3,receive the approved voucher,receive,voucher,1,low,0,1,2
+p27,1,2,receive the quote,receive,quote,1,low,1,1,2
+p28,0,1,submit a project,submit,project,1,low,0,1,2
+p28,1,2,receive the project,receive,project,1,low,0,1,2
+p28,8,9,resubmit the project,resubmit,project,1,low,0,1,2
+p29,0,1,request a new license,request,license,1,low,0,1,2
+p29,1,2,submit the application,submit,application,1,low,1,1,2
+p29,2,3,receive the new licence application,receive,application,1,low,0,1,2
+p29,7,8,inform the reason,inform,reason,1,low,1,1,2
+p30,6,6,require the quotation,require,quotation,1,low,0,1,2
+p31,1,2,receive the order,receive,order,1,medium,1,1,2
+p31,6,9,create the customer account,create,account,1,low,0,1,2
+p33,0,1,place an order,place,order,1,medium,1,1,2
+p33,1,2,receive the order,receive,order,1,medium,1,1,2
+p33,3,3,input the order data into the erp system,input,data,1,low,0,1,2
+p33,11,12,print the shipping label,print,label,1,low,0,1,2
+p34,0,1,advertise a job,advertise,job,1,low,0,1,2
+p34,2,3,apply the required job,apply,job,1,low,0,1,2
+p34,4,5,submit the challan form,submit,form,1,low,0,1,2
+p34,5,6,submit the application,submit,application,1,low,1,1,2
+p34,7,8,receive the job application,receive,application,1,low,0,1,2
+p34,12,12,inform the candidate,inform,candidate,1,low,1,1,2
+p34,13,13,select the candidate,select,candidate,1,low,1,1,2
+p34,14,14,inform the candidate,inform,candidate,1,low,1,1,2
+p34,15,15,submit the employment form,submit,form,1,low,0,1,2
+p35,5,5,access the vacancy,access,vacancy,1,low,1,1,2
+p35,8,7,approve the vacancy,approve,vacancy,1,low,1,1,2
+p35,12,11,release the advertisment,release,advertisment,1,low,1,1,2
+p36,1,2,receive the book request,receive,request,1,low,0,1,2
+p36,8,8,inform the borrower,inform,borrower,1,low,0,1,2
+p37,1,2,request the doctor appointment,request,appointment,1,low,0,1,2
+p37,2,3,receive the request,receive,request,1,medium,1,1,2
+p37,4,5,receive the appointment,receive,appointment,1,low,0,1,2
+p37,5,6,inform the symptoms,inform,symptoms,1,low,0,1,2
+p38,0,1,receive an order,receive,order,1,medium,1,1,2
+p38,5,6,inform the customer,inform,customer,1,medium,1,1,2
+p39,3,5,receive the order,receive,order,1,medium,1,1,2
+p39,4,6,configure the shopping cart,configure,shopping cart,1,low,0,1,2
+p39,6,8,receive the payment,receive,payment,1,medium,1,1,2
+p39,8,10,send the confirmation,send,confirmation,1,low,0,1,2
+p39,10,12,receive the order products,receive,products,1,low,0,1,2
+p39,11,13,receive the confirmation,receive,confirmation,1,low,1,1,2
+p39,12,15,send the feedback email,send,email,1,low,0,1,2
+p4,0,1,receive a request,receive,request,1,low,0,1,2
+p4,5,6,notify the reasons,notify,reasons,1,low,1,1,2
+p4,12,13,register the customer,register,customer,1,low,1,1,2
+p40,1,2,receive the request,receive,request,1,medium,1,1,2
+p40,2,3,register the personal data,register,data,1,low,0,1,2
+p40,5,6,register the salary information,register,information,1,low,0,1,2
+p40,6,7,register the documents,register,documents,1,low,0,1,2
+p40,13,14,approve the loan,approve,loan,1,low,0,1,2
+p41,0,1,register a sat exam,register,exam,1,low,0,1,2
+p42,1,2,receive the request,receive,request,1,medium,1,1,2
+p42,9,8,inform the customer,inform,customer,1,medium,1,1,2
+p42,10,9,undo the booking,undo,booking,1,low,0,1,2
+p42,12,11,update the credit card balance,update,balance,1,low,0,1,2
+p42,13,12,notify the customer,notify,customer,1,low,1,1,2
+p44,9,9,inform the seller,inform,seller,1,low,0,1,2
+p44,13,13,receive the payment,receive,payment,1,medium,1,1,2
+p46,0,1,receive an issue,receive,issue,1,low,0,1,2
+p46,2,3,edit the level ticket,edit,ticket,1,low,0,1,2
+p46,5,6,send the issue to the 2nd level,send,issue,1,low,0,1,2
+p46,6,7,edit the 2nd level ticket,edit,ticket,1,low,0,1,2
+p46,9,11,send the confirmation email to the account manager,send,email,1,low,0,1,2
+p47,1,2,receive the article order,receive,order,1,low,0,1,2
+p47,5,6,inform the customer,inform,customer,1,medium,1,1,2
+p47,9,8,receive the payment,receive,payment,1,medium,1,1,2
+p47,10,10,receive the order,receive,order,1,medium,1,1,2
+p47,11,11,remove the article,remove,article,1,low,0,1,2
+p48,1,2,receive request form,receive,form,1,low,0,1,2
+p48,8,11,resubmit the request form,resubmit,form,1,low,0,1,2
+p49,0,1,receive a purchase order,receive,order,1,low,0,1,2
+p49,1,2,enter the order into the managment system,enter,order,1,low,0,1,2
+p51,2,2,receive the request,receive,request,1,medium,1,1,2
+p51,3,3,send the quote,send,quote,1,low,1,1,2
+p51,4,4,receive the request,receive,request,1,medium,1,1,2
+p51,5,5,send the quote,send,quote,1,low,1,1,2
+p51,6,6,receive the request,receive,request,1,medium,1,1,2
+p51,7,7,send the quote,send,quote,1,low,1,1,2
+p52,0,1,receive an order,receive,order,1,medium,1,1,2
+p53,3,4,confirm the reservation information,confirm,information,1,low,0,1,2
+p53,13,16,confirm the room,confirm,room,1,low,0,1,2
+p54,0,1,submit an iphone puchase order,submit,order,1,low,0,1,2
+p54,1,2,receive the request order,receive,order,1,low,0,1,2
+p54,6,9,register the retailer,register,retailer,1,low,0,1,2
+p54,11,14,receive the order,receive,order,1,medium,1,1,2
+p55,5,5,approve the vacancy,approve,vacancy,1,low,1,1,2
+p55,8,8,release the advertisment,release,advertisment,1,low,1,1,2
+p55,11,10,inform the reasons,inform,reasons,1,medium,1,1,2
+p56,1,2,receive the order,receive,order,1,medium,1,1,2
+p56,9,8,select the delivery service,select,service,1,low,1,1,2
+p56,11,11,receive the order,receive,order,1,medium,1,1,2
+p57,1,2,receive the order,receive,order,1,medium,1,1,2
+p57,3,3,department forwards the order,department,order,1,low,0,1,2
+p57,4,4,enter the order information,enter,information,1,low,0,1,2
+p57,5,6,receive the order payment,receive,payment,1,low,0,1,2
+p57,11,11,receive the order,receive,order,1,medium,1,1,2
+p57,13,14,send the rejection notification,send,notification,1,low,0,1,2
+p58,4,5,receive the payment,receive,payment,1,medium,1,1,2
+p58,6,7,receive the payment,receive,payment,1,medium,1,1,2
+p58,11,11,update the balance,update,balance,1,low,0,1,2
+p58,13,13,inform the reasons,inform,reasons,1,medium,1,1,2
+p59,1,2,create the attribute definations,create,definations,1,low,0,1,2
+p59,2,3,create the product class,create,product class,1,low,0,1,2
+p6,5,6,notify the reasons,notify,reasons,1,low,1,1,2
+p60,5,8,register on authority,register,authority,1,low,0,1,2
+p60,8,10,store the registration authority information,store,information,1,low,0,1,2
+p61,0,1,receive an order,receive,order,1,medium,1,1,2
+p61,5,3,send the shipping schedule,send,schedule,1,low,0,1,2
+p61,6,4,initiate the price calculations,initiate,calculations,1,low,0,1,2
+p62,0,1,submit a service request form,submit,form,1,low,0,1,2
+p62,1,2,receive the support service request,receive,request,1,low,0,1,2
+p62,5,6,submit the task order,submit,order,1,low,0,1,2
+p62,6,7,receive the task order service,receive,order,1,low,0,1,2
+p63,0,1,submit an application form,submit,form,1,low,0,1,2
+p63,1,2,receive the candidate form,receive,form,1,low,0,1,2
+p63,5,6,notify the reasons,notify,reasons,1,low,1,1,2
+p63,7,8,inform the election commission,inform,commission,1,low,0,1,2
+p63,12,13,send the result to the candidate,send,result,1,low,0,1,2
+p64,0,1,receive a fund request,receive,request,1,low,0,1,2
+p64,2,3,select the vendor,select,vendor,1,low,0,1,2
+p64,7,7,update the record,update,record,1,low,0,1,2
+p65,1,2,receive the quote,receive,quote,1,low,1,1,2
+p65,7,8,archive the quote,archive,quote,1,low,0,1,2
+p66,0,1,submit a vacations request,submit,request,1,low,0,1,2
+p66,1,2,receive the request,receive,request,1,medium,1,1,2
+p66,2,3,register the request,register,request,1,low,1,1,2
+p66,3,4,send the request to the immediate employee supervisor,send,request,1,low,0,1,2
+p66,4,5,receive the vacation request,receive,request,1,low,0,1,2
+p66,10,13,receive the rejection notice,receive,rejection,1,low,0,1,2
+p66,11,14,approve the request,approve,request,1,low,1,1,2
+p66,13,16,notify to the employee,notify,employee,1,low,0,1,2
+p66,14,17,receive the approval notice,receive,approval,1,low,0,1,2
+p67,0,1,submit an application,submit,application,1,low,0,1,2
+p67,1,2,receive the request,receive,request,1,medium,1,1,2
+p67,7,7,receive the loan acceptance notification,receive,notification,1,low,0,1,2
+p67,10,10,receive the rejection notification,receive,notification,1,medium,1,1,2
+p69,1,2,submit form,submit,form,1,low,0,1,2
+p69,2,3,receive the scholorship requests,receive,requests,1,low,0,1,2
+p7,1,2,receive the order,receive,order,1,medium,1,1,2
+p7,19,18,send the email to the customer,send,email,1,low,1,1,2
+p7,21,20,receive the order,receive,order,1,medium,1,1,2
+p70,0,1,claim a case,claim,case,1,low,0,1,2
+p70,1,2,receive the claim request,receive,request,1,low,0,1,2
+p71,3,4,select the candidate,select,candidate,1,low,1,1,2
+p71,5,6,submit the updates,submit,updates,1,low,1,1,2
+p71,7,8,submit the complete project,submit,project,1,low,0,1,2
+p71,9,10,receive the payment,receive,payment,1,medium,1,1,2
+p72,1,2,send form to the manager,send,form,1,low,0,1,2
+p72,6,7,send the request to the vice principal,send,request,1,low,0,1,2
+p72,7,9,receive the approval,receive,approval,1,low,0,1,2
+p73,0,1,place an order,place,order,1,medium,1,1,2
+p73,1,2,take the order,take,order,1,low,0,1,2
+p74,1,2,receive the request,receive,request,1,medium,1,1,2
+p74,7,10,confirm reservation,confirm,reservation,1,low,0,1,2
+p74,9,12,receive the ticket,receive,ticket,1,low,0,1,2
+p74,14,16,inform the reasons,inform,reasons,1,medium,1,1,2
+p74,16,20,inform the customer,inform,customer,1,medium,1,1,2
+p75,0,1,send a mm,send,mm,1,low,0,1,2
+p75,1,2,receive the mm,receive,mm,1,low,0,1,2
+p75,6,8,receive the error message,receive,message,1,low,0,1,2
+p75,8,11,send the data,send,data,1,low,1,1,2
+p75,9,12,store the mm,store,mm,1,low,0,1,2
+p75,11,13,send the mm,send,mm,1,low,1,1,2
+p75,12,14,send the mm,send,mm,1,low,1,1,2
+p75,13,16,create the changing data records,create,records,1,low,0,1,2
+p75,14,17,receive the confirmation message,receive,message,1,low,0,1,2
+p76,0,1,create an overtime registration,create,registration,1,low,0,1,2
+p76,1,2,send the overtime registration to the manager,send,registration,1,low,0,1,2
+p76,2,3,receive the request,receive,request,1,medium,1,1,2
+p76,5,5,approve the request,approve,request,1,low,1,1,2
+p76,6,6,inform the confirmation,inform,confirmation,1,low,1,1,2
+p76,8,8,return the overtime registration to the employee,return,registration,1,low,0,1,2
+p76,9,9,receive the rejection notification,receive,notification,1,medium,1,1,2
+p77,0,1,order an inquiry,order,inquiry,1,low,0,1,2
+p77,1,2,send the quotation,send,quotation,1,low,0,1,2
+p77,2,3,receive the quotation,receive,quotation,1,low,0,1,2
+p77,6,6,send the production order form,send,form,1,low,0,1,2
+p77,7,7,send the purchase order form,send,form,1,low,0,1,2
+p78,0,1,submit a registration application,submit,application,1,low,0,1,2
+p78,1,2,receive the application,receive,application,1,medium,1,1,2
+p78,5,7,inform the student to resubmit,inform,student,1,low,0,1,2
+p78,5,8,resubmit additional information,resubmit,information,1,low,0,1,2
+p79,7,8,enter the order,enter,order,1,low,1,1,2
+p79,9,11,receive the order,receive,order,1,medium,1,1,2
+p8,5,5,specify the quantity need,specify,need,1,low,0,1,2
+p8,6,6,save the purchase requisition,save,requisition,1,low,0,1,2
+p8,11,10,create the creditor,create,creditor,1,low,0,1,2
+p8,12,12,create the order template to form purchase requisition,create,template,1,low,0,1,2
+p8,13,13,release the order,release,order,1,low,0,1,2
+p8,14,15,supply the order,supply,order,1,low,1,1,2
+p80,0,1,get the nominations,get,nominations,1,low,0,1,2
+p80,1,2,head to confirm the nominations,head,nominations,1,low,0,1,2
+p80,2,3,create the training calender,create,calender,1,low,0,1,2
+p80,3,4,get the program details,get,details,1,low,0,1,2
+p81,1,2,receive the order,receive,order,1,medium,1,1,2
+p81,5,6,inform the reasons,inform,reasons,1,medium,1,1,2
+p81,9,10,retrieve the product,retrieve,product,1,low,0,1,2
+p81,16,18,receive the order,receive,order,1,medium,1,1,2
+p83,0,1,receive an order,receive,order,1,medium,1,1,2
+p83,1,2,register the order,register,order,1,low,1,1,2
+p85,1,2,receive the new item order,receive,order,1,low,0,1,2
+p86,0,1,request a service,request,service,1,low,0,1,2
+p86,1,2,receive the service request,receive,request,1,low,0,1,2
+p86,2,3,select the service package,select,package,1,low,1,1,2
+p86,7,7,create the new customer account,create,account,1,low,0,1,2
+p86,13,13,receive the rejection notification,receive,notification,1,medium,1,1,2
+p87,1,2,receive the customer request,receive,request,1,low,0,1,2
+p87,2,3,get the account data,get,data,1,low,0,1,2
+p88,0,1,receive a customer inquiry,receive,inquiry,1,low,0,1,2
+p88,2,3,configure the vehicle exporting inquiry and datas,configure,inquiry,1,low,0,1,2
+p88,14,15,receive the shipment charges,receive,charges,1,low,0,1,2
+p89,0,1,receive a product demand request,receive,request,1,low,0,1,2
+p89,7,7,inform the reasons,inform,reasons,1,medium,1,1,2
+p9,1,2,select a pizza,select,pizza,1,low,0,1,2
+p9,2,3,order a pizza,order,pizza,1,low,0,1,2
+p9,3,4,receive the pizza order,receive,order,1,low,0,1,2
+p9,4,5,confirm the availability,confirm,availability,1,low,0,1,2
+p90,1,2,receive the order,receive,order,1,medium,1,1,2
+p90,5,6,inform the rejection reasons,inform,reasons,1,low,0,1,2
+p90,6,7,receive the rejection,receive,rejection,1,medium,1,1,2
+p90,17,17,confirm the order products,confirm,products,1,low,0,1,2
+p90,21,21,make the payment,make,payment,1,medium,1,1,2
+p90,21,22,receive the order,receive,order,1,medium,1,1,2
+p91,3,3,send the copy to accounts department,send,copy,1,low,0,1,2
+p91,7,8,update the stock repository,update,stock,1,low,0,1,2
+p91,10,12,generate the warning letter,generate,letter,1,low,0,1,2
+p92,1,2,get the transection detail,get,detail,1,low,0,1,2
+p92,2,3,pass the transaction detail to the 2 bank,pass,detail,1,low,0,1,2
+p92,3,4,receive the transactions detail,receive,detail,1,low,0,1,2
+p92,8,9,pass the detail to the 3 bank,pass,detail,1,low,0,1,2
+p93,12,16,perform the business tool integration,perform,integration,1,low,0,1,2
+p93,19,24,approve the specifications,approve,specifications,1,low,1,1,2
+p93,19,25,approve the specifications,approve,specifications,1,low,1,1,2
+p94,3,4,receive the required user information,receive,information,1,low,0,1,2
+p94,7,9,enter correct information,enter,information,1,low,0,1,2
+p94,10,11,store the personal user information,store,information,1,low,0,1,2
+p94,12,14,send the registration email to the user,send,email,1,low,0,1,2
+p94,13,15,receive the notification,receive,notification,1,medium,1,1,2
+p95,4,5,get the order,get,order,1,low,1,1,2
+p96,1,2,receive the order,receive,order,1,medium,1,1,2
+p96,5,6,inform the reasons,inform,reasons,1,medium,1,1,2
+p96,6,7,receive the rejection notification,receive,notification,1,medium,1,1,2
+p97,1,2,retrieve the previous production information,retrieve,information,1,low,0,1,2
+p97,3,4,communicate the assessment,communicate,assessment,1,low,0,1,2
+p97,13,16,resubmit for testing,resubmit,testing,1,low,0,1,2
+p98,13,12,receive the documents,receive,documents,1,medium,1,1,2
+p98,20,19,send the results to the customer,send,results,1,low,0,1,2
+p99,0,1,receive an order,receive,order,1,medium,1,1,2
+p99,1,2,register the order,register,order,1,low,1,1,2
+p99,7,7,receive the payments,receive,payments,1,low,0,1,2
+p11,7,8,authorize the payment,authorize,payment,1,low,0,1,2
+p15,13,14,supply the order,supply,order,1,low,1,1,2
+p3,9,11,receiveds the order,receiveds,order,1,low,0,1,2
+p39,5,7,charge the customer,charge,customer,1,low,0,1,2
+p41,4,5,get the score,get,score,1,low,1,1,2
+p41,6,7,get the 800 and 1000s score,get,score,1,low,0,1,2
+p41,7,8,get the expensive class,get,expensive,1,low,0,1,2
+p41,8,9,get the score,get,score,1,low,1,1,2
+p50,1,2,filter the appropriate requests,filter,requests,1,low,0,1,2
+p74,0,1,request a ticket,request,ticket,1,low,0,1,2
+p96,0,1,place an order request,place,requests,1,low,0,1,2
+p98,0,1,place a legal assistance request,place,request,1,low,0,1,2
+p50,0,1,initiate the requests,initiate,requests,1,low,0,1,2
+p113,12,12,pay the claim,pay,claim,1,low,1,1,2
+p52,11,15,pick area,pick,area,1,low,0,1,2
+p118,18,19,the opc updates ,updates,opc,1,low,0,1,2
+p112,12,9,pay the amount,pay,amount,1,low,0,1,2
+p71,8,9,award the payment,award,payment,1,low,0,1,2
+p124,20,19,the fulfillment unit updates ,unit,updates,1,low,1,1,2
+p36,2,3,get the book status,get,status,1,low,0,1,2
+p36,6,6,send the offer borrower to the hold request,send,borrower,1,low,0,1,2
+p66,9,11,annotated the decision,annotate,decision,1,low,0,1,2
+p66,9,12,annotated original request sents,annotate,request,1,low,0,1,2
+p7,20,19,the fulfillment unit updates ,unit,updates,1,low,1,1,2
+p141,12,13,starts the procedure,starts,procedure,1,low,0,0,3
+p4,15,16,finish the process,finish,process,1,high,1,0,3
+p114,15,17,complete the checkup process,complete,process,1,low,0,0,3
+p100,8,8,create the replacement order,create,order,1,low,0,0,3
+p74,8,11,create the open ticket,create,ticket,1,low,0,0,3
+p1,16,19,finish the process,finish,process,1,high,1,0,3
+p10,11,13,finish the process,finish,process,1,high,1,0,3
+p100,15,16,finish the process,finish,process,1,high,1,0,3
+p101,16,18,finish the process,finish,process,1,high,1,0,3
+p102,24,22,finish the process,finish,process,1,high,1,0,3
+p103,22,25,finish the process,finish,process,1,high,1,0,3
+p104,30,26,finish the process,finish,process,1,high,1,0,3
+p105,15,16,send the error message,send,message,1,low,1,0,3
+p105,19,22,complete the order process,complete,process,1,low,0,0,3
+p105,20,23,finish the process,finish,process,1,high,1,0,3
+p106,12,15,finish the process,finish,process,1,high,1,0,3
+p107,23,23,finish the process,finish,process,1,high,1,0,3
+p108,33,31,finish the process,finish,process,1,high,1,0,3
+p109,46,46,finish the process,finish,process,1,high,1,0,3
+p11,14,16,finish the process,finish,process,1,high,1,0,3
+p110,11,11,finish the process,finish,process,1,high,1,0,3
+p111,16,15,finish the process,finish,process,1,high,1,0,3
+p112,13,11,complete the process,complete,process,1,low,1,0,3
+p112,14,12,finish the process,finish,process,1,high,1,0,3
+p113,14,14,finish the process,finish,process,1,high,1,0,3
+p114,16,18,finish the process,finish,process,1,high,1,0,3
+p115,16,16,finish the process,finish,process,1,high,1,0,3
+p116,21,25,close the claim process,close,process,1,low,0,0,3
+p116,22,26,finish the process,finish,process,1,high,1,0,3
+p117,20,22,finish the process,finish,process,1,high,1,0,3
+p118,19,20,finish the process,finish,process,1,high,1,0,3
+p119,11,13,finish the process,finish,process,1,high,1,0,3
+p12,11,12,finish the process,finish,process,1,high,1,0,3
+p120,13,15,finish the process,finish,process,1,high,1,0,3
+p121,9,11,complete the registration process,complete,process,1,low,1,0,3
+p121,10,12,finish the process,finish,process,1,high,1,0,3
+p122,16,21,complete the complaint process,complete,process,1,low,0,0,3
+p122,18,23,finish the process,finish,process,1,high,1,0,3
+p123,14,13,finish the process,finish,process,1,high,1,0,3
+p124,22,21,finish the process,finish,process,1,high,1,0,3
+p125,17,17,finish the process,finish,process,1,high,1,0,3
+p126,14,14,finish the process,finish,process,1,high,1,0,3
+p127,21,22,finish the process,finish,process,1,high,1,0,3
+p128,12,13,finish the process,finish,process,1,high,1,0,3
+p129,19,20,finish the process,finish,process,1,high,1,0,3
+p13,10,10,finish the process,finish,process,1,high,1,0,3
+p130,13,17,finish the process,finish,process,1,high,1,0,3
+p131,18,19,finish the process,finish,process,1,high,1,0,3
+p132,13,15,finish the process,finish,process,1,high,1,0,3
+p133,13,16,complete the registration process,complete,process,1,low,1,0,3
+p133,16,19,finish the process,finish,process,1,high,1,0,3
+p134,17,17,finish the process,finish,process,1,high,1,0,3
+p135,24,26,finish the process,finish,process,1,high,1,0,3
+p136,31,37,finish the process,finish,process,1,high,1,0,3
+p137,28,31,finish the process,finish,process,1,high,1,0,3
+p138,23,23,finish the process,finish,process,1,high,1,0,3
+p139,23,24,finish the process,finish,process,1,high,1,0,3
+p14,12,9,finish the process,finish,process,1,high,1,0,3
+p140,19,20,finish the process,finish,process,1,high,1,0,3
+p141,23,24,finish the process,finish,process,1,high,1,0,3
+p142,32,33,finish the process,finish,process,1,high,1,0,3
+p143,27,35,finish the process,finish,process,1,high,1,0,3
+p144,17,17,finish the process,finish,process,1,high,1,0,3
+p145,0,0,start process with a decision,start,process,1,low,0,0,3
+p146,36,39,finish the process,finish,process,1,high,1,0,3
+p147,46,47,finish the process,finish,process,1,high,1,0,3
+p148,24,23,finish the process,finish,process,1,high,1,0,3
+p149,14,13,finish the process,finish,process,1,high,1,0,3
+p15,14,15,finish the process,finish,process,1,high,1,0,3
+p150,36,45,finish the process,finish,process,1,high,1,0,3
+p16,14,16,finish the process,finish,process,1,high,1,0,3
+p17,6,7,finish the process,finish,process,1,high,1,0,3
+p18,10,10,finish the process,finish,process,1,high,1,0,3
+p19,13,12,finish the process,finish,process,1,high,1,0,3
+p2,18,20,finish the process,finish,process,1,high,1,0,3
+p20,10,10,finish the process,finish,process,1,high,1,0,3
+p21,15,14,finish the process,finish,process,1,high,1,0,3
+p22,21,25,finish the process,finish,process,1,high,1,0,3
+p23,11,11,finish the process,finish,process,1,high,1,0,3
+p24,8,10,finish the process,finish,process,1,high,1,0,3
+p25,12,15,finish the process,finish,process,1,high,1,0,3
+p26,8,11,finish the process,finish,process,1,high,1,0,3
+p27,8,9,finish the process,finish,process,1,high,1,0,3
+p28,12,14,finish the process,finish,process,1,high,1,0,3
+p29,10,11,finish the process,finish,process,1,high,1,0,3
+p3,12,15,finish the process,finish,process,1,high,1,0,3
+p30,17,16,finish the process,finish,process,1,high,1,0,3
+p31,10,13,finish the process,finish,process,1,high,1,0,3
+p32,8,9,finish the process,finish,process,1,high,1,0,3
+p33,13,13,finish the process,finish,process,1,high,1,0,3
+p34,16,16,finish the process,finish,process,1,high,1,0,3
+p35,16,15,finish the process,finish,process,1,high,1,0,3
+p36,12,12,finish the process,finish,process,1,high,1,0,3
+p37,10,12,finish the process,finish,process,1,high,1,0,3
+p38,16,17,finish the process,finish,process,1,high,1,0,3
+p39,13,16,finish the process,finish,process,1,high,1,0,3
+p40,15,16,finish the process,finish,process,1,high,1,0,3
+p41,10,11,finish the process,finish,process,1,high,1,0,3
+p42,14,13,finish the process,finish,process,1,high,1,0,3
+p43,9,10,finish the process,finish,process,1,high,1,0,3
+p44,14,14,finish the process,finish,process,1,high,1,0,3
+p45,9,10,finish the process,finish,process,1,high,1,0,3
+p46,11,13,finish the process,finish,process,1,high,1,0,3
+p47,12,12,finish the process,finish,process,1,high,1,0,3
+p48,5,7,create the generic user id,create,user id,1,low,0,0,3
+p48,9,12,finish the process,finish,process,1,high,1,0,3
+p49,8,10,finish the process,finish,process,1,high,1,0,3
+p50,12,13,finish the process,finish,process,1,high,1,0,3
+p51,10,11,finish the process,finish,process,1,high,1,0,3
+p52,12,16,finish the process,finish,process,1,high,1,0,3
+p53,15,18,finish the process,finish,process,1,high,1,0,3
+p54,14,17,finish the process,finish,process,1,high,1,0,3
+p55,14,12,finish the process,finish,process,1,high,1,0,3
+p56,12,12,finish the process,finish,process,1,high,1,0,3
+p57,15,17,finish the process,finish,process,1,high,1,0,3
+p58,14,15,close the process,close,process,1,low,0,0,3
+p58,15,16,finish the process,finish,process,1,high,1,0,3
+p59,8,10,finish the process,finish,process,1,high,1,0,3
+p6,9,10,finish the process,finish,process,1,high,1,0,3
+p60,10,12,finish the process,finish,process,1,high,1,0,3
+p61,10,8,finish the process,finish,process,1,high,1,0,3
+p62,12,14,finish the process,finish,process,1,high,1,0,3
+p63,14,15,finish the process,finish,process,1,high,1,0,3
+p64,8,8,finish the process,finish,process,1,high,1,0,3
+p65,9,10,finish the process,finish,process,1,high,1,0,3
+p66,15,18,finish the process,finish,process,1,high,1,0,3
+p67,11,11,finish the process,finish,process,1,high,1,0,3
+p68,11,11,finish the process,finish,process,1,high,1,0,3
+p69,12,14,finish the process,finish,process,1,high,1,0,3
+p7,22,21,finish the process,finish,process,1,high,1,0,3
+p70,8,9,finish the process,finish,process,1,high,1,0,3
+p71,10,11,finish the process,finish,process,1,high,1,0,3
+p72,8,10,finish the process,finish,process,1,high,1,0,3
+p73,12,14,finish the process,finish,process,1,high,1,0,3
+p74,17,21,finish the process,finish,process,1,high,1,0,3
+p75,5,7,send the error message,send,message,1,low,1,0,3
+p75,15,18,finish the process,finish,process,1,high,1,0,3
+p76,10,10,finish the process,finish,process,1,high,1,0,3
+p77,3,4,generate the purchase order form,generate,form,1,low,0,0,3
+p77,11,11,generate the sales invoice form,generate,form,1,low,0,0,3
+p77,12,12,generate the goods delivery note,generate,note,1,low,0,0,3
+p77,15,15,finish the process,finish,process,1,high,1,0,3
+p78,15,23,finish the process,finish,process,1,high,1,0,3
+p79,10,12,finish the process,finish,process,1,high,1,0,3
+p8,13,14,trigger the order,trigger,order,1,low,0,0,3
+p8,15,16,finish the process,finish,process,1,high,1,0,3
+p80,10,11,finish the process,finish,process,1,high,1,0,3
+p81,17,19,finish the process,finish,process,1,high,1,0,3
+p82,21,21,finish the process,finish,process,1,high,1,0,3
+p83,19,22,finish the process,finish,process,1,high,1,0,3
+p84,10,11,finish the process,finish,process,1,high,1,0,3
+p85,12,13,finish the process,finish,process,1,high,1,0,3
+p86,18,18,finish the process,finish,process,1,high,1,0,3
+p87,8,8,complete the process,complete,process,1,low,1,0,3
+p87,13,13,finish the process,finish,process,1,high,1,0,3
+p88,15,16,finish the process,finish,process,1,high,1,0,3
+p89,11,11,finish the process,finish,process,1,high,1,0,3
+p9,13,13,finish the process,finish,process,1,high,1,0,3
+p90,22,23,finish the process,finish,process,1,high,1,0,3
+p91,12,14,finish the process,finish,process,1,high,1,0,3
+p92,13,15,complete the process,complete,process,1,low,1,0,3
+p92,14,16,finish the process,finish,process,1,high,1,0,3
+p93,21,27,finish the process,finish,process,1,high,1,0,3
+p94,11,12,update the database,update,database,1,low,0,0,3
+p94,14,16,finish the process,finish,process,1,high,1,0,3
+p95,20,23,finish the process,finish,process,1,high,1,0,3
+p96,21,19,finish the process,finish,process,1,high,1,0,3
+p97,17,23,finish the process,finish,process,1,high,1,0,3
+p98,21,20,finish the process,finish,process,1,high,1,0,3
+p99,17,18,finish the process,finish,process,1,high,1,0,3
+p74,7,9,automate the request to confirm,automate,request,1,low,0,0,3
+p91,6,7,find the quality,,quality,,,,,?
+p85,11,12,complete the item,,item,,,,,?
+p68,9,10,perform send,,,,,,,?
+p93,10,13,design others,,,,,,,?
+p144,0,1,apply an online,,online,,,,,?
+p148,0,1,apply an online,,online,,,,,?
+p149,0,1,apply an online,,online,,,,,?
+p80,8,9,record ,,,,,,,?
+p90,8,9,check to available for the production,,available,,,,,?
+p122,7,7,assign the medium to the complaint,,medium,,,,,?
+p130,1,4,prepare cores,,,,,,,?
+p132,12,14,return the back to home,,back,,,,,?
+p135,4,5,check the nationality to has which,,nationality,,,,,?
+p150,13,14,print the out,,out,,,,,?
+p33,8,8,bring from warehouse,,warehouse,,,,,?
+p10,4,5,check subsequently,,,,,,,?
+p53,8,11,get the guest,,guest,,,,,?
+p110,2,3,order the entry,,entry,,,,,?
+p43,0,1,fill to form ,,form,,,,,?
+p104,19,15,make the changes,,changes,,,,,?
+p109,2,3,work the order,,order,,,,,?
+p109,28,28,check the in-house,,in-house,,,,,?
+p48,0,1,place an account request form,,account,,,,,?
+p1,0,0,begin ,,,,,,,?
+p1,0,1,arrive at the ticket office,,the,,,,,?
+p1,1,2,register ,,,,,,,?
+p1,1,3,complain ,,,,,,,?
+p1,3,5,subsequently ,,,,,,,?
+p1,5,8,solve ,,,,,,,?
+p1,6,9,send the customer to the support system,,customer,,,,,?
+p1,12,15,ticket ,,,,,,,?
+p1,12,16,change ,,,,,,,?
+p10,0,0,begin ,,,,,,,?
+p10,3,4,subsequently ,,,,,,,?
+p10,7,8,co the flight,,flight,,,,,?
+p10,10,11,conduct ,,,,,,,?
+p10,10,12,receive ,,,,,,,?
+p100,0,0,begin ,,,,,,,?
+p100,4,4,dept. the goods receipt,,goods,,,,,?
+p100,6,6,find to not appropriate ,,not,,,,,?
+p100,8,7,complain ,,,,,,,?
+p100,9,9,complain ,,,,,,,?
+p101,0,0,begin ,,,,,,,?
+p101,14,15,was and be ,,be,,,,,?
+p102,0,0,begin ,,,,,,,?
+p102,6,7,find to available ,,available,,,,,?
+p102,21,17,is the cafe,,cafe,,,,,?
+p102,23,20,is the cafe,,cafe,,,,,?
+p103,0,0,begin ,,,,,,,?
+p103,9,9,can be not fulfil the order,,not,,,,,?
+p103,13,13,find ,,,,,,,?
+p103,16,16,conduct the destination code to ,,destination,,,,,?
+p103,17,17,conduct ,,,,,,,?
+p103,17,18,does not the destination code does not exist ,,the,,,,,?
+p103,19,20,is the shipment,,shipment,,,,,?
+p103,20,22,dept. the products,,products,,,,,?
+p103,21,23,once ,,,,,,,?
+p104,0,0,begin when the req,,the,,,,,?
+p104,2,2,requirments to the spec,,the,,,,,?
+p104,4,3,spec ,,,,,,,?
+p104,8,6,spec ,,,,,,,?
+p104,10,8,spec ,,,,,,,?
+p104,12,10,spec ,,,,,,,?
+p104,21,17,once is the design analyst,,the,,,,,?
+p104,22,18,implem ,,,,,,,?
+p104,24,20,implem ,,,,,,,?
+p104,26,22,implem ,,,,,,,?
+p104,28,24,implem ,,,,,,,?
+p105,0,0,begin ,,,,,,,?
+p105,6,7,subsequently ,,,,,,,?
+p105,11,12,the salesman checks ,,checks,,,,,?
+p105,13,13,subsequently ,,,,,,,?
+p105,14,14,credit the card,,card,,,,,?
+p105,14,15,credit email address invalidate,,address,,,,,?
+p105,16,17,credit the card,,card,,,,,?
+p105,16,18,email the validated,,validated,,,,,?
+p105,19,21,is the customer,,customer,,,,,?
+p106,0,0,begin ,,,,,,,?
+p106,3,4,subsequently ,,,,,,,?
+p106,5,6,find default,,,,,,,?
+p106,5,7,the payment is default,,is,,,,,?
+p106,6,8,show the message,,message,,,,,?
+p106,7,9,is the customer,,customer,,,,,?
+p106,11,13,is the customer,,customer,,,,,?
+p107,0,0,begin ,,,,,,,?
+p107,3,4,check exist,,,,,,,?
+p107,3,5,check not,,,,,,,?
+p107,5,6,find to not available ,,not,,,,,?
+p107,6,7,admin for further process,,further,,,,,?
+p107,10,11,find to available ,,available,,,,,?
+p107,20,20,find to available ,,available,,,,,?
+p108,0,0,begin ,,,,,,,?
+p108,14,13,quote acceptable,,,,,,,?
+p108,19,18,quote the acceptable,,acceptable,,,,,?
+p108,23,22,check the acceptable,,acceptable,,,,,?
+p108,31,29,not the acceptable,,acceptable,,,,,?
+p109,0,0,begin ,,,,,,,?
+p109,5,5,conduct the completed info,,completed,,,,,?
+p109,8,8,conduct the info completed,,info,,,,,?
+p109,13,12,conduct the stl housing concern found,,stl,,,,,?
+p109,14,13,conduct the advice to work to require ,,advice,,,,,?
+p109,15,14,check ,,,,,,,?
+p109,15,15,agree to the address,,the,,,,,?
+p109,17,16,conduct agreed,,,,,,,?
+p109,18,17,advise the fm\/gso,,fm\/gso,,,,,?
+p109,19,18,agreeds to the address,,the,,,,,?
+p109,21,20,is the work,,work,,,,,?
+p109,21,21,conduct the stl housing concern to find ,,stl,,,,,?
+p109,24,24,subsequently ,,,,,,,?
+p109,25,25,conduct approved,,,,,,,?
+p109,30,29,subsequently ,,,,,,,?
+p109,35,33,subsequently ,,,,,,,?
+p109,36,34,cleareds the required escort,,required,,,,,?
+p109,37,35,cleareds the escort required,,escort,,,,,?
+p109,41,40,is the work,,work,,,,,?
+p109,42,42,work order,,,,,,,?
+p11,0,0,begin ,,,,,,,?
+p11,6,6,begin ,,,,,,,?
+p11,9,10,credit the card balance sufficent,,card,,,,,?
+p11,11,12,begin ,,,,,,,?
+p11,11,13,claiming card balance insufficent,,balance,,,,,?
+p110,0,0,begin ,,,,,,,?
+p110,3,4,form ,,,,,,,?
+p111,0,0,begin ,,,,,,,?
+p111,5,6,see ,,,,,,,?
+p111,5,7,the request is from the new client,,is,,,,,?
+p112,0,0,begin ,,,,,,,?
+p112,11,8,feedbacks the positive,,positive,,,,,?
+p112,13,10,is the manager,,manager,,,,,?
+p113,0,0,begin ,,,,,,,?
+p113,0,1,\/ ,,,,,,,?
+p113,6,6,subsequently ,,,,,,,?
+p113,7,7,find to not possible ,,not,,,,,?
+p113,10,10,find to possible ,,possible,,,,,?
+p114,0,0,begin ,,,,,,,?
+p114,0,1,arriveses at the clinic,,the,,,,,?
+p114,11,13,receive the doze,,doze,,,,,?
+p115,0,0,begin when the customer requests for flight booking,,the,,,,,?
+p115,6,6,subsequently ,,,,,,,?
+p115,7,7,find to available ,,available,,,,,?
+p116,0,0,begin ,,,,,,,?
+p116,6,8,subsequently ,,,,,,,?
+p116,10,12,issue resolved,,,,,,,?
+p116,11,13,support ,,,,,,,?
+p116,16,17,claim in the next relese,,the,,,,,?
+p116,17,18,2nd the issue into the product backlog,,issue,,,,,?
+p116,18,19,issue ,,,,,,,?
+p116,18,20,resolve ,,,,,,,?
+p116,19,21,inform ,,,,,,,?
+p116,19,22,support ,,,,,,,?
+p116,20,23,was and be the 1st level,,be,,,,,?
+p117,0,0,begin ,,,,,,,?
+p117,0,1,conduct a customer arrived at shop,,customer,,,,,?
+p117,9,10,subsequently ,,,,,,,?
+p117,14,15,see the customer,,customer,,,,,?
+p117,14,16,register ,,,,,,,?
+p117,17,17,find ,,,,,,,?
+p117,17,18,register ,,,,,,,?
+p117,18,19,find ,,,,,,,?
+p117,18,20,the customer is new,,is,,,,,?
+p118,0,0,begin ,,,,,,,?
+p118,3,4,subsequently ,,,,,,,?
+p118,8,9,subsequently ,,,,,,,?
+p119,0,0,begin ,,,,,,,?
+p119,4,4,subsequently ,,,,,,,?
+p119,6,5,claim ,,,,,,,?
+p119,6,6,express ,,,,,,,?
+p119,8,8,express 50.0 s.,,s.,,,,,?
+p12,0,0,begin ,,,,,,,?
+p12,8,9,subsequently ,,,,,,,?
+p120,0,0,begin ,,,,,,,?
+p120,0,1,conduct ,,,,,,,?
+p120,0,2,come ,,,,,,,?
+p120,6,8,subsequently ,,,,,,,?
+p120,7,9,insurance co. does the required copy,,does,,,,,?
+p120,8,10,requireds the copy,,copy,,,,,?
+p120,9,11,is the insurance co.,,insurance,,,,,?
+p121,0,0,begin ,,,,,,,?
+p121,1,2,begin the user resistration,,user,,,,,?
+p121,4,5,conduct to commit ,,commit,,,,,?
+p121,6,7,conduct ,,,,,,,?
+p121,6,8,create ,,,,,,,?
+p121,7,9,open ,,,,,,,?
+p122,0,0,begin ,,,,,,,?
+p122,8,8,subsequently ,,,,,,,?
+p122,9,9,conduct ,,,,,,,?
+p122,11,12,find ,,,,,,,?
+p122,11,13,content email,,,,,,,?
+p122,15,17,is the complaint,,complaint,,,,,?
+p122,15,18,conduct ,,,,,,,?
+p122,16,20,is the complaint,,complaint,,,,,?
+p123,0,0,begin ,,,,,,,?
+p123,1,2,the goods,,,,,,,?
+p123,5,5,find the quality,,quality,,,,,?
+p123,8,8,find the quality ok,,quality,,,,,?
+p124,0,0,begin ,,,,,,,?
+p124,4,4,subsequently ,,,,,,,?
+p124,7,7,find to available ,,available,,,,,?
+p124,8,8,is the processing,,processing,,,,,?
+p124,10,11,subsequently ,,,,,,,?
+p124,11,12,n'ts to has inventory,,has,,,,,?
+p124,15,15,processing department has the inventory,,has,,,,,?
+p125,0,0,begin ,,,,,,,?
+p125,5,5,find the quality ok,,quality,,,,,?
+p125,8,8,find the quality ok,,quality,,,,,?
+p125,12,12,ready to deliver ,,deliver,,,,,?
+p126,0,0,begin ,,,,,,,?
+p127,0,0,begin ,,,,,,,?
+p127,11,11,HR ,,,,,,,?
+p127,14,15,subsequently ,,,,,,,?
+p127,19,20,HR the hr system,,hr,,,,,?
+p127,20,21,send the notices,,notices,,,,,?
+p128,0,0,begin ,,,,,,,?
+p129,0,0,begin ,,,,,,,?
+p129,3,4,subsequently ,,,,,,,?
+p129,6,7,is the doctor,,doctor,,,,,?
+p129,14,14,helpers the lab test,,lab,,,,,?
+p129,17,17,is the ward,,ward,,,,,?
+p13,0,0,begin ,,,,,,,?
+p13,2,2,informeds to not available ,,not,,,,,?
+p13,8,8,informeds to available ,,available,,,,,?
+p130,0,0,begin ,,,,,,,?
+p130,0,1,identify ,,,,,,,?
+p130,0,2,need ,,,,,,,?
+p130,6,9,subsequently ,,,,,,,?
+p130,7,10,prepare ,,,,,,,?
+p130,8,11,plan ,,,,,,,?
+p131,0,0,begin ,,,,,,,?
+p131,3,4,subsequently ,,,,,,,?
+p131,10,11,subsequently ,,,,,,,?
+p132,0,0,begin ,,,,,,,?
+p132,0,1,ready for the work,,the,,,,,?
+p132,6,7,the required task starts the daily work,,task,,,,,?
+p132,7,8,find to time ,,time,,,,,?
+p132,10,11,work ,,,,,,,?
+p132,11,12,work the time completed,,time,,,,,?
+p133,0,0,begin ,,,,,,,?
+p133,1,2,view ,,,,,,,?
+p133,1,3,sign up page,,page,,,,,?
+p133,4,6,allow the user,,user,,,,,?
+p133,7,9,conduct to commit ,,commit,,,,,?
+p133,9,11,website the record,,record,,,,,?
+p133,10,12,conduct ,,,,,,,?
+p133,10,13,create ,,,,,,,?
+p133,11,14,open ,,,,,,,?
+p134,0,0,begin ,,,,,,,?
+p134,1,2,the goods,,,,,,,?
+p134,5,5,find the fine quality,,fine,,,,,?
+p134,10,10,find to not fine ,,not,,,,,?
+p134,11,11,subsequently ,,,,,,,?
+p135,0,0,begin ,,,,,,,?
+p135,6,6,find ,,,,,,,?
+p135,6,7,the at-least one has german citizenship,,one,,,,,?
+p135,8,9,find ,,,,,,,?
+p135,8,10,the one has german citizenship,,has,,,,,?
+p135,9,11,document to the commitee,,the,,,,,?
+p135,11,13,subsequently ,,,,,,,?
+p135,12,14,find ,,,,,,,?
+p135,16,18,was and be the hospital,,be,,,,,?
+p135,21,23,is the hospital,,hospital,,,,,?
+p136,0,0,begin ,,,,,,,?
+p136,2,2,find ,,,,,,,?
+p136,2,3,miss ,,,,,,,?
+p136,3,4,request the parents,,parents,,,,,?
+p136,4,5,conduct the information received,,information,,,,,?
+p136,6,7,find to complete ,,complete,,,,,?
+p136,7,8,is the hospital,,hospital,,,,,?
+p136,7,9,confirm ,,,,,,,?
+p136,9,11,see ,,,,,,,?
+p136,9,12,do not accept baby,,accept,,,,,?
+p136,12,14,see ,,,,,,,?
+p136,14,17,russian citizenship,,,,,,,?
+p136,16,18,find ,,,,,,,?
+p136,16,19,the one has russian nationality,,has,,,,,?
+p136,20,24,the east atl is russian,,atl,,,,,?
+p136,22,26,is the hospital,,hospital,,,,,?
+p136,22,27,take the decided name,,decided,,,,,?
+p136,27,32,find at the least,,the,,,,,?
+p136,27,33,the parents have registration,,have,,,,,?
+p136,30,36,formalize the moth payments,,moth,,,,,?
+p137,0,0,begin ,,,,,,,?
+p137,2,3,document to the hospital administration,,the,,,,,?
+p137,5,6,one parent is citizen,,is,,,,,?
+p137,7,9,the one is citizen,,is,,,,,?
+p137,9,11,is the hospital administration,,hospital,,,,,?
+p137,10,12,see the child born in the wedlock or not,,child,,,,,?
+p137,18,19,see the present or not father,,present,,,,,?
+p137,20,20,find ,,,,,,,?
+p137,20,21,the father is present,,is,,,,,?
+p137,22,23,find ,,,,,,,?
+p137,22,24,does not the father does not exist ,,the,,,,,?
+p137,25,27,was and be the hospital,,be,,,,,?
+p138,0,0,begin ,,,,,,,?
+p138,5,5,is the inquiry,,inquiry,,,,,?
+p138,22,21,is the inquiry,,inquiry,,,,,?
+p139,0,0,begin ,,,,,,,?
+p139,3,4,subsequently ,,,,,,,?
+p139,4,5,predict to the municipility,,the,,,,,?
+p139,5,6,the based on the information,,on,,,,,?
+p139,12,12,is the hospital,,hospital,,,,,?
+p139,17,18,gba ,,,,,,,?
+p14,0,0,begin ,,,,,,,?
+p14,6,4,once is the moderates discussion,,the,,,,,?
+p14,10,6,wait until the due date,,the,,,,,?
+p14,11,7,was and be ,,be,,,,,?
+p140,0,0,begin ,,,,,,,?
+p140,5,5,subsequently ,,,,,,,?
+p140,8,8,is the hospital,,hospital,,,,,?
+p140,15,15,gba data,,,,,,,?
+p140,16,16,is the hospital,,hospital,,,,,?
+p141,0,0,begin ,,,,,,,?
+p141,14,14,apply the decent rights,,decent,,,,,?
+p141,15,15,apply the decent rights,,decent,,,,,?
+p142,0,0,begin ,,,,,,,?
+p142,10,12,subsequently ,,,,,,,?
+p142,14,15,is the enrolment,,enrolment,,,,,?
+p142,16,17,conduct ,,,,,,,?
+p142,16,18,not find application in complete or in time,,application,,,,,?
+p143,0,0,begin ,,,,,,,?
+p143,0,1,chooseses a university,,university,,,,,?
+p143,3,3,conduct ,,,,,,,?
+p143,7,9,conduct ,,,,,,,?
+p143,9,14,subsequently ,,,,,,,?
+p143,10,15,find ,,,,,,,?
+p143,10,16,not the application is not complete,,application,,,,,?
+p143,14,20,find ,,,,,,,?
+p143,14,21,the application is complete,,is,,,,,?
+p143,24,31,acceptses the match,,match,,,,,?
+p144,0,0,begin ,,,,,,,?
+p144,4,5,document to the department,,the,,,,,?
+p145,2,1,applicant is the german,,the,,,,,?
+p145,5,2,conduct the a german,,a,,,,,?
+p145,7,4,conduct ,,,,,,,?
+p145,8,5,is the applicant,,applicant,,,,,?
+p145,13,12,subsequently ,,,,,,,?
+p145,15,14,check to complete ,,complete,,,,,?
+p145,16,15,is the enrollment,,enrollment,,,,,?
+p146,0,0,begin ,,,,,,,?
+p146,15,18,request to the complete application,,the,,,,,?
+p146,25,27,conduct ,,,,,,,?
+p146,25,28,meet the high ranking requirements,,high,,,,,?
+p146,26,29,proposeds accepted,,,,,,,?
+p146,27,30,provide ,,,,,,,?
+p146,28,31,proposeds reserved,,,,,,,?
+p146,29,32,not see the requirements to meet ,,the,,,,,?
+p146,30,33,proposeds rejected,,,,,,,?
+p146,31,34,is the selection,,selection,,,,,?
+p146,35,37,is the applicant,,applicant,,,,,?
+p147,0,0,begin ,,,,,,,?
+p147,3,3,conduct the nationality german,,nationality,,,,,?
+p147,5,4,conduct ,,,,,,,?
+p147,5,5,not the nationality is not german,,nationality,,,,,?
+p147,7,7,conduct german,,,,,,,?
+p147,7,8,the nationality is german,,is,,,,,?
+p147,18,21,check to complete ,,complete,,,,,?
+p147,19,22,is the enrollment,,enrollment,,,,,?
+p147,20,24,subsequently ,,,,,,,?
+p147,22,26,find to complete ,,complete,,,,,?
+p147,25,29,subsequently ,,,,,,,?
+p147,31,32,conduct 50 points,,points,,,,,?
+p147,33,34,conduct the 50-69 points,,50-69,,,,,?
+p147,42,42,qualify the applicant,,applicant,,,,,?
+p147,44,44,qualify the applicant,,applicant,,,,,?
+p148,0,0,begin ,,,,,,,?
+p148,8,8,is the university administration,,university,,,,,?
+p148,14,13,wait for certificate,,certificate,,,,,?
+p148,19,17,average to less than good,,less,,,,,?
+p148,23,21,is the university,,university,,,,,?
+p149,0,0,begin ,,,,,,,?
+p149,8,8,keep in the applicant pool,,the,,,,,?
+p149,10,10,is the aplicant,,aplicant,,,,,?
+p15,0,0,begin ,,,,,,,?
+p15,9,10,subsequently ,,,,,,,?
+p15,10,11,conduct the quality to lack ,,quality,,,,,?
+p15,11,12,lack ,,,,,,,?
+p15,12,13,conduct the quality ok,,quality,,,,,?
+p150,0,0,begin ,,,,,,,?
+p150,3,4,subsequently ,,,,,,,?
+p150,4,5,not conduct to meet basic requirements,,to,,,,,?
+p150,5,6,meet the basic requirements,,basic,,,,,?
+p150,13,13,is the applicant,,applicant,,,,,?
+p150,17,21,subsequently ,,,,,,,?
+p150,18,22,find ,,,,,,,?
+p150,18,23,the applicant is from the european country,,is,,,,,?
+p150,19,24,find ,,,,,,,?
+p150,19,25,not the applicant is not from the european country,,applicant,,,,,?
+p150,21,27,is the university,,university,,,,,?
+p150,23,30,subsequently ,,,,,,,?
+p150,26,34,is the selection,,selection,,,,,?
+p150,30,38,the selection committee does the interview,,committee,,,,,?
+p150,34,42,is the selection,,selection,,,,,?
+p16,0,0,begin ,,,,,,,?
+p16,0,1,arrive at the shop,,the,,,,,?
+p16,9,9,conduct the happy,,happy,,,,,?
+p16,10,10,conduct to not happy with order,,not,,,,,?
+p16,12,12,receive ,,,,,,,?
+p16,12,13,complain ,,,,,,,?
+p16,13,14,process ,,,,,,,?
+p16,13,15,complain ,,,,,,,?
+p17,0,0,begin ,,,,,,,?
+p18,0,0,begin ,,,,,,,?
+p19,0,0,begin ,,,,,,,?
+p19,0,1,arrive at the book shop,,the,,,,,?
+p19,6,6,conduct to available ,,available,,,,,?
+p19,9,9,conduct to not available ,,not,,,,,?
+p2,0,0,begin ,,,,,,,?
+p2,5,5,not find the student to fulfill financial requirments,,the,,,,,?
+p2,8,8,remedy the financial condition,,financial,,,,,?
+p2,17,18,is the admission,,admission,,,,,?
+p20,0,0,begin ,,,,,,,?
+p20,9,8,once ,,,,,,,?
+p21,0,0,begin ,,,,,,,?
+p22,0,0,begin ,,,,,,,?
+p22,9,11,subsequently ,,,,,,,?
+p22,13,15,is the production,,production,,,,,?
+p22,18,20,once is the assembly,,the,,,,,?
+p23,0,0,begin ,,,,,,,?
+p23,0,1,check an,,,,,,,?
+p23,2,3,if ,,,,,,,?
+p23,3,4,not grant a black list,,a,,,,,?
+p23,5,6,co checks is list ,,is,,,,,?
+p23,8,7,not grant ,,,,,,,?
+p23,10,9,is the loan granting co grants,,loan,,,,,?
+p23,10,10,the loan granting co grants is ready,,granting,,,,,?
+p24,0,0,begin ,,,,,,,?
+p24,3,3,repairables ,,,,,,,?
+p24,4,4,spare part,,,,,,,?
+p24,5,6,restock inventory,,,,,,,?
+p24,6,7,repair to not good for the repair,,not,,,,,?
+p25,0,0,begin ,,,,,,,?
+p25,3,4,subsequently ,,,,,,,?
+p26,0,0,begin ,,,,,,,?
+p26,3,4,subsequently ,,,,,,,?
+p26,4,5,conduct the entry,,entry,,,,,?
+p26,5,6,voucher details,,,,,,,?
+p26,6,7,is the accounting department,,accounting,,,,,?
+p26,6,8,conduct details to enter data,,to,,,,,?
+p26,6,9,conduct details to prepare transfer file,,to,,,,,?
+p27,0,0,begin ,,,,,,,?
+p27,0,1,receive a supplier,,supplier,,,,,?
+p27,2,3,analyze ,,,,,,,?
+p27,3,4,subsequently ,,,,,,,?
+p28,0,0,begin ,,,,,,,?
+p28,3,4,subsequently ,,,,,,,?
+p28,5,6,project the fixing bugs,,fixing,,,,,?
+p28,9,10,find to prone ,,prone,,,,,?
+p28,11,12,is the project,,project,,,,,?
+p29,0,0,begin ,,,,,,,?
+p29,5,5,find ,,,,,,,?
+p29,5,6,fail ,,,,,,,?
+p29,8,9,find to successful ,,successful,,,,,?
+p29,9,10,issue the license,,license,,,,,?
+p3,0,0,begin ,,,,,,,?
+p3,2,3,receive ,,,,,,,?
+p3,3,4,subsequently ,,,,,,,?
+p3,4,5,conduct to available ,,available,,,,,?
+p3,11,13,conduct ,,,,,,,?
+p3,11,14,receive ,,,,,,,?
+p30,0,0,begin ,,,,,,,?
+p30,2,2,not conduct to require quotation,,to,,,,,?
+p30,7,7,managment requests,,,,,,,?
+p30,10,10,manage the quotation,,quotation,,,,,?
+p30,14,13,manage the pending offer,,pending,,,,,?
+p30,15,14,not conduct to accept offer,,to,,,,,?
+p30,16,15,manage the quotation,,quotation,,,,,?
+p31,0,0,begin ,,,,,,,?
+p31,3,4,subsequently ,,,,,,,?
+p31,4,5,identify ,,,,,,,?
+p31,4,6,the customer ,,,,,,,?
+p31,5,7,identify ,,,,,,,?
+p31,5,8,not the customerdoes exist not ,,customerdoes,,,,,?
+p31,7,10,once is the aqua co.,,the,,,,,?
+p32,0,0,begin ,,,,,,,?
+p32,3,4,subsequently ,,,,,,,?
+p32,4,5,inspect to possible ,,possible,,,,,?
+p33,0,0,begin ,,,,,,,?
+p33,5,4,is the stock keeper,,stock,,,,,?
+p33,6,6,subsequently ,,,,,,,?
+p33,9,9,find to available ,,available,,,,,?
+p33,10,10,is the stock,,stock,,,,,?
+p34,0,0,begin ,,,,,,,?
+p34,3,4,subsequently ,,,,,,,?
+p34,6,7,is the candidate,,candidate,,,,,?
+p35,0,0,begin ,,,,,,,?
+p35,5,4,is the hr,,hr,,,,,?
+p35,13,12,HR department updates,,updates,,,,,?
+p35,15,14,HR department updates,,updates,,,,,?
+p36,0,0,begin ,,,,,,,?
+p36,7,7,find to unavailable ,,unavailable,,,,,?
+p36,9,9,find to available ,,available,,,,,?
+p37,0,0,begin ,,,,,,,?
+p38,0,0,begin ,,,,,,,?
+p38,3,4,subsequently ,,,,,,,?
+p38,8,9,subsequently ,,,,,,,?
+p38,15,16,website the customer status,,customer,,,,,?
+p39,0,0,begin ,,,,,,,?
+p39,1,2,choose ,,,,,,,?
+p39,1,3,require products,,,,,,,?
+p39,9,11,subsequently ,,,,,,,?
+p4,0,0,begin ,,,,,,,?
+p4,3,4,subsequently ,,,,,,,?
+p4,4,5,conduct the candidate,,candidate,,,,,?
+p4,6,7,conduct the candidate,,candidate,,,,,?
+p4,11,12,subsequently ,,,,,,,?
+p4,13,14,conduct the insufficent information,,insufficent,,,,,?
+p4,14,15,notifieses ,,,,,,,?
+p40,0,0,begin ,,,,,,,?
+p40,3,4,subsequently ,,,,,,,?
+p40,7,8,once ,,,,,,,?
+p40,9,10,find to incomplete ,,incomplete,,,,,?
+p40,11,12,find to complete ,,complete,,,,,?
+p41,0,0,begin ,,,,,,,?
+p41,3,4,subsequently ,,,,,,,?
+p42,0,0,begin ,,,,,,,?
+p42,3,3,co. the flight,,flight,,,,,?
+p42,4,4,co. the hotel,,hotel,,,,,?
+p42,5,5,co. the booking system,,booking,,,,,?
+p43,0,0,begin ,,,,,,,?
+p43,7,7,find to available ,,available,,,,,?
+p43,8,8,is the training co.,,training,,,,,?
+p44,0,0,begin ,,,,,,,?
+p44,3,4,subsequently ,,,,,,,?
+p44,6,7,the bidder deals ,,deals,,,,,?
+p45,0,0,begin ,,,,,,,?
+p45,0,1,take a sample,,sample,,,,,?
+p45,3,4,subsequently ,,,,,,,?
+p45,8,9,offer the correct sample,,correct,,,,,?
+p46,0,0,begin ,,,,,,,?
+p46,3,4,subsequently ,,,,,,,?
+p46,9,10,is the 1st level,,1st,,,,,?
+p47,0,0,begin ,,,,,,,?
+p47,3,4,subsequently ,,,,,,,?
+p47,6,7,find to available ,,available,,,,,?
+p47,10,9,is the shopkeeper,,shopkeeper,,,,,?
+p48,0,0,begin ,,,,,,,?
+p48,2,3,form validity,,,,,,,?
+p48,3,4,subsequently ,,,,,,,?
+p48,4,5,find ,,,,,,,?
+p48,4,6,the account request is valid,,request,,,,,?
+p48,6,8,find ,,,,,,,?
+p48,6,9,miss ,,,,,,,?
+p48,7,10,I&T to help the sponsor,,help,,,,,?
+p49,0,0,begin ,,,,,,,?
+p49,3,4,subsequently ,,,,,,,?
+p49,5,6,find ,,,,,,,?
+p49,5,7,the order is special,,is,,,,,?
+p49,7,9,the order ,,,,,,,?
+p5,0,0,begin ,,,,,,,?
+p5,0,1,place ,,,,,,,?
+p5,3,3,conduct to miss ,,miss,,,,,?
+p5,3,4,reject ,,,,,,,?
+p5,4,5,conduct the capacity ok,,capacity,,,,,?
+p5,4,6,confirm ,,,,,,,?
+p5,7,8,conduct to available ,,available,,,,,?
+p5,8,9,partses to miss ,,miss,,,,,?
+p50,0,0,begin ,,,,,,,?
+p50,3,4,subsequently ,,,,,,,?
+p50,7,7,review ,,,,,,,?
+p50,7,8,apply ,,,,,,,?
+p50,10,11,implement defined,,,,,,,?
+p50,11,12,authorize ,,,,,,,?
+p51,0,0,begin ,,,,,,,?
+p51,8,8,the purchaser accesses ,,accesses,,,,,?
+p51,8,9,reviews ,,,,,,,?
+p52,0,0,begin ,,,,,,,?
+p52,6,7,require ,,,,,,,?
+p52,9,10,carry ,,,,,,,?
+p52,11,12,was and be the warehouse,,be,,,,,?
+p53,0,0,begin ,,,,,,,?
+p53,0,1,greet a guest,,guest,,,,,?
+p53,2,2,find ,,,,,,,?
+p53,2,3,the guest has reservations,,has,,,,,?
+p53,7,9,find ,,,,,,,?
+p53,7,10,the guest has no reservations,,has,,,,,?
+p53,8,12,the the guest services,,guest,,,,,?
+p54,0,0,begin ,,,,,,,?
+p54,3,4,subsequently ,,,,,,,?
+p54,4,6,register ,,,,,,,?
+p54,5,7,find the retailer don't exist,,retailer,,,,,?
+p54,5,8,do not the retailer do not exist ,,the,,,,,?
+p54,7,10,is the iphone co.,,iphone,,,,,?
+p54,9,12,demand the available so to accept order,,available,,,,,?
+p54,10,13,co. the iphone order,,iphone,,,,,?
+p54,12,15,co. stocks,,,,,,,?
+p55,0,0,begin ,,,,,,,?
+p55,13,11,provide ,,,,,,,?
+p56,0,0,begin ,,,,,,,?
+p56,5,5,find to available ,,available,,,,,?
+p56,6,6,the warehouse man ,,man,,,,,?
+p56,10,9,once ,,,,,,,?
+p57,0,0,begin ,,,,,,,?
+p57,5,5,is the finance department,,finance,,,,,?
+p57,12,12,find ,,,,,,,?
+p57,12,13,not the order is not sufficent,,order,,,,,?
+p57,14,15,is the sales,,sales,,,,,?
+p58,0,0,begin ,,,,,,,?
+p58,3,4,subsequently ,,,,,,,?
+p58,7,8,card for the verification,,the,,,,,?
+p59,0,0,begin ,,,,,,,?
+p59,3,4,subsequently ,,,,,,,?
+p59,6,7,deploy the cartridg,,cartridg,,,,,?
+p6,0,0,begin ,,,,,,,?
+p6,0,1,conduct a customer to arrive ,,customer,,,,,?
+p6,3,4,subsequently ,,,,,,,?
+p6,4,5,conduct the available products,,available,,,,,?
+p6,6,7,conduct to available ,,available,,,,,?
+p6,7,8,conduct the setle prices,,setle,,,,,?
+p6,8,9,storekeeper the products,,products,,,,,?
+p60,0,0,begin ,,,,,,,?
+p60,0,1,need a registration authority,,registration,,,,,?
+p60,1,3,exists not,,,,,,,?
+p61,0,0,begin ,,,,,,,?
+p61,9,7,the shipping department ships ,,department,,,,,?
+p62,0,0,begin ,,,,,,,?
+p62,3,4,subsequently ,,,,,,,?
+p63,0,0,begin ,,,,,,,?
+p63,3,4,subsequently ,,,,,,,?
+p63,11,12,subsequently ,,,,,,,?
+p63,13,14,result on the website,,the,,,,,?
+p64,0,0,begin ,,,,,,,?
+p65,0,0,begin ,,,,,,,?
+p65,6,7,subsequently ,,,,,,,?
+p66,0,0,begin ,,,,,,,?
+p66,6,7,subsequently ,,,,,,,?
+p66,7,9,reject sends,,,,,,,?
+p66,8,10,receive ,,,,,,,?
+p66,12,15,receive ,,,,,,,?
+p67,0,0,begin ,,,,,,,?
+p67,3,4,subsequently ,,,,,,,?
+p68,0,0,begin ,,,,,,,?
+p69,0,0,begin ,,,,,,,?
+p69,6,7,subsequently ,,,,,,,?
+p69,9,10,find to not eligible ,,not,,,,,?
+p7,0,0,begin ,,,,,,,?
+p7,4,4,subsequently ,,,,,,,?
+p7,7,7,find to available ,,available,,,,,?
+p7,8,8,is the processing,,processing,,,,,?
+p7,10,11,subsequently ,,,,,,,?
+p7,11,12,n'ts to has inventory,,has,,,,,?
+p7,15,15,processing department has the inventory,,has,,,,,?
+p70,0,0,begin ,,,,,,,?
+p70,7,7,is the company,,company,,,,,?
+p71,0,0,begin ,,,,,,,?
+p71,0,1,develop ,,,,,,,?
+p72,0,0,begin ,,,,,,,?
+p72,3,4,subsequently ,,,,,,,?
+p73,0,0,begin ,,,,,,,?
+p73,3,4,subsequently ,,,,,,,?
+p73,4,5,find ,,,,,,,?
+p73,4,6,the ingredients be complete,,be,,,,,?
+p73,9,11,the driver schedules ,,schedules,,,,,?
+p74,0,0,begin ,,,,,,,?
+p74,5,6,find ,,,,,,,?
+p74,15,17,is the isc,,isc,,,,,?
+p74,15,18,determine ,,,,,,,?
+p74,15,19,require ,,,,,,,?
+p75,0,0,begin ,,,,,,,?
+p75,3,4,subsequently ,,,,,,,?
+p75,4,5,find ,,,,,,,?
+p75,4,6,not the request is not valid,,request,,,,,?
+p75,7,9,find ,,,,,,,?
+p75,7,10,the request is valid,,is,,,,,?
+p75,13,15,is the open mms,,open,,,,,?
+p76,0,0,begin ,,,,,,,?
+p77,0,0,begin ,,,,,,,?
+p77,13,13,once is the supplier ships,,the,,,,,?
+p78,0,0,begin ,,,,,,,?
+p78,3,4,subsequently ,,,,,,,?
+p78,4,5,find ,,,,,,,?
+p78,4,6,miss ,,,,,,,?
+p78,6,9,find ,,,,,,,?
+p78,6,10,the information is complete,,is,,,,,?
+p78,8,12,is the registrar,,registrar,,,,,?
+p78,9,14,subsequently ,,,,,,,?
+p78,10,15,find ,,,,,,,?
+p78,10,16,not the standard is not ok,,standard,,,,,?
+p78,12,18,find ok,,,,,,,?
+p78,12,19,the standard is ok,,is,,,,,?
+p79,0,0,begin ,,,,,,,?
+p79,6,7,subsequently ,,,,,,,?
+p79,9,10,is the customer,,customer,,,,,?
+p8,0,0,begin ,,,,,,,?
+p8,0,1,occur ,,,,,,,?
+p8,2,2,conduct to available ,,available,,,,,?
+p8,8,8,subsequently ,,,,,,,?
+p8,10,9,conduct the unknown creditor,,unknown,,,,,?
+p80,0,0,begin ,,,,,,,?
+p81,0,0,begin ,,,,,,,?
+p81,3,4,subsequently ,,,,,,,?
+p81,8,9,subsequently ,,,,,,,?
+p81,14,16,the warehouse ships ,,ships,,,,,?
+p82,0,0,begin ,,,,,,,?
+p82,15,15,was and be ,,be,,,,,?
+p82,16,16,not block ,,,,,,,?
+p82,18,18,block ,,,,,,,?
+p83,0,0,begin ,,,,,,,?
+p83,4,4,subsequently ,,,,,,,?
+p83,7,7,is the production house,,production,,,,,?
+p83,8,9,finish the product,,product,,,,,?
+p83,13,14,subsequently ,,,,,,,?
+p83,16,17,finish the product,,product,,,,,?
+p83,18,19,once is the warehouse ships,,the,,,,,?
+p84,0,0,begin ,,,,,,,?
+p84,9,9,conduct ,,,,,,,?
+p84,9,10,alive ,,,,,,,?
+p85,0,0,begin ,,,,,,,?
+p85,5,4,find ,,,,,,,?
+p85,5,5,the machine is busy,,is,,,,,?
+p85,7,7,find to available ,,available,,,,,?
+p85,11,11,once ,,,,,,,?
+p86,0,0,begin ,,,,,,,?
+p86,8,8,is the customer,,customer,,,,,?
+p86,14,14,perform the service portability,,service,,,,,?
+p86,17,17,conduct the receiveconsolidated validation results,,receiveconsolidated,,,,,?
+p87,0,0,begin ,,,,,,,?
+p87,3,4,request to the distributor,,the,,,,,?
+p87,7,7,account data,,,,,,,?
+p87,12,12,complete ,,,,,,,?
+p88,0,0,begin ,,,,,,,?
+p88,3,4,subsequently ,,,,,,,?
+p88,6,7,is the excise,,excise,,,,,?
+p89,0,0,begin ,,,,,,,?
+p9,0,0,begin ,,,,,,,?
+p9,0,1,conduct a hungry,,hungry,,,,,?
+p9,6,6,conduct the available ingredients,,available,,,,,?
+p90,0,0,begin ,,,,,,,?
+p90,3,4,subsequently ,,,,,,,?
+p90,10,10,conduct the products,,products,,,,,?
+p90,11,11,not conduct the products in stock,,the,,,,,?
+p90,17,16,is the delivery,,delivery,,,,,?
+p91,0,0,begin ,,,,,,,?
+p91,5,6,subsequently ,,,,,,,?
+p91,8,9,find to not appropriate ,,not,,,,,?
+p91,9,10,file ,,,,,,,?
+p91,9,11,complain ,,,,,,,?
+p92,0,0,begin ,,,,,,,?
+p92,0,1,allow to perform a transaction to use ,,perform,,,,,?
+p92,6,6,find ,,,,,,,?
+p92,6,7,does not the user transaction does not exist ,,the,,,,,?
+p92,9,10,further transaction details,,details,,,,,?
+p92,11,11,conduct ,,,,,,,?
+p92,11,12,does not the transaction does not exist ,,the,,,,,?
+p92,13,14,is the bank,,bank,,,,,?
+p93,0,0,begin ,,,,,,,?
+p93,0,1,meet the website specification,,website,,,,,?
+p93,7,9,is the domain,,domain,,,,,?
+p93,11,14,is the domain,,domain,,,,,?
+p93,14,17,website to launch the managment,,launch,,,,,?
+p93,15,18,conduct the e-commerce,,e-commerce,,,,,?
+p93,16,19,inventory the fulfilment,,fulfilment,,,,,?
+p93,17,20,is the website launch,,website,,,,,?
+p94,0,0,begin ,,,,,,,?
+p94,2,3,let the user,,user,,,,,?
+p94,6,7,find to incomplete ,,incomplete,,,,,?
+p94,7,8,prompt the message,,message,,,,,?
+p94,8,10,find to complete ,,complete,,,,,?
+p95,0,0,begin ,,,,,,,?
+p95,3,4,subsequently ,,,,,,,?
+p95,5,7,pack the inquiry desk,,inquiry,,,,,?
+p95,8,10,dine in the customer,,the,,,,,?
+p95,12,13,is the waiter,,waiter,,,,,?
+p95,19,21,is the customer,,customer,,,,,?
+p96,0,0,begin ,,,,,,,?
+p96,3,4,subsequently ,,,,,,,?
+p96,10,10,stock the available,,available,,,,,?
+p96,11,11,stock available,,,,,,,?
+p96,16,13,require for the production,,the,,,,,?
+p96,17,14,the manufacturing unit ,,unit,,,,,?
+p96,19,16,once ,,,,,,,?
+p97,0,0,begin ,,,,,,,?
+p97,5,6,build the product,,product,,,,,?
+p97,7,8,the product department,,department,,,,,?
+p97,8,9,complete the testing,,testing,,,,,?
+p97,9,10,subsequently ,,,,,,,?
+p97,10,11,find to defective ,,defective,,,,,?
+p97,10,12,find to defective ,,defective,,,,,?
+p97,14,17,find to not defective ,,not,,,,,?
+p97,14,18,find to not defective ,,not,,,,,?
+p98,0,0,begin ,,,,,,,?
+p98,5,5,find the possible,,possible,,,,,?
+p98,16,14,find to incomplete ,,incomplete,,,,,?
+p98,17,15,reject ,,,,,,,?
+p98,18,16,find to complete ,,complete,,,,,?
+p98,20,18,was and be ,,be,,,,,?
+p99,0,0,begin ,,,,,,,?
+p99,4,4,subsequently ,,,,,,,?
+p99,9,9,is the billing department,,billing,,,,,?
+p109,31,30,procure the contractor services,,contractor,,,,,?
+p113,3,3,access the demographics,,demographics,,,,,?
+p28,6,7,expect the complete project,,complete,,,,,?
+p50,5,6,access and tests,,tests,,,,,?
+p82,14,14,settle the g\/r settlement automatically,,g\/r,,,,,?
+p1,12,14,,,,,,,,
+p103,7,6,,,,,,,,
+p109,39,37,,,,,,,,
+p11,1,2, ,,,,,,,
+p11,5,5, ,,,,,,,
+p112,6,4,,,,,,,,
+p117,1,2, ,,,,,,,
+p117,5,6, ,,,,,,,
+p119,10,11,,,,,,,,
+p125,12,11,,,,,,,,
+p126,11,11,,,,,,,,
+p131,7,8,,,,,,,,
+p132,4,4,,,,,,,,
+p136,27,31,,,,,,,,
+p141,8,8,,,,,,,,
+p141,16,16,,,,,,,,
+p142,5,6,,,,,,,,
+p142,9,10,,,,,,,,
+p143,8,12,,,,,,,,
+p143,18,24,,,,,,,,
+p145,11,9,,,,,,,,
+p146,10,13,,,,,,,,
+p146,24,26,,,,,,,,
+p147,8,9,,,,,,,,
+p147,11,14,,,,,,,,
+p147,14,17,,,,,,,,
+p147,29,30,,,,,,,,
+p147,41,41,,,,,,,,
+p147,45,45,,,,,,,,
+p16,4,4,,,,,,,,
+p21,7,6,,,,,,,,
+p22,8,9,,,,,,,,
+p25,9,11,,,,,,,,
+p25,11,13,,,,,,,,
+p3,8,9,,,,,,,,
+p39,12,14,,,,,,,,
+p4,10,10,,,,,,,,
+p5,10,11,,,,,,,,
+p58,14,14,,,,,,,,
+p60,3,5,,,,,,,,
+p60,4,7,,,,,,,,
+p69,11,12,,,,,,,,
+p72,7,8,,,,,,,,
+p77,8,8,,,,,,,,
+p78,14,21,,,,,,,,
+p8,12,11,,,,,,,,
+p80,7,7,,,,,,,,
+p81,10,11,,,,,,,,
+p81,13,14,,,,,,,,
+p82,2,2,,,,,,,,
+p82,5,5,,,,,,,,
+p82,6,7,,,,,,,,
+p82,12,11,,,,,,,,
+p83,9,10,,,,,,,,
+p83,18,20,,,,,,,,
+p85,8,8,,,,,,,,
+p90,15,14,,,,,,,,
+p94,12,13,,,,,,,,
+p99,15,15,,,,,,,,
+,"SBAR: solved (null)""",,,,,,,,,
+,"PP: for the quality assurance (Resource - [the] [quality] assurance)""",,,,,,,,,
+,"PP: for the shipment (Resource - [the] shipment)""",,,,,,,,,
+,"INFMOD: to check (null)""",,,,,,,,,
+,"PP: to the picking area (Resource - [the] [picking] area)""",,,,,,,,,
+,"PP: for month (Resource - month)""",,,,,,,,,
+,"PP: in the design (Resource - [the] design)""",,,,,,,,,
+,"PP: to the implementation analyst (Actor - [the] [implementation] analyst)""",,,,,,,,,
+,"PP: for purchasing (Resource - purchasing)""",,,,,,,,,
+,"PP: for the quote (Resource - [the] quote)""",,,,,,,,,
+,"PP: for the quote (Resource - [the] quote)""",,,,,,,,,
+,"PP: to the vendor (Actor - [the] vendor)""",,,,,,,,,
+,"PP: of the e-service (Resource - [the] e-service)""",,,,,,,,,
+,"PP: of the e-services (Resource - [the] e-services)""",,,,,,,,,
+,"PP: for the windows (Resource - [the] windows)""",,,,,,,,,
+,"PP: to the custmer (Resource - [the] custmer)""",,,,,,,,,
+,"PP: of the request (Resource - [the] request)""",,,,,,,,,
+,"PARTMOD: completed (null)""",,,,,,,,,
+,"PARTMOD: found (null)""",,,,,,,,,
+,"PARTMOD: required (null)""",,,,,,,,,
+,"PP: in the wow (Resource - [the] wow)""",,,,,,,,,
+,"PP: for the customer (Actor - [the] customer)""",,,,,,,,,
+,"PP: for the customer (Actor - [the] customer)""",,,,,,,,,
+,"PP: to the customer (Actor - [the] customer)""",,,,,,,,,
+,"PP: to the customer (Actor - [the] customer)""",,,,,,,,,
+,"PP: of the usage (Resource - [the] usage)""",,,,,,,,,
+,"PP: of the medicine (Resource - [the] medicine)""",,,,,,,,,
+,"PP: of the flights (Meta-Actor - [the] flights)""",,,,,,,,,
+,"PARTMOD: offered (null)""",,,,,,,,,
+,"PP: about decision (Resource - decision)""",,,,,,,,,
+,"PARTMOD: arrived at shop (null)""",,,,,,,,,
+,"SBAR: already register (null)""",,,,,,,,,
+,"SBAR: the clerk conducts the high touch cliam (null)""",,,,,,,,,
+,"PARTMOD: created (null)""",,,,,,,,,
+,"PP: via online form (Meta-Actor - [online] form)""",,,,,,,,,
+,"PP: from the online form (Meta-Actor - [the] [online] form)""",,,,,,,,,
+,"PP: for the quality assurance (Resource - [the] [quality] assurance)""",,,,,,,,,
+,"PP: of the goods ok (Resource - [the] [goods] ok)""",,,,,,,,,
+,"PP: of the goods (Resource - [the] goods)""",,,,,,,,,
+,"PP: of the eligible candidates (Actor - [the] [eligible] candidates)""",,,,,,,,,
+,"PP: for the further approval (Resource - [the] [further] approval)""",,,,,,,,,
+,"PP: to the questionaire (Resource - [the] questionaire)""",,,,,,,,,
+,"PP: to the ward (Actor - [the] ward)""",,,,,,,,,
+,"PP: in the office (Actor - [the] office)""",,,,,,,,,
+,"PP: from the manager (Actor - [the] manager)""",,,,,,,,,
+,"PARTMOD: completed (null)""",,,,,,,,,
+,"PP: to the register (Resource - [the] register)""",,,,,,,,,
+,"PP: about registration (Actor - registration)""",,,,,,,,,
+,"PP: for the quality assurance (Resource - [the] [quality] assurance)""",,,,,,,,,
+,"PP: of the goods (Resource - [the] goods)""",,,,,,,,,
+,"PP: of the inspection quality (Resource - [the] [inspection] quality)""",,,,,,,,,
+,"PP: of the rejection (Resource - [the] rejection)""",,,,,,,,,
+,"PP: of the parents (Actor - [the] parents)""",,,,,,,,,
+,"PP: of the baby (Actor - [the] baby)""",,,,,,,,,
+,"PP: of the parents (Actor - [the] parents)""",,,,,,,,,
+,"PP: of the birth (Meta-Actor - [the] birth)""",,,,,,,,,
+,"PP: to the complete information (Resource - [the] [complete] information)""",,,,,,,,,
+,"PARTMOD: received (null)""",,,,,,,,,
+,PP: in court of nationality affairs (Actor - court,,,,,,,,,
+,"PP: of nationality affairs (Resource - [nationality] affairs))""",,,,,,,,,
+,"PP: of the baby (Actor - [the] baby)""",,,,,,,,,
+,"PP: of the baby (Actor - [the] baby)""",,,,,,,,,
+,"PP: about money benefits (Resource - [money] benefits)""",,,,,,,,,
+,"PARTMOD: born in the wedlock or not (null)""",,,,,,,,,
+,"PARTMOD: born in the wedlock (null)""",,,,,,,,,
+,"PARTMOD: not born in the wedlock (null)""",,,,,,,,,
+,"PP: with the passport (Resource - [the] passport)""",,,,,,,,,
+,PP: on the basis of information received (Resource - [the] basis,,,,,,,,,
+,PP: of information received (Resource - information,,,,,,,,,
+,"PARTMOD: received (null)))""",,,,,,,,,
+,"PP: of the birth (Meta-Actor - [the] birth)""",,,,,,,,,
+,"PP: of the discussion (Resource - [the] discussion)""",,,,,,,,,
+,"PP: for the conference call (Resource - [the] [conference] call)""",,,,,,,,,
+,"PP: of the birth (Meta-Actor - [the] birth)""",,,,,,,,,
+,"PP: of the name (Meta-Actor - [the] name)""",,,,,,,,,
+,"PP: of the birth (Meta-Actor - [the] birth)""",,,,,,,,,
+,"PP: of the notification (Resource - [the] notification)""",,,,,,,,,
+,"PP: with the passport (Resource - [the] passport)""",,,,,,,,,
+,"PP: of the name (Meta-Actor - [the] name)""",,,,,,,,,
+,"PP: of the degrees (Resource - [the] degrees)""",,,,,,,,,
+,"PP: of motivation (Resource - motivation)""",,,,,,,,,
+,"PP: of motivation (Resource - motivation)""",,,,,,,,,
+,"PP: of the hardship certificate (Resource - [the] [hardship] certificate)""",,,,,,,,,
+,"PP: in time or not (null)""",,,,,,,,,
+,"PP: of the rejection (Resource - [the] rejection)""",,,,,,,,,
+,"PP: of the rejection (Resource - [the] rejection)""",,,,,,,,,
+,"PP: for the admission (Resource - [the] admission)""",,,,,,,,,
+,"PP: of the rejection (Resource - [the] rejection)""",,,,,,,,,
+,"PP: of the german language (Resource - [the] [german] language)""",,,,,,,,,
+,"PP: of the bachelors degree (Resource - [the] [bachelors] degree)""",,,,,,,,,
+,"PP: in the time (Resource - [the] time)""",,,,,,,,,
+,"PARTMOD: missing (null)""",,,,,,,,,
+,"PP: to each applicant (Actor - [each] applicant)""",,,,,,,,,
+,"PP: of the application (Resource - [the] application)""",,,,,,,,,
+,PP: on the scale of 1 to10 (Resource - [the] scale,,,,,,,,,
+,"PP: of 1 to10 (Resource - [1] to10))""",,,,,,,,,
+,PP: by head of university (Actor - head,,,,,,,,,
+,"PP: of university (Actor - university))""",,,,,,,,,
+,"PP: of the motivation (Resource - [the] motivation)""",,,,,,,,,
+,"PP: of the german language (Resource - [the] [german] language)""",,,,,,,,,
+,"PP: of the bachelor degree (Resource - [the] [bachelor] degree)""",,,,,,,,,
+,"PP: of the qualification (Resource - [the] qualification)""",,,,,,,,,
+,"PP: of further language skills (Resource - [further] [language] skills)""",,,,,,,,,
+,"PP: in the time (Resource - [the] time)""",,,,,,,,,
+,"PP: in mathematics (Resource - mathematics)""",,,,,,,,,
+,"PP: in mathematics (Resource - mathematics)""",,,,,,,,,
+,"PP: of the rejection (Resource - [the] rejection)""",,,,,,,,,
+,"PP: of the acceptance (Resource - [the] acceptance)""",,,,,,,,,
+,"PP: of the acceptance provisionally (Resource - [the] [acceptance] provisionally)""",,,,,,,,,
+,"PP: of the acceptance (Resource - [the] acceptance)""",,,,,,,,,
+,"PP: of the rejection (Resource - [the] rejection)""",,,,,,,,,
+,"PP: for the quality check (Resource - [the] [quality] check)""",,,,,,,,,
+,"PP: for the quality check (Resource - [the] [quality] check)""",,,,,,,,,
+,"PARTMOD: received (null)""",,,,,,,,,
+,"PP: of the studies (Meta-Actor - [the] studies)""",,,,,,,,,
+,"PP: of the motivation (Resource - [the] motivation)""",,,,,,,,,
+,"PP: of the applicant (Actor - [the] applicant)""",,,,,,,,,
+,"PP: for the interview (Resource - [the] interview)""",,,,,,,,,
+,"PP: to the shop (Resource - [the] shop)""",,,,,,,,,
+,"PP: for the authentication (Resource - [the] authentication)""",,,,,,,,,
+,"PP: of the required book (Resource - [the] [required] book)""",,,,,,,,,
+,"PP: of the reasons (Resource - [the] reasons)""",,,,,,,,,
+,"PP: in the course (Actor - [the] course)""",,,,,,,,,
+,"PP: of the registration (Actor - [the] registration)""",,,,,,,,,
+,"PP: in the course (Actor - [the] course)""",,,,,,,,,
+,"PP: in the stock (Meta-Actor - [the] stock)""",,,,,,,,,
+,"SBAR: if existing (null)""",,,,,,,,,
+,PARTMOD: listed (null),,,,,,,,,
+,"PP: in case of black (Meta-Actor - black)""",,,,,,,,,
+,"PP: of the received part (Resource - [the] [received] part)""",,,,,,,,,
+,"PP: in inventory (Resource - inventory)""",,,,,,,,,
+,"SBAR: not exist (null)""",,,,,,,,,
+,"PP: to gl system (Resource - [gl] system)""",,,,,,,,,
+,"PP: with the quotation (Resource - [the] quotation)""",,,,,,,,,
+,"PP: with the tickets (Resource - [the] tickets)""",,,,,,,,,
+,"PP: to the person (Actor - [the] person)""",,,,,,,,,
+,"PP: for the quotation (Resource - [the] quotation)""",,,,,,,,,
+,"PP: forwards the order (null)""",,,,,,,,,
+,"PP: about selection (Resource - selection)""",,,,,,,,,
+,"PP: on the hr system (Resource - [the] [hr] system)""",,,,,,,,,
+,"PP: on the loan (Resource - [the] loan)""",,,,,,,,,
+,"PP: of the illness (Resource - [the] illness)""",,,,,,,,,
+,"PP: of the failure (Meta-Actor - [the] failure)""",,,,,,,,,
+,"PP: for the registration (Actor - [the] registration)""",,,,,,,,,
+,"PP: to the candidate (Actor - [the] candidate)""",,,,,,,,,
+,"PP: for the loan (Resource - [the] loan)""",,,,,,,,,
+,"PP: of the information (Resource - [the] information)""",,,,,,,,,
+,"PP: over 1000 (Resource - 1000)""",,,,,,,,,
+,"PP: under 800 (Resource - 800)""",,,,,,,,,
+,"PP: about confirmation (Resource - confirmation)""",,,,,,,,,
+,"PP: of the interest (Meta-Actor - [the] interest)""",,,,,,,,,
+,"PP: for the further information (Resource - [the] [further] information)""",,,,,,,,,
+,"PP: of the all parts (Resource - [the] parts)""",,,,,,,,,
+,"PP: for the quote (Resource - [the] quote)""",,,,,,,,,
+,"PP: for the quote (Resource - [the] quote)""",,,,,,,,,
+,"PP: for the quote (Resource - [the] quote)""",,,,,,,,,
+,"PP: to the ship goods (Resource - [the] [ship] goods)""",,,,,,,,,
+,"PP: for the delivery (Resource - [the] delivery)""",,,,,,,,,
+,"SBAR: if require (null)""",,,,,,,,,
+,"PP: for the delivery (Resource - [the] delivery)""",,,,,,,,,
+,"PP: of payment (Resource - payment)""",,,,,,,,,
+,"PP: with information (Resource - information)""",,,,,,,,,
+,"PP: of the rooms (Resource - [the] rooms)""",,,,,,,,,
+,"SBAR: already register (null)""",,,,,,,,,
+,"PP: for the advertisment (Resource - [the] advertisment)""",,,,,,,,,
+,"PP: to the business unit manager (Actor - [the] [business unit] manager)""",,,,,,,,,
+,"PP: from the warehouse (Resource - [the] warehouse)""",,,,,,,,,
+,"PP: to the warehouse (Resource - [the] warehouse)""",,,,,,,,,
+,"PP: in the sale system (Resource - [the] [sale] system)""",,,,,,,,,
+,"PP: to the seller (Actor - [the] seller)""",,,,,,,,,
+,"PP: in the sce (Resource - [the] sce)""",,,,,,,,,
+,"PP: to the customer (Actor - [the] customer)""",,,,,,,,,
+,"PP: at the remote location (Resource - [the] [remote] location)""",,,,,,,,,
+,"SBAR: already exist or not (null)""",,,,,,,,,
+,"SBAR: already exist (null)""",,,,,,,,,
+,"SBAR: not exist (null)""",,,,,,,,,
+,"PP: for the registration authority (Meta-Actor - [the] [registration] authority)""",,,,,,,,,
+,"PP: on the nh identity (Resource - [the] [nh] identity)""",,,,,,,,,
+,"PP: to the candidate (Actor - [the] candidate)""",,,,,,,,,
+,"PP: to the admin assistant (Actor - [the] [admin] assistant)""",,,,,,,,,
+,"PP: to the employer (Actor - [the] employer)""",,,,,,,,,
+,"PP: for the loan (Resource - [the] loan)""",,,,,,,,,
+,"PP: for the further tests (Resource - [the] [further] tests)""",,,,,,,,,
+,"PP: with the sample (Resource - [the] sample)""",,,,,,,,,
+,"PARTMOD: based scholorship notification (null)""",,,,,,,,,
+,"PP: for the project (Resource - [the] project)""",,,,,,,,,
+,"INFMOD: to confirm (null)""",,,,,,,,,
+,"PP: to the supervisor (Actor - [the] supervisor)""",,,,,,,,,
+,"PP: for storing (Resource - storing)""",,,,,,,,,
+,"PP: for the notification (Resource - [the] notification)""",,,,,,,,,
+,"PP: for billing (Resource - billing)""",,,,,,,,,
+,"PP: to the employee (Actor - [the] employee)""",,,,,,,,,
+,"INFMOD: to resubmit (null)""",,,,,,,,,
+,"PP: in the system (Resource - [the] system)""",,,,,,,,,
+,"PP: from the warehouse (Resource - [the] warehouse)""",,,,,,,,,
+,"PP: to the customer (Actor - [the] customer)""",,,,,,,,,
+,"PP: of the customer (Actor - [the] customer)""",,,,,,,,,
+,"PP: to the customer (Actor - [the] customer)""",,,,,,,,,
+,"PARTMOD: exporting inquiry and datas (null)""",,,,,,,,,
+,PP: of the rejection to inventory manager (Resource - [the] rejection,,,,,,,,,
+,"PP: to inventory manager (Actor - [inventory] manager))""",,,,,,,,,
+,"PP: of the ingredients (Resource - [the] ingredients)""",,,,,,,,,
+,"PP: to the customer (Actor - [the] customer)""",,,,,,,,,
+,"PP: in stock (Meta-Actor - stock)""",,,,,,,,,
+,"PP: for the payment (Resource - [the] payment)""",,,,,,,,,
+,"PP: of receipt (Resource - receipt)""",,,,,,,,,
+,"PP: for the registration (Actor - [the] registration)""",,,,,,,,,
+,"PP: to the start registration (Actor - [the] [start] registration)""",,,,,,,,,
+,SBAR: for enter correct information (null),,,,,,,,,
+,"PP: to the user (Actor - [the] user)""",,,,,,,,,
+,"PP: of the successful registration (Actor - [the] [successful] registration)""",,,,,,,,,
+,"PP: for the dine (Resource - [the] dine)""",,,,,,,,,
+,"PP: to the cooking department (Actor - [the] [cooking] department)""",,,,,,,,,
+,"PP: in the (Resource - the)""",,,,,,,,,
+,"PP: of the rejection (Resource - [the] rejection)""",,,,,,,,,
+,"PP: of the stock (Meta-Actor - [the] stock)""",,,,,,,,,
+,"PP: to the all production team (Actor - [the] [production] team)""",,,,,,,,,
+,"PP: across all departments (Actor - [all] departments)""",,,,,,,,,
+,"PP: to customer testing (Resource - [customer] testing)""",,,,,,,,,
+,"PP: to customer testing (Resource - [customer] testing)""",,,,,,,,,
+,"PP: in the market (Actor - [the] market)""",,,,,,,,,
+,"PP: in the market (Actor - [the] market)""",,,,,,,,,
+,"PP: of the request (Resource - [the] request)""",,,,,,,,,
+,"PP: to the fulfil (Resource - [the] fulfil)""",,,,,,,,,
+,"PP: of the request (Resource - [the] request)""",,,,,,,,,
+,"PP: of the bill (Resource - [the] bill)""",,,,,,,,,

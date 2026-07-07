@@ -1,0 +1,677 @@
+send the invoice send invoice medium 1
+receive the logging invoice receive invoice low 0
+send the invoice send invoice medium 1
+receive the activity invoice receive invoice low 0
+send the invoice send invoice medium 1
+receive the airline invoice receive invoice low 1
+received a claim received claim low 0
+send the documents to the hospital administration send documents low 0
+send the application send application low 1
+receive the application receive application medium 1
+receive the application receive application medium 1
+send the rejection send rejection medium 1
+send the documents send documents low 1
+receive the documents receive documents medium 1
+send the documents send documents low 1
+receive the documents receive documents medium 1
+send the application send application low 1
+send documentses send documents low 0
+receive the application receive application medium 1
+receive checks receive checks low 0
+send the application to the selection committee send application low 0
+receive the application receive application medium 1
+receive the order receive order medium 1
+send the tution bill to the student send bill low 0
+receive the bill receive bill low 0
+send the invoice send invoice medium 1
+receive the prescription process receive process low 0
+send the lodging invoice send invoice low 0
+receive the lodging invoice receive invoice low 0
+send the airline invoice send invoice low 0
+receive the airline invoice receive invoice low 1
+send form send form low 0
+receive form receive form low 0
+send the order acceptance confirmation to the one provider send confirmation low 0
+receive the order receive order medium 1
+send the invoice send invoice medium 1
+receive the invoice receive invoice low 0
+send the bill send bill low 1
+send the invoice send invoice medium 1
+send the bill send bill low 1
+receive the inquiry receive inquiry low 1
+receive the request receive request medium 1
+receive the meal order receive order low 0
+send the invoice send invoice medium 1
+clear the bill clear bill low 0
+send the bill send bill low 1
+specify the reasons specify reasons low 1
+specify the required quality measures specify measures low 0
+specify the requirments specify requirments low 1
+specify the requirments specify requirments low 1
+pay the claim pay claim low 1
+specify the reasons specify reasons low 1
+specify the requirments specify requirments low 1
+specify the budget requirments specify requirments low 0
+specify the registration requirments specify requirments low 0
+pay for the aptitude test pay test low 0
+setups the payroll setups payroll low 0
+specify the vacancy requirment specify requirment low 1
+request a book request book low 0
+request an application request application low 0
+request a booking request booking low 0
+conduct the catagorize request conduct request low 1
+conduct the catagorize request conduct request low 1
+request the quotes request quotes low 0
+specify the vacancy requirment specify requirment low 1
+request order request order low 0
+specify a long contract specify contract low 0
+pay the bill pay bill low 0
+specify the channel optimization specify optimization low 1
+specify the channel optimization specify optimization low 1
+specify the request details specify details low 0
+specify the references specify references low 0
+specify the urgencey specify urgencey low 0
+inform to the cab driver inform driver low 0
+conduct the sen notification conduct notification low 0
+cancel the birth notification cancel notification low 0
+create the claims notification create notification low 0
+get the new offer get offer low 0
+get the request get request low 0
+get the flight booking request get request low 0
+get the info get info low 0
+get the order request get request low 0
+get the authentication get authentication low 0
+get the registration get registration low 0
+make the payment make payment medium 1
+make the payment make payment medium 1
+find the pending payment find payment low 0
+make the payment make payment medium 1
+take the payment take payment low 0
+make the payment make payment medium 1
+reject the payment reject payment low 0
+make the payment make payment medium 1
+make the payment make payment medium 1
+perform the payments perform payments low 0
+make the payment make payment medium 1
+make the payment make payment medium 1
+make the payment make payment medium 1
+make the payment make payment medium 1
+make the payment make payment medium 1
+make a payment make payment low 0
+receive the payment receive payment medium 1
+make the payment make payment medium 1
+place a flight reservation order place order low 0
+place the order place order low 1
+send the replacement order send order low 1
+place a service request place request low 0
+place the order place order low 1
+place an order place order medium 1
+place an order place order medium 1
+place an order place order medium 1
+place an order place order medium 1
+place an order place order medium 1
+place an enrollment request place request low 0
+place an order place order medium 1
+modify the ticket modify ticket low 0
+send the mail to the support agent send mail low 0
+notify to the support agent notify agent low 0
+notify to the customer notify customer low 0
+receive the order receive order medium 1
+receive the rejection notification receive notification medium 1
+receive the flight confirmation receive confirmation low 0
+inform the account dept. inform dept. low 0
+send the replacement order send order low 1
+receive an order receive order medium 1
+dept. forwards the order to check dept. order low 0
+send the order to the supplier send order low 0
+receive the order receive order medium 1
+send the notification to the commitee send notification low 0
+request the food item delivery request item low 0
+receive the delivery request receive request low 0
+send the notification to the supplier send notification low 0
+receive the confirmation receive confirmation low 1
+receive the notification receive notification medium 1
+receive the order receive order medium 1
+receive an order receive order medium 1
+inform the reasons inform reasons medium 1
+retrieve the destinations retrieve destinations low 0
+inform the reasons inform reasons medium 1
+approve the design approve design low 0
+select a product select product low 0
+enter the email address enter email address low 0
+enter the credit card number enter number low 0
+get the order get order low 1
+retrieve the isbn retrieve isbn low 0
+confirm the order confirm order low 0
+enter a credit card number enter number low 0
+select the shipping type select shipping type low 0
+send the order confirmation send confirmation low 0
+receive the request receive request medium 1
+inform the customer inform customer medium 1
+purchase the order purchase order low 1
+receive the payment receive payment medium 1
+authenticate the payment authenticate payment low 0
+inform the customer inform customer medium 1
+disapprove the rfq disapprove rfq low 0
+inform the reasons inform reasons medium 1
+approve the rfq approve rfq low 0
+send the quote response send response low 0
+receive the quote response receive response low 0
+send the order to the vendor send order low 0
+receive the payment receive payment medium 1
+submit the request submit request low 0
+inform the reasons inform reasons medium 1
+receive the acknowledgment receive acknowledgment low 0
+approve the order approve order low 1
+submit the signed order submit order low 0
+notify the customer notify customer low 1
+make the terms approval make approval low 0
+request a loan request loan low 0
+receive the loan request receive request low 0
+record the loan request record request low 0
+notify the customer notify customer low 1
+inform the reasons inform reasons medium 1
+receive a client record receive record low 0
+submit the demographics submit demographics low 0
+inform the customer inform customer medium 1
+receive the notification receive notification medium 1
+approve the insurance approve insurance low 0
+receive the claim receive claim low 1
+send the required details send details low 0
+access the details access details low 0
+select the candidate doze select candidate low 0
+receive the instruction receive instruction low 0
+receive the payment receive payment medium 1
+register the request register request low 1
+register the flight register flight low 0
+receive the payment receive payment medium 1
+inform the travel agent inform agent low 0
+register a ticket claim register claim low 0
+receive the claim receive claim low 1
+edit the level ticket claim edit claim low 0
+submit the review results submit results low 1
+inform the customer inform customer medium 1
+receive the notification receive notification medium 1
+receive the claim receive claim low 1
+submit the review results submit results low 1
+send the mail to the account manager send mail low 0
+receive the request receive request medium 1
+receive the request receive request medium 1
+register the customer register customer low 1
+receive an order receive order medium 1
+notify the customer notify customer low 1
+inform the customer inform customer medium 1
+request the vacations request vacations low 0
+inform the customer inform customer medium 1
+approve the vacation request approve request low 0
+submit the insurance claim submit claim low 0
+approve the case approve case low 0
+starts a registration starts registration low 0
+enter the registration information enter information low 1
+create the database record create record low 1
+receive the registration mail receive mail low 1
+receive a complaint receive complaint low 0
+create the incident record create record low 0
+categorize the incident categorize incident low 0
+prioritize the incident prioritize incident low 0
+create the customer complaint create complaint low 0
+inform the complainer inform complainer low 0
+receive the order receive order medium 1
+send the email to the customer send email low 1
+receive the order receive order medium 1
+request an order request order low 0
+inform the requirements to the warehouse manager inform requirements low 0
+select the delivery service select service low 1
+initiate a project initiate project low 0
+select the candidate select candidate low 1
+submit the updates submit updates low 1
+receive the payment receive payment medium 1
+select the candidates select candidates low 0
+notify the hiring manager notify manager low 0
+receive the notification receive notification medium 1
+revise the package revise package low 0
+receive the offer receive offer low 0
+revise the offer revise offer low 0
+send a policy request send request low 0
+receive the policy request receive request low 0
+receive the questionaire receive questionaire low 0
+send the response send response low 0
+receive the additional information receive information low 0
+send the request outcome send outcome low 0
+receive the request outcome receive outcome low 0
+apply the application apply application low 0
+receive the application receive application medium 1
+receive the request receive request medium 1
+select the service package select package low 1
+create the account create account low 0
+receive the results receive results low 0
+receive the rejection notification receive notification medium 1
+allow the break allow break low 0
+enter the registration information enter information low 1
+create the database record create record low 1
+receive the registration mail receive mail low 1
+notify the customer notify customer low 1
+receive the notification receive notification medium 1
+update the inventory system update system low 0
+inform the reasons inform reasons medium 1
+send the replacement order send order low 1
+receive a birth notification receive notification low 1
+receive the documents receive documents medium 1
+register the baby register baby low 1
+register the baby register baby low 1
+register the nationality register nationality low 0
+inform the resposible persons inform persons low 0
+inform the civil court inform court low 0
+send the information send information low 0
+receive the citizenship decision receive decision low 0
+register the citizenship register citizenship low 0
+register the baby register baby low 1
+register the baby register baby low 1
+send the birth information to the parents send information low 0
+send the request send request low 0
+receive a notification receive notification low 1
+register the baby register baby low 1
+register the child register child low 0
+receive the processed information receive information low 0
+receive a birth notification receive notification low 1
+confirm the identity confirm identity medium 1
+confirm the identity confirm identity medium 1
+send the documents to the administration send documents low 0
+confirm the identity confirm identity medium 1
+update the gba update gba low 0
+send the notification send notification low 1
+send the data send data low 1
+archive the documents archive documents low 1
+receive a notification receive notification low 1
+confirm the identity confirm identity medium 1
+register at the municiplility register municiplility low 0
+archive the documents archive documents low 1
+email the discussion deadline to warn email deadline low 0
+initiate the email discussion initiate discussion low 0
+receive a notification receive notification low 1
+confirm the choice confirm choice low 1
+send the notification send notification low 1
+archive the documents archive documents low 1
+receive a notification receive notification low 1
+inform the court inform court low 0
+confirm the identity confirm identity medium 1
+confirm the identity confirm identity medium 1
+confirm the identity confirm identity medium 1
+approve the data approve data low 0
+confirm the choice confirm choice low 1
+send the notification send notification low 1
+archive the documents archive documents low 1
+add the case add case low 0
+send the application to the enrollment administration send application low 0
+send the rejection send rejection medium 1
+inform the reason inform reason low 1
+receive the rejection receive rejection medium 1
+hand over the application to examine board hand application low 0
+send the acceptance send acceptance low 0
+receive the acceptance receive acceptance low 0
+send the rejection send rejection medium 1
+inform the reasons inform reasons medium 1
+receive the rejection receive rejection medium 1
+choose the international university choose university low 0
+send the international application send application low 0
+choose the german university choose university low 0
+send german application send application low 0
+send the rejection send rejection medium 1
+receive the rejection receive rejection medium 1
+send the rejection send rejection medium 1
+inform the reasons inform reasons medium 1
+receive the rejection receive rejection medium 1
+send the commitment send commitment low 0
+receive the commitment receive commitment low 0
+send the documents send documents low 1
+receive the documents receive documents medium 1
+receive the documents receive documents medium 1
+send the interview invitation send invitation low 0
+select the applicant select applicant low 0
+send the application send application low 1
+receive the application receive application medium 1
+send the rejection send rejection medium 1
+receive the rejection receive rejection medium 1
+complete to form onlline complete form low 0
+send the application send application low 1
+receive the online application receive application low 0
+allocate the application number allocate number low 0
+allocate passwords allocate passwords low 0
+receive the number receive number low 0
+receive passwords receive passwords low 0
+print the international application form print form low 0
+print the german application form print form low 0
+send the requirements to the secretarial office send requirements low 0
+receive the application receive application medium 1
+resubmit the application resubmit application low 0
+send the documents to the committee send documents low 0
+receive the application receive application medium 1
+attach the additional requirements attach requirements low 0
+confirm the acceptance confirm acceptance low 0
+send the online protocol send protocol low 0
+receive an order receive order medium 1
+send the inquiry send inquiry low 0
+receive the inquiry receive inquiry low 1
+send the report to the production branch send report low 0
+choose the courses choose courses low 0
+choose the response choose response low 0
+upload the bachelor degree upload degree low 0
+upload the university entrance certificate upload certificate low 0
+upload the letter upload letter low 0
+upload the cv upload cv low 0
+upload the language certificate upload certificate low 0
+send the information to the application office send information low 0
+update the application system update system low 0
+receive the order receive order medium 1
+receive a payment receive payment low 0
+send the payment send payment low 0
+authorize the card payment authorize payment low 0
+notify to the supplier notify supplier low 0
+select the candidate select candidate low 1
+inform the candidate inform candidate low 1
+inform the customer inform customer medium 1
+retrieve the educational record retrieve record low 0
+send the notification send notification low 1
+receive the notice receive notice low 0
+resubmit form resubmit form low 0
+register the student register student low 0
+enroll the student enroll student low 0
+send the outcome send outcome low 0
+receive registrations receive registrations low 0
+receive an order receive order medium 1
+inform the reasons inform reasons medium 1
+approve the order approve order low 1
+request a cab booking request booking low 0
+receive the request receive request medium 1
+receive the booking details receive details low 0
+confirm the booking confirm booking low 0
+receive the details receive details low 0
+inform the confirmation inform confirmation low 1
+inform the reasons inform reasons medium 1
+receive the order receive order medium 1
+enter the order enter order low 1
+register a black list register list low 0
+inform the reason listed inform reason low 0
+report a bug report bug low 0
+receive the report receive report low 0
+notify the administrator notify administrator low 0
+install the new version install version low 0
+notify the user notify user low 0
+inform the user inform user low 0
+use the application use application low 0
+take the manager approval take approval low 0
+receive the approved voucher receive voucher low 0
+receive the quote receive quote low 1
+submit a project submit project low 0
+receive the project receive project low 0
+resubmit the project resubmit project low 0
+request a new license request license low 0
+submit the application submit application low 1
+receive the new licence application receive application low 0
+inform the reason inform reason low 1
+require the quotation require quotation low 0
+receive the order receive order medium 1
+create the customer account create account low 0
+place an order place order medium 1
+receive the order receive order medium 1
+input the order data into the erp system input data low 0
+print the shipping label print label low 0
+advertise a job advertise job low 0
+apply the required job apply job low 0
+submit the challan form submit form low 0
+submit the application submit application low 1
+receive the job application receive application low 0
+inform the candidate inform candidate low 1
+select the candidate select candidate low 1
+inform the candidate inform candidate low 1
+submit the employment form submit form low 0
+access the vacancy access vacancy low 1
+approve the vacancy approve vacancy low 1
+release the advertisment release advertisment low 1
+receive the book request receive request low 0
+inform the borrower inform borrower low 0
+request the doctor appointment request appointment low 0
+receive the request receive request medium 1
+receive the appointment receive appointment low 0
+inform the symptoms inform symptoms low 0
+receive an order receive order medium 1
+inform the customer inform customer medium 1
+receive the order receive order medium 1
+configure the shopping cart configure shopping cart low 0
+receive the payment receive payment medium 1
+send the confirmation send confirmation low 0
+receive the order products receive products low 0
+receive the confirmation receive confirmation low 1
+send the feedback email send email low 0
+receive a request receive request low 0
+notify the reasons notify reasons low 1
+register the customer register customer low 1
+receive the request receive request medium 1
+register the personal data register data low 0
+register the salary information register information low 0
+register the documents register documents low 0
+approve the loan approve loan low 0
+register a sat exam register exam low 0
+receive the request receive request medium 1
+inform the customer inform customer medium 1
+undo the booking undo booking low 0
+update the credit card balance update balance low 0
+notify the customer notify customer low 1
+inform the seller inform seller low 0
+receive the payment receive payment medium 1
+receive an issue receive issue low 0
+edit the level ticket edit ticket low 0
+send the issue to the 2nd level send issue low 0
+edit the 2nd level ticket edit ticket low 0
+send the confirmation email to the account manager send email low 0
+receive the article order receive order low 0
+inform the customer inform customer medium 1
+receive the payment receive payment medium 1
+receive the order receive order medium 1
+remove the article remove article low 0
+receive request form receive form low 0
+resubmit the request form resubmit form low 0
+receive a purchase order receive order low 0
+enter the order into the managment system enter order low 0
+receive the request receive request medium 1
+send the quote send quote low 1
+receive the request receive request medium 1
+send the quote send quote low 1
+receive the request receive request medium 1
+send the quote send quote low 1
+receive an order receive order medium 1
+confirm the reservation information confirm information low 0
+confirm the room confirm room low 0
+submit an iphone puchase order submit order low 0
+receive the request order receive order low 0
+register the retailer register retailer low 0
+receive the order receive order medium 1
+approve the vacancy approve vacancy low 1
+release the advertisment release advertisment low 1
+inform the reasons inform reasons medium 1
+receive the order receive order medium 1
+select the delivery service select service low 1
+receive the order receive order medium 1
+receive the order receive order medium 1
+department forwards the order department order low 0
+enter the order information enter information low 0
+receive the order payment receive payment low 0
+receive the order receive order medium 1
+send the rejection notification send notification low 0
+receive the payment receive payment medium 1
+receive the payment receive payment medium 1
+update the balance update balance low 0
+inform the reasons inform reasons medium 1
+create the attribute definations create definations low 0
+create the product class create product class low 0
+notify the reasons notify reasons low 1
+register on authority register authority low 0
+store the registration authority information store information low 0
+receive an order receive order medium 1
+send the shipping schedule send schedule low 0
+initiate the price calculations initiate calculations low 0
+submit a service request form submit form low 0
+receive the support service request receive request low 0
+submit the task order submit order low 0
+receive the task order service receive order low 0
+submit an application form submit form low 0
+receive the candidate form receive form low 0
+notify the reasons notify reasons low 1
+inform the election commission inform commission low 0
+send the result to the candidate send result low 0
+receive a fund request receive request low 0
+select the vendor select vendor low 0
+update the record update record low 0
+receive the quote receive quote low 1
+archive the quote archive quote low 0
+submit a vacations request submit request low 0
+receive the request receive request medium 1
+register the request register request low 1
+send the request to the immediate employee supervisor send request low 0
+receive the vacation request receive request low 0
+receive the rejection notice receive rejection low 0
+approve the request approve request low 1
+notify to the employee notify employee low 0
+receive the approval notice receive approval low 0
+submit an application submit application low 0
+receive the request receive request medium 1
+receive the loan acceptance notification receive notification low 0
+receive the rejection notification receive notification medium 1
+submit form submit form low 0
+receive the scholorship requests receive requests low 0
+receive the order receive order medium 1
+send the email to the customer send email low 1
+receive the order receive order medium 1
+claim a case claim case low 0
+receive the claim request receive request low 0
+select the candidate select candidate low 1
+submit the updates submit updates low 1
+submit the complete project submit project low 0
+receive the payment receive payment medium 1
+send form to the manager send form low 0
+send the request to the vice principal send request low 0
+receive the approval receive approval low 0
+place an order place order medium 1
+take the order take order low 0
+receive the request receive request medium 1
+confirm reservation confirm reservation low 0
+receive the ticket receive ticket low 0
+inform the reasons inform reasons medium 1
+inform the customer inform customer medium 1
+send a mm send mm low 0
+receive the mm receive mm low 0
+receive the error message receive message low 0
+send the data send data low 1
+store the mm store mm low 0
+send the mm send mm low 1
+send the mm send mm low 1
+create the changing data records create records low 0
+receive the confirmation message receive message low 0
+create an overtime registration create registration low 0
+send the overtime registration to the manager send registration low 0
+receive the request receive request medium 1
+approve the request approve request low 1
+inform the confirmation inform confirmation low 1
+return the overtime registration to the employee return registration low 0
+receive the rejection notification receive notification medium 1
+order an inquiry order inquiry low 0
+send the quotation send quotation low 0
+receive the quotation receive quotation low 0
+send the production order form send form low 0
+send the purchase order form send form low 0
+submit a registration application submit application low 0
+receive the application receive application medium 1
+inform the student to resubmit inform student low 0
+resubmit additional information resubmit information low 0
+enter the order enter order low 1
+receive the order receive order medium 1
+specify the quantity need specify need low 0
+save the purchase requisition save requisition low 0
+create the creditor create creditor low 0
+create the order template to form purchase requisition create template low 0
+release the order release order low 0
+supply the order supply order low 1
+get the nominations get nominations low 0
+head to confirm the nominations head nominations low 0
+create the training calender create calender low 0
+get the program details get details low 0
+receive the order receive order medium 1
+inform the reasons inform reasons medium 1
+retrieve the product retrieve product low 0
+receive the order receive order medium 1
+receive an order receive order medium 1
+register the order register order low 1
+receive the new item order receive order low 0
+request a service request service low 0
+receive the service request receive request low 0
+select the service package select package low 1
+create the new customer account create account low 0
+receive the rejection notification receive notification medium 1
+receive the customer request receive request low 0
+get the account data get data low 0
+receive a customer inquiry receive inquiry low 0
+configure the vehicle exporting inquiry and datas configure inquiry low 0
+receive the shipment charges receive charges low 0
+receive a product demand request receive request low 0
+inform the reasons inform reasons medium 1
+select a pizza select pizza low 0
+order a pizza order pizza low 0
+receive the pizza order receive order low 0
+confirm the availability confirm availability low 0
+receive the order receive order medium 1
+inform the rejection reasons inform reasons low 0
+receive the rejection receive rejection medium 1
+confirm the order products confirm products low 0
+make the payment make payment medium 1
+receive the order receive order medium 1
+send the copy to accounts department send copy low 0
+update the stock repository update stock low 0
+generate the warning letter generate letter low 0
+get the transection detail get detail low 0
+pass the transaction detail to the 2 bank pass detail low 0
+receive the transactions detail receive detail low 0
+pass the detail to the 3 bank pass detail low 0
+perform the business tool integration perform integration low 0
+approve the specifications approve specifications low 1
+approve the specifications approve specifications low 1
+receive the required user information receive information low 0
+enter correct information enter information low 0
+store the personal user information store information low 0
+send the registration email to the user send email low 0
+receive the notification receive notification medium 1
+get the order get order low 1
+receive the order receive order medium 1
+inform the reasons inform reasons medium 1
+receive the rejection notification receive notification medium 1
+retrieve the previous production information retrieve information low 0
+communicate the assessment communicate assessment low 0
+resubmit for testing resubmit testing low 0
+receive the documents receive documents medium 1
+send the results to the customer send results low 0
+receive an order receive order medium 1
+register the order register order low 1
+receive the payments receive payments low 0
+authorize the payment authorize payment low 0
+supply the order supply order low 1
+receiveds the order receiveds order low 0
+charge the customer charge customer low 0
+get the score get score low 1
+get the 800 and 1000s score get score low 0
+get the expensive class get expensive low 0
+get the score get score low 1
+filter the appropriate requests filter requests low 0
+request a ticket request ticket low 0
+place an order request place requests low 0
+place a legal assistance request place request low 0
+initiate the requests initiate requests low 0
+pay the claim pay claim low 1
+pick area pick area low 0
+the opc updates updates opc low 0
+pay the amount pay amount low 0
+award the payment award payment low 0
+the fulfillment unit updates unit updates low 1
+get the book status get status low 0
+send the offer borrower to the hold request send borrower low 0
+annotated the decision annotate decision low 0
+annotated original request sents annotate request low 0
+the fulfillment unit updates unit updates low 1

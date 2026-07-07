@@ -1,0 +1,830 @@
+approve amounts amounts
+archive the case case
+archive the case anyway case
+attach prerequisite documents documents
+back up morning morning
+check a claim claim
+check data data
+check morning to see whether the account defaulters table has new records morning
+check notes notes
+check the crm system to see whether new returns have been filed system
+check the dates dates
+check the invoice items items
+choose a different vendor vendor
+close the instance in acme financial accounting instance
+communicate the termination termination
+compare data data
+comparison to prevent individual customer data being stored multiple times comparison
+complete account report report
+compute the final billing based on the meter data billing
+confirm a vendor vendor
+correct data data
+create a new account account
+create a new customer object object
+create available plan system system
+create to meet folders 
+debit account account
+deny the loan loan
+ensure 
+enter a problem Then problem
+enter data data
+enter into planning production system 
+enter the order details into the erp system details
+forward invoices to an accounting employee invoices
+identify the charging suppliers in acme financial accounting suppliers
+import the meter data to systems data
+inform claimant claimant
+inform involved suppliers suppliers
+inform the claimant claimant
+inform the claimant to update the forms claimant
+inform the engineering department department
+inform the engineering department in the latter case department
+inform the second intaker intaker
+inform the storehouse storehouse
+inform the storehouse in the latter case storehouse
+invoke risk assessment to assess the request assessment
+move back in the appropriate signature file 
+move the case to administration case
+pass on to the next cost center manager based on the docket 
+post the job job
+print the information information
+print the physical court file file
+produce table table
+receive 
+receive a claim claim
+receive a customer request request
+receive a notice notice
+receive a rejection notice notice
+receive an approval approval
+receive an email cancellation notice notice
+receive copy copy
+receive customer data data
+receive feedback feedback
+receive invoices invoices
+receive invoices in the central inbox invoices
+receive the actual service performance performance
+receive the completed questionnaire questionnaire
+receive the copy copy
+receive the expense report report
+receive the meter data data
+receive the problem resolution report report
+receive the request to request the office supplies request
+receive the request to request the vacation request
+receive the restoration request request
+rechecks dates dates
+record assignments assignments
+record information information
+register a claim claim
+register a telephone device sent by a customer device
+register customers customers
+register defaulting accounts accounts
+register the claim in the claims management system claim
+report a vacancy to me vacancy
+report an sla violation rebate to billing rebate
+report the vacancy vacancy
+request a correction correction
+resubmit the expense report report
+return the application to the applicant\/employee application
+schedule production to production
+send a message message
+send a mortgage offer to the customer offer
+send a note to the manager note
+send a notification notification
+send a notification to let what the result was in case notification
+send a purchase order order
+send a reminder to the claimant reminder
+send an alert to the supervisor alert
+send an invoice to assembler ag invoice
+send detailed problem report to service management report
+send docket to the first cost center manager to the list docket
+send final schedule to the independent committee members schedule
+send list to the customer service department list
+send message to resource provisioning message
+send out a confirmation document to the customer stating that the switch-over to the new supplier can be executed document
+send out report to service management report
+send out report to the customer report
+send out request request
+send out the detailed problem report to resource provisioning report
+send out the problem resolution report to customer service report
+send out the status report report
+send possession request asking a warrant to be released request
+send relevant forms to the claimant forms
+send so so
+send the actual service performance back to the customer service performance
+send the claim back to the claims claim
+send the copy again to the cost cost
+send the copy to the first cost center manager to the list copy
+send the final billing based on the meter data to the old supplier billing
+send the final billing to the customer billing
+send the normal execution notification back to service management notification
+send the request to the approver web service request
+send to account management 
+send trouble report back to service management report
+store the assignment assignment
+store the information in the information system information
+submit a vacation request request
+submit an office supply request request
+submit the description again description
+submit the job description description
+transfer the data manually data
+transmit a response comment comment
+transmit data to the customer service department data
+type out tapes tapes
+update departmental records records
+upload appropriate documents to system documents
+use generated customer object to prepare the contract documents in combination object
+write back to decline the mortgage 
+receive the logging invoice invoice
+receive the activity invoice invoice
+received a claim claim
+send the documents to the hospital administration documents
+send documentses documents
+receive checks checks
+send the application to the selection committee application
+send the tution bill to the student bill
+receive the bill bill
+receive the prescription process process
+send the lodging invoice invoice
+receive the lodging invoice invoice
+send the airline invoice invoice
+send form form
+receive form form
+send the order acceptance confirmation to the one provider confirmation
+receive the meal order order
+clear the bill bill
+specify the required quality measures measures
+specify the budget requirments requirments
+specify the registration requirments requirments
+pay for the aptitude test test
+setups the payroll payroll
+request a book book
+request an application application
+request a booking booking
+request the quotes quotes
+request order order
+specify a long contract contract
+pay the bill bill
+specify the request details details
+specify the references references
+specify the urgencey urgencey
+inform to the cab driver driver
+conduct the sen notification notification
+cancel the birth notification notification
+create the claims notification notification
+get the new offer offer
+get the request request
+get the flight booking request request
+get the info info
+get the order request request
+get the authentication authentication
+get the registration registration
+find the pending payment payment
+take the payment payment
+reject the payment payment
+perform the payments payments
+make a payment payment
+place a flight reservation order order
+place a service request request
+place an enrollment request request
+modify the ticket ticket
+send the mail to the support agent mail
+notify to the support agent agent
+notify to the customer customer
+receive the flight confirmation confirmation
+inform the account dept. dept.
+dept. forwards the order to check order
+send the notification to the commitee notification
+request the food item delivery item
+receive the delivery request request
+send the notification to the supplier notification
+retrieve the destinations destinations
+approve the design design
+select a product product
+enter the email address address
+enter the credit card number number
+retrieve the isbn isbn
+confirm the order order
+enter a credit card number number
+select the shipping type type
+send the order confirmation confirmation
+authenticate the payment payment
+disapprove the rfq rfq
+approve the rfq rfq
+send the quote response response
+receive the quote response response
+send the order to the vendor order
+submit the request request
+receive the acknowledgment acknowledgment
+submit the signed order order
+make the terms approval approval
+request a loan loan
+receive the loan request request
+record the loan request request
+receive a client record record
+submit the demographics demographics
+approve the insurance insurance
+send the required details details
+access the details details
+select the candidate doze candidate
+receive the instruction instruction
+register the flight flight
+inform the travel agent agent
+register a ticket claim claim
+edit the level ticket claim claim
+send the mail to the account manager mail
+request the vacations vacations
+approve the vacation request request
+submit the insurance claim claim
+approve the case case
+starts a registration registration
+receive a complaint complaint
+create the incident record record
+categorize the incident incident
+prioritize the incident incident
+create the customer complaint complaint
+inform the complainer complainer
+request an order order
+inform the requirements to the warehouse manager requirements
+initiate a project project
+select the candidates candidates
+notify the hiring manager manager
+revise the package package
+receive the offer offer
+revise the offer offer
+send a policy request request
+receive the policy request request
+receive the questionaire questionaire
+send the response response
+receive the additional information information
+send the request outcome outcome
+receive the request outcome outcome
+apply the application application
+create the account account
+receive the results results
+allow the break break
+update the inventory system system
+register the nationality nationality
+inform the resposible persons persons
+inform the civil court court
+send the information information
+receive the citizenship decision decision
+register the citizenship citizenship
+send the birth information to the parents information
+send the request request
+register the child child
+receive the processed information information
+send the documents to the administration documents
+update the gba gba
+register at the municiplility municiplility
+email the discussion deadline to warn deadline
+initiate the email discussion discussion
+inform the court court
+approve the data data
+add the case case
+send the application to the enrollment administration application
+hand over the application to examine board application
+send the acceptance acceptance
+receive the acceptance acceptance
+choose the international university university
+send the international application application
+choose the german university university
+send german application application
+send the commitment commitment
+receive the commitment commitment
+send the interview invitation invitation
+select the applicant applicant
+complete to form onlline form
+receive the online application application
+allocate the application number number
+allocate passwords passwords
+receive the number number
+receive passwords passwords
+print the international application form form
+print the german application form form
+send the requirements to the secretarial office requirements
+resubmit the application application
+send the documents to the committee documents
+attach the additional requirements requirements
+confirm the acceptance acceptance
+send the online protocol protocol
+send the inquiry inquiry
+send the report to the production branch report
+choose the courses courses
+choose the response response
+upload the bachelor degree degree
+upload the university entrance certificate certificate
+upload the letter letter
+upload the cv cv
+upload the language certificate certificate
+send the information to the application office information
+update the application system system
+receive a payment payment
+send the payment payment
+authorize the card payment payment
+notify to the supplier supplier
+retrieve the educational record record
+receive the notice notice
+resubmit form form
+register the student student
+enroll the student student
+send the outcome outcome
+receive registrations registrations
+request a cab booking booking
+receive the booking details details
+confirm the booking booking
+receive the details details
+register a black list list
+inform the reason listed reason
+report a bug bug
+notify the administrator administrator
+install the new version version
+notify the user user
+inform the user user
+use the application application
+take the manager approval approval
+receive the approved voucher voucher
+submit a project project
+receive the project project
+resubmit the project project
+request a new license license
+receive the new licence application application
+require the quotation quotation
+create the customer account account
+input the order data into the erp system data
+print the shipping label label
+advertise a job job
+apply the required job job
+submit the challan form form
+receive the job application application
+submit the employment form form
+receive the book request request
+inform the borrower borrower
+request the doctor appointment appointment
+receive the appointment appointment
+inform the symptoms symptoms
+configure the shopping cart shopping cart
+send the confirmation confirmation
+receive the order products products
+send the feedback email email
+receive a request request
+register the personal data data
+register the salary information information
+register the documents documents
+register a sat exam exam
+undo the booking booking
+update the credit card balance balance
+inform the seller seller
+receive an issue issue
+edit the level ticket ticket
+send the issue to the 2nd level issue
+edit the 2nd level ticket ticket
+send the confirmation email to the account manager email
+receive the article order order
+remove the article article
+receive request form form
+resubmit the request form form
+receive a purchase order order
+enter the order into the managment system order
+confirm the reservation information information
+confirm the room room
+submit an iphone puchase order order
+receive the request order order
+register the retailer retailer
+department forwards the order order
+enter the order information information
+receive the order payment payment
+send the rejection notification notification
+update the balance balance
+create the attribute definations definations
+create the product class product class
+register on authority authority
+store the registration authority information information
+send the shipping schedule schedule
+initiate the price calculations calculations
+submit a service request form form
+receive the support service request request
+submit the task order order
+receive the task order service order
+submit an application form form
+receive the candidate form form
+inform the election commission commission
+send the result to the candidate result
+receive a fund request request
+select the vendor vendor
+update the record record
+archive the quote quote
+submit a vacations request request
+send the request to the immediate employee supervisor request
+receive the vacation request request
+receive the rejection notice rejection
+notify to the employee employee
+receive the approval notice approval
+submit an application application
+receive the loan acceptance notification notification
+submit form form
+receive the scholorship requests requests
+claim a case case
+receive the claim request request
+submit the complete project project
+send form to the manager form
+send the request to the vice principal request
+receive the approval approval
+take the order order
+confirm reservation reservation
+receive the ticket ticket
+send a mm mm
+receive the mm mm
+receive the error message message
+store the mm mm
+create the changing data records records
+receive the confirmation message message
+create an overtime registration registration
+send the overtime registration to the manager registration
+return the overtime registration to the employee registration
+order an inquiry inquiry
+send the quotation quotation
+receive the quotation quotation
+send the production order form form
+send the purchase order form form
+submit a registration application application
+inform the student to resubmit student
+resubmit additional information information
+specify the quantity need need
+save the purchase requisition requisition
+create the creditor creditor
+create the order template to form purchase requisition template
+release the order order
+get the nominations nominations
+head to confirm the nominations nominations
+create the training calender calender
+get the program details details
+retrieve the product product
+receive the new item order order
+request a service service
+receive the service request request
+create the new customer account account
+receive the customer request request
+get the account data data
+receive a customer inquiry inquiry
+configure the vehicle exporting inquiry and datas inquiry
+receive the shipment charges charges
+receive a product demand request request
+select a pizza pizza
+order a pizza pizza
+receive the pizza order order
+confirm the availability availability
+inform the rejection reasons reasons
+confirm the order products products
+send the copy to accounts department copy
+update the stock repository stock
+generate the warning letter letter
+get the transection detail detail
+pass the transaction detail to the 2 bank detail
+receive the transactions detail detail
+pass the detail to the 3 bank detail
+perform the business tool integration integration
+receive the required user information information
+enter correct information information
+store the personal user information information
+send the registration email to the user email
+retrieve the previous production information information
+communicate the assessment assessment
+resubmit for testing testing
+send the results to the customer results
+receive the payments payments
+authorize the payment payment
+receiveds the order order
+charge the customer customer
+get the 800 and 1000s score score
+get the expensive class expensive
+filter the appropriate requests requests
+request a ticket ticket
+place an order request requests
+place a legal assistance request request
+initiate the requests requests
+pick area area
+the opc updates opc
+pay the amount amount
+award the payment payment
+get the book status status
+send the offer borrower to the hold request borrower
+annotated the decision decision
+annotated original request sents request
+give a detailed online presentation presentation
+give a detailed online presentation presentation
+receive the detailed problem report report
+receive the detailed problem report report
+receive the invoice invoice
+register the requirement requirement
+register the requirement requirement
+select a vendor vendor
+select a vendor vendor
+send the order to the supplier order
+update the case details details
+update the case details details
+receive the airline invoice invoice
+receive the airline invoice invoice
+receive the invoice invoice
+receive the inquiry inquiry
+specify the reasons reasons
+pay the claim claim
+pay the claim claim
+specify the reasons reasons
+specify the vacancy requirment requirment
+conduct the catagorize request request
+conduct the catagorize request request
+specify the vacancy requirment requirment
+specify the channel optimization optimization
+specify the channel optimization optimization
+place the order order
+place the order order
+send the order to the supplier order
+receive the confirmation confirmation
+get the order order
+approve the order order
+register the request request
+submit the review results results
+submit the review results results
+register the customer customer
+enter the registration information information
+create the database record record
+receive the registration mail mail
+send the email to the customer email
+select the delivery service service
+submit the updates updates
+select the service package package
+enter the registration information information
+create the database record record
+receive the registration mail mail
+receive a birth notification notification
+receive a birth notification notification
+send the data data
+confirm the choice choice
+confirm the choice choice
+inform the reason reason
+receive the inquiry inquiry
+approve the order order
+inform the confirmation confirmation
+enter the order order
+receive the quote quote
+submit the application application
+inform the reason reason
+submit the application application
+access the vacancy vacancy
+approve the vacancy vacancy
+release the advertisment advertisment
+receive the confirmation confirmation
+register the customer customer
+approve the loan loan
+approve the vacancy vacancy
+release the advertisment advertisment
+select the delivery service service
+receive the quote quote
+register the request request
+send the email to the customer email
+submit the updates updates
+send the data data
+send the mm mm
+send the mm mm
+inform the confirmation confirmation
+enter the order order
+supply the order order
+register the order order
+select the service package package
+approve the specifications specifications
+approve the specifications specifications
+get the order order
+register the order order
+supply the order order
+get the score score
+get the score score
+the fulfillment unit updates updates
+the fulfillment unit updates updates
+receive the report report
+receive the report report
+send the documents documents
+send the documents documents
+send the bill bill
+send the bill bill
+send the bill bill
+specify the requirments requirments
+specify the requirments requirments
+specify the requirments requirments
+send the replacement order order
+send the replacement order order
+purchase the order order
+receive the claim claim
+receive the claim claim
+receive the claim claim
+send the replacement order order
+send the documents documents
+inform the candidate candidate
+receive the report report
+inform the candidate candidate
+inform the candidate candidate
+notify the reasons reasons
+send the quote quote
+send the quote quote
+send the quote quote
+notify the reasons reasons
+notify the reasons reasons
+send the application application
+send the application application
+select the candidate candidate
+receive a notification notification
+send the notification notification
+archive the documents documents
+receive a notification notification
+archive the documents documents
+receive a notification notification
+send the notification notification
+archive the documents documents
+receive a notification notification
+send the notification notification
+archive the documents documents
+send the application application
+send the application application
+select the candidate candidate
+send the notification notification
+select the candidate candidate
+approve the request request
+select the candidate candidate
+approve the request request
+notify the customer customer
+notify the customer customer
+notify the customer customer
+notify the customer customer
+register the baby baby
+register the baby baby
+register the baby baby
+register the baby baby
+register the baby baby
+notify the customer customer
+send the rejection rejection
+receive the documents documents
+receive the documents documents
+receive the rejection notification notification
+receive the notification notification
+receive the notification notification
+receive the notification notification
+receive the notification notification
+receive the rejection notification notification
+receive the notification notification
+receive the documents documents
+send the rejection rejection
+receive the rejection rejection
+send the rejection rejection
+receive the rejection rejection
+send the rejection rejection
+receive the rejection rejection
+send the rejection rejection
+receive the rejection rejection
+receive the documents documents
+receive the documents documents
+send the rejection rejection
+receive the rejection rejection
+receive the rejection notification notification
+receive the rejection notification notification
+receive the rejection notification notification
+receive the rejection rejection
+receive the notification notification
+receive the rejection notification notification
+receive the documents documents
+send the invoice invoice
+send the invoice invoice
+send the invoice invoice
+send the invoice invoice
+send the invoice invoice
+send the invoice invoice
+send the invoice invoice
+confirm the identity identity
+confirm the identity identity
+confirm the identity identity
+confirm the identity identity
+confirm the identity identity
+confirm the identity identity
+confirm the identity identity
+place an order order
+place an order order
+place an order order
+place an order order
+place an order order
+place an order order
+place an order order
+place an order order
+receive the application application
+receive the application application
+receive the application application
+receive the application application
+receive the application application
+receive the application application
+receive the application application
+receive the application application
+receive the application application
+inform the customer customer
+inform the customer customer
+inform the customer customer
+inform the customer customer
+inform the customer customer
+inform the customer customer
+inform the customer customer
+inform the customer customer
+inform the customer customer
+inform the customer customer
+inform the customer customer
+receive an order order
+receive an order order
+receive the payment payment
+receive an order order
+receive an order order
+receive the payment payment
+receive the payment payment
+receive the payment payment
+receive the payment payment
+receive an order order
+receive the payment payment
+receive an order order
+receive an order order
+receive an order order
+receive the payment payment
+receive the payment payment
+receive the payment payment
+receive an order order
+receive the payment payment
+receive the payment payment
+receive an order order
+receive the payment payment
+receive an order order
+receive an order order
+make the payment payment
+make the payment payment
+make the payment payment
+make the payment payment
+make the payment payment
+make the payment payment
+make the payment payment
+make the payment payment
+make the payment payment
+make the payment payment
+make the payment payment
+make the payment payment
+make the payment payment
+inform the reasons reasons
+inform the reasons reasons
+inform the reasons reasons
+inform the reasons reasons
+inform the reasons reasons
+inform the reasons reasons
+inform the reasons reasons
+inform the reasons reasons
+inform the reasons reasons
+inform the reasons reasons
+inform the reasons reasons
+inform the reasons reasons
+inform the reasons reasons
+inform the reasons reasons
+inform the reasons reasons
+inform the reasons reasons
+receive the request request
+receive the request request
+receive the request request
+receive the request request
+receive the request request
+receive the request request
+receive the request request
+receive the request request
+receive the request request
+receive the request request
+receive the request request
+receive the request request
+receive the request request
+receive the request request
+receive the request request
+receive the request request
+receive the request request
+receive the order order
+receive the order order
+receive the order order
+receive the order order
+receive the order order
+receive the order order
+receive the order order
+receive the order order
+receive the order order
+receive the order order
+receive the order order
+receive the order order
+receive the order order
+receive the order order
+receive the order order
+receive the order order
+receive the order order
+receive the order order
+receive the order order
+receive the order order
+receive the order order
+receive the order order
+receive the order order
+receive the order order
+receive the order order
+receive the order order

@@ -1,0 +1,250 @@
+accept accept  low 0
+accept the order accept order low 1
+accept the order accept order low 1
+add draft dates to calendars add dates low 0
+add information to the assignment list add information low 0
+add new patient add patient low 0
+add standard checklist to the patient s add checklist low 0
+add the copy to the patient file add copy low 0
+add the information to the patient file add information low 0
+advertise post advertise post low 0
+advise committee members advise members low 0
+analyze the causing issues analyze issues low 0
+analyze this analyze this low 0
+apply apply  low 0
+approve the job description approve description low 0
+approve the loan approve loan low 0
+approve the request approve request low 1
+approve the request approve request low 1
+archive the work archive work low 0
+arrange a road show to talk to potential investors arrange road low 0
+ask again for corrections ask corrections low 0
+ask the customer ask customer low 0
+assemble the bicycle assemble bicycle low 1
+assemble the bicycle assemble bicycle low 1
+assign new patients to members assign patients low 0
+assign patient to a social-medical worker assign patient low 0
+assign the order to the waiter assign order low 0
+attach the new sct document attach document low 0
+begin to firm up the issue price begin price low 0
+bring in a defective computer bring computer low 0
+buy details buy details low 0
+buy the issue buy issue low 0
+call customer call customer low 0
+call room service call service low 0
+call the customer call customer low 1
+call the customer call customer low 1
+call the next customer call customer low 0
+capture the matter details capture details low 0
+capture the party details capture details low 0
+carry out the termination carry termination low 0
+categorize defect categorize defect low 0
+categorize defects categorize defects low 0
+check recommendation check recommendation low 0
+check switch-over request check request low 0
+check that check that low 0
+check the applications check applications low 0
+check the claimant again check claimant low 0
+check the defect back check defect low 0
+check the hardware check hardware low 0
+check the open leads check leads low 0
+check the order again check order low 0
+check the required quantity check quantity low 0
+check the severity check severity low 0
+clerk sorts into the various business areas clerk sorts low 0
+collect mail collect mail low 0
+combine both combine both low 0
+complete the commercial audit complete audit low 0
+conduct a qa check conduct check low 0
+conduct the directions hearings conduct hearings low 0
+consult the cost center managers again consult managers low 0
+correct the description correct description low 0
+create a cis contract create contract low 0
+create a detailed problem report create report low 0
+create a job description create description low 0
+create a notification create notification low 0
+create a patient file create file low 0
+create a quotation create quotation low 0
+create a request create request low 0
+create a revised design create design low 0
+create a trouble report create report low 1
+create a trouble report create report low 1
+create a trouble report create report low 1
+create a trouble-shooting report create report low 0
+create the final billing create billing low 0
+create the problem resolution report create report low 0
+deal on a first level with violations deal violations low 0
+decide to confirm the switch contract confirm contract low 0
+decide to withdraw from the switch contract the switch contract withdraw contract low 0
+deem the designs complete deem designs low 0
+deliver cart to the guests room deliver cart low 0
+demand the resolution demand resolution low 0
+design the electrical and physical systems design systems low 0
+detect no problem detect problem low 0
+determine assignments determine assignments low 0
+determine contact details determine details low 0
+determine quantities well determine quantities low 0
+determine the budget determine budget low 0
+determine the contact person determine person low 0
+determine the necessary counter measures to include respective priorities determine meansures low 0
+determine the necessary parts well determine part low 0
+determine what counter measures should be taken depending on the information in the final status report determine what low 0
+distribute mail distribute mail low 0
+distribute the judges lawlist to the relevant people distribute lawlist low 0
+draft a schedule in november draft schedule low 0
+enter into a firm commitment to buy enter commitment low 0
+evaluate the severity evaluate severity low 0
+examine a claim examine claim low 0
+examine the patient to use a standard checklist examine patient low 0
+execute arbitrary repair activity execute activity low 0
+explain the reason explain reason low 0
+fill the post fill post low 1
+fill the post fill post low 1
+finalize the dates finalize dates low 0
+finish the repair finish repair low 0
+finish to work on a phone finish  low 0
+fix different 3 types fix types low 0
+fix simple defects fix defects low 0
+fix the issue price fix price low 0
+formulate a treatment plan together with the team-leader formulate plan low 0
+forward the sct warrant possession to queensland police forward possession low 0
+give an order to fetch wine to the sommelier give order low 0
+give an order to prepare other alcoholic beverages to the sommelier give order low 0
+give payment instructions give instructions low 0
+give seal give seal low 0
+hand in form hand in form low 0
+hand the files to the associate hand files low 0
+hold meeting hold meeting low 0
+identify the problem identify problem low 0
+include the normal execution notification in a status report include notification low 0
+include trouble report in a status report include report low 0
+indicate the type indicate type low 1
+indicate the type indicate type low 1
+initiate a search initiate search low 0
+inquire after the name inquire name low 0
+interrupt development interrupt development low 0
+investigate investigate  low 0
+keep registration keep registration low 0
+leave the customer alone leave customer low 0
+make a full inquiry make inquiry low 0
+make the decision to go make decision low 0
+make to approval for payment make  low 0
+manufacture customized bicycles manufacture bicycles low 1
+manufacture customized bicycles manufacture bicycles low 1
+mark positions mark positions low 0
+need to be check to make sure they are in order for the court hearing need  low 0
+open the mail open mail low 0
+part is back-ordered  part low 0
+participate in exhibitions participate in exhibitions low 0
+pass the produced registration cards to the first and second intaker pass cards low 0
+perform a quality check perform check low 0
+perform a task to distribute relevant existing designs perform task low 0
+perform a task to locate perform task low 0
+perform the analysis perform analysis low 0
+plan a meeting soon plan meeting low 0
+plan the first meeting has been receive plan meeting low 0
+post an envelope to the party post envelop low 0
+prepare a letter requesting for a copy of the medical file prepare letter low 0
+prepare a registration statement prepare statement low 0
+prepare everything in the meantime prepare everything low 1
+prepare everything in the meantime prepare everything low 1
+prepare the final status report based on the received information prepare report low 0
+present the facts fairly present facts low 0
+proceed with the clarification proceed clarification low 0
+process an office supply request process request low 0
+process the lead process lead low 0
+process the order process order low 0
+process the part list process list low 1
+process the part list process list low 1
+process vacations request process request low 0
+produce minutes including any action points for each committee member produce minutes low 0
+produce two registration cards produce cards low 0
+provide the matter details to the cashier provide details low 0
+provide the team-leader provide team-leader low 0
+put a copy in the file put copy low 0
+put copied documents into an envelope put documents low 0
+put police report related to the car accident in a file together with the claim documentation put report low 0
+put the receipt into an envelope put receipt low 0
+put through the doctor to the responsible nursing officer put through doctor low 0
+ready a cart ready cart low 0
+receive clearance receive clearance low 0
+receive the mail receive mail low 0
+receive the physical sct file receive file low 0
+register additional observations in a personal notebook register observations low 0
+reject the ap reject ap low 0
+reject the order reject order low 1
+reject the order reject order low 1
+reject the request reject request low 0
+repair complex defects repair defects low 0
+repair some repair some low 0
+repair the hardware whereas the second activity checks repair hardware low 0
+repeat procedure repeat procedure low 1
+repeat procedure repeat procedure low 1
+repeat the recommendation repeat recommendation low 0
+resell procedural and financial advice to the public resell advice low 0
+reserve part reserve part low 0
+reserve the part list reserve list low 0
+resolve copy resolve copy low 0
+resolve inconsistencies resolve inconsistencies low 0
+resolve the causing issues resolve issues low 0
+retrieve the respective sct file retrieve file low 0
+retrieve the sctt file retrieve file low 0
+return return  low 0
+return the copy to the internal mail return copy low 0
+return the forms return forms low 0
+return the request to the petitioner\/employee return request low 0
+review existing designs in department review designs low 0
+review report review report low 0
+review the content review content low 0
+revise both revise both low 0
+search police report related to the car accident search report low 0
+select the top five ones select ones low 0
+select the underwriters select underwriters low 0
+send a letter requesting for a copy of the medical file send letter low 0
+send a letter to inform him\/her about the problem to the customer send letter low 0
+send a new brand device to the customer send device low 0
+send back the copy directly to accounting send copy low 0
+send device to the quality assurance department send device low 0
+send the combined design back to initiate design cycle to the beginning send design low 0
+send the design back to create a new update plan send design low 0
+send the design back to review send design low 0
+send the designs to the manufacturing process send designs low 0
+send the telephone to the customer send telephone low 0
+send the telephone to the repair department send telephone low 1
+send the telephone to the repair department send telephone low 1
+sort the mail into groups sort mail low 0
+store registration form in the patient file store form low 0
+store sctt physical file to await a report to sent store file low 0
+submit an order ticket to begin to prepare to the kitchen submit order low 0
+suggest modifications suggest modifications low 0
+take care take care  low 0
+take case load in assigning intakers into account take load low 0
+take computer home unrepaired take computer low 0
+take down the order take order low 0
+take earlier contacts in assigning intakers into account take contacts low 0
+take expertise in assigning intakers into account take expertise low 0
+take place take place  low 1
+take place take place  low 1
+take the region in assigning intakers into account take region low 0
+take together the information take information low 0
+tell sales to call the contact person tell sales low 0
+tell the other department tell department low 0
+test both test both low 0
+test the proper system functionality test functionality low 0
+test the revised design test design low 0
+the family doctor does notice notice  low 0
+the kitchen are doing tasks doing tasks low 0
+the part list is back-ordered  list low 0
+the sommelier are doing tasks doing tasks low 0
+track possible errors track errors low 0
+track the files to the intended location track files low 0
+try to acquire the customer acquire customer low 0
+try to negotiate a settlement negotiate settlement low 0
+undertake corrective actions undertake actions low 0
+undertake necessary corrective actions undertake actions low 0
+use dictaphones to record observations made during meetings with patients use dictaphones low 0
+use the existing draft use draft low 0
+use the update plan use plan low 0
+wait for the customer to come back to the customer wait customer low 0
+wait to does the billing wait  low 0
+write a settlement recommendation write recommendation low 0
